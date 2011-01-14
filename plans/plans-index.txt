@@ -1,0 +1,71 @@
+# id|location|valid_from|name|disclaimer|external_uri
+#de
+berlin_bsu_ab|52.520134,13.388018|2009-12-13|Berlin Schnellbahn Liniennetz (AB)|Verkehrsverbund Berlin-Brandenburg GmbH
+berlin_bsu_abc|52.520134,13.388018|2010-12-12|Berlin Schnellbahn Liniennetz (ABC)|Verkehrsverbund Berlin-Brandenburg GmbH
+berlin_tram|52.521152,13.412832|2010-12-12|Berlin Tram-Netz|Berliner Verkehrsbetriebe (BVG)
+berlin_24h|52.521152,13.412832|2010-12-12|Berlin 24-Stunden-Netz|Berliner Verkehrsbetriebe (BVG)
+brandenburg_regionalverkehr|52.525578,13.369523|2010-12-12|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_tag|52.390931,13.067171|2010-12-12|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_nacht|52.390931,13.067171|2010-12-12|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_tag_abc|51.760897,14.330106|2009-11-02|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_abend|51.760897,14.330106|2009-04-10|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
+frankfurt_oder_abc|52.336876,14.545712|2008-12-14|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
+dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
+muenchen_schnellbahn|48.140377,11.560643|2009-12|München Schnellbahn|Maximilian Dörrbecker, Wikimedia Commons
+muenchen_tram|48.140377,11.560643|2008|München Tram|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/e/ea/M%C3%BCnchen_-_Stra%C3%9Fenbahn_-_Netzplan.png
+muenchen_metrobus|48.140377,11.560643|2008|München MetroBus|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/f/f3/M%C3%BCnchen_-_MetroBus_-_Netzplan.png
+augsburg_tram|48.364936,10.893713|2009-06|Augsburg Tram|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/3/31/Augsburg_-_Stra%C3%9Fenbahn_-_Netzplan.png
+hamburg_usar|53.552946,10.006782|2009-12-13|Hamburg Schnellbahn/Regional|HVV
+hamburg_metrobus_gross|53.552946,10.006782|2010-12-12|Hamburg MetroBus Großbereich|HVV
+rostock_sbahn|54.078139,12.131724|2010-09-15|Rostock S-Bahn|Enrico Engert
+stuttgart_verbund|48.784068,9.181713|2009-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
+stuttgart_nachtbus|48.77861,9.179803|2009-12|Stuttgart Nachtbus-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
+hannover_sbahn|52.376715,9.741168|2009-06|Hannover S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/6/66/Schemaplan_der_S-Bahn_Hannover.png
+nrw_regio|51.429807,6.775253|2010-11|NRW Busse & Bahnen|VRS
+koeln_schnellverkehr|50.943579,6.95796|2010-12-12|Köln Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
+koeln_bus|50.943579,6.95796|2010-12-12|Köln Busnetz|Verkehrsverbund Rhein-Sieg GmbH
+bonn_schnellverkehr|50.732784,7.096447|2010-12-12|Bonn Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
+bonn_bus|50.732784,7.096447|2010-12|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
+schwerin|53.634476,11.407313|2010-08|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
+magdeburg_tag|52.130783,11.627347|2010-12-12|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
+magdeburg_nacht|52.130783,11.627347|2010-12-12|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
+magdeburg_verbund|52.130783,11.627347|2010-12-12|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
+#at
+linz|48.290893,14.291965|2009-04|Linz Verkehrslinienplan|Linz AG
+linz_nacht|48.290893,14.291965|2009-04|Linz Nachtverkehr|Linz AG
+innsbruck_tram|47.26332,11.400951|2007-11-05|Innsbruck Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan-innsbruck-2007.gif
+graz_tram|47.073371,15.416154|2007-12-09|Graz Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan-graz-ende-2007-s-bahn-einfuehrung.gif
+wien_city|48.209477,16.371074|2008-10-26|Wien City|Steve Stipsits|http://www.public-transport.at/schienenverkehr_innenstadt_wien_gross_aktuell.gif
+wien_su|48.209477,16.371074|2008|Wien S+U|Steve Stipsits|http://www.public-transport.at/schnellbahnsystem_wien_gross_aktuell.gif
+salzburg|47.813229,13.045907|2009-10-20|Salzburg Liniennetz|Salzburg AG 
+#ch
+basel_regio|47.546789,7.588996|2008-03|Basel Regio S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Basel_-_Regio-S-Bahn_Basel_-_Netzplan.jpg
+basel_tram|47.553021,7.591031|2008-02|Basel Straßenbahn|Maximilian Dörrbecker, Wikimedia Commons
+zvv|47.378136,8.540232|2009-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zvv_nacht|47.378136,8.540232|2009-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zuerich_stadt|47.378136,8.540232|2009-12|Zürich Stadt|ZVV/VBZ
+zuerich_nacht|47.378136,8.540232|2009-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_stadt|47.500334,8.72342|2009-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_nacht|47.500334,8.72342|2009-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+bern|46.948748,7.439239|2010-12|Bern Liniennetz|BERNMOBIL
+#tr
+istanbul_rail|41.011939,28.984308|2007-06|Istanbul Rail Transit|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/3/30/Istanbul_Rapid_Transit_Map.png
+#uk
+london_tube|51.513507,-0.110264|2010-10|London Tube|TfL|http://www.tfl.gov.uk/assets/downloads/standard-tube-map.gif
+london_tramlink|51.37937,-0.101759|2010|London Tramlink|TfL|http://www.tfl.gov.uk/assets/downloads/tramlink-network-map.jpg
+#fr
+paris_metro|48.855414,2.34488|2009-12|Paris Metro|Nathan Kaufmann, Wikimedia Commons
+#it
+rome_metro|41.891244,12.491097|2010|Rome Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roma_Metropolitana.svg/2000px-Roma_Metropolitana.svg.png
+#us
+sanfrancisco_metro|37.774534,-122.419124|2007-07|San Francisco Metro|SFMTA|http://transit.511.org/static/providers/maps/SF_712200722845.gif
+sanfrancisco_system|37.774534,-122.419124|2010-10|San Francisco System|SFMTA|http://transit.511.org/static/providers/maps/SF_1222201020400.gif
+sanfrancisco_downtown|37.774534,-122.419124|2010-10|San Francisco Downtown|SFMTA|http://transit.511.org/static/providers/maps/SF_1222201020237.gif
+sanfrancisco_marketstreet|37.774534,-122.419124|2010-10|San Francisco Market Street|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010101811.gif
+sanfrancisco_owl|37.774534,-122.419124|2010-10|San Francisco Owl Service|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010102001.gif
+#sg
+singapore|1.299078,103.84577|2009|Singapore|Land Transport Authority|http://www.smrt.com.sg/trains/images/tn_networkmap_big_140410.jpg
+#cn
+beijing_subway|39.924854,116.396577|2009|Beijing Subway|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beijing-Subway-Plan.svg/2000px-Beijing-Subway-Plan.svg.png
+#in
+delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
