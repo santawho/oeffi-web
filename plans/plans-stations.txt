@@ -1,0 +1,32 @@
+# network|localId|planId
+
+# S+U Alexanderplatz Bhf
+bvg|9100003|bvg_alexanderplatz
+bvg|107156|bvg_alexanderplatz
+
+# U Alexanderplatz
+bvg|9100005|bvg_alexanderplatz
+bvg|308808|bvg_alexanderplatz
+bvg|308801|bvg_alexanderplatz
+bvg|105216|bvg_alexanderplatz
+bvg|107154|bvg_alexanderplatz
+
+# S+U Alexanderplatz Bhf/Grunerstr.
+bvg|9100006|bvg_alexanderplatz
+bvg|106417|bvg_alexanderplatz
+bvg|105399|bvg_alexanderplatz
+
+# S+U Alexanderplatz Bhf/Dircksenstr.
+bvg|9100024|bvg_alexanderplatz
+bvg|308817|bvg_alexanderplatz
+
+# S+U Alexanderplatz Bhf/Gontardstr.
+bvg|9100026|bvg_alexanderplatz
+bvg|308802|bvg_alexanderplatz
+bvg|308807|bvg_alexanderplatz
+
+# S+U Alexanderplatz Bhf/Memhardstr.
+bvg|9100031|bvg_alexanderplatz
+bvg|107153|bvg_alexanderplatz
+bvg|106736|bvg_alexanderplatz
+bvg|107175|bvg_alexanderplatz
