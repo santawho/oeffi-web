@@ -30,3 +30,29 @@ bvg|9100031|bvg_alexanderplatz
 bvg|107153|bvg_alexanderplatz
 bvg|106736|bvg_alexanderplatz
 bvg|107175|bvg_alexanderplatz
+
+# S+U Jannowitzbrücke
+bvg|9100004|bvg_jannowitzbruecke
+bvg|105175|bvg_jannowitzbruecke
+bvg|106711|bvg_jannowitzbruecke
+bvg|105164|bvg_jannowitzbruecke
+bvg|106653|bvg_jannowitzbruecke
+bvg|105204|bvg_jannowitzbruecke
+
+# Lichtenberger Str.
+bvg|9100519|bvg_jannowitzbruecke
+bvg|105165|bvg_jannowitzbruecke
+bvg|105174|bvg_jannowitzbruecke
+
+# Alexanderstr.
+bvg|9100518|bvg_jannowitzbruecke
+bvg|105235|bvg_jannowitzbruecke
+bvg|105217|bvg_jannowitzbruecke
+
+# U Heinrich-Heine-Str.
+bvg|9100008|bvg_jannowitzbruecke
+bvg|105163|bvg_jannowitzbruecke
+bvg|105657|bvg_jannowitzbruecke
+bvg|105176|bvg_jannowitzbruecke
+bvg|105218|bvg_jannowitzbruecke
+bvg|106588|bvg_jannowitzbruecke
