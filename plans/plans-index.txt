@@ -20,7 +20,7 @@ dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker,
 muenchen_schnellbahn|48.140377,11.560643|2009-12|München Schnellbahn|Maximilian Dörrbecker, Wikimedia Commons
 muenchen_tram|48.140377,11.560643|2008|München Tram|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/e/ea/M%C3%BCnchen_-_Stra%C3%9Fenbahn_-_Netzplan.png
 muenchen_metrobus|48.140377,11.560643|2008|München MetroBus|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/f/f3/M%C3%BCnchen_-_MetroBus_-_Netzplan.png
-augsburg_tram|48.364936,10.893713|2009-06|Augsburg Tram|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/3/31/Augsburg_-_Stra%C3%9Fenbahn_-_Netzplan.png
+augsburg|48.364936,10.893713|2010-11|Augsburg|Stadtwerke Augsburg
 nuernberg_gesamtraum|49.445719,11.082618|2010-12-12|Nürnberg Gesamtraum|Verkehrsverbund Großraum Nürnberg
 nuernberg_schiene|49.445719,11.082618|2010-12-12|Nürnberg Schienennetz|Verkehrsverbund Großraum Nürnberg
 nuernberg_nightliner|49.445719,11.082618|2010-12|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
