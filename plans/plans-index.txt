@@ -25,7 +25,7 @@ augsburg_nachtbus|48.364936,10.893713|2010-11|Augsburg Nachtbus|Stadtwerke Augsb
 nuernberg_gesamtraum|49.445719,11.082618|2010-12-12|Nürnberg Gesamtraum|Verkehrsverbund Großraum Nürnberg
 nuernberg_schiene|49.445719,11.082618|2010-12-12|Nürnberg Schienennetz|Verkehrsverbund Großraum Nürnberg
 nuernberg_nightliner|49.445719,11.082618|2010-12|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
-hamburg_usar|53.552946,10.006782|2009-12-13|Hamburg Schnellbahn/Regional|HVV
+hamburg_usar|53.552946,10.006782|2010-12-12|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2010-12-12|Hamburg MetroBus Großbereich|HVV
 rostock_sbahn|54.078139,12.131724|2010-09-15|Rostock S-Bahn|Enrico Engert
 stuttgart_verbund|48.784068,9.181713|2009-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
