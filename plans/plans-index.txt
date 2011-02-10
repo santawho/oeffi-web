@@ -94,6 +94,7 @@ sanfrancisco_owl|37.774534,-122.419124|2010-10|San Francisco Owl Service|SFMTA|h
 sanfrancisco_bart|37.616291,-122.386079||San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/images/global/system-map.gif
 losangeles_system|34.05427,-118.246715|2010-12|Los Angeles System|metro.net|http://www.metro.net/riding_metro/maps/images/system_Map.gif
 # losangeles_downtown|34.05427,-118.246715|2010-12|Los Angeles Downtown|metro.net|http://www.metro.net/riding_metro/maps/images/System_Map_detail.jpg
+newyork_subway|40.738452,-73.991919|2010-12|New York Subway|MTA
 
 # sg
 
