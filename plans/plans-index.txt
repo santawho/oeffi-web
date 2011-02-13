@@ -104,6 +104,10 @@ singapore|1.299078,103.84577|2009|Singapore|Land Transport Authority|http://www.
 
 beijing_subway|39.924854,116.396577|2009|Beijing Subway|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beijing-Subway-Plan.svg/2000px-Beijing-Subway-Plan.svg.png
 
+# tw
+
+taipei_metro|25.06331,121.55169|2010-10-29|Taipei Metro|Taipei Rapid Transit Corporation|http://web.trtc.com.tw/img/all/routemapflowerbig.jpg
+
 # in
 
 delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
