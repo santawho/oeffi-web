@@ -44,6 +44,7 @@ schwerin|53.634476,11.407313|2010-08|Schwerin Liniennetz|Nahverkehr Schwerin Gmb
 magdeburg_tag|52.130783,11.627347|2010-12-12|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_nacht|52.130783,11.627347|2010-12-12|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_verbund|52.130783,11.627347|2010-12-12|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
+hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
 
 # at
 
