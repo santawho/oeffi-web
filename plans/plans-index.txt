@@ -54,7 +54,7 @@ hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
 linz|48.290893,14.291965|2009-04|Linz Verkehrslinienplan|Linz AG
 linz_nacht|48.290893,14.291965|2009-04|Linz Nachtverkehr|Linz AG
 innsbruck_tram|47.26332,11.400951|2007-11-05|Innsbruck Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan-innsbruck-2007.gif
-graz_tram|47.073371,15.416154|2007-12-09|Graz Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan-graz-ende-2007-s-bahn-einfuehrung.gif
+graz_tram|47.073371,15.416154|2011-01-10|Graz Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan_graz_tagesverkehr_gross_aktuell.gif
 wien_city|48.209477,16.371074|2008-10-26|Wien City|Steve Stipsits|http://www.public-transport.at/schienenverkehr_innenstadt_wien_gross_aktuell.gif
 wien_su|48.209477,16.371074|2008|Wien S+U|Steve Stipsits|http://www.public-transport.at/schnellbahnsystem_wien_gross_aktuell.gif
 salzburg|47.813229,13.045907|2009-10-20|Salzburg Liniennetz|Salzburg AG 
