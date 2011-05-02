@@ -63,12 +63,12 @@ salzburg|47.813229,13.045907|2009-10-20|Salzburg Liniennetz|Salzburg AG
 
 basel_regio|47.546789,7.588996|2008-03|Basel Regio S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Basel_-_Regio-S-Bahn_Basel_-_Netzplan.jpg
 basel_tram|47.553021,7.591031|2008-02|Basel Straßenbahn|Maximilian Dörrbecker, Wikimedia Commons
-zvv|47.378136,8.540232|2009-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
-zvv_nacht|47.378136,8.540232|2009-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
-zuerich_stadt|47.378136,8.540232|2009-12|Zürich Stadt|ZVV/VBZ
-zuerich_nacht|47.378136,8.540232|2009-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
-winterthur_stadt|47.500334,8.72342|2009-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
-winterthur_nacht|47.500334,8.72342|2009-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zvv|47.378136,8.540232|2010-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zvv_nacht|47.378136,8.540232|2010-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zuerich_stadt|47.378136,8.540232|2010-12|Zürich Stadt|ZVV/VBZ
+zuerich_nacht|47.378136,8.540232|2010-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_stadt|47.500334,8.72342|2010-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_nacht|47.500334,8.72342|2010-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2010-12|Bern Liniennetz|BERNMOBIL
 
 # tr
