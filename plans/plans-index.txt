@@ -69,7 +69,7 @@ zuerich_stadt|47.378136,8.540232|2010-12|Zürich Stadt|ZVV/VBZ
 zuerich_nacht|47.378136,8.540232|2010-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 winterthur_stadt|47.500334,8.72342|2010-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
 winterthur_nacht|47.500334,8.72342|2010-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
-bern|46.948748,7.439239|2010-12|Bern Liniennetz|BERNMOBIL
+bern|46.948748,7.439239|2011-04-04|Bern Liniennetz|BERNMOBIL
 
 # tr
 
