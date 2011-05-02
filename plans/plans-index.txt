@@ -51,7 +51,7 @@ hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
 
 # at
 
-linz|48.290893,14.291965|2009-04|Linz Verkehrslinienplan|Linz AG
+linz|48.290893,14.291965|2010-12|Linz Verkehrslinienplan|Linz AG
 linz_nacht|48.290893,14.291965|2009-04|Linz Nachtverkehr|Linz AG
 innsbruck_tram|47.26332,11.400951|2007-11-05|Innsbruck Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan-innsbruck-2007.gif
 graz_tram|47.073371,15.416154|2011-01-10|Graz Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan_graz_tagesverkehr_gross_aktuell.gif
