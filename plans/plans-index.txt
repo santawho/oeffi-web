@@ -10,11 +10,11 @@ berlin_24h|52.521152,13.412832|2011-05-01|Berlin 24-Stunden-Netz|Berliner Verkeh
 bvg_alexanderplatz|52.521165,13.413318|2010-12-12|Berlin Alexanderplatz Standortplan|Berliner Verkehrsbetriebe (BVG)
 bvg_jannowitzbruecke|52.51414,13.41938|2010-03-28|Berlin Jannowitzbrücke Standortplan|Berliner Verkehrsbetriebe (BVG)
 #!group:
-brandenburg_regionalverkehr|52.525578,13.369523|2010-12-12|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
-potsdam_tag|52.390931,13.067171|2010-12-12|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
-potsdam_nacht|52.390931,13.067171|2010-12-12|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
-cottbus_tag_abc|51.760897,14.330106|2009-11-02|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
-cottbus_abend|51.760897,14.330106|2009-04-10|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
+brandenburg_regionalverkehr|52.525578,13.369523|2011-01-10|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_tag|52.390931,13.067171|2011-05-01|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_nacht|52.390931,13.067171|2011-05-01|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_tag_abc|51.760897,14.330106|2011-03-08|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_abend|51.760897,14.330106|2011-03-08|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
 frankfurt_oder_abc|52.336876,14.545712|2008-12-14|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
 dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
 muenchen_schnellbahn|48.140377,11.560643|2009-12|München Schnellbahn|Maximilian Dörrbecker, Wikimedia Commons
