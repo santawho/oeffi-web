@@ -100,6 +100,12 @@ losangeles_system|34.05427,-118.246715|2010-12|Los Angeles System|metro.net|http
 # losangeles_downtown|34.05427,-118.246715|2010-12|Los Angeles Downtown|metro.net|http://www.metro.net/riding_metro/maps/images/System_Map_detail.jpg
 newyork_subway|40.738452,-73.991919|2010-12|New York Subway|MTA
 
+# ar
+
+buenosaires_metro|-34.60837,-58.372171||Buenos Aires Metro|Metrovías|http://www.metrovias.com.ar/v2/html/..%5CImages%5CMapas%5Csubte-mapa-esquematico-2010.jpg
+buenosaires_urquiza|-34.60837,-58.372171||Buenos Aires Urquiza|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-urquiza.gif
+buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-premetro.gif
+
 # sg
 
 singapore|1.299078,103.84577|2009|Singapore|Land Transport Authority|http://www.smrt.com.sg/trains/images/tn_networkmap_big_140410.jpg
