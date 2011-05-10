@@ -106,6 +106,11 @@ buenosaires_metro|-34.60837,-58.372171||Buenos Aires Metro|Metrovías|http://www
 buenosaires_urquiza|-34.60837,-58.372171||Buenos Aires Urquiza|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-urquiza.gif
 buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-premetro.gif
 
+# au
+
+melbourne_metropolitan_train|-37.813425,144.962869|2010-07-25|Melbourne Metropolitan Train|State of Victoria|http://www.metlinkmelbourne.com.au/assets/images/Maps-and-stops/Train-and-tram-network/Train-Network-Map-updated-O.gif
+melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan Tram|State of Victoria|http://www.metlinkmelbourne.com.au/assets/images/Maps-and-stops/Train-and-tram-network/TramNetworkMap3.jpg
+
 # sg
 
 singapore|1.299078,103.84577|2009|Singapore|Land Transport Authority|http://www.smrt.com.sg/trains/images/tn_networkmap_big_140410.jpg
