@@ -1,0 +1,53 @@
+ html, body {
+font-size: normal;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+*
+{
+margin: 0 auto 0 auto;
+}
+
+#main
+{
+height:auto;
+width:100%;
+padding-bottom:20px;
+}
+
+h1
+{
+font-family: Times, serif;
+text-align: center;
+font-weight:bold;
+padding:30px;
+padding-bottom:20px;
+color: #307919;
+font-size: 300%;
+}
+
+#navigation {
+text-align: center;
+}
+
+#navigation a, #navigation a:visited
+{
+font-weight:bold;
+color:#777777;
+padding:10px;
+text-decoration:none;
+line-height:35px;
+}
+
+#content p {
+padding:5px;
+}
+
+#content a {
+text-decoration:none;
+color:#777777;
+}
+
+#oeffi_icon { padding-top:0em; }
+
+#qrcode p { padding-top:4em; }
+

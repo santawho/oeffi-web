@@ -1,0 +1,70 @@
+ html, body {
+text-align: center;
+font-size: 90%;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+*
+{
+margin: 0 auto 0 auto;
+text-align:left;
+}
+
+#main
+{
+max-width:920px;
+height:auto;
+padding-bottom:20px;
+}
+
+h1
+{
+font-family: Times, serif;
+text-align: center;
+font-weight:bold;
+padding:30px;
+padding-bottom:20px;
+color: #307919;
+font-size: 300%;
+}
+
+dt {
+font-weight: bold;
+}
+
+#navigation {
+text-align: center;
+}
+
+#navigation a, #navigation a:visited, #navigation a:hover
+{
+font-weight:bold;
+color:#777777;
+padding:15px;
+text-decoration:none;
+line-height:45px;
+}
+
+#navigation a:hover { 
+color: #307919;
+border:none;
+}
+
+#content p {
+padding:15px;
+}
+
+#content a {
+text-decoration:none;
+color:#777777;
+}
+
+#content a:hover { 
+color: #307919;
+}
+
+#oeffi_icon { padding-top:0em; }
+
+#qrcode p { 
+padding-top:4em; 
+}
+
