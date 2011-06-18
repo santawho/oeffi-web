@@ -73,6 +73,13 @@ winterthur_stadt|47.500334,8.72342|2010-12|Winterthur Stadt|Zürcher Verkehrsver
 winterthur_nacht|47.500334,8.72342|2010-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2011-04-04|Bern Liniennetz|BERNMOBIL
 
+# be
+
+brussels_metro|50.847293,4.361933|2009-08|Brussels Metro|STIB-MIVB|http://transportmaps.free.fr/maps/Belgium/Brussels/map_Metro.jpg
+antwerp_tram|51.217197,4.421543||Antwerp Tram|De Lijn|http://transportmaps.free.fr/maps/Belgium/Antwerp/map_Tram_and_Premetro.jpg
+antwerp_city|51.217197,4.421543||Antwerp City Center||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_City_center_transport.jpg
+antwerp_all|51.217197,4.421543||Antwerp All Transport||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_All_transport.jpg
+
 # se
 
 gothenburg_city|57.708792,11.973538|2009-12-13|Göteborg City|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_City_Route_Map.jpg
