@@ -73,6 +73,24 @@ winterthur_stadt|47.500334,8.72342|2010-12|Winterthur Stadt|Zürcher Verkehrsver
 winterthur_nacht|47.500334,8.72342|2010-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2011-04-04|Bern Liniennetz|BERNMOBIL
 
+# se
+
+gothenburg_city|57.708792,11.973538|2009-12-13|Göteborg City|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_City_Route_Map.jpg
+gothenburg_tram|57.708792,11.973538||Göteborg Tram|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Tram_lines.jpg
+gothenburg_night|57.708792,11.973538||Göteborg Night Lines|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Night_Lines.jpg
+gothenburg_region|57.708792,11.973538||Göteborg Region|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Buses_and_Trains_to_and_from_Gothenburg.jpg
+jonkoping_bus|57.784691,14.163508||Jonkoping Bus||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Lines.jpg
+jonkoping_map|57.784691,14.163508||Jonkoping Map||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Map.jpg
+linkoping_bus|58.416129,15.626714|2009-06-14|Linkoping Bus||http://transportmaps.free.fr/maps/Sweden/Linkoping/map_Bus.jpg
+stockholm_train|59.329875,18.057218||Stockholm Train|Storstockholms Lokaltrafik|http://transportmaps.free.fr/maps/Sweden/Stockholm/map_All_Trains.jpg
+
+# no
+
+oslo_subway|59.910337,10.751746|2008-08|Oslo Subway|T-Banen|http://transportmaps.free.fr/maps/Norway/Oslo/map_Subway.jpg
+oslo_tram|59.910337,10.751746|2009-04|Oslo Tram||http://transportmaps.free.fr/maps/Norway/Oslo/map_Tramway.jpg
+oslo_bus|59.910337,10.751746|2009-04|Oslo Bus||http://transportmaps.free.fr/maps/Norway/Oslo/map_Bus.jpg
+trondheim_bus|63.436476,10.398717||Trondheim Bus||http://transportmaps.free.fr/maps/Norway/Trondbeim/map_Bus.jpg
+
 # tr
 
 istanbul_rail|41.011939,28.984308|2007-06|Istanbul Rail Transit|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/3/30/Istanbul_Rapid_Transit_Map.png
