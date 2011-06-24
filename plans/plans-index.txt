@@ -17,7 +17,7 @@ cottbus_tag_abc|51.760897,14.330106|2011-03-08|Cottbus Tageslinien ABC|Verkehrsv
 cottbus_abend|51.760897,14.330106|2011-03-08|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
 frankfurt_oder_abc|52.336876,14.545712|2008-12-14|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
 dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
-muenchen_schnellbahn|48.140377,11.560643|2009-12|München Schnellbahn|Maximilian Dörrbecker, Wikimedia Commons
+muenchen_schnellbahn|48.140377,11.560643|2010-12|München Schnellbahn|MVV
 muenchen_tram|48.140377,11.560643|2008|München Tram|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/e/ea/M%C3%BCnchen_-_Stra%C3%9Fenbahn_-_Netzplan.png
 muenchen_metrobus|48.140377,11.560643|2008|München MetroBus|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/f/f3/M%C3%BCnchen_-_MetroBus_-_Netzplan.png
 ingolstadt_tag|48.74462,11.437987|2009-12-13|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
