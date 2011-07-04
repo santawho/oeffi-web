@@ -183,3 +183,8 @@ taipei_metro|25.06331,121.55169|2010-10-29|Taipei Metro|Taipei Rapid Transit Cor
 # in
 
 delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
+
+# jp
+
+tokyo_subway|35.681143,139.76615|2010-10|Tokyo Subway|Bureau of Transportation
+osaka_subway|34.693921,135.502181|2009-04-15|Osaka Subway|Osaka Municipal Transportation Bureau
