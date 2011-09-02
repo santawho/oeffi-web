@@ -24,8 +24,8 @@ ingolstadt_tag|48.74462,11.437987|2009-12-13|Ingolstadt Liniennetz|Ingolstädter
 ingolstadt_nacht|48.74462,11.437987|2009-12-13|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2010-11|Augsburg|Stadtwerke Augsburg
 augsburg_nachtbus|48.364936,10.893713|2010-11|Augsburg Nachtbus|Stadtwerke Augsburg
-nuernberg_gesamtraum|49.445719,11.082618|2010-12-12|Nürnberg Gesamtraum|Verkehrsverbund Großraum Nürnberg
-nuernberg_schiene|49.445719,11.082618|2010-12-12|Nürnberg Schienennetz|Verkehrsverbund Großraum Nürnberg
+nuernberg_gesamtraum|49.445719,11.082618|2010-12-12|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg
+nuernberg_schiene|49.445719,11.082618|2010-12-12|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg
 nuernberg_nightliner|49.445719,11.082618|2010-12|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
 regensburg|49.011489,12.09971|2010-12-12|Regensburg Ort und Nachbarort|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2010-12-12|Hamburg Schnellbahn/Regional|HVV
