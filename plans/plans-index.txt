@@ -174,7 +174,7 @@ brisbane_ferry|-27.473986,153.028035|2008-08-04|Brisbane TransLink ferries|TRANS
 
 # sg
 
-singapore|1.299078,103.84577|2009|Singapore|Land Transport Authority|http://www.smrt.com.sg/trains/images/tn_networkmap_big_140410.jpg
+singapore|1.299078,103.84577|2011|Singapore|Land Transport Authority
 
 # cn
 
