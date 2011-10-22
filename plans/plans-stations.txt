@@ -927,3 +927,264 @@ vrr|22006230|Großbüllesheim|bonn_schnellverkehr|510|765
 vrr|22009585|Derkum|bonn_schnellverkehr|510|670
 vrr|22006221|Weilerswist|bonn_schnellverkehr|510|575
 vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
+
+# Jakob Lüttgau <silentpark@gmail.com>
+
+||Agathenburg|hamburg_usar|354.60256|1323.17536
+||Ahrensburg|hamburg_usar|1938.6432|580.61744
+||Ahrensburg Ost|hamburg_usar|1910.12224|665.22976
+||Ahrensburg West|hamburg_usar|1800.16512|665.22976
+||Allermöhe|hamburg_usar|1759.40544|1429.96672
+||Alsterdorf|hamburg_usar|1267.99088|854.46816
+||Alte Wöhr (Stadtpark)|hamburg_usar|1466.05888|864.48752
+||Altengörs|hamburg_usar|1959.53056|392.92864
+||Alter Teichweg|hamburg_usar|1713.29392|882.76864
+||Altona|hamburg_usar|759.68464|1137.52704
+||Alveslohe|hamburg_usar|571.46752|375.15296
+||Apensen|hamburg_usar|426.93664|1451.69648
+||Hamburg-Harburg|hamburg_usar|1451.34496|1505.67456
+||Ashausen|hamburg_usar|1542.892|1595.58672
+||Aumühle|hamburg_usar|2053.4384|1503.5904
+||Bad Bramstedt|hamburg_usar|1096.992|222.65568
+||Bad Bramstedt Kurhaus|hamburg_usar|1079.74672|239.89888
+||Bad Oldesloe|hamburg_usar|2035.26336|464.37664
+||Bad Segeberg|hamburg_usar|1935.6896|369.08768
+||Bahrenfeld|hamburg_usar|734.06112|1150.396
+||Bardowick|hamburg_usar|1947.00688|1670.62064
+||Bargstedt|hamburg_usar|319.45888|1451.69648
+||Bargteheide|hamburg_usar|1999.7328|525.0544
+||Barmbek|hamburg_usar|1533.71504|961.1056
+||Barmstedt|hamburg_usar|472.98576|473.63472
+||Barmstedt Brunnenstraße|hamburg_usar|418.47104|528.14736
+||Baumwall|hamburg_usar|1007.52288|1357.37472
+||Bavendorf|hamburg_usar|2245.18112|1678.92816
+||Bergedorf|hamburg_usar|1817.38752|1503.5904
+||Berliner Tor|hamburg_usar|1560.69056|1227.20624
+||Berne|hamburg_usar|1709.39808|734.85984
+||Billstedt|hamburg_usar|1948.36304|1233.06976
+||Billwerder-Moorfleet|hamburg_usar|1693.2344|1363.79984
+||Blankenese|hamburg_usar|550.74448|1150.396
+||Bokholt|hamburg_usar|359.43024|605.69808
+||Bönningstedt|hamburg_usar|675.20544|716.72224
+||Boostedt|hamburg_usar|1148.71952|170.92816
+||Borgweg (Stadtpark)|hamburg_usar|1342.81888|969.61488
+||Brest-Aspe|hamburg_usar|284.62928|1451.69648
+||Buchenkamp|hamburg_usar|1752.5768|665.22976
+||Buchholz (Nordheide)|hamburg_usar|1341.95776|1615.06176
+||Buckhorn|hamburg_usar|1709.39808|625.86784
+||Büchen|hamburg_usar|2268.84736|1510.40032
+||Büsenbachtal|hamburg_usar|1289.51056|1692.41904
+||Burgstraße|hamburg_usar|1703.468|1233.06976
+||Burgwedel|hamburg_usar|675.20544|765.14672
+||Buxtehude|hamburg_usar|478.97616|1430.30784
+||Christuskirche|hamburg_usar|966.18496|1020.74336
+||Dahlenburg|hamburg_usar|2286.50864|1678.92816
+||Dammtor (Messe/CCH)|hamburg_usar|1105.39312|1132.22928
+||Dauenhof|hamburg_usar|196.96144|186.6488
+||Dehnhaide|hamburg_usar|1568.69024|1008.76256
+||Diebsteich|hamburg_usar|767.16848|1083.09552
+||Diebsteich|hamburg_usar|757.85216|1092.9152
+||dodenhof|hamburg_usar|1028.02128|291.62432
+||Dollern|hamburg_usar|385.50512|1353.27088
+||Echem|hamburg_usar|2203.50624|1595.36832
+||Eidelstedt|hamburg_usar|665.87664|991.3384
+||Eidelstedt Zentrum|hamburg_usar|675.20544|896.57152
+||Elbgaustraße|hamburg_usar|634.15664|959.6184
+||Ellerau|hamburg_usar|812.07984|507.2184
+||Elmshorn|hamburg_usar|347.16032|706.74656
+||Emilienstraße|hamburg_usar|966.18496|975.39312
+||Eppendorfer Baum|hamburg_usar|1115.74112|1006.71168
+||Fahrenkrug|hamburg_usar|1911.84656|345.24672
+||Farmsen|hamburg_usar|1709.39808|766.48416
+||Feldstraße (Heiligengeistfeld)|hamburg_usar|983.32|1223.27088
+||Fischbek|hamburg_usar|792.5632|1526.3248
+||Fresenburg|hamburg_usar|2007.21248|440.60848
+||Friedrichsberg|hamburg_usar|1614.9432|1013.36976
+||Friedrichsgabe|hamburg_usar|1096.52192|494.66144
+||Friedrichsruh|hamburg_usar|2125.07776|1521.20176
+||Fuhlsbüttel|hamburg_usar|1310.71616|714.96672
+||Fuhlsbüttel Nord|hamburg_usar|1289.79552|694.04608
+||Gänsemarkt (Oper)|hamburg_usar|1126.70688|1213.09136
+||Garstedt|hamburg_usar|1185.18816|589.43872
+||Gartenholzvsl.|hamburg_usar|1980.14544|539.35232
+||Göhrde|hamburg_usar|2369.172|1678.92816
+||Großenaspe|hamburg_usar|1131.4784|188.17136
+||Großhansdorf|hamburg_usar|2065.95584|665.22976
+||Habichtstraße|hamburg_usar|1644.23792|896.59232
+||Hagenbecks Tierpark|hamburg_usar|966.18496|844.6984
+||Hagendeel|hamburg_usar|966.18496|801.78384
+||Hallerstraße|hamburg_usar|1155.17168|1084.21872
+||Halstenbek|hamburg_usar|573.93232|915.72624
+||Hamburg Airport (Flughafen)|hamburg_usar|1204.33456|765.30064
+||Hamburger Straße|hamburg_usar|1568.69024|1040.72176
+||Hammah|hamburg_usar|304.3664|1247.79824
+||Hammer Kirche|hamburg_usar|1752.44368|1233.06976
+||Hammerbrook (City Süd)|hamburg_usar|1471.45024|1393.34208
+||Handeloh|hamburg_usar|1268.7064|1712.87168
+||Harburg|hamburg_usar|1451.34496|1505.67456
+||Harburg Rathaus|hamburg_usar|1274.10192|1526.6784
+||Harsefeld|hamburg_usar|353.33584|1451.69648
+||Hasloh|hamburg_usar|675.20544|668.65968
+||Haslohfurth|hamburg_usar|1054.68064|452.82016
+||Hasselbrook|hamburg_usar|1718.91616|1119.62864
+||Heimfeld|hamburg_usar|1132.03376|1526.6784
+||Henstedt-Ulzburg|hamburg_usar|942.85152|357.70384
+||Himmelpforten|hamburg_usar|264.04144|1207.46704
+||Hittfeld|hamburg_usar|1427.70368|1549.0384
+||Hochkamp|hamburg_usar|590.73456|1150.396
+||Hoheluftbrücke|hamburg_usar|1073.89152|1048.56544
+||Hoheneichen|hamburg_usar|1455.81696|647.54144
+||Hoisbüttel|hamburg_usar|1709.39808|566.99552
+||Holm-Seppensen|hamburg_usar|1309.9632|1671.96848
+||Holstenstraße|hamburg_usar|870.88352|1132.22928
+||Holstenstraße|hamburg_usar|870.88352|1145.68064
+||Holstentherme|hamburg_usar|1008.5192|311.12848
+||Hörgensweg|hamburg_usar|675.20544|854.70944
+||Horneburg|hamburg_usar|413.08384|1365.98592
+||Horner Rennbahn|hamburg_usar|1850.40336|1233.06976
+||Horst(Holst)|hamburg_usar|196.96144|346.02464
+||Hudtwalckerstraße|hamburg_usar|1196.32032|926.13872
+||Iserbrook|hamburg_usar|510.7544|1150.396
+||Joachim-Mähl-Straße|hamburg_usar|966.18496|715.95056
+||Kaltenkirchen|hamburg_usar|988.25168|331.396
+||Kaltenkirchen Süd|hamburg_usar|971.00848|348.63712
+||Kellinghusenstraße|hamburg_usar|1142.32768|960.07808
+||Kiekut|hamburg_usar|2014.012|665.22976
+||Kiwittsmoor|hamburg_usar|1227.0336|631.28208
+||Klecken|hamburg_usar|1398.66272|1578.08144
+||Klein Borstel|hamburg_usar|1331.63888|735.88736
+||Klein Flottbek (Botanischer Garten)|hamburg_usar|633.73024|1150.396
+||Klosterstern|hamburg_usar|1155.17168|1032.25616
+||Königstraße|hamburg_usar|824.60768|1306.35648
+||Königstraße|hamburg_usar|824.60768|1319.6976
+||Kornweg|hamburg_usar|1431.34576|697.01424
+||Krupunder|hamburg_usar|599.00256|940.79232
+||Kupfermühle|hamburg_usar|2018.15536|506.63392
+||Kutenholz|hamburg_usar|248.22096|1451.69648
+||Landungsbrücken|hamburg_usar|975.50544|1301.86368
+||Landwehr|hamburg_usar|1675.6064|1172.31088
+||Langeln|hamburg_usar|520.11024|426.51024
+||Langenfelde|hamburg_usar|736.53424|1052.46336
+||Langenfelde|hamburg_usar|727.22416|1062.2872
+||Langenhorn Markt|hamburg_usar|1268.87696|673.12544
+||Langenhorn Nord|hamburg_usar|1247.95424|652.20272
+||Langenmoor|hamburg_usar|359.43024|678.68944
+||Lattenkamp|hamburg_usar|1232.15456|890.3024
+||Lauenburg|hamburg_usar|2239.10336|1559.77328
+||Legienstraße|hamburg_usar|1899.38112|1233.06976
+||Lentföhrden|hamburg_usar|1062.50352|257.14
+||Lohmühlenstraße|hamburg_usar|1527.47504|1182.51952
+||Lübecker Straße|hamburg_usar|1560.19552|1129.62096
+||Lüneburg|hamburg_usar|2110.48032|1668.51984
+||Lutterothstraße|hamburg_usar|966.18496|887.61504
+||Maschen|hamburg_usar|1506.36096|1559.05776
+||Meckelfeld|hamburg_usar|1489.01584|1541.70848
+||Meeschensee|hamburg_usar|1033.76|431.89744
+||Meiendorfer Weg|hamburg_usar|1709.39808|703.23552
+||Merkenstraße|hamburg_usar|1997.3408|1233.06976
+||Meßberg|hamburg_usar|1231.516|1403.84816
+||Messehallen|hamburg_usar|1102.22528|1188.61184
+||Mittlerer Landweg|hamburg_usar|1726.31888|1396.88432
+||Mölln|hamburg_usar|2282.95808|769.71856
+||Mönckebergstraße|hamburg_usar|1277.87088|1357.85728
+||Moorbekhalle (Schulzentrum Nord)|hamburg_usar|1117.44464|515.58208
+||Mümmelmannsberg|hamburg_usar|2095.2984|1233.06976
+||Müssen|hamburg_usar|2216.54368|1521.20176
+||Mundsburg|hamburg_usar|1568.69024|1072.6768
+||Neetzendorf|hamburg_usar|2327.84032|1678.92816
+||Nettelnburg|hamburg_usar|1792.48784|1463.05328
+||Neu Wulmstorf|hamburg_usar|697.4032|1526.3248
+||Neugraben|hamburg_usar|899.68112|1526.3248
+||Neukloster|hamburg_usar|458.60672|1426.1936
+||Neuwiedenthal|hamburg_usar|1020.00496|1526.6784
+||Niendorf Markt|hamburg_usar|966.18496|758.8672
+||Niendorf Nord|hamburg_usar|966.18496|630.11936
+||Norderstedt Mitte|hamburg_usar|1131.68224|533.39936
+||Nützen|hamburg_usar|1045.2624|274.3832
+||Ochsenzoll|hamburg_usar|1206.11088|610.36144
+||Ohlsdorf|hamburg_usar|1351.51744|752.45664
+||Ohlstedt|hamburg_usar|1709.39808|506.1784
+||Osterstraße|hamburg_usar|966.18496|930.53168
+||Othmarschen|hamburg_usar|694.07312|1150.396
+||Pinneberg|hamburg_usar|501.0096|850.90304
+||Poppenbüttel|hamburg_usar|1455.81696|543.27936
+||Prisdorf|hamburg_usar|445.15328|809.23232
+||Quickborn|hamburg_usar|761.17808|558.12016
+||Quickborn Süd|hamburg_usar|710.27632|609.02192
+||Quickborner Straße|hamburg_usar|1075.60128|473.7408
+||Radbruch|hamburg_usar|1811.7216|1670.62064
+||Rahlstedt|hamburg_usar|1874.94528|785.97792
+||Ratzeburg|hamburg_usar|2282.95808|489.47184
+||Rauhes Haus|hamburg_usar|1801.4256|1233.06976
+||Reeperbahn|hamburg_usar|889.7616|1306.35648
+||Reeperbahn|hamburg_usar|889.7616|1319.6976
+||Reinbek|hamburg_usar|1951.5392|1504.17696
+||Reinfeld|hamburg_usar|2121.9016|402.8856
+||Richtweg|hamburg_usar|1164.26752|568.51808
+||Rickling|hamburg_usar|1864.1688|297.5648
+||Rissen|hamburg_usar|430.77008|1150.396
+||Ritterstraße|hamburg_usar|1615.38832|1099.7896
+||Rödingsmarkt|hamburg_usar|1055.77888|1357.37472
+||Rothenburgsort|hamburg_usar|1627.06336|1297.6288
+||Rübenkamp (City Nord)|hamburg_usar|1405.72432|804.15712
+||Ruschwedel|hamburg_usar|389.24912|1451.69648
+||Saarlandstraße|hamburg_usar|1419.20896|969.61488
+||Schippelsweg|hamburg_usar|966.18496|673.036
+||Schlump|hamburg_usar|1009.73808|1091.34064
+||Schmalenbeck|hamburg_usar|1962.06816|665.22976
+||Schnelsen|hamburg_usar|675.20544|812.84944
+||Schwarzenbek|hamburg_usar|2171.55744|1521.20176
+||Sengelmannstraße (City Nord)|hamburg_usar|1303.82304|818.63184
+||Sierichstraße|hamburg_usar|1250.86832|969.61488
+||Sparrieshoop|hamburg_usar|359.43024|642.19168
+||Sprötze|hamburg_usar|1211.3088|1626.36448
+||St.Pauli|hamburg_usar|983.32|1265.28064
+||Stade|hamburg_usar|320.66944|1273.57152
+||Stade|hamburg_usar|337.3448|1280.70384
+||Stadthausbrücke|hamburg_usar|1064.91632|1306.35648
+||Stadthausbrücke|hamburg_usar|1064.91632|1319.6976
+||Steinfurther Allee|hamburg_usar|2046.31856|1233.06976
+||Steinstraße|hamburg_usar|1312.51328|1403.84816
+||Stelle|hamburg_usar|1524.93328|1577.63216
+||Stellingen (Arenen)|hamburg_usar|709.79792|1025.72912
+||Stellingen (Arenen)|hamburg_usar|700.48576|1035.55088
+||Sternschanze (Messe)|hamburg_usar|973.88928|1128.10256
+||Straßburger Straße|hamburg_usar|1713.29392|933.2752
+||Sülldorf|hamburg_usar|470.76224|1150.396
+||Suerhop|hamburg_usar|1330.41792|1651.51376
+||Tanneneck|hamburg_usar|862.9816|456.31664
+||Thesdorf|hamburg_usar|548.86416|890.656
+||Tiefstack|hamburg_usar|1660.14992|1330.71536
+||Tonndorf|hamburg_usar|1874.94528|914.55936
+||Tornesch|hamburg_usar|399.44736|763.5264
+||Tostedt|hamburg_usar|1043.8584|1699.25392
+||Trabrennbahn|hamburg_usar|1709.39808|798.11056
+||Uhlandstraße|hamburg_usar|1568.69024|1104.63808
+||Ulzburg Süd|hamburg_usar|912.18816|387.6808
+||Vastorf|hamburg_usar|2205.83584|1678.92816
+||Veddel (BallinStadt)|hamburg_usar|1472.06592|1442.24704
+||Volksdorf|hamburg_usar|1701.2216|655.85104
+||Voßloch|hamburg_usar|370.46672|576.14752
+||Wahlstedt|hamburg_usar|1888.00976|321.40576
+||Wakendorf|hamburg_usar|1983.36944|416.76752
+||Wandsbek|hamburg_usar|1874.94528|983.78176
+||Wandsbek Markt|hamburg_usar|1713.29392|983.78176
+||Wandsbeker Chaussee|hamburg_usar|1644.70384|1045.304
+||Wandsbek-Gartenstadt|hamburg_usar|1700.57056|820.87408
+||Wartenau|hamburg_usar|1593.52544|1121.6504
+||Wedel|hamburg_usar|390.77792|1150.396
+||Wellingsbüttel|hamburg_usar|1455.81696|589.58848
+||Wendisch Evern|hamburg_usar|2162.51984|1678.92816
+||Wiemersdorf|hamburg_usar|1114.23104|205.41248
+||Wilhelmsburg|hamburg_usar|1471.45024|1469.76752
+||Winsen(Luhe)|hamburg_usar|1676.74416|1670.62064
+||Wohltorf|hamburg_usar|2011.14784|1504.17696
+||Rathaus|hamburg_usar|1110|1353
+||Hauptbahnhof Nord|hamburg_usar|1375|1230
+||Stephansplatz (Oper/CCH)|hamburg_usar|1152|1197
+||Jungfernstieg|hamburg_usar|1145|1227
+||Hauptbahnhof|hamburg_usar|1374|1247
+||Hamburg Altona|hamburg_usar|759.68464|1137.52704
+||Hauptbahnhof Süd|hamburg_usar|1374|1352
+||Hamburg Hbf|hamburg_usar|1374|1247
+||Hamburg Dammtor|hamburg_usar|1105.39312|1132.22928
