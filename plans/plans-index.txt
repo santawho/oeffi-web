@@ -9,6 +9,8 @@ berlin_tram|52.521152,13.412832|2011-09-05|Berlin Tram-Netz|Berliner Verkehrsbet
 berlin_24h|52.521152,13.412832|2011-05-01|Berlin 24-Stunden-Netz|Berliner Verkehrsbetriebe (BVG)
 bvg_alexanderplatz|52.521165,13.413318||Berlin Alexanderplatz Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/474783/pdf_image_width_1280_jpeg/1-1
 bvg_jannowitzbruecke|52.51414,13.41938||Berlin Jannowitzbrücke Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/474870/pdf_image_width_1280_jpeg/1-1
+bvg_hauptbahnhof|52.525034,13.369415||Berlin Hauptbahnhof Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/475180/pdf_image_width_1280_jpeg/1-1
+bvg_zoologischer_garten|52.507102,13.332236||Berlin Zoologischer Garten Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/475104/pdf_image_width_1280_jpeg/1-1
 #!group:
 brandenburg_regionalverkehr|52.525578,13.369523|2011-01-10|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
 potsdam_tag|52.390931,13.067171|2011-05-01|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
