@@ -147,6 +147,7 @@ gdansk_tram|54.355338,18.644478|2008|Gdansk Tram|ZKM|http://transportmaps.free.f
 krakow_tram|50.065365,19.947124|2010-03-01|Krakow Tram|KST|http://transportmaps.free.fr/maps/Poland/Krakow/map_Tram.jpg
 poznan_tram|52.40144,16.91215||Poznan Tram|MPK|http://transportmaps.free.fr/maps/Poland/Poznan/map_Trams.jpg
 poznan_night|52.40144,16.91215||Poznan Night Buses|MPK|http://transportmaps.free.fr/maps/Poland/Poznan/map_Night_Buses.jpg
+warsaw_rail|52.230515,21.010702|2011-12-01|Warsaw Rail Transport|ztm|http://www.ztm.waw.pl/mapa/duze/tramwaje.gif
 warsaw_metro_tram|52.230515,21.010702||Warsaw Metro and Tram|zajcev|http://transportmaps.free.fr/maps/Poland/Warsaw/map_Subway_and_Tramway.jpg
 
 # us
