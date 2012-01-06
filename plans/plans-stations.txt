@@ -1,3 +1,4 @@
+# plans-stations.txt,1
 # network|localId|label|planId|x|y|radius
 
 # S+U Alexanderplatz Bhf
