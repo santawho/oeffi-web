@@ -36,7 +36,7 @@ hamburg_usar|53.552946,10.006782|2011-12-11|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2011-12-11|Hamburg MetroBus Großbereich|HVV
 rostock_vvw_liniennetz|54.078139,12.131724|2011-08-15|Rostock Liniennetz|Verkehrsverbund Warnow GmbH
 rostock_vvw_region|54.078139,12.131724|2011-08-15|Rostock Region|Verkehrsverbund Warnow GmbH
-rostock_liniennetz|54.078139,12.131724|2011-08-15|Rostock Liniennetz|Lucas Weiss, Enrico Engert, CC-BY-SA 3.0
+rostock_liniennetz|54.078139,12.131724|2012-03-07|Rostock Liniennetz|Lucas Weiss, CC-BY-SA 3.0
 rostock_sbahn|54.078139,12.131724|2010-09-15|Rostock S-Bahn|Enrico Engert
 stuttgart_verbund|48.784068,9.181713|2009-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
 stuttgart_nachtbus|48.77861,9.179803|2009-12|Stuttgart Nachtbus-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
