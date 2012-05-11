@@ -12,6 +12,7 @@ bvg_alexanderplatz|52.521165,13.413318||Berlin Alexanderplatz Standortplan|Berli
 bvg_jannowitzbruecke|52.51414,13.41938||Berlin Jannowitzbrücke Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/474870/pdf_image_width_1280_jpeg/1-1
 bvg_hauptbahnhof|52.525034,13.369415||Berlin Hauptbahnhof Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/475180/pdf_image_width_1280_jpeg/1-1
 bvg_zoologischer_garten|52.507102,13.332236||Berlin Zoologischer Garten Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/475104/pdf_image_width_1280_jpeg/1-1
+berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|http://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
 #!group:
 brandenburg_regionalverkehr|52.525578,13.369523|2011-12-11|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
 potsdam_tag|52.390931,13.067171|2011-12-11|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
