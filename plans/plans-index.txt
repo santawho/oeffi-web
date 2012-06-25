@@ -47,7 +47,7 @@ stuttgart_nachtbus|48.77861,9.179803|2011-12|Stuttgart Nachtbus-Liniennetz|Verke
 hannover_stadtbahn|52.376715,9.741168|2011-12|Hannover Stadtbahnnetz|GVH
 hannover_bus|52.376715,9.741168|2011-12|Hannover Busnetz|GVH
 hannover_regional|52.376715,9.741168|2011-12|Hannover Regional- und S-Bahn-Linien|GVH
-nrw_regio|51.429807,6.775253|2010-11|NRW Busse & Bahnen|VRS
+nrw_regio|51.429807,6.775253|2011-12|NRW Busse & Bahnen|VRS
 rmv_schnellbahn|50.106318,8.662139|2010-12-12|Rhein-Main Schnellbahn|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31950-27818/original/RMV-Schnellbahnplan.png
 rmv_regional|50.106318,8.662139|2010-12-12|Rhein-Main Regional|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31368-27837/original/Regionaler_Schienennetzplan.gif
 rmv_nachtbus|50.106318,8.662139||Rhein-Main Nachtbus|www.nachtbus-frankfurt.de|http://www.rmv.de/linkableblob/de/42766-28928/original/Netzplan_Nachtbus_Frankfurt_RheinMain_.png
