@@ -32,6 +32,7 @@ nuernberg_gesamtraum|49.445719,11.082618|2011-12-11|Nürnberg Schienennetz Gesam
 nuernberg_schiene|49.445719,11.082618|2011-12-11|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg
 nuernberg_nightliner|49.445719,11.082618|2011-12|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
 erlangen_verkehrsnetz|49.595851,11.001701|2011-12-11|Erlangen Verkehrsnetz|Verkehrsverbund Großraum Nürnberg
+coburg_liniennetz|50.262975,10.957691|2011-12-11|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2011-12-11|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2011-12-11|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2011-12-11|Hamburg MetroBus Großbereich|HVV
