@@ -68,6 +68,8 @@ karlsruhe_liniennetz|48.993988,8.400328|2011-12-11|Karlsruhe Liniennetz|Karlsruh
 karlsruhe_regio|48.993988,8.400328|2011-12-11|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
 karlsruhe_bus|49.009498,8.404073|2011-12-11|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
 karlsruhe_nightliner|49.009498,8.404073|2011-12-11|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
+freiburg_liniennetz|47.996556,7.840286|2012-03-01|Freiburg Liniennetz|Freiburger Verkehrs AG
+freiburg_nacht|47.996556,7.840286|2012-02-01|Freiburg Nachtbus|Freiburger Verkehrs AG
 
 # at
 
