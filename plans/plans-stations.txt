@@ -1192,29 +1192,31 @@ vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
 
 # Lucas Weiss <lucasweiss@web.de>
 
-db|936190|Diedrichshagen|rostock_liniennetz|125|2015
-db|935056|Streuwiesenweg|rostock_liniennetz|125|2071
-db|935219|Stolteraer Weg|rostock_liniennetz|125|2143
-db|935013|Rohrmannsche Koppel|rostock_liniennetz|205|2135
-db|936211|Friedhof|rostock_liniennetz|308|2143
-db|935076|Warnemünde Strand|rostock_liniennetz|401|2130
-db|936240|Haus Stolteraa|rostock_liniennetz|494|2138
-db|935088|Wiesenweg|rostock_liniennetz|559|2138 
-db|935074|Wachtlerstraße|rostock_liniennetz|604|2140
-db|935042|Seestraße|rostock_liniennetz|637|2140
-db|936253|Hotel Neptun|rostock_liniennetz|671|2140
-db|935042|Seestraße|rostock_liniennetz|704|2140
-db|935074|Wachtlerstraße|rostock_liniennetz|737|2140
-db|935072|Warnemünde Kirchenplatz|rostock_liniennetz|765|2108
-db|936212|Fritz-Reuter-Straße|rostock_liniennetz|747|2065
-db|936339|Poststraße|rostock_liniennetz|720|2038
+db|936190|Diedrichshagen|rostock_liniennetz|125|2018
+db|935056|Streuwiesenweg|rostock_liniennetz|125|2075
+db|935219|Stolteraer Weg|rostock_liniennetz|125|2146
+db|935013|Rohrmannsche Koppel|rostock_liniennetz|205|2138
+db|936211|Friedhof|rostock_liniennetz|308|2146
+db|935076|Warnemünde Strand|rostock_liniennetz|401|2133
+db|936240|Haus Stolteraa|rostock_liniennetz|494|2141
+db|935088|Wiesenweg|rostock_liniennetz|559|2141
+db|935074|Wachtlerstraße|rostock_liniennetz|604|2143
+db|935042|Seestraße|rostock_liniennetz|637|2143
+db|936253|Hotel Neptun|rostock_liniennetz|671|2143
+db|935042|Seestraße|rostock_liniennetz|704|2143
+db|935074|Wachtlerstraße|rostock_liniennetz|737|2143
+db|935072|Warnemünde Kirchenplatz|rostock_liniennetz|765|2111
+db|936212|Fritz-Reuter-Straße|rostock_liniennetz|744|2071
+db|936339|Poststraße|rostock_liniennetz|711|2038
+db|939235|Rostocker Straße|rostock_liniennetz|674|2015
 db|935008|Richard-Wagner-Straße TZW|rostock_liniennetz|613|2066
 db|8013236|HP Warnemünde|rostock_liniennetz|790|2073
 db|936350|Warnemünde Fähre|rostock_liniennetz|829|2073
-db|8013237|HP Warnemünde Werft (DB)|rostock_liniennetz|715|2007
-db|935077|HP Warnemünde Werft (RSAG RvK)|rostock_liniennetz|673|2007
-db|935086|Werftblick|rostock_liniennetz|634|1964
-db|936225|Grabower Straße|rostock_liniennetz|597|1928
+db|8013237|HP Warnemünde Werft (DB)|rostock_liniennetz|704|1990
+db|935077|HP Warnemünde Werft (RSAG RvK)|rostock_liniennetz|670|1990
+db|939235|Rostocker Straße|rostock_liniennetz|638|1969
+db|935086|Werftblick|rostock_liniennetz|614|1944
+db|936225|Grabower Straße|rostock_liniennetz|584|1914
 db|8012221|HP Lichtenhagen (DB)|rostock_liniennetz|610|1883
 db|936257|HP Lichtenhagen (RSAG)|rostock_liniennetz|552|1883
 db|936257|HP Lichtenhagen (Klenow Tor)|rostock_liniennetz|657|1883
@@ -1412,8 +1414,8 @@ db|936281|Krummendorf|rostock_liniennetz|1040|1502
 db|936241|Heidenholzmoor|rostock_liniennetz|1040|1539
 db|935038|Seehafen|rostock_liniennetz|1050|1597
 db|8012802|HP Seehafen Nord|rostock_liniennetz|1105|1597
-db|935039|Seehafen Fähre|rostock_liniennetz|1055|1759
-db|939233|Seehafen Anleger|rostock_liniennetz|1037|1789
+db|935039|Seehafen Fähre|rostock_liniennetz|1050|1759
+db|939233|Seehafen Anleger|rostock_liniennetz|1033|1792
 db|935714|Seehafen Ost|rostock_liniennetz|1109|1675
 db|939229|Getreidehafen|rostock_liniennetz|1207|1700
 db|936276|Kraftwerk|rostock_liniennetz|1263|1700
