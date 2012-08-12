@@ -57,9 +57,9 @@ koeln_bus|50.943579,6.95796|2011-12-11|Köln Busnetz|Verkehrsverbund Rhein-Sieg 
 bonn_schnellverkehr|50.732784,7.096447|2011-12-11|Bonn Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
 bonn_bus|50.732784,7.096447|2011-12|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 schwerin|53.634476,11.407313|2010-08|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
-magdeburg_tag|52.130783,11.627347|2010-12-12|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
-magdeburg_nacht|52.130783,11.627347|2010-12-12|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
-magdeburg_verbund|52.130783,11.627347|2010-12-12|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
+magdeburg_tag|52.130783,11.627347|2011-12-10|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
+magdeburg_nacht|52.130783,11.627347|2011-12-10|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
+magdeburg_verbund|52.130783,11.627347|2012-08|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
 hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
 braunschweig_gesamt|52.252187,10.539705|2011-08-18|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
 braunschweig_innenstadt|52.263931,10.526361|2011-08-18|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
