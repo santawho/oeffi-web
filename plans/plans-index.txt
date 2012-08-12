@@ -104,6 +104,10 @@ antwerp_tram|51.217197,4.421543||Antwerp Tram|De Lijn|http://transportmaps.free.
 antwerp_city|51.217197,4.421543||Antwerp City Center||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_City_center_transport.jpg
 antwerp_all|51.217197,4.421543||Antwerp All Transport||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_All_transport.jpg
 
+# nl
+
+amsterdam_tram|52.378861,4.900392|2012|Amsterdam Tram|Alargule/Alain Lemaire, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amsterdamtram.png/1280px-Amsterdamtram.png
+
 # se
 
 gothenburg_city|57.708792,11.973538|2009-12-13|Göteborg City|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_City_Route_Map.jpg
