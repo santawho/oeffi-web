@@ -61,8 +61,8 @@ magdeburg_tag|52.130783,11.627347|2010-12-12|Magdeburg Liniennetz|Magdeburger Re
 magdeburg_nacht|52.130783,11.627347|2010-12-12|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_verbund|52.130783,11.627347|2010-12-12|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
 hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
-braunschweig_gesamt|52.252187,10.539705|2010-12-15|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
-braunschweig_innenstadt|52.263931,10.526361|2010-12-15|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
+braunschweig_gesamt|52.252187,10.539705|2011-08-18|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
+braunschweig_innenstadt|52.263931,10.526361|2011-08-18|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
 wolfsburg|52.429484,10.788249|2012-08|Wolfsburg Liniennetz|WVG
 karlsruhe_liniennetz|48.993988,8.400328|2011-12-11|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
 karlsruhe_regio|48.993988,8.400328|2011-12-11|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
