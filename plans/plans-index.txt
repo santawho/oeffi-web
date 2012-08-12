@@ -22,7 +22,7 @@ cottbus_abend|51.760897,14.330106|2011-12-11|Cottbus Abendlinien|Verkehrsverbund
 frankfurt_oder_abc|52.336876,14.545712|2011-12-11|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
 dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
 muenchen_schnellbahn|48.140377,11.560643|2011-12|München Schnellbahn|MVV
-muenchen_tram_metrobus|48.140377,11.560643|2011-12|München Tram/MetroBus|MVV/MVG
+muenchen_tram_metrobus|48.140377,11.560643|2012-04|München Tram/MetroBus|MVV/MVG
 muenchen_nacht|48.140377,11.560643|2011-12-11|München Nachtnetz|MVG
 ingolstadt_tag|48.74462,11.437987|2011-12-12|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
 ingolstadt_nacht|48.74462,11.437987|2011-12-12|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
