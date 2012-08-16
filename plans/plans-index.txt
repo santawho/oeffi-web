@@ -83,7 +83,7 @@ wien_susb|48.209477,16.371074|2012-02-01|Wien Netzplan|Ben Lode
 wien_netz|48.209477,16.371074|2011-11-01|Wien Netzplan|Steve Stipsits|http://www.public-transport.at/netzplan_strassenbahn_wien_gross_aktuell.gif
 wien_city|48.209477,16.371074|2008-10-26|Wien City|Steve Stipsits|http://www.public-transport.at/schienenverkehr_innenstadt_wien_gross_aktuell.gif
 wien_su|48.209477,16.371074|2008|Wien S+U|Steve Stipsits|http://www.public-transport.at/schnellbahnsystem_wien_gross_aktuell.gif
-salzburg|47.813229,13.045907|2010-10-07|Salzburg Liniennetz|Salzburg AG 
+salzburg|47.813229,13.045907|2012-05-14|Salzburg Liniennetz|Salzburg AG 
 
 # ch
 
