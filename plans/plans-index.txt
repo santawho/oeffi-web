@@ -195,10 +195,10 @@ buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http
 melbourne_metropolitan_train|-37.813425,144.962869|2012-04-22|Melbourne Metropolitan Train|State of Victoria|http://ptv.vic.gov.au/assets/PTV/Metropolitan-train/_resampled/resizedimage10441005-Train-Network-Map-2DL-PTV.gif
 melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan Tram|State of Victoria|http://ptv.vic.gov.au/assets/images/Maps-and-stops/Train-and-tram-network/TramNetworkMap3.jpg
 melbourne_metropolitan_nightrider|-37.813425,144.962869|2012-02|Melbourne NightRider||http://ptv.vic.gov.au/assets/PTV/NightRider/_resampled/resizedimage10441095-NightRider-Network-Map-2DL.gif
-sydney_cityrail|-33.882474,151.206688|2009-01|Sydney CityRail network|RailCorp|http://transportmaps.free.fr/maps/Australia/Sydney/map_Rail.jpg
-sydney_monorail_lightrail|-33.873103,151.199918||Sydney Monorail/Light Rail||http://transportmaps.free.fr/maps/Australia/Sydney/map_Monorail_Light_Rail.jpg
-sydney_night|-33.873813,151.206805||Sydney NightRide Bus network|RailCorp|http://transportmaps.free.fr/maps/Australia/Sydney/map_Night_Bus.jpg
-sydney_ferry|-33.861256,151.210954|2008-12|Sydney Ferries||http://transportmaps.free.fr/maps/Australia/Sydney/map_Ferries.jpg
+sydney_cityrail|-33.882474,151.206688|2011-04|Sydney CityRail network|RailCorp
+sydney_monorail_lightrail|-33.873103,151.199918|2011|Sydney Monorail/Light Rail|Metro Transport Sydney
+sydney_night|-33.873813,151.206805|2011-04|Sydney NightRide Bus network|RailCorp|http://cityrail.info/timetables/nightride/images/nightride_map.jpg
+sydney_ferry|-33.861256,151.210954|2011-12|Sydney Ferries|NSW TransportInfo
 brisbane_rail_bus|-27.473986,153.028035|2009-08|Brisbane QR and busway network|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Train.jpg
 brisbane_ferry|-27.473986,153.028035|2008-08-04|Brisbane TransLink ferries|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Ferry.jpg
 
