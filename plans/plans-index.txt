@@ -66,10 +66,10 @@ hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
 braunschweig_gesamt|52.252187,10.539705|2011-08-18|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
 braunschweig_innenstadt|52.263931,10.526361|2011-08-18|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
 wolfsburg|52.429484,10.788249|2012-08|Wolfsburg Liniennetz|WVG
-karlsruhe_liniennetz|48.993988,8.400328|2011-12-11|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
-karlsruhe_regio|48.993988,8.400328|2011-12-11|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
-karlsruhe_bus|49.009498,8.404073|2011-12-11|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
-karlsruhe_nightliner|49.009498,8.404073|2011-12-11|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
+karlsruhe_liniennetz|48.993988,8.400328|2012-09-09|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
+karlsruhe_regio|48.993988,8.400328|2012-09-09|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
+karlsruhe_bus|49.009498,8.404073|2012-09-09|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
+karlsruhe_nightliner|49.009498,8.404073|2012-09-09|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
 freiburg_liniennetz|47.996556,7.840286|2012-03-01|Freiburg Liniennetz|Freiburger Verkehrs AG
 freiburg_nacht|47.996556,7.840286|2012-02-01|Freiburg Nachtbus|Freiburger Verkehrs AG
 
