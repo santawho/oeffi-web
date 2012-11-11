@@ -155,6 +155,7 @@ newcastle_metro|54.972793,-1.604741||Newcastle Metro|Nexus|http://transportmaps.
 nottingham_bus_city_center|52.947042,-1.146276||Nottingham City Centre Bus/Tram|FWT|http://transportmaps.free.fr/maps/United_Kingdom/Nottingham/map_Bus_NCTX_Inner_City_Map.jpg
 nottingham_bus_greater_area|52.947042,-1.146276||Nottingham Greater Area Bus||http://transportmaps.free.fr/maps/United_Kingdom/Nottingham/map_Greater_Nottingham_Buses.jpg
 york|53.957911,-1.093061||York Bus||http://transportmaps.free.fr/maps/United_Kingdom/York/map_Bus.jpg
+westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 
 # fr
 
