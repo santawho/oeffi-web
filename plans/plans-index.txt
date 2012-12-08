@@ -78,8 +78,8 @@ freiburg_nacht|47.996556,7.840286|2012-02-01|Freiburg Nachtbus|Freiburger Verkeh
 
 # at
 
-linz|48.290893,14.291965|2011-12|Linz Verkehrslinienplan|Linz AG
-linz_nacht|48.290893,14.291965|2009-04|Linz Nachtverkehr|Linz AG
+linz|48.290893,14.291965|2012-10|Linz Verkehrslinienplan|Linz AG
+linz_nacht|48.290893,14.291965||Linz Nachtverkehr|Linz AG|http://www.linzag.at/cms/media/linzagwebsite/images_3/mobilittverkehr/Plan_Nachtlinien.jpg
 innsbruck_tram|47.26332,11.400951|2011|Innsbruck Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan_innsbruck_gross_aktuell.gif
 graz|47.073371,15.416154|2012-04|Graz Liniennetz|Verbund Linie
 graz_nightline|47.073371,15.416154|2012-02|Graz Nightline|Verbund Linie
