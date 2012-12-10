@@ -14,12 +14,12 @@ bvg_hauptbahnhof|52.525034,13.369415||Berlin Hauptbahnhof Standortplan|Berliner 
 bvg_zoologischer_garten|52.507102,13.332236||Berlin Zoologischer Garten Standortplan|Berliner Verkehrsbetriebe (BVG)|http://www.bvg.de/index.php/de/binaries/asset/download/475104/pdf_image_width_1280_jpeg/1-1
 berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|http://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
 #!group:
-brandenburg_regionalverkehr|52.525578,13.369523|2011-12-11|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
-potsdam_tag|52.390931,13.067171|2011-12-11|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
-potsdam_nacht|52.390931,13.067171|2011-12-11|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
-cottbus_tag_abc|51.760897,14.330106|2011-12-11|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
-cottbus_abend|51.760897,14.330106|2011-12-11|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
-frankfurt_oder_abc|52.336876,14.545712|2011-12-11|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
+brandenburg_regionalverkehr|52.525578,13.369523|2012-12-09|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_tag|52.390931,13.067171|2012-12-09|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+potsdam_nacht|52.390931,13.067171|2012-12-09|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_tag_abc|51.760897,14.330106|2012-12-09|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
+cottbus_abend|51.760897,14.330106|2012-12-09|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
+frankfurt_oder_abc|52.336876,14.545712|2012-12-09|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
 dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
 muenchen_schnellbahn|48.140377,11.560643|2012-12|München Schnellbahn|MVV
 muenchen_tram_metrobus|48.140377,11.560643|2012-12|München Tram/MetroBus|MVV/MVG
