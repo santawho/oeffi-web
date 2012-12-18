@@ -199,9 +199,9 @@ buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http
 
 # au
 
-melbourne_metropolitan_train|-37.813425,144.962869|2012-04-22|Melbourne Metropolitan Train|State of Victoria|http://ptv.vic.gov.au/assets/PTV/Metropolitan-train/_resampled/resizedimage10441005-Train-Network-Map-2DL-PTV.gif
-melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan Tram|State of Victoria|http://ptv.vic.gov.au/assets/images/Maps-and-stops/Train-and-tram-network/TramNetworkMap3.jpg
-melbourne_metropolitan_nightrider|-37.813425,144.962869|2012-02|Melbourne NightRider||http://ptv.vic.gov.au/assets/PTV/NightRider/_resampled/resizedimage10441095-NightRider-Network-Map-2DL.gif
+melbourne_metropolitan_train|-37.813425,144.962869|2012-11-18|Melbourne Metropolitan Train|Public Transport Victoria
+melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan Tram|State of Victoria
+melbourne_metropolitan_nightrider|-37.813425,144.962869|2012-02|Melbourne NightRider|Public Transport Victoria
 sydney_cityrail|-33.882474,151.206688|2011-04|Sydney CityRail network|RailCorp
 sydney_monorail_lightrail|-33.873103,151.199918|2011|Sydney Monorail/Light Rail|Metro Transport Sydney
 sydney_night|-33.873813,151.206805|2011-04|Sydney NightRide Bus network|RailCorp|http://cityrail.info/timetables/nightride/images/nightride_map.jpg
