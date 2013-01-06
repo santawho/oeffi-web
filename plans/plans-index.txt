@@ -37,7 +37,7 @@ erlangen_verkehrsnetz|49.595851,11.001701|2012-12-09|Erlangen Verkehrsnetz|Verke
 coburg_liniennetz|50.262975,10.957691|2011-12-11|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2011-12-11|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2012-12-09|Hamburg Schnellbahn/Regional|HVV
-hamburg_metrobus_gross|53.552946,10.006782|2011-12-11|Hamburg MetroBus Großbereich|HVV
+hamburg_metrobus_gross|53.552946,10.006782|2012-12-09|Hamburg MetroBus Großbereich|HVV
 rostock_vvw_liniennetz|54.078139,12.131724|2012-12-09|Rostock Liniennetz|Verkehrsverbund Warnow GmbH
 rostock_vvw_region|54.078139,12.131724|2012-12-09|Rostock Region|Verkehrsverbund Warnow GmbH
 rostock_liniennetz|54.078139,12.131724|2012-12-09|Rostock Liniennetz|Lucas Weiss, CC-BY-SA 3.0
