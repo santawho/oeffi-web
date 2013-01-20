@@ -181,6 +181,12 @@ poznan_night|52.40144,16.91215||Poznan Night Buses|MPK|http://transportmaps.free
 warsaw_rail|52.230515,21.010702|2011-12-01|Warsaw Rail Transport|ztm|http://www.ztm.waw.pl/mapa/duze/tramwaje.gif
 warsaw_metro_tram|52.230515,21.010702||Warsaw Metro and Tram|zajcev|http://transportmaps.free.fr/maps/Poland/Warsaw/map_Subway_and_Tramway.jpg
 
+# sk
+
+bratislava_city|48.158729,17.106804|2012-10|Bratislava City Lines|Dopravný podnik Bratislava
+bratislava_tram|48.158729,17.106804|2012-03-19|Bratislava Tram|Dopravný podnik Bratislava
+bratislava_night|48.158729,17.106804|2011-12-17|Bratislava Night Routes|Dopravný podnik Bratislava
+
 # us
 
 sanfrancisco_metro|37.774534,-122.419124|2007-07|San Francisco Metro|SFMTA|http://transit.511.org/static/providers/maps/SF_712200722845.gif
