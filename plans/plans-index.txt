@@ -189,6 +189,10 @@ bratislava_city|48.158729,17.106804|2012-10|Bratislava City Lines|Dopravný podn
 bratislava_tram|48.158729,17.106804|2012-03-19|Bratislava Tram|Dopravný podnik Bratislava
 bratislava_night|48.158729,17.106804|2011-12-17|Bratislava Night Routes|Dopravný podnik Bratislava
 
+# gr
+
+athen_metro|37.992426,23.720444||Athens Metro|Attiko Metro
+
 # us
 
 sanfrancisco_metro|37.774534,-122.419124|2007-07|San Francisco Metro|SFMTA|http://transit.511.org/static/providers/maps/SF_712200722845.gif
