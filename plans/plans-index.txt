@@ -83,6 +83,8 @@ karlsruhe_bus|49.009498,8.404073|2013-04-29|Karlsruhe Busnetz|Karlsruher Verkehr
 karlsruhe_nightliner|49.009498,8.404073|2013-04-29|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
 freiburg_liniennetz|47.996556,7.840286|2012-03-01|Freiburg Liniennetz|Freiburger Verkehrs AG
 freiburg_nacht|47.996556,7.840286|2012-02-01|Freiburg Nachtbus|Freiburger Verkehrs AG
+freudenstadt_werktag|48.460501,8.428012||Freudenstadt Liniennetz Werktags|vgf
+freudenstadt_freizeit|48.460501,8.428012||Freudenstadt Liniennetz Freizeit|vgf
 mannheim_ludwigshafen|49.481844,8.459115|2012-06|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
 heidelberg|49.403434,8.676352|2012-12|Heidelberg Liniennetz|RNV GmbH
 
