@@ -36,6 +36,8 @@ nuernberg_schiene|49.445719,11.082618|2012-12-09|Nürnberg, Fürth Schienennetz|
 nuernberg_nightliner|49.445719,11.082618|2012-12-09|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
 fuerth_verkehrsnetz|49.469832,10.990178|2012-12-09|Fürth Verkehrsnetz|Verkehrsverbund Großraum Nürnberg
 erlangen_verkehrsnetz|49.595851,11.001701|2012-12-09|Erlangen Verkehrsnetz|Verkehrsverbund Großraum Nürnberg
+bayreuth_tag|49.949701,11.579951||Bayreuth Tag|Verkehrsverbund Großraum Nürnberg
+bayreuth_nacht|49.949701,11.579951||Bayreuth Nacht|Verkehrsverbund Großraum Nürnberg
 bamberg|49.900716,10.899453|2012-12-09|Bamberg Liniennetz|Stadtwerke Bamberg
 coburg_liniennetz|50.262975,10.957691|2011-12-11|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2012-12-09|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
