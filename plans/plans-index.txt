@@ -133,10 +133,10 @@ amsterdam_tram|52.378861,4.900392|2012|Amsterdam Tram|Alargule/Alain Lemaire, Wi
 
 # se
 
-gothenburg_city|57.708792,11.973538|2009-12-13|Göteborg City|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_City_Route_Map.jpg
-gothenburg_tram|57.708792,11.973538||Göteborg Tram|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Tram_lines.jpg
-gothenburg_night|57.708792,11.973538||Göteborg Night Lines|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Night_Lines.jpg
-gothenburg_region|57.708792,11.973538||Göteborg Region|västtrafik|http://transportmaps.free.fr/maps/Sweden/Gothenburg/map_Buses_and_Trains_to_and_from_Gothenburg.jpg
+gothenburg_tram|57.708792,11.973538|2012-12-09|Göteborg Tram and Trunk Bus|västtrafik
+gothenburg_commuter|57.708792,11.973538|2012-12-09|Göteborg Express Buses and Commuter Trains|västtrafik
+gothenburg_ferry|57.708792,11.973538|2012-12-09|Göteborg Tram and Ferry|västtrafik
+gothenburg_region|57.708792,11.973538|2012-12-09|Göteborg Region|västtågen
 jonkoping_bus|57.784691,14.163508||Jonkoping Bus||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Lines.jpg
 jonkoping_map|57.784691,14.163508||Jonkoping Map||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Map.jpg
 linkoping_bus|58.416129,15.626714|2009-06-14|Linkoping Bus||http://transportmaps.free.fr/maps/Sweden/Linkoping/map_Bus.jpg
