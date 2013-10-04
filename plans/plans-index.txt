@@ -101,8 +101,8 @@ innsbruck_tram|47.26332,11.400951|2012-12-15|Innsbruck Straßenbahn|Steve Stipsi
 graz|47.073371,15.416154|2012-04|Graz Liniennetz|Verbund Linie
 graz_nightline|47.073371,15.416154|2012-02|Graz Nightline|Verbund Linie
 graz_tram|47.073371,15.416154|2012-11-26|Graz Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan_graz_tagesverkehr_gross_aktuell.gif
-wien_susb|48.209477,16.371074|2012-12-09|Wien Netzplan|Ben Lode
-wien_tram|48.209477,16.371074|2012-12-09|Wien Straßenbahn|Ben Lode
+wien_susb|48.209477,16.371074|2013-10-05|Wien Netzplan|Ben Lode
+wien_tram|48.209477,16.371074|2013-10-05|Wien Straßenbahn|Ben Lode
 wien_netz|48.209477,16.371074|2012-12-22|Wien Netzplan|Steve Stipsits|http://www.public-transport.at/netzplan_strassenbahn_wien_gross_aktuell.gif
 wien_city|48.209477,16.371074|2012-12-09|Wien City|Steve Stipsits|http://www.public-transport.at/schienenverkehr_innenstadt_wien_gross_aktuell.gif
 wien_su|48.209477,16.371074|2012-12-09|Wien S+U|Steve Stipsits|http://www.public-transport.at/schnellbahnsystem_wien_gross_aktuell.gif
