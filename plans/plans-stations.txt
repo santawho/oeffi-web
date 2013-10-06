@@ -1342,7 +1342,7 @@ db|939224|Bei der Tweel|rostock_liniennetz|753|358
 db|936224|Goetheplatz|rostock_liniennetz|917|329
 db|936280|Kröpeliner Tor|rostock_liniennetz|975|599
 db|936289|Lange Straße|rostock_liniennetz|1023|602
-db||Schnickmannstraße|rostock_liniennetz|992|709
+db|936203|Schnickmannstraße|rostock_liniennetz|992|709
 db|936352|Neuer Markt|rostock_liniennetz|1071|607
 db|935044|Speicher|rostock_liniennetz|1161|689
 db|935031|Am Rosengarten|rostock_liniennetz|1057|562
@@ -1389,7 +1389,7 @@ db|936234|Hafenallee|rostock_liniennetz|1166|1146
 db|936265|Joliot-Curie-Allee|rostock_liniennetz|1165|1183
 db|935082|Weidendamm|rostock_liniennetz|1157|1226
 db|935095|Zum Schäferteich|rostock_liniennetz|1183|1253
-db|935070|Urho-Kekkonen-Straße|rostock_liniennetz|1227|1257
+db|935070|Urho-Kekkonen-Straße|rostock_liniennetz|1227|1297
 db|936162|Albert-Schweitzer-Straße|rostock_liniennetz|1310|1215
 db|936267|Jawaharlal-Nehru-Straße|rostock_liniennetz|1362|1162
 db|936301|Martin-Luther-King-Allee|rostock_liniennetz|1442|1093
@@ -1413,7 +1413,7 @@ db|936324|Oldendorf|rostock_liniennetz|1050|1466
 db|936281|Krummendorf|rostock_liniennetz|1050|1502
 db|936241|Heidenholzmoor|rostock_liniennetz|1050|1539
 db|935038|Seehafen|rostock_liniennetz|1065|1667
-db|935039|Seehafen Fähre|rostock_liniennetz|993|1762
+db|935039|Seehafen Fähre|rostock_liniennetz|993|1662
 db|939233|Seehafen Anleger|rostock_liniennetz|965|1717
 db|935714|Seehafen Ost|rostock_liniennetz|1073|1765
 db|939229|Getreidehafen|rostock_liniennetz|1179|1762
@@ -1453,3 +1453,139 @@ db|935300|Wallensteins Lager|rostock_liniennetz|1556|1920
 db|935965|Müggenburg|rostock_liniennetz|1619|1920
 db|8012582|Rostock-Torfbrücke (DB)|rostock_liniennetz|1680|1903
 db|935271|Torfbrücke (RvK KVG)|rostock_liniennetz|1680|1920
+
+# Ben Lode <ben.lode@gmx.at>
+
+wien|60201858|Aderklaaer Str. U|wien_susb|2064|297
+wien|60200027|Alser Str. U|wien_susb|1004|589
+wien|60200031|Alte Donau U|wien_susb|1865|490
+wien|60201499|Alt-Erlaa U|wien_susb|797|1393
+wien|60200048|Am Schöpfwerk U|wien_susb|799|1330
+wien|60200299|Aspernstr. U|wien_susb|2228|677
+wien|60200910|Aspern Nord U|wien_susb|2359|660
+wien|60200092|Atzgersdorf S|wien_susb|650|1392
+wien|60200582|Blumental S|wien_susb|1349|1535
+wien|60200161|Braunschweiggasse U|wien_susb|535|1038
+wien|60200035|Breitensee S|wien_susb|587|865
+wien|60200176|Brünner Straße S|wien_susb|1832|229
+wien|60200188|Burggasse-Stadthalle U|wien_susb|901|848
+wien|60200234|Donauinsel U|wien_susb|1800|559
+wien|60200282|Donaumarina U|wien_susb|1980|789
+wien|60201278|Donauspital U|wien_susb|2149|707
+wien|60200236|Donaustadtbrücke U|wien_susb|2018|751
+wien|60200500|Dresdner Str. U|wien_susb|1577|345
+wien|60200425|Enkplatz U|wien_susb|1751|1298
+wien|60200283|Erdberg U|wien_susb|1755|1073
+wien|60200285|Erlaaer Str. U|wien_susb|796|1450
+wien|60200288|Erzherzog-Karl-Str. S|wien_susb|2052|601
+wien|60200235|Floridsdorf S+U|wien_susb|1799|300
+wien|60204708|Flughafen Wien|wien_susb|2047|1570
+wien|60200344|Franz-Josefs-Bf. S|wien_susb|1357|441
+wien|60200357|Friedensbrücke U|wien_susb|1411|441
+wien|60201749|Gasometer U|wien_susb|1755|1161
+wien|60200484|Geiselbergstr. S|wien_susb|1647|1290
+wien|60200024|Gerasdorf S|wien_susb|2326|217
+wien|60200393|Gersthof S|wien_susb|800|382
+wien|60201257|Grillgasse S|wien_susb|1523|1370
+wien|60201859|Großfeldsiedlung U|wien_susb|2102|254
+wien|60200436|Gumpendorfer Str. U|wien_susb|901|1000
+wien|60200340|Hadersdorf S|wien_susb|118|915
+wien|60200465|Haidestraße S|wien_susb|1957|1213
+wien|60201705|Handelskai S+U|wien_susb|1636|333
+wien|60200473|Hardeggasse U|wien_susb|2127|684
+wien|60200487|Hausfeldstr. U|wien_susb|2327|621
+wien|60200301|Heiligenstadt S+U|wien_susb|1425|188
+wien|60200505|Hernals S|wien_susb|667|532
+wien|60200506|Herrengasse U|wien_susb|1293|797
+wien|60200511|Hetzendorf S|wien_susb|720|1287
+wien|60200520|Hietzing U|wien_susb|584|1038
+wien|60200530|Hirschstetten S|wien_susb|2173|543
+wien|60200184|Hütteldorf S+U|wien_susb|242|960
+wien|60200184|Hütteldorfer Str. U|wien_susb|622|859
+wien|60201667|Jägerstraße U|wien_susb|1524|340
+wien|60200591|Jedlersdorf S|wien_susb|1780|176
+wien|60200606|Johnstraße U|wien_susb|715|901
+wien|60200615|Josefstädter Str. U|wien_susb|898|696
+wien|60200627|Kagran U|wien_susb|1906|455
+wien|60200630|Kagraner Platz U|wien_susb|1953|409
+wien|60200638|Kaiserebersdorf S|wien_susb|1949|1504
+wien|60200641|Kaisermühlen-VIC U|wien_susb|1828|528
+wien|60200653|Kardinal-Nagl-Platz U|wien_susb|1659|984
+wien|60200657|Karlsplatz U|wien_susb|1328|973
+wien|60201317|Kendlerstraße U|wien_susb|695|835
+wien|60200666|Keplerplatz U|wien_susb|1330|1228
+wien|60200670|Kettenbrückengasse U|wien_susb|1215|1003
+wien|60200685|Kledering S|wien_susb|1656|1505
+wien|60201893|Krieau U|wien_susb|1845|722
+wien|60200723|Krottenbachstr. S|wien_susb|949|237
+wien|60200368|Längenfeldgasse U|wien_susb|880|1039
+wien|60200769|Leopoldau S+U|wien_susb|2138|219
+wien|60200076|Liesing S|wien_susb|650|1535
+wien|60200806|Lobau S|wien_susb|2053|780
+wien|60200077|Margaretengürtel U|wien_susb|992|1039
+wien|60200091|Matzleinsdorfer Platz S|wien_susb|1092|1173
+wien|60200863|Meidling Hauptstr. U|wien_susb|802|1093
+wien|60200863|Meidling S+U|wien_susb|856|1175
+wien|60201892|Messe-Prater U|wien_susb|1780|661
+wien|60200874|Michelbeuern-AKH U|wien_susb|1011|436
+wien|60200835|Museumsquartier U|wien_susb|1243|897
+wien|60200916|Nestroyplatz U|wien_susb|1587|747
+wien|60200056|Neubaugasse U|wien_susb|1114|956
+wien|60200917|Neue Donau U|wien_susb|1707|342
+wien|60200937|Niederhofstr. U|wien_susb|842|1092
+wien|60200029|Nußdorf S|wien_susb|1513|77
+wien|60200029|Nußdorfer Str. U|wien_susb|1201|326
+wien|60200956|Ober St. Veit U|wien_susb|354|1040
+wien|60200959|Oberdöbling S|wien_susb|1107|212
+wien|60200284|Ottakring S+U|wien_susb|592|737
+wien|60201003|Penzing S|wien_susb|532|957
+wien|60201007|Perfektastraße U |wien_susb|797|1493
+wien|60201018|Pilgramgasse U|wien_susb|1130|1040
+wien|60201301|Praterkai S|wien_susb|2027|837
+wien|60201040|Praterstern S+U|wien_susb|1696|661
+wien|60204601|Purkersdorf Sanatorium S|wien_susb|44|916
+wien|60200192|Rathaus U|wien_susb|1213|759
+wien|60201860|Rennbahnweg U|wien_susb|1999|357
+wien|60201091|Rennweg S|wien_susb|1509|1053
+wien|60201095|Reumannplatz U|wien_susb|1326|1281
+wien|60201104|Rochusgasse U|wien_susb|1606|926
+wien|60201124|Roßauer Lände U|wien_susb|1413|572
+wien|60201166|Schlachthausgasse U|wien_susb|1713|1032
+wien|60200517|Schönbrunn U|wien_susb|719|1038
+wien|60201181|Schottenring U|wien_susb|1445|686
+wien|60201181|Schottentor U|wien_susb|1309|674
+wien|60204710|Schwechat S|wien_susb|2005|1529
+wien|60201198|Schwedenplatz U|wien_susb|1502|746
+wien|60201200|Schweglerstr. U|wien_susb|797|869
+wien|60200942|Seestadt U|wien_susb|2363|738
+wien|60201235|Siebenhirten U|wien_susb|975|1532
+wien|60200495|Siemensstr. S|wien_susb|1946|171
+wien|60201259|Simmering S+U|wien_susb|1809|1356
+wien|60201285|Speising S|wien_susb|556|1174
+wien|60201062|Spittelau S+U|wien_susb|1396|325
+wien|60201425|St. Marx S|wien_susb|1601|1144
+wien|60200994|Stadion U|wien_susb|1910|786
+wien|60201299|Stadlau S+U|wien_susb|2052|717
+wien|60201305|Stadtpark U|wien_susb|1478|939
+wien|60201320|Stephansplatz U|wien_susb|1377|806
+wien|60201333|Strebersdorf S|wien_susb|1775|51
+wien|60200245|Stubentor U|wien_susb|1515|841
+wien|60201346|Quartier Belvedere S|wien_susb|1409|1170
+wien|60201349|Hauptbahnhof S+U|wien_susb|1333|1171
+wien|60201357|Süßenbrunn S|wien_susb|2341|324
+wien|60200494|Taborstr. U|wien_susb|1555|684
+wien|60201366|Taubstummengasse U|wien_susb|1330|1068
+wien|60200172|Thaliastr. U|wien_susb|897|758
+wien|60201385|Traisengasse S|wien_susb|1582|420
+wien|60201394|Tscherttegasse U|wien_susb|835|1293
+wien|60200558|Unter St. Veit U|wien_susb|474|1039
+wien|60201430|Volkstheater U|wien_susb|1213|866
+wien|60201433|Vorgartenstr. U|wien_susb|1756|600
+wien|60201509|Währinger Str.-Volksoper U|wien_susb|1047|408
+wien|60201458|Weidlingau S|wien_susb|73|918
+wien|60201468|Westbahnhof S+U|wien_susb|902|953
+wien|60200743|Wien Mitte-Landstraße S+U|wien_susb|1549|870
+wien|60201482|Wolf in der Au S|wien_susb|158|915
+wien|60201519|Zentralfriedhof S|wien_susb|1727|1453
+wien|60201530|Zieglergasse U|wien_susb|1008|954
+wien|60200399|Zippererstraße U|wien_susb|1693|1228
