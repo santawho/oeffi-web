@@ -201,9 +201,10 @@ warsaw_metro_tram|52.230515,21.010702||Warsaw Metro and Tram|zajcev|http://trans
 
 # sk
 
-bratislava_city|48.158729,17.106804|2012-10|Bratislava City Lines|Dopravný podnik Bratislava
-bratislava_tram|48.158729,17.106804|2012-03-19|Bratislava Tram|Dopravný podnik Bratislava
-bratislava_night|48.158729,17.106804|2011-12-17|Bratislava Night Routes|Dopravný podnik Bratislava
+bratislava_city|48.158729,17.106804|2013-09|Bratislava City Lines|Dopravný podnik Bratislava
+bratislava_tram|48.158729,17.106804|2013-09-16|Bratislava Tram|Dopravný podnik Bratislava
+bratislava_trolley|48.158729,17.106804|2013-09-02|Bratislava Trolley Buses|Dopravný podnik Bratislava
+bratislava_night|48.158729,17.106804|2013-09-02|Bratislava Night Routes|Dopravný podnik Bratislava
 
 # gr
 
