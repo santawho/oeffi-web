@@ -55,8 +55,8 @@ stuttgart_nacht|48.77861,9.179803|2012-12|Stuttgart Nachtverkehr|Verkehrs- und T
 hannover_stadtbahn|52.376715,9.741168|2012-12|Hannover Stadtbahnnetz|GVH
 hannover_bus|52.376715,9.741168|2012-12|Hannover Busnetz|GVH
 hannover_regional|52.376715,9.741168|2012-12|Hannover Regional- und S-Bahn-Linien|GVH
-bielefeld|52.029241,8.532835|2013-01|Bielefeld Gesamtnetz|moBiel
-bielefeld_nacht|52.029241,8.532835|2012-10|Bielefeld Nachtbus|moBiel
+bielefeld|52.029241,8.532835|2013-06|Bielefeld Gesamtnetz|moBiel
+bielefeld_nacht|52.029241,8.532835|2013-10|Bielefeld Nachtbus|moBiel
 nrw_regio|51.429807,6.775253|2012-12|NRW Busse & Bahnen|VRS
 rmv_schnellbahn|50.106318,8.662139|2011-12-11|Rhein-Main Schnellbahn|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31950-51502/original/RMV-Schnellbahnplan.jpg
 rmv_regional|50.106318,8.662139|2011-12-11|Rhein-Main Regional|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31368-27837/original/Regionaler_Schienennetzplan.gif
