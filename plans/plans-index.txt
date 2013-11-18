@@ -82,10 +82,10 @@ wolfenbuettel|52.15898,10.532012|2011-12|Wolfenbüttel Liniennetz|KVG Braunschwe
 harz|51.888518,10.554843|2011-12|Harz Liniennetz|KVG Braunschweig
 helmstedt|52.222331,11.010690|2012-10|Helmstedt Liniennetz|KVG Braunschweig
 wolfsburg|52.429484,10.788249|2012-08|Wolfsburg Liniennetz|WVG
-karlsruhe_liniennetz|48.993988,8.400328|2013-04-29|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
+karlsruhe_liniennetz|48.993988,8.400328|2013-11-18|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
 karlsruhe_regio|48.993988,8.400328|2013-04-29|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
-karlsruhe_bus|49.009498,8.404073|2013-04-29|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
-karlsruhe_nightliner|49.009498,8.404073|2013-04-29|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
+karlsruhe_bus|49.009498,8.404073|2013-11-18|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
+karlsruhe_nightliner|49.009498,8.404073|2013-11-18|Karlsruhe Nightliner|Karlsruher Verkehrsverbund GmbH
 freiburg_liniennetz|47.996556,7.840286|2012-03-01|Freiburg Liniennetz|Freiburger Verkehrs AG
 freiburg_nacht|47.996556,7.840286|2012-02-01|Freiburg Nachtbus|Freiburger Verkehrs AG
 freudenstadt_werktag|48.460501,8.428012||Freudenstadt Liniennetz Werktags|vgf
