@@ -1237,10 +1237,10 @@ db|935012|Groß Klein Dorf|rostock_liniennetz|672|1712
 db|936219|Gerüstbauerring|rostock_liniennetz|667|1679
 db|936180|Blockmacherring|rostock_liniennetz|667|1645
 db|936187|Dänenberg|rostock_liniennetz|667|1612
-db|935026|Schmarl Dorf|rostock_liniennetz|699|1547
-db|935027|Schmarl Zentrum|rostock_liniennetz|674|1492
-db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|596|1509
-db|936258|HP Lütten Klein (RSAG RvK)|rostock_liniennetz|617|1509
+db|935026|Schmarl Dorf|rostock_liniennetz|725|1547
+db|935027|Schmarl Zentrum|rostock_liniennetz|674|1489
+db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|603|1502
+db|936258|HP Lütten Klein (RSAG RvK)|rostock_liniennetz|618|1502
 db|936648|Lütten Klein Zentrum|rostock_liniennetz|411|1516
 db|936326|Osloer Straße|rostock_liniennetz|250|1516
 db|936215|Gedser Straße|rostock_liniennetz|205|1469
@@ -1281,17 +1281,16 @@ db|935068|Ulrich-von-Hutten-Straße|rostock_liniennetz|308|754
 db|936285|Kuphalstraße|rostock_liniennetz|308|717
 db|935065|Tschaikowskistraße|rostock_liniennetz|313|680
 db|936214|Gartenstadt|rostock_liniennetz|313|647
-db|935037|Schwimmhalle|rostock_liniennetz|321|589
+db|935037|Schwimmhalle|rostock_liniennetz|317|595
 db|936330|Stadion|rostock_liniennetz|404|581
 db|939222|Klinikum Schillingallee|rostock_liniennetz|497|556
 db|935023|Schillingallee|rostock_liniennetz|566|584
 db|8012803|Rostock-Bramow|rostock_liniennetz|607|888
 db|936284|Kunsthalle|rostock_liniennetz|478|853
 db|936242|Heinrich-Schütz-Straße|rostock_liniennetz|524|807
-db|8012805|Rostock Holbeinplatz (DB)|rostock_liniennetz|603|735
-db|936251|Holbeinplatz (RSAG)|rostock_liniennetz|585|753
-db|936251|Holbeinplatz (RSAG)|rostock_liniennetz|620|718
-db|936227|Greifswalder Straße|rostock_liniennetz|566|680
+db|8012805|Rostock Holbeinplatz (DB)|rostock_liniennetz|601|730
+db|936251|Holbeinplatz (RSAG)|rostock_liniennetz|567|730
+db|936227|Greifswalder Straße|rostock_liniennetz|566|660
 db|939227|Dethardingstraße|rostock_liniennetz|566|501
 db|8012801|Rostock Parkstraße (DB)|rostock_liniennetz|602|431
 db|936331|Parkstraße (RSAG)|rostock_liniennetz|566|431
@@ -1302,7 +1301,7 @@ db|935087|Westfriedhof|rostock_liniennetz|146|507
 db|935093|Zoo|rostock_liniennetz|156|451
 db|936200|Dr.-Lorenz-Weg|rostock_liniennetz|308|451
 db|936337|Platz der Jugend|rostock_liniennetz|454|446
-db|8079629|Thierfelder Straße|rostock_liniennetz|239|362
+db|8079629|Rostock Thierfelder Straße|rostock_liniennetz|239|362
 db|936318|Neuer Friedhof|rostock_liniennetz|138|319
 db|939232|Graureiherweg|rostock_liniennetz|55|273
 db|939231|Tannenweg|rostock_liniennetz|13|296
@@ -1330,7 +1329,7 @@ db|936196|Dieselmotorenwerk|rostock_liniennetz|1093|120
 db|936201|Erich-Schlesinger-Straße|rostock_liniennetz|785|221
 db|935089|Stadthalle|rostock_liniennetz|935|223
 db|936305|Mendelejewstraße|rostock_liniennetz|960|136
-db|936303|Maßmannstraße|rostock_liniennetz|665|678
+db|936303|Maßmannstraße|rostock_liniennetz|666|688
 db|936269|Kabutzenhof|rostock_liniennetz|692|651
 db|936652|Kabutzenhof Fähre|rostock_liniennetz|749|709
 db|935071|Volkstheater|rostock_liniennetz|764|627
@@ -1357,7 +1356,7 @@ db|935887|Hauptbahnhof (RSAG)|rostock_liniennetz|1161|231
 db|935017|Hauptbahnhof Süd|rostock_liniennetz|1125|188
 db|935048|Hauptbahnhof Süd/ZOB|rostock_liniennetz|1193|176
 db|936314|Neubrandenburger Straße|rostock_liniennetz|1368|471
-db|936271|Kessiner Berg|rostock_liniennetz|1368|391
+db|936271|Kessiner Berg|rostock_liniennetz|1368|387
 db|8012806|Rostock-Kassebohm|rostock_liniennetz|1406|456
 db|936168|Am Petridamm|rostock_liniennetz|1444|679
 db|936163|Am Bagehl|rostock_liniennetz|1246|567
