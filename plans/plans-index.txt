@@ -217,10 +217,10 @@ sanfrancisco_downtown|37.774534,-122.419124|2010-10|San Francisco Downtown|SFMTA
 sanfrancisco_marketstreet|37.774534,-122.419124|2010-10|San Francisco Market Street|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010101811.gif
 sanfrancisco_owl|37.774534,-122.419124|2010-10|San Francisco Owl Service|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010102001.gif
 sanfrancisco_bart|37.616291,-122.386079||San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/images/global/system-map.gif
-losangeles_system|34.05427,-118.246715|2010-12|Los Angeles System|metro.net|http://www.metro.net/riding_metro/maps/images/system_Map.gif
-# losangeles_downtown|34.05427,-118.246715|2010-12|Los Angeles Downtown|metro.net|http://www.metro.net/riding_metro/maps/images/System_Map_detail.jpg
-losangeles_metro|34.05427,-118.246715|2012-06|Los Angeles Metro|metro.net|http://www.metro.net/riding_metro/maps/images/rail_map.gif
-losangeles_metro_metrolink|34.05427,-118.246715|2012-06|Los Angeles Metro & Metrolink|metro.net|http://www.metro.net/riding_metro/maps/images/metro_metrolink_map.gif
+losangeles_system|34.05427,-118.246715|2013-06|Los Angeles System|metro.net|http://media.metro.net/riding_metro/maps/images/system_map.gif
+losangeles_downtown|34.05427,-118.246715|2013-06|Los Angeles Downtown|metro.net|http://media.metro.net/riding_metro/maps/images/System_Map_detail.gif
+losangeles_metro|34.05427,-118.246715|2013-08|Los Angeles Metro|metro.net|http://media.metro.net/riding_metro/maps/images/rail_map.gif
+losangeles_metro_metrolink|34.05427,-118.246715|2013-06|Los Angeles Metro & Metrolink|metro.net|http://media.metro.net/riding_metro/maps/images/metro_metrolink_map.gif
 newyork_subway|40.738452,-73.991919|2010-12|New York Subway|MTA
 philadelphia_regional|39.957386,-75.180488|2012-06|Philadelphia Regional Rain & Rail Transit|SEPTA
 
