@@ -1239,7 +1239,7 @@ db|936180|Blockmacherring|rostock_liniennetz|667|1645
 db|936187|Dänenberg|rostock_liniennetz|667|1612
 db|935026|Schmarl Dorf|rostock_liniennetz|725|1547
 db|935027|Schmarl Zentrum|rostock_liniennetz|674|1489
-db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|995|1502
+db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|595|1502
 db|936258|HP Lütten Klein (RSAG REBUS)|rostock_liniennetz|616|1502
 db|936648|Lütten Klein Zentrum|rostock_liniennetz|411|1516
 db|936326|Osloer Straße|rostock_liniennetz|250|1516
