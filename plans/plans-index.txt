@@ -118,6 +118,7 @@ zuerich_nacht|47.378136,8.540232|2012-12-09|Zürich Nachtnetz|Zürcher Verkehrsv
 winterthur_stadt|47.500334,8.72342|2012-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
 winterthur_nacht|47.500334,8.72342|2012-12-09|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2012-12|Bern Liniennetz|BERNMOBIL
+luzern|47.050023,8.310404|2013-12-15|Luzern Liniennetz|Verkehrsbetriebe Luzern AG
 
 # be
 
