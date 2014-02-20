@@ -224,7 +224,7 @@ losangeles_downtown|34.05427,-118.246715|2013-06|Los Angeles Downtown|metro.net|
 losangeles_metro|34.05427,-118.246715|2013-08|Los Angeles Metro|metro.net|http://media.metro.net/riding_metro/maps/images/rail_map.gif
 losangeles_metro_metrolink|34.05427,-118.246715|2013-06|Los Angeles Metro & Metrolink|metro.net|http://media.metro.net/riding_metro/maps/images/metro_metrolink_map.gif
 newyork_subway|40.738452,-73.991919|2010-12|New York Subway|MTA
-philadelphia_regional|39.957386,-75.180488|2012-06|Philadelphia Regional Rain & Rail Transit|SEPTA
+philadelphia_regional|39.957386,-75.180488|2012-06|Philadelphia Regional Train & Rail Transit|SEPTA
 
 # ar
 
