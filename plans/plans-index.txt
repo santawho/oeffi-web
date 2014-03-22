@@ -50,6 +50,7 @@ osnabrueck|52.272832,8.061726|2011-07-07|Osnabrück Liniennetz|Stadtwerke Osnabr
 osnabrueck_nacht|52.272832,8.061726|2011-07-06|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
 stuttgart_verbund|48.784068,9.181713|2013-09|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
 stuttgart_nacht|48.77861,9.179803|2012-12|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
+ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
 # hannover_sbahn|52.376715,9.741168|2009-06|Hannover S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/6/66/Schemaplan_der_S-Bahn_Hannover.png
 hannover_stadtbahn|52.376715,9.741168|2012-12|Hannover Stadtbahnnetz|GVH
 hannover_bus|52.376715,9.741168|2012-12|Hannover Busnetz|GVH
