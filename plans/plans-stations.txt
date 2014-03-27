@@ -1199,21 +1199,21 @@ db|935013|Rohrmannsche Koppel|rostock_liniennetz|205|2138
 db|936211|Friedhof|rostock_liniennetz|308|2146
 db|935076|Warnemünde Strand|rostock_liniennetz|401|2133
 db|936240|Haus Stolteraa|rostock_liniennetz|494|2141
-db|935088|Wiesenweg|rostock_liniennetz|559|2141
-db|935074|Wachtlerstraße|rostock_liniennetz|604|2143
-db|935042|Seestraße|rostock_liniennetz|637|2143
-db|936253|Hotel Neptun|rostock_liniennetz|671|2143
-db|935042|Seestraße|rostock_liniennetz|704|2143
-db|935074|Wachtlerstraße|rostock_liniennetz|737|2143
-db|935072|Warnemünde Kirchenplatz|rostock_liniennetz|765|2113
+db|935088|Wiesenweg|rostock_liniennetz|557|2134
+db|935074|Wachtlerstraße|rostock_liniennetz|604|2133
+db|935042|Seestraße|rostock_liniennetz|637|2133
+db|936253|Hotel Neptun|rostock_liniennetz|671|2133
+db|935042|Seestraße|rostock_liniennetz|704|2133
+db|935074|Wachtlerstraße|rostock_liniennetz|737|2133
+db|935072|Warnemünde Kirchenplatz|rostock_liniennetz|765|2106
 db|936212|Fritz-Reuter-Straße|rostock_liniennetz|744|2071
 db|936339|Poststraße|rostock_liniennetz|711|2038
 db|939235|Rostocker Straße|rostock_liniennetz|674|2015
 db|935008|Richard-Wagner-Straße TZW|rostock_liniennetz|613|2066
 db|8013236|Warnemünde|rostock_liniennetz|790|2073
 db|936350|Warnemünde Fähre|rostock_liniennetz|829|2073
-db|8013237|Warnemünde Werft (DB)|rostock_liniennetz|704|1990
-db|935077|Warnemünde Werft (RSAG REBUS)|rostock_liniennetz|670|1990
+db|8013237|Warnemünde Werft (DB)|rostock_liniennetz|701|1990
+db|935077|Warnemünde Werft (RSAG REBUS)|rostock_liniennetz|673|1990
 db|939235|Rostocker Straße|rostock_liniennetz|638|1969
 db|935086|Werftblick|rostock_liniennetz|614|1944
 db|936225|Grabower Straße|rostock_liniennetz|584|1914
@@ -1237,10 +1237,10 @@ db|935012|Groß Klein Dorf|rostock_liniennetz|672|1712
 db|936219|Gerüstbauerring|rostock_liniennetz|667|1679
 db|936180|Blockmacherring|rostock_liniennetz|667|1645
 db|936187|Dänenberg|rostock_liniennetz|667|1612
-db|935026|Schmarl Dorf|rostock_liniennetz|725|1547
-db|935027|Schmarl Zentrum|rostock_liniennetz|674|1489
-db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|595|1502
-db|936258|HP Lütten Klein (RSAG REBUS)|rostock_liniennetz|616|1502
+db|935026|Schmarl Dorf|rostock_liniennetz|795|1547
+db|935027|Schmarl Zentrum|rostock_liniennetz|674|1496
+db|8012271|Rostock-Lütten Klein (DB)|rostock_liniennetz|592|1506
+db|936258|HP Lütten Klein (RSAG REBUS)|rostock_liniennetz|613|1506
 db|936648|Lütten Klein Zentrum|rostock_liniennetz|411|1516
 db|936326|Osloer Straße|rostock_liniennetz|250|1516
 db|936215|Gedser Straße|rostock_liniennetz|205|1469
@@ -1274,9 +1274,9 @@ db|939226|Immendiek|rostock_liniennetz|389|963
 db|935004|Rahnstädter Weg|rostock_liniennetz|497|977
 db|935005|Reutershagen|rostock_liniennetz|407|894
 db|936300|Markt Reutershagen|rostock_liniennetz|321|827
-db|936204|Etkar-André-Straße|rostock_liniennetz|238|835
-db|936182|Bonhoefferstraße|rostock_liniennetz|181|835
-db|935073|Walter-Husemann-Straße|rostock_liniennetz|120|787
+db|936204|Etkar-André-Straße|rostock_liniennetz|238|840
+db|936182|Bonhoefferstraße|rostock_liniennetz|175|840
+db|935073|Walter-Husemann-Straße|rostock_liniennetz|125|787
 db|935068|Ulrich-von-Hutten-Straße|rostock_liniennetz|308|754
 db|936285|Kuphalstraße|rostock_liniennetz|308|717
 db|935065|Tschaikowskistraße|rostock_liniennetz|313|680
@@ -1291,7 +1291,7 @@ db|936242|Heinrich-Schütz-Straße|rostock_liniennetz|524|807
 db|8012805|Rostock Holbeinplatz (DB)|rostock_liniennetz|601|737
 db|936251|Holbeinplatz (RSAG)|rostock_liniennetz|567|737
 db|936227|Greifswalder Straße|rostock_liniennetz|566|660
-db|939227|Dethardingstraße|rostock_liniennetz|566|501
+db|939227|Dethardingstraße|rostock_liniennetz|566|504
 db|8012801|Rostock Parkstraße (DB)|rostock_liniennetz|602|431
 db|936331|Parkstraße (RSAG)|rostock_liniennetz|566|431
 db|935015|Rosenweg|rostock_liniennetz|241|596
@@ -1310,12 +1310,12 @@ db|935049|Stadtweide|rostock_liniennetz|96|161
 db|935020|Satower Straße|rostock_liniennetz|96|108
 db|936161|Akazienweg|rostock_liniennetz|96|55
 db|936306|Mensa|rostock_liniennetz|243|228
-db|936273|Klinikum Süd|rostock_liniennetz|361|228
-db|936342|Robert-Koch-Straße|rostock_liniennetz|464|228
-db|935059|Südstadt-Center|rostock_liniennetz|599|223
+db|936273|Klinikum Süd|rostock_liniennetz|354|228
+db|936342|Robert-Koch-Straße|rostock_liniennetz|477|228
+db|935059|Südstadt-Center|rostock_liniennetz|604|223
 db|936296|Majakowskistraße|rostock_liniennetz|559|153
-db|936294|Lomonossowstraße|rostock_liniennetz|524|120
-db|936186|Charles-Darwin-Ring|rostock_liniennetz|489|86
+db|936294|Lomonossowstraße|rostock_liniennetz|516|120
+db|936186|Charles-Darwin-Ring|rostock_liniennetz|481|86
 db|935016|Südblick|rostock_liniennetz|454|53
 db|935090|Wohnpark Biestow|rostock_liniennetz|381|86
 db|939234|Am Dorfteich|rostock_liniennetz|311|86
@@ -1338,13 +1338,13 @@ db|935032|Schröderplatz|rostock_liniennetz|910|494
 db|935878|Deutsche-Med-Platz|rostock_liniennetz|798|394
 db|935018|Saarplatz|rostock_liniennetz|696|431
 db|939224|Bei der Tweel|rostock_liniennetz|753|358
-db|936224|Goetheplatz|rostock_liniennetz|917|329
+db|936224|Goetheplatz|rostock_liniennetz|922|329
 db|936280|Kröpeliner Tor|rostock_liniennetz|975|599
 db|936289|Lange Straße|rostock_liniennetz|1023|602
-db|936203|Schnickmannstraße|rostock_liniennetz|992|709
+db|936203|Schnickmannstraße|rostock_liniennetz|1023|709
 db|936352|Neuer Markt|rostock_liniennetz|1071|607
 db|935044|Speicher|rostock_liniennetz|1161|689
-db|935031|Am Rosengarten|rostock_liniennetz|1057|562
+db|935031|Am Rosengarten|rostock_liniennetz|1063|562
 db|935051|Steintor IHK|rostock_liniennetz|1161|592
 db|936291|Leibnizplatz|rostock_liniennetz|1135|444
 db|936181|Blücherstraße|rostock_liniennetz|1198|501
@@ -1354,16 +1354,16 @@ db|936239|Hauptbahnhof Nord|rostock_liniennetz|1193|329
 db|8010304|Rostock Hbf (DB)|rostock_liniennetz|1161|281
 db|935887|Hauptbahnhof (RSAG)|rostock_liniennetz|1161|231
 db|935017|Hauptbahnhof Süd|rostock_liniennetz|1125|188
-db|935048|Hauptbahnhof Süd/ZOB|rostock_liniennetz|1193|176
+db|935048|Hauptbahnhof Süd/ZOB|rostock_liniennetz|1193|174
 db|936314|Neubrandenburger Straße|rostock_liniennetz|1368|471
 db|936271|Kessiner Berg|rostock_liniennetz|1368|387
 db|8012806|Rostock-Kassebohm|rostock_liniennetz|1406|456
 db|936168|Am Petridamm|rostock_liniennetz|1444|679
-db|936163|Am Bagehl|rostock_liniennetz|1246|567
-db|936207|Flussbad|rostock_liniennetz|1296|567
+db|936163|Am Bagehl|rostock_liniennetz|1243|567
+db|936207|Flussbad|rostock_liniennetz|1289|567
 db|935083|Weißes Kreuz|rostock_liniennetz|1378|576
 db|935062|Tessiner Straße|rostock_liniennetz|1452|567
-db|936260|Hüerbaasweg|rostock_liniennetz|1604|572
+db|936260|Hüerbaasweg|rostock_liniennetz|1612|572
 db|936184|Brinckmansdorf|rostock_liniennetz|1709|572
 db|936603|Gewerbegebiet Brinckmansdorf|rostock_liniennetz|1709|637
 db|936620|Rudolf-Tarnow-Straße|rostock_liniennetz|1709|684
@@ -1379,53 +1379,53 @@ db|936218|Gerberbruch|rostock_liniennetz|1233|654
 db|935857|Stadthafen|rostock_liniennetz|1280|707
 db|936336|Petridamm|rostock_liniennetz|1318|745
 db|936194|Dierkower Damm|rostock_liniennetz|1341|768
-db|936195|Dierkower Kreuz|rostock_liniennetz|1336|837
-db|936302|Martin-Niemöller-Straße|rostock_liniennetz|1298|986
+db|936195|Dierkower Kreuz|rostock_liniennetz|1334|835
+db|936302|Martin-Niemöller-Straße|rostock_liniennetz|1304|982
 db|936252|Hölderlinweg|rostock_liniennetz|1263|1053
 db|936209|Friedensforum|rostock_liniennetz|1230|1086
 db|936226|Graf-Stauffenberg-Straße|rostock_liniennetz|1200|1116
 db|936234|Hafenallee|rostock_liniennetz|1166|1146
 db|936265|Joliot-Curie-Allee|rostock_liniennetz|1165|1183
 db|935082|Weidendamm|rostock_liniennetz|1157|1226
-db|935095|Zum Schäferteich|rostock_liniennetz|1183|1253
-db|935070|Urho-Kekkonen-Straße|rostock_liniennetz|1227|1297
-db|936162|Albert-Schweitzer-Straße|rostock_liniennetz|1310|1215
-db|936267|Jawaharlal-Nehru-Straße|rostock_liniennetz|1362|1162
-db|936301|Martin-Luther-King-Allee|rostock_liniennetz|1442|1093
-db|936286|Kurt-Schumacher-Ring|rostock_liniennetz|1441|1016
-db|936295|Lorenzstraße|rostock_liniennetz|1456|923
-db|935022|Schenkendorfweg|rostock_liniennetz|1221|951
+db|935095|Zum Schäferteich|rostock_liniennetz|1190|1260
+db|935070|Urho-Kekkonen-Straße|rostock_liniennetz|1230|1301
+db|936162|Albert-Schweitzer-Straße|rostock_liniennetz|1313|1218
+db|936267|Jawaharlal-Nehru-Straße|rostock_liniennetz|1366|1166
+db|936301|Martin-Luther-King-Allee|rostock_liniennetz|1447|1095
+db|936286|Kurt-Schumacher-Ring|rostock_liniennetz|1446|1016
+db|936295|Lorenzstraße|rostock_liniennetz|1460|922
+db|935022|Schenkendorfweg|rostock_liniennetz|1227|945
 db|936173|Baumschulenweg|rostock_liniennetz|1154|1013
-db|936216|Gehlsheim Klinik|rostock_liniennetz|1113|1059
-db|936217|Gehlsheimer Straße|rostock_liniennetz|1086|1086
-db|936206|Fährstraße Michaelshof|rostock_liniennetz|1045|1128
+db|936216|Gehlsheim Klinik|rostock_liniennetz|1110|1056
+db|936217|Gehlsheimer Straße|rostock_liniennetz|1083|1083
+db|936206|Fährstraße Michaelshof|rostock_liniennetz|1040|1128
 db|936351|Gehlsdorf Fähre|rostock_liniennetz|992|1085
-db|936272|Kirchenplatz|rostock_liniennetz|1045|1170
-db|935030|Schöffenweg|rostock_liniennetz|1045|1206
-db|936340|Pressentinstraße|rostock_liniennetz|1045|1243
-db|936618|Langenort Hufe|rostock_liniennetz|1045|1279
-db|936290|Langenort|rostock_liniennetz|1045|1313
-db|935079|Warnowblick|rostock_liniennetz|1045|1353
-db|935081|Warnowrande|rostock_liniennetz|1050|1392
-db||Oldendorf Fähre|rostock_liniennetz|1055|1429
-db|936324|Oldendorf|rostock_liniennetz|1050|1466
-db|936281|Krummendorf|rostock_liniennetz|1050|1502
-db|936241|Heidenholzmoor|rostock_liniennetz|1050|1539
-db|935038|Seehafen|rostock_liniennetz|1065|1667
-db|935039|Seehafen Fähre|rostock_liniennetz|993|1672
-db|939233|Seehafen Anleger|rostock_liniennetz|965|1717
-db|935714|Seehafen Ost|rostock_liniennetz|1073|1765
-db|939229|Getreidehafen|rostock_liniennetz|1179|1762
-db|936276|Kraftwerk|rostock_liniennetz|1216|1762
-db|939223|Liebherrstraße|rostock_liniennetz|1108|1803
-db|936282|Krummendorf Nord|rostock_liniennetz|1140|1502
-db|936171|Bahnbetriebswerk|rostock_liniennetz|1191|1450
-db|936235|Hafenbahnweg|rostock_liniennetz|1241|1362
+db|936272|Kirchenplatz|rostock_liniennetz|1040|1170
+db|935030|Schöffenweg|rostock_liniennetz|1040|1206
+db|936340|Pressentinstraße|rostock_liniennetz|1040|1243
+db|936618|Langenort Hufe|rostock_liniennetz|1040|1279
+db|936290|Langenort|rostock_liniennetz|1040|1313
+db|935079|Warnowblick|rostock_liniennetz|1040|1353
+db|935081|Warnowrande|rostock_liniennetz|1045|1392
+db||Oldendorf Fähre|rostock_liniennetz|1045|1429
+db|936324|Oldendorf|rostock_liniennetz|1045|1479
+db|936281|Krummendorf|rostock_liniennetz|1045|1516
+db|936241|Heidenholzmoor|rostock_liniennetz|1045|1552
+db|935038|Seehafen|rostock_liniennetz|1055|1667
+db|935039|Seehafen Fähre|rostock_liniennetz|965|1669
+db|939233|Seehafen Anleger|rostock_liniennetz|923|1712
+db|935714|Seehafen Ost|rostock_liniennetz|1046|1770
+db|939229|Getreidehafen|rostock_liniennetz|1183|1766
+db|936276|Kraftwerk|rostock_liniennetz|1223|1766
+db|939223|Liebherrstraße|rostock_liniennetz|1091|1811
+db|936282|Krummendorf Nord|rostock_liniennetz|1103|1532
+db|936171|Bahnbetriebswerk|rostock_liniennetz|1188|1447
+db|936235|Hafenbahnweg|rostock_liniennetz|1236|1362
 db|936236|HP Dierkow|rostock_liniennetz|1605|1020
 db|936270|Katerweg|rostock_liniennetz|1562|969
 db|936192|Dierkow Zentrum|rostock_liniennetz|1539|946
-db|936247|Hinrichsdorfer Straße|rostock_liniennetz|1367|981
-db|936191|Dierkow Dorf|rostock_liniennetz|1326|1053
+db|936247|Hinrichsdorfer Straße|rostock_liniennetz|1377|981
+db|936191|Dierkow Dorf|rostock_liniennetz|1346|1054
 db|935989|Neu Hinrichsdorf, EKZ|rostock_liniennetz|1702|1244
 db|936185|Brückenweg|rostock_liniennetz|1473|1156
 db|936311|Neu Hinrichsdorf|rostock_liniennetz|1473|1269
