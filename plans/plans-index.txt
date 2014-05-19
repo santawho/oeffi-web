@@ -236,10 +236,11 @@ buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http
 melbourne_metropolitan_train|-37.813425,144.962869|2012-11-18|Melbourne Metropolitan Train|Public Transport Victoria
 melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan Tram|State of Victoria
 melbourne_metropolitan_nightrider|-37.813425,144.962869|2012-02|Melbourne NightRider|Public Transport Victoria
-sydney_cityrail|-33.882474,151.206688|2011-04|Sydney CityRail network|RailCorp
-sydney_monorail_lightrail|-33.873103,151.199918|2011|Sydney Monorail/Light Rail|Metro Transport Sydney
+sydney_trains|-33.882474,151.206688|2013|Sydney Trains|Transport for NSW
+sydney_lightrail|-33.873103,151.199918|2013|Sydney Light Rail|Transport for NSW
 sydney_night|-33.873813,151.206805|2011-04|Sydney NightRide Bus network|RailCorp|http://cityrail.info/timetables/nightride/images/nightride_map.jpg
-sydney_ferry|-33.861256,151.210954|2011-12|Sydney Ferries|NSW TransportInfo
+sydney_ferry|-33.861256,151.210954|2013|Sydney Ferries|Transport for NSW
+sydney_intercity|-33.882474,151.206688|2013|Sydney Intercity Trains|Transport for NSW
 brisbane_rail_bus|-27.473986,153.028035|2009-08|Brisbane QR and busway network|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Train.jpg
 brisbane_ferry|-27.473986,153.028035|2008-08-04|Brisbane TransLink ferries|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Ferry.jpg
 
