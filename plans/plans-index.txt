@@ -179,6 +179,7 @@ westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 
 # fr
 
+paris_metro_ratp|48.855414,2.34488|2014-01|Paris Metro|RATP
 paris_metro|48.855414,2.34488|2012-12|Paris Metro|Nathan Kaufmann, Creative Commons
 
 # it
