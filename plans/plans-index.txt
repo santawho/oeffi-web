@@ -47,10 +47,9 @@ osnabrueck_nacht|52.272832,8.061726|2014-09-11|Osnabrück NachtBus-Netz|Stadtwer
 stuttgart_verbund|48.784068,9.181713|2014-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
 stuttgart_nacht|48.77861,9.179803|2014-12|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
 ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
-# hannover_sbahn|52.376715,9.741168|2009-06|Hannover S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/6/66/Schemaplan_der_S-Bahn_Hannover.png
-hannover_stadtbahn|52.376715,9.741168|2012-12|Hannover Stadtbahnnetz|GVH
-hannover_bus|52.376715,9.741168|2012-12|Hannover Busnetz|GVH
-hannover_regional|52.376715,9.741168|2012-12|Hannover Regional- und S-Bahn-Linien|GVH
+hannover_stadtbahn|52.376715,9.741168|2014-12|Hannover Stadtbahnnetz|GVH
+hannover_bus|52.376715,9.741168|2014-12|Hannover Busnetz|GVH
+hannover_regional|52.376715,9.741168|2014-12|Hannover Regional- und S-Bahn-Linien|GVH
 bielefeld|52.029241,8.532835|2013-06|Bielefeld Gesamtnetz|moBiel
 bielefeld_nacht|52.029241,8.532835|2013-10|Bielefeld Nachtbus|moBiel
 nrw_regio|51.429807,6.775253|2013-12|NRW Busse & Bahnen|VRS
