@@ -39,8 +39,8 @@ coburg_liniennetz|50.262975,10.957691|2012-12-09|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2014-12-14|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2014-12-14|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2014-12-14|Hamburg MetroBus Großbereich|HVV
-rostock_vvw_liniennetz|54.078139,12.131724|2013-08-05|Rostock Liniennetz|Verkehrsverbund Warnow GmbH
-rostock_vvw_region|54.078139,12.131724|2013-08-05|Rostock Region|Verkehrsverbund Warnow GmbH
+rostock_vvw_liniennetz|54.078139,12.131724|2014-08-25|Rostock Liniennetz|Verkehrsverbund Warnow
+rostock_vvw_region|54.078139,12.131724|2014-08-25|Rostock Region|Verkehrsverbund Warnow
 rostock_liniennetz|54.078139,12.131724|2014-04-01|Rostock Liniennetz|Lucas Weiss, CC-BY-NC-SA 4.0
 osnabrueck|52.272832,8.061726|2014-09-11|Osnabrück Liniennetz|Stadtwerke Osnabrück
 osnabrueck_nacht|52.272832,8.061726|2014-09-11|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
