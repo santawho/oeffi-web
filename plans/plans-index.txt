@@ -25,8 +25,8 @@ muenchen_tram_metrobus|48.140377,11.560643|2014-12|München Tram/MetroBus|MVV/MV
 muenchen_nacht|48.140377,11.560643|2014-12|München Nachtnetz|MVG
 ingolstadt_tag|48.74462,11.437987|2014-12-14|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
 ingolstadt_nacht|48.74462,11.437987|2014-12-14|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
-augsburg|48.364936,10.893713|2013-12|Augsburg Innenraum|AVV GmbH
-augsburg_nachtbus|48.364936,10.893713|2013-01|Augsburg Nachtbus|Stadtwerke Augsburg
+augsburg|48.364936,10.893713|2014-12|Augsburg Innenraum|AVV GmbH
+augsburg_nachtbus|48.364936,10.893713|2014-12|Augsburg Nachtbus|AVV GmbH
 nuernberg_gesamtraum|49.445719,11.082618|2012-12-09|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg
 nuernberg_schiene|49.445719,11.082618|2012-12-09|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg
 nuernberg_nightliner|49.445719,11.082618|2012-12-09|Nürnberg Nightliner|Verkehrsverbund Großraum Nürnberg
