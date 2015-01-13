@@ -213,7 +213,7 @@ sanfrancisco_system|37.774534,-122.419124|2010-10|San Francisco System|SFMTA|htt
 sanfrancisco_downtown|37.774534,-122.419124|2010-10|San Francisco Downtown|SFMTA|http://transit.511.org/static/providers/maps/SF_1222201020237.gif
 sanfrancisco_marketstreet|37.774534,-122.419124|2010-10|San Francisco Market Street|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010101811.gif
 sanfrancisco_owl|37.774534,-122.419124|2010-10|San Francisco Owl Service|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010102001.gif
-sanfrancisco_bart|37.616291,-122.386079||San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/sites/all/themes/bart_desktop/img/global/system-map.gif
+sanfrancisco_bart|37.616291,-122.386079|2014|San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif
 losangeles_system|34.05427,-118.246715|2013-06|Los Angeles System|metro.net|http://media.metro.net/riding_metro/maps/images/system_map.gif
 losangeles_downtown|34.05427,-118.246715|2013-06|Los Angeles Downtown|metro.net|http://media.metro.net/riding_metro/maps/images/System_Map_detail.gif
 losangeles_metro|34.05427,-118.246715|2013-08|Los Angeles Metro|metro.net|http://media.metro.net/riding_metro/maps/images/rail_map.gif
