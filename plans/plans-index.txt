@@ -234,9 +234,9 @@ melbourne_metropolitan_tram|-37.813425,144.962869|2011-04|Melbourne Metropolitan
 melbourne_metropolitan_nightrider|-37.813425,144.962869|2012-02|Melbourne NightRider|Public Transport Victoria
 sydney_trains|-33.882474,151.206688|2013|Sydney Trains|Transport for NSW
 sydney_lightrail|-33.873103,151.199918|2013|Sydney Light Rail|Transport for NSW
-sydney_night|-33.873813,151.206805|2011-04|Sydney NightRide Bus network|RailCorp|http://cityrail.info/timetables/nightride/images/nightride_map.jpg
+sydney_night|-33.873813,151.206805|2014|Sydney NightRide Buses|Transport for NSW
 sydney_ferry|-33.861256,151.210954|2013|Sydney Ferries|Transport for NSW
-sydney_intercity|-33.882474,151.206688|2013|Sydney Intercity Trains|Transport for NSW
+sydney_intercity|-33.882474,151.206688|2014|Sydney Intercity Trains|Transport for NSW
 brisbane_rail_bus|-27.473986,153.028035|2009-08|Brisbane QR and busway network|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Train.jpg
 brisbane_ferry|-27.473986,153.028035|2008-08-04|Brisbane TransLink ferries|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Ferry.jpg
 
