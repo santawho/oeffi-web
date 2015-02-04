@@ -1,63 +1,6 @@
 # plans-stations.txt,1
 # network|localId|label|planId|x|y|radius
 
-# S+U Alexanderplatz Bhf
-bvg|9100003||bvg_alexanderplatz
-bvg|107156||bvg_alexanderplatz
-
-# U Alexanderplatz
-bvg|9100005||bvg_alexanderplatz
-bvg|308808||bvg_alexanderplatz
-bvg|308801||bvg_alexanderplatz
-bvg|105216||bvg_alexanderplatz
-bvg|107154||bvg_alexanderplatz
-
-# S+U Alexanderplatz Bhf/Grunerstr.
-bvg|9100006||bvg_alexanderplatz
-bvg|106417||bvg_alexanderplatz
-bvg|105399||bvg_alexanderplatz
-
-# S+U Alexanderplatz Bhf/Dircksenstr.
-bvg|9100024||bvg_alexanderplatz
-bvg|308817||bvg_alexanderplatz
-
-# S+U Alexanderplatz Bhf/Gontardstr.
-bvg|9100026||bvg_alexanderplatz
-bvg|308802||bvg_alexanderplatz
-bvg|308807||bvg_alexanderplatz
-
-# S+U Alexanderplatz Bhf/Memhardstr.
-bvg|9100031||bvg_alexanderplatz
-bvg|107153||bvg_alexanderplatz
-bvg|106736||bvg_alexanderplatz
-bvg|107175||bvg_alexanderplatz
-
-# S+U Jannowitzbrücke
-bvg|9100004||bvg_jannowitzbruecke
-bvg|105175||bvg_jannowitzbruecke
-bvg|106711||bvg_jannowitzbruecke
-bvg|105164||bvg_jannowitzbruecke
-bvg|106653||bvg_jannowitzbruecke
-bvg|105204||bvg_jannowitzbruecke
-
-# Lichtenberger Str.
-bvg|9100519||bvg_jannowitzbruecke
-bvg|105165||bvg_jannowitzbruecke
-bvg|105174||bvg_jannowitzbruecke
-
-# Alexanderstr.
-bvg|9100518||bvg_jannowitzbruecke
-bvg|105235||bvg_jannowitzbruecke
-bvg|105217||bvg_jannowitzbruecke
-
-# U Heinrich-Heine-Str.
-bvg|9100008||bvg_jannowitzbruecke
-bvg|105163||bvg_jannowitzbruecke
-bvg|105657||bvg_jannowitzbruecke
-bvg|105176||bvg_jannowitzbruecke
-bvg|105218||bvg_jannowitzbruecke
-bvg|106588||bvg_jannowitzbruecke
-
 # last modified: 2011-04-26 09:50:45
 # name: stefan dassow
 # minx: 0
