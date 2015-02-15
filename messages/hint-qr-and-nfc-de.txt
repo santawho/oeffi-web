@@ -1,0 +1,8 @@
+title:	Schon gewusst?
+body:	QR-Codes und NFC-Tags an Haltestellen
+
+	Heutzutage sind viele Haltestellen mit QR-Codes und NFC-Tags ausgestattet (z.B. auf Aushangfahrplänen, Fahrkarten-Automaten oder -Entwertern). Dahinter stecken nähere Informationen zu der Haltestelle, an der du dich befindest.
+
+	QR-Codes kannst du z.B. mit "Barcode Scanner" von ZXing scannen. NFC-Tags liest du, indem du einfach dein NFC-fähiges Telefon an den Tag hältst.
+
+	Nach dem Scannen sollte ein "Aktion durchführen"-Dialog erscheinen, der Öffi als eine Alternative nennt.

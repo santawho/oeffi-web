@@ -1,0 +1,6 @@
+title:	Schon gewusst?
+body:	Navigationsleiste
+
+	Du kannst zwischen Öffi Haltestellen, Öffi Verbindungen und Öffi Netzwerkpläne schnell wechseln, indem du die Navigationsleiste verwendest.
+
+	Um sie zu öffnen, ziehe sie vom linken Bildrand hinein.

@@ -1,0 +1,6 @@
+title:	Schon gewusst?
+body:	Querformat
+
+	Öffi kann gut damit umgehen, wenn du das Gerät ins Querformat drehst. In vielen Teilen der App wird der resultierende horizontale Platz für eine Kartendarstellung genutzt.
+
+	Probier's aus!

@@ -1,0 +1,2 @@
+title:	Problems with acquiring your location?
+body:	Try rebooting your device! Android has bugs that cause the Location Service to crash.

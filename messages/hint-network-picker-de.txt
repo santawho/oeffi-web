@@ -1,0 +1,6 @@
+title:	Schon gewusst?
+body:	Wahl des Verkehrsnetzes
+
+	Öffi unterstützt nicht nur die ehemaligen Staatsbahnen, sondern auch eine ganze Reihe von regionalen/lokalen Verkehrsnetzen. Es ist empfehlenswert, diese abzufragen, wenn du auf Fernverbindungen verzichten kannst.
+
+	Du kannst das Verkehrsnetz wählen, indem du auf die Titelzeilen in der Action-Bar am oberen Bildrand tippst.

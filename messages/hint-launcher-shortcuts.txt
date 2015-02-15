@@ -1,0 +1,6 @@
+title:	Did you know?
+body: 	Take me home
+
+	Do you miss a "Take me home"-button? You can add launcher shortcuts to any destination. You'll find a menu entry in the context menu of stations or addresses.
+
+	Perfect for finding your way home after a pub crawl…

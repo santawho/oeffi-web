@@ -1,0 +1,6 @@
+title:	Schon gewusst?
+body:	Take me home
+
+	Vermißt du den "Take me home"-Button? Du kannst Launcher-Verknüpfungen zu beliebigen Zielen anlegen. Du findest die Funktion im Kontextmenu von Haltestellen und Adressen.
+
+	Perfekt für die Heimfahrt nach einer Kneipentour…

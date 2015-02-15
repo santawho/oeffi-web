@@ -1,0 +1,2 @@
+title:	Probleme mit der Standort-Ermittlung?
+body:	Probier's mal mit einem Reboot deines Geräts! Android hat Fehler, die den Location Service abstürzen lassen.

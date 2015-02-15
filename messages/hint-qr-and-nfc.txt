@@ -1,0 +1,8 @@
+title:	Did you know?
+body: 	QR-Codes and NFC-Tags at stations
+
+	Nowadays, many stations have QR codes and NFC tags (e.g. on printed time tables, ticket machines or ticket cancellers). They link to further information about the station you are located at.
+
+	You can scan QR codes for example with "Barcode Scanner" by ZXing. In order to read NFC tags, just hold your NFC-enabled phone to the tag.
+
+	After scanning, a "Complete action" dialog should show up, listing Offi as an alternative.

@@ -1,0 +1,6 @@
+title:	Did you know?
+body: 	Navigation drawer
+
+	You can quickly switch between Öffi Stations, Öffi Directions and Öffi Network Plans by using the navigation drawer.
+
+	To open, drag it into the screen from the left edge.

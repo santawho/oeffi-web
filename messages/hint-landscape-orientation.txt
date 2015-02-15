@@ -1,0 +1,6 @@
+title:	Did you know?
+body: 	Landscape Orientation
+
+	Offi supports being tilted into landscape orientation. The resulting horizontal space is used for a map display in many parts throughout the app.
+
+	Just try!

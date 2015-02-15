@@ -1,0 +1,5 @@
+title:	A new version is available!
+body:	This version fixes important bugs. It is advised to update as soon as you can.
+button-positive:	Google Play | market://details?id=de.schildbach.oeffi
+button-neutral:		Direct download | http://oeffi.schildbach.de/download.html
+button-negative:	dismiss

@@ -1,0 +1,6 @@
+title:	Did you know?
+body: 	Network Picker
+
+	Offi supports not only the nation-wide, but also a lot of regional networks. Querying them might be a better choice if you don't always need long-distance transport.
+
+	You can select the transport network by tapping on the titles in the action bar at the top of the screen.
