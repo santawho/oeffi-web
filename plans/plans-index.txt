@@ -111,9 +111,7 @@ salzburg|47.813229,13.045907|2014-09-30|Salzburg Liniennetz|Salzburg AG
 
 # ch
 
-basel|47.553021,7.591031|2013-12|Basel Liniennetz|tnw Tarifverbund Nordwestschweiz
-basel_regio|47.546789,7.588996|2008-03|Basel Regio S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Basel_-_Regio-S-Bahn_Basel_-_Netzplan.jpg
-basel_tram|47.553021,7.591031|2009|Basel Straßenbahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Basel_-_Stra%C3%9Fenbahn_-_Netzplan_2009.png/871px-Basel_-_Stra%C3%9Fenbahn_-_Netzplan_2009.png
+basel|47.553021,7.591031|2014-12|Basel Liniennetz|tnw Tarifverbund Nordwestschweiz
 zvv|47.378136,8.540232|2012-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
 zvv_nacht|47.378136,8.540232|2013-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 zuerich_stadt|47.378136,8.540232|2013-12|Zürich Stadt|ZVV/VBZ
