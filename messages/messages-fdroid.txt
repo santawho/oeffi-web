@@ -1,0 +1,11 @@
+# version alert
+alert-version-fdroid		| min-sdk:8 max-sdk:14 version:438		| 1d | warning
+alert-version-fdroid		| min-sdk:15 version:470				| 1d | warning
+
+# hints
+hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
+hint-network-picker			| prefs-show-info:true limit-info:2d	| once | info
+hint-landscape-orientation	| prefs-show-info:true limit-info:2d	| once | info
+hint-qr-and-nfc				| prefs-show-info:true limit-info:2d	| once | info
+hint-launcher-shortcuts		| prefs-show-info:true limit-info:2d	| once | info
+hint-location-problems		| prefs-show-info:true limit-info:2d	| once | info
