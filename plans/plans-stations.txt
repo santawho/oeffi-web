@@ -1867,3 +1867,867 @@ vsn|1190531|Bornbreite|goettingen_nacht|1297|1142
 vsn|1190501|Schöneberger Straße|goettingen_nacht|1321|1088
 vsn|1180431|Spandauer Weg|goettingen_nacht|1251|1103
 vsn|1190060|Weender Straße-West|goettingen_nacht|727|628
+
+# Carsten Braune <carsten.braune@googlemail.com>
+
+vvo|33000191|Leutewitz|dresden|705|1660
+vvo|33000190|Gottfried-Keller-Str.|dresden|805|1660
+vvo|33000189|Cossebauder Straße|dresden|888|1660
+vvo|33000188|Flügelweg|dresden|972|1650
+vvo|33000187|Bremer Straße|dresden|1053|1650
+vvo|33000186|Hamburger Straße|dresden|1130|1650
+vvo|33000185|Waltherstraße|dresden|1209|1650
+vvo|33000184|Manitiusstraße|dresden|1295|1653
+vvo|33000197|Schäferstraße|dresden|1382|1670
+vvo|33000001|Bahnhof Mitte|dresden|1472|1655
+vvo|33000023|Schweriner Straße|dresden|1539|1655
+vvo|33000037|Postplatz|dresden|1638|1655
+vvo|33000004|Altmarkt|dresden|1713|1655
+vvo|33000005|Pirnaischer Platz|dresden|1792|1655
+vvo|33000006|Dt. Hygiene-Museum|dresden|1889|1640
+vvo|33000007|Straßburger Platz|dresden|1957|1640
+vvo|33000081|Comeniusplatz|dresden|2172|1660
+vvo|33000082|Lipsiusstraße|dresden|2241|1660
+vvo|33000083|Karcherallee|dresden|2317|1660
+vvo|33000084|Zwinglistraße|dresden|2408|1700
+vvo|33000085|Liebstädter Straße|dresden|2505|1736
+vvo|33000086|Rauensteinstraße|dresden|2596|1736
+vvo|33000087|Rennplatzstraße|dresden|2687|1736
+vvo|33000088|Marienberger Straße|dresden|2750|1736
+vvo|33000089|Prof.-Ricker-Straße|dresden|2812|1736
+vvo|33000090|Lassallestraße|dresden|2876|1736
+vvo|33000091|Abzweig nach Reick|dresden|2937|1736
+vvo|33000126|Breitscheidstraße|dresden|2937|1848
+vvo|33000919|Hp. Dobritz|dresden|2937|1921
+vvo|33000125|Mügelner Straße|dresden|2937|1968
+vvo|33000321|Albert-Wolf-Platz|dresden|2922|2010
+vvo|33000322|Jacob-Winter-Platz|dresden|2922|2054
+vvo|33000323|Georg-Palitzsch-Str.|dresden|2954|2091
+vvo|33000791|Prohlis Gleisschleife|dresden|3045|2100
+vvo|33000101|Freystraße|dresden|3365|1552
+vvo|33000100|Meußlitzer Straße|dresden|3310|1605
+vvo|33000099|Heckenweg|dresden|3254|1666
+vvo|33000094|Berthold-Haupt-Str.|dresden|3186|1738
+vvo|33000093|Altleuben|dresden|3117|1744
+vvo|33000092|Rottwerndorfer Straße|dresden|3001|1744
+vvo|33000153|Cottaer Straße|dresden|1285|1871
+vvo|33000171|Semmelweisstraße|dresden|1220|1872
+vvo|33000172|Burgkstraße|dresden|1161|1872
+vvo|33000173|Pennricher Straße|dresden|1088|1872
+vvo|33000178|Chamissostraße|dresden|1029|1872
+vvo|33000179|Hebbelplatz|dresden|972|1872
+vvo|33000333|Coventrystraße|dresden|965|1926
+vvo|33000332|Dahlienweg|dresden|965|1969
+vvo|33000334|Amalie-Dietrich-Platz|dresden|925|1997
+vvo|33000335|Merianplatz|dresden|844|1997
+vvo|33000336|Kirschenstraße|dresden|763|1997
+vvo|33000337|Schlehenstraße|dresden|682|1997
+vvo|33000338|Betriebshof Gorbitz|dresden|618|1997
+vvo|33000165|Coschütz|dresden|1500|2416
+vvo|33000164|Achtbeeteweg|dresden|1541|2391
+vvo|33000163|Saarstraße|dresden|1573|2352
+vvo|33000162|Kotteweg|dresden|1616|2308
+vvo|33000161|Cämmerswalder Str.|dresden|1637|2281
+vvo|33000135|Plauen, Nöthnitzer Str.|dresden|1583|2200
+vvo|33000134|Münchner Platz|dresden|1641|2140
+vvo|33000132|Nürnberger Platz|dresden|1713|2058
+vvo|33000131|Reichenbachstr.|dresden|1785|1980
+vvo|33000028|Hauptbahnhof|dresden|1769|1925
+vvo|33000032|Hauptbahnhof Nord|dresden|1769|1847
+vvo|33000029|Walpurgisstraße|dresden|1769|1816
+vvo|33000015|Synagoge|dresden|1793|1528
+vvo|33000014|Carolaplatz|dresden|1785|1455
+vvo|33000013|Albertplatz|dresden|1789|1300
+vvo|33000016|Bahnhof Neustadt|dresden|1600|1280
+vvo|33000198|Bf. Neustadt (Hansastr.)|dresden|1557|1263
+vvo|33000241|Lößnitzstraße|dresden|1516|1226
+vvo|33000242|Großenhainer Platz|dresden|1482|1189
+vvo|33000243|Liststraße|dresden|1452|1154
+vvo|33000248|Zeithainer Straße|dresden|1368|1075
+vvo|33000249|Trachenberger Platz|dresden|1306|1003
+vvo|33000251|Hubertusplatz|dresden|1256|951
+vvo|33000252|Dorothea-Erxleben-Straße|dresden|1166|861
+vvo|33000253|Wilder Mann|dresden|1104|804
+vvo|33004144|Weinböhla|dresden|282|202
+vvo|33004147|Köhlerstraße|dresden|282|272
+vvo|33004158|Steinbacher Weg|dresden|282|323
+vvo|33004157|Auerstraße|dresden|282|375
+vvo|33004156|Salzstraße|dresden|282|427
+vvo|33004185|Rathaus Coswig|dresden|282|479
+vvo|33004160|Coswig Zentrum/Börse|dresden|282|531
+vvo|33004168|Radebeuler Straße|dresden|282|580
+vvo|33004230|Eisenbahnbrücke|dresden|282|635
+vvo|33004229|Gerh.-Hauptmann-Str.|dresden|282|686
+vvo|33004228|Johannisbergstraße|dresden|282|740
+vvo|33004227|Schloß Wackerbarth|dresden|282|790
+vvo|33004226|Flemmingstraße|dresden|282|842
+vvo|33004225|Moritzburger Str.|dresden|310|876
+vvo|33004233|Gradsteg|dresden|349|915
+vvo|33004224|Borstraße|dresden|382|947
+vvo|33004223|Dr.-Külz-Straße|dresden|444|947
+vvo|33004222|Zillerstraße|dresden|507|947
+vvo|33004221|Landesbühnen Sachsen|dresden|570|947
+vvo|33004219|Wasastraße|dresden|639|947
+vvo|33004218|Schildenstraße|dresden|706|947
+vvo|33004217|Hauptstraße|dresden|765|947
+vvo|33004216|Zinzendorfstraße|dresden|832|947
+vvo|33004215|Radebeul Ost|dresden|866|936
+vvo|33004214|Forststraße|dresden|878|947
+vvo|33000213|Kleestraße|dresden|928|947
+vvo|33000212|Geblerstraße|dresden|977|947
+vvo|33000211|Am Trachauer Bahnhof|dresden|1056|996
+vvo|33000210|Rankestraße|dresden|1100|1043
+vvo|33000209|Alttrachau|dresden|1143|1073
+vvo|33000205|Mickten|dresden|1205|1137
+vvo|33000200|Altpieschen|dresden|1237|1180
+vvo|33000203|Oschatzer Straße|dresden|1289|1231
+vvo|33000202|Alexander-Puschkin-Platz|dresden|1355|1298
+vvo|33000201|Alter Schlachthof|dresden|1410|1351
+vvo|33000017|Anton-/Leipziger Str.|dresden|1477|1417
+vvo|33000018|Palaisplatz|dresden|1568|1464
+vvo|33000019|Neustädter Markt|dresden|1633|1466
+vvo|33000020|Theaterplatz|dresden|1644|1555
+vvo|33000061|Krhs. St.Joseph-Stift|dresden|2099|1574
+vvo|33000062|Fetscherplatz|dresden|2170|1510
+vvo|33000063|Mosenstraße|dresden|2261|1509
+vvo|33000824|Spenerstraße|dresden|2323|1511
+vvo|33000064|Bergmannstraße|dresden|2383|1511
+vvo|33000065|Pohlandplatz|dresden|2457|1517
+vvo|33000066|Gottleubaer Straße|dresden|2512|1517
+vvo|33000067|Altenberger Straße|dresden|2605|1517
+vvo|33000068|Ludwig-Hartmann-Straße|dresden|2681|1517
+vvo|33000069|Johannisfriedhof|dresden|2745|1517
+vvo|33000070|Tolkewitz, Urnenhain|dresden|2810|1517
+vvo|33000071|Wasserwerk Tolkewitz|dresden|2886|1517
+vvo|33000072|Alttolkewitz|dresden|2953|1517
+vvo|33000073|Hermann-Seidel-Straße|dresden|3007|1517
+vvo|33000074|Leubener Straße|dresden|3057|1517
+vvo|33000075|Kronstädter Platz|dresden|3118|1517
+vvo|33000098|Bf. Niedersedlitz|dresden|3344|1904
+vvo|33000103|Försterlingstraße|dresden|3288|1886
+vvo|33000097|Straße des 17.Juni|dresden|3207|1886
+vvo|33000096|Guerickestraße|dresden|3188|1814
+vvo|33000078|Friedhof Leuben|dresden|3057|1689
+vvo|33000077|Großglocknerstraße|dresden|3057|1636
+vvo|33000076|Laibacher Straße|dresden|3057|1585
+vvo|33000055|Gustav-Freytag-Straße|dresden|2683|1443
+vvo|33000054|Heinrich-Schütz-Straße|dresden|2668|1353
+vvo|33000056|Jüngststraße|dresden|2633|1317
+vvo|33000052|Schillerplatz|dresden|2534|1230
+vvo|33000051|Prellerstraße|dresden|2434|1228
+vvo|33000050|Lene-Glatzer-Straße|dresden|2375|1228
+vvo|33000049|Königsheimplatz|dresden|2312|1228
+vvo|33000048|Augsburger Straße|dresden|2250|1286
+vvo|33000043|Blasew.-/Fetscherstraße|dresden|2170|1376
+vvo|33000042|Trinitatisplatz|dresden|2109|1406
+vvo|33000041|Permoserstraße|dresden|2045|1406
+vvo|33000010|Sachsenallee|dresden|1961|1403
+vvo|33000011|Rosa-Luxemburg-Pl.|dresden|1917|1356
+vvo|33000012|Bautzn.-/Rothenb.Str.|dresden|1877|1296
+vvo|33000021|Kongresszentrum|dresden|1478|1517
+vvo|33000154|Wernerstraße|dresden|1255|1959
+vvo|33000144|Tharandter Straße|dresden|1224|2051
+vvo|33000145|Bünaustraße|dresden|1154|2052
+vvo|33000146|Malterstraße|dresden|1105|2059
+vvo|33000147|Koblenzer Straße|dresden|1052|2059
+vvo|33000331|J.-Vahlteich-Straße|dresden|971|2059
+vvo|33000148|Wölfnitz|dresden|1026|2033
+vvo|33006588|Weixdorf|dresden|1802|140
+vvo|33006584|Hp. Weixdorf Bad|dresden|1802|204
+vvo|33006583|Fuchsberg|dresden|1802|249
+vvo|33000281|Industriepark Klotzsche|dresden|1802|294
+vvo|33000280|Arkonastraße|dresden|1802|365
+vvo|33000279|K.-Kollwitz-Platz|dresden|1802|455
+vvo|33000278|Zur Neuen Brücke|dresden|1802|521
+vvo|33000277|Karl-Marx-Straße|dresden|1802|606
+vvo|33000276|Infineon Nord|dresden|1802|705
+vvo|33000270|Infineon Süd|dresden|1793|854
+vvo|33000269|Moritzburger Weg|dresden|1793|893
+vvo|33000268|Hellersiedlung|dresden|1793|934
+vvo|33000267|Industriegelände|dresden|1793|974
+vvo|33000266|Heeresbäckerei|dresden|1793|1011
+vvo|33000265|Stauffenbergallee|dresden|1793|1050
+vvo|33000259|Tannenstraße|dresden|1793|1109
+vvo|33000262|Bischofsweg|dresden|1793|1154
+vvo|33000261|Louisenstraße|dresden|1793|1225
+vvo|33000027|Budapester Straße|dresden|1580|1871
+vvo|33000025|Hp. Freiberger Straße|dresden|1500|1812
+vvo|33000141|Rosenstraße|dresden|1436|1868
+vvo|33000142|Oederaner Straße|dresden|1376|1932
+vvo|33000143|Saxoniastraße|dresden|1315|1992
+vvo|33000340|Altnossener Straße|dresden|516|2062
+vvo|33000341|Rudolf-Walther-Straße|dresden|442|2062
+vvo|33000342|Gompitz, Gomp. Höhe|dresden|363|2062
+vvo|33000344|Pennrich, Gleisschleife|dresden|270|2062
+vvo|33000133|Südvorstadt|dresden|1590|2053
+vvo|33000003|Prager Straße|dresden|1713|1758
+vvo|33000271|Am Hellerrand|dresden|1636|688
+vvo|33000272|Heinrich-Tessenow-Weg|dresden|1587|639
+vvo|33000273|Festspielhaus Hellerau|dresden|1526|576
+vvo|33000274|Brunnenweg|dresden|1435|533
+vvo|33000275|Kiefernweg|dresden|1371|533
+vvo|33000127|Trattendorfer Straße|dresden|2866|1992
+vvo|33000124|Altreick|dresden|2812|1992
+vvo|33000123|Hülßestraße|dresden|2750|1992
+vvo|33000122|Lohrmannstraße|dresden|2693|1992
+vvo|33000121|Wieckestraße|dresden|2630|1992
+vvo|33000120|Otto-Dix-Ring|dresden|2571|1992
+vvo|33000119|Eugen-Bracht-Str.|dresden|2502|1992
+vvo|33000118|Cäcilienstraße|dresden|2446|1992
+vvo|33000117|Hugo-Bürkner-Str.|dresden|2383|1992
+vvo|33000116|Mockritzer Straße|dresden|2319|1992
+vvo|33000115|Wasaplatz|dresden|2249|1992
+vvo|33000114|Julius-Otto-Straße|dresden|2184|1915
+vvo|33000113|Querallee|dresden|2149|1873
+vvo|33000112|Zoo|dresden|2055|1873
+vvo|33000111|Lennéplatz|dresden|1957|1882
+vvo|33000030|Gret-Palucca-Straße|dresden|1878|1896
+vvo|33000206|Trachauer Straße|dresden|1153|1182
+vvo|33000217|An der Flutrinne|dresden|1122|1222
+vvo|33000218|Sörnewitzer Straße|dresden|1058|1186
+vvo|33000588|ElbePark|dresden|990|1134
+vvo|33000220|Washingtonstraße|dresden|945|1144
+vvo|33000585|Riegelplatz|dresden|900|1144
+vvo|33000523|Messe, Gleisschleife|dresden|1209|1351
+vvo|33000522|MESSE DRESDEN|dresden|1209|1409
+vvo|33000526|Messering (HALLE 1)|dresden|1209|1459
+vvo|33000520|Alberthafen|dresden|1209|1507
+vvo|33000182|Vorwerkstraße|dresden|1209|1555
+vvo|33000181|Krhs. Friedrichstadt|dresden|1296|1555
+vvo|33000149|Weißeritzstraße|dresden|1398|1555
+vvo|33000008|Großer Garten|dresden|1958|1766
+vvo|33000302|Ullersdorfer Platz|dresden|2916|952
+vvo|33000301|Grundstraße|dresden|2823|952
+vvo|33000305|Hegereiterstraße|dresden|2730|946
+vvo|33000300|Neubühlauer Straße|dresden|2639|946
+vvo|33000299|Am Weißen Adler|dresden|2544|946
+vvo|33000298|Plattleite|dresden|2452|946
+vvo|33000297|Mordgrundbrücke|dresden|2325|1063
+vvo|33000296|Elbschlösser|dresden|2247|1063
+vvo|33000295|Wilhelminenstraße|dresden|2170|1063
+vvo|33000294|Angelikastraße|dresden|2097|1076
+vvo|33000293|Waldschlößchen|dresden|2072|1103
+vvo|33000292|Nordstraße|dresden|2016|1157
+vvo|33000291|Diakonissenkrankenhaus|dresden|1969|1206
+vvo|33000290|Pulsnitzer Straße|dresden|1922|1254
+vvo|33000035|Am Zwingerteich|dresden|1543|1573
+vvo|33000311|Strehlener Platz|dresden|1960|1979
+vvo|33000312|Zellescher Weg|dresden|1960|2067
+vvo|33000313|Räcknitzhöhe|dresden|1960|2197
+vvo|33000314|Münzmeisterstraße|dresden|1960|2358
+vvo|33000044|Gabelsbergerstraße|dresden|2171|1444
+vvo|33000026|Alfred-Althus-Str.|dresden|1546|1750
+vvo|33000174|Conertplatz|dresden|1135|1970
+vvo|33000175|Birkenhainer Straße|dresden|1038|1820
+vvo|33000176|Altcotta|dresden|971|1764
+vvo|33000177|Ockerwitzer Straße|dresden|939|1726
+vvo|33000245|Rathaus Pieschen|dresden|1308|1154
+vvo|33000244|Bürgerstraße|dresden|1372|1154
+vvo|33000246|Friedensstraße|dresden|1565|1154
+vvo|33000247|Bischofsplatz|dresden|1666|1154
+vvo|33000263|Alaunplatz|dresden|1878|1154
+vvo|33000264|Görlitzer Straße|dresden|1878|1228
+vvo|33000009|Dürerstraße|dresden|1966|1472
+vvo|33000080|St.-Benno-Gymnasium|dresden|1966|1524
+vvo|33004180|Coswig|dresden|235|581
+vvo|33004213|Radebeul-Zitschewig|dresden|235|678
+vvo|33004212|Radebeul-Kötschenbroda|dresden|298|934
+vvo|33004211|S-Bf. Weintraube|dresden|553|985
+vvo|33004210|Radebeul-Ost|dresden|805|985
+vvo|33000622|Hp. Trachau|dresden|1097|985
+vvo|33000593|Hp. Pieschen|dresden|1267|1060
+vvo|33000757|Hp. Strehlen|dresden|2272|1921
+vvo|33000907|Bahnhof Reick|dresden|2681|1925
+vvo|33000910|Dresden-Zschachwitz|dresden|3477|1929
+vvo|33003040|Bahnhof Heidenau|dresden|3638|1925
+vvo|33000166|Hp. Plauen|dresden|1345|2273
+vvo|33001102|Freital-Potschappel|dresden|1187|2440
+vvo|33001162|Freital Deuben|dresden|1031|2606
+vvo|33000658|Bahnhof Klotzsche|dresden|1869|500
+vvo|33000662|Bahnhof Grenzstraße|dresden|1620|325
+vvo|33000617|Flughafen|dresden|1524|325
+vvo|33006680|Bf. Langebrück|dresden|2048|325
+vvo|33004401|Weinböhla Hp.|dresden|235|200
+vvo|33004209|Radebeul-Naundorf|dresden|186|916
+vvo|33000470|Hp. Niederwartha|dresden|182|1202
+vvo|33000450|Bf. Cossebaude|dresden|453|1380
+vvo|33000556|Dresden-Stetsch|dresden|624|1451
+vvo|33000550|Dresden-Kemnitz|dresden|668|1492
+vvo|33000193|Dresden-Cotta|dresden|926|1618
+vvo|33000192|Dresden Friedrichstadt|dresden|1209|1730
+vvo|33000722|Zwickauer Straße|dresden|1383|2068
+vvo|33000723|Chemnitzer Straße|dresden|1424|2068
+vvo|33000724|Bernhardstraße|dresden|1544|2068
+vvo|33000727|Technische Universität|dresden|1800|2068
+vvo|33000728|Staats- u. Unibibliothek|dresden|1878|2068
+vvo|33000784|C.-D.-Friedrich-Straße|dresden|2189|2065
+vvo|33000821|Tiergartenstraße|dresden|2321|1857
+vvo|33000823|Grunaer Weg|dresden|2422|1791
+vvo|33000819|Schneebergstraße|dresden|2421|1650
+vvo|33000826|Schlüterstraße|dresden|2459|1607
+vvo|33000828|Dornblüthstraße|dresden|2458|1442
+vvo|33000829|Niederwaldstraße|dresden|2458|1383
+vvo|33000830|Jacobistraße|dresden|2458|1317
+vvo|33000900|Wägnerstraße|dresden|2484|1285
+vvo|33000832|Körnerplatz|dresden|2598|1181
+vvo|33000833|Rißweg|dresden|2642|1141
+vvo|33000834|Steglichstraße|dresden|2690|1094
+vvo|33000835|Tännichtstraße|dresden|2736|1050
+vvo|33000851|Elisabethstraße|dresden|2773|1005
+vvo|33000861|Cunewalder Str.|dresden|2952|1004
+vvo|33000860|Quohrener Straße|dresden|2976|1032
+vvo|33000862|Hornweg|dresden|3009|1062
+vvo|33003780|Gönnsdorf|dresden|3066|1117
+vvo|33003784|Zachengrundring|dresden|3019|1180
+vvo|33003782|Pappritz|dresden|2964|1229
+vvo|33003783|Fernsehturm|dresden|2900|1290
+vvo|33000854|Rossendorfer Str.|dresden|2990|964
+vvo|33000855|Taubenberg|dresden|3062|964
+vvo|33003774|Am Steinkreuz|dresden|3118|964
+vvo|33003773|Heidestraße |dresden|3184|964
+vvo|33003788|Hutbergschule|dresden|3200|1002
+vvo|33003772|Südstraße|dresden|3250|1048
+vvo|33003770|Gasthof Weißig|dresden|3274|987
+vvo|33003779|Zum Heiderand|dresden|3274|932
+vvo|33003778|Radeberger Str.|dresden|3337|900
+vvo|33003777|Zum Hutbergblick|dresden|3389|900
+vvo|33003781|Weißig, Eink.-Zentr.|dresden|3442|939
+vvo|33003799|Radeberger Str. Süd|dresden|3338|932
+vvo|33003775|Am Weißiger Bach|dresden|3314|965
+vvo|33000047|Johannstadt|dresden|2213|1198
+vvo|33000046|Pfotenhauerstraße|dresden|2158|1244
+vvo|33000771|Neubertstraße|dresden|2130|1277
+vvo|33000770|Gutenbergstraße|dresden|2099|1311
+vvo|33000773|Pfeifferhannsstraße|dresden|2067|1343
+vvo|33000769|Bönischplatz|dresden|2036|1372
+vvo|33000768|Gerokstraße|dresden|2013|1430
+vvo|33000767|Striesener Straße|dresden|2013|1523
+vvo|33000766|Gerichtsstraße|dresden|1905|1523
+vvo|33000990|Reitbahnstraße|dresden|1637|1798
+vvo|33000763|Josephinenstraße|dresden|1606|1826
+vvo|33000725|Schweizer Straße|dresden|1480|1948
+vvo|33000721|Agentur f. Arbeit|dresden|1436|1991
+vvo|33000720|Bamberger Straße|dresden|1424|2140
+vvo|33000719|Plauen, Rathaus|dresden|1422|2198
+vvo|33000157|Fritz-Schulze-Straße|dresden|1243|2273
+vvo|33000704|Dölzschener Straße|dresden|1112|2277
+vvo|33000705|Kasseler Straße|dresden|1033|2277
+vvo|33000706|Altnaußlitz|dresden|964|2277
+vvo|33000710|Kölner Straße|dresden|927|2331
+vvo|33000707|Rüdesheimer Straße|dresden|927|2385
+vvo|33000708|Alfred-Thiele-Straße|dresden|927|2438
+vvo|33000709|Dölzschen|dresden|927|2479
+vvo|33000156|Würzburger Straße|dresden|1257|2230
+vvo|33000697|Löbtau Süd|dresden|1242|2207
+vvo|33003015|Bonnewitz|dresden|3797|1198
+vvo|33003003|Bonnewitzer Straße|dresden|3797|1253
+vvo|33003002|Tschaikowskiplatz|dresden|3797|1311
+vvo|33003001|Tiefer Grund|dresden|3797|1367
+vvo|33003000|Borsbergstraße|dresden|3797|1414
+vvo|33000886|Am Waldrand|dresden|3742|1414
+vvo|33000885|Dorfplatz Oberpoyritz|dresden|3691|1414
+vvo|33000884|Am Schöpsdamm|dresden|3640|1414
+vvo|33000883|Lohmener Straße|dresden|3587|1414
+vvo|33000882|Pillnitzer Platz|dresden|3545|1414
+vvo|33000881|Rathaus Pillnitz|dresden|3496|1414
+vvo|33000888|Bodemerweg|dresden|3449|1414
+vvo|33000880|Leonardo-da-Vinci-Str.|dresden|3393|1414
+vvo|33000879|Van-Gogh-Straße|dresden|3295|1414
+vvo|33000878|An der Obstplantage|dresden|3197|1414
+vvo|33000877|Gustavheim|dresden|3109|1414
+vvo|33000876|Staffelsteinstraße|dresden|2997|1414
+vvo|33000875|Moosleite|dresden|2911|1414
+vvo|33000874|Altwachwitz|dresden|2833|1414
+vvo|33000873|Josef-Herrmann-Straße|dresden|2775|1357
+vvo|33000872|Künstlerhaus|dresden|2726|1308
+vvo|33000871|Calberlastraße|dresden|2671|1256
+vvo|33000827|Hüblerplatz|dresden|2383|1382
+vvo|33000825|Wittenberger Straße|dresden|2383|1444
+vvo|33000820|Mansfelder Straße|dresden|2322|1610
+vvo|33000754|Leiblstraße|dresden|2318|2149
+vvo|33000753|Zschertnitzer Straße|dresden|2318|2199
+vvo|33000758|Wilhelm-Busch-Str.|dresden|2310|2333
+vvo|33000752|Münzteichweg|dresden|2242|2406
+vvo|33000751|Campingpl. Mockritz|dresden|2160|2487
+vvo|33000737|Babisnauer Straße|dresden|1960|2488
+vvo|33000738|Altmockritz|dresden|1960|2433
+vvo|33000739|Ludwig-Renn-Allee|dresden|1879|2377
+vvo|33000733|Südhöhe|dresden|1800|2375
+vvo|33000743|Höckendorfer Weg|dresden|1737|2382
+vvo|33000740|Dorfhainer Straße|dresden|1688|2384
+vvo|33000741|Cunnersdorfer Straße|dresden|1607|2383
+vvo|33000160|Westendstraße|dresden|1569|2256
+vvo|33000718|Plauenscher Ring|dresden|1527|2256
+vvo|33000159|Coschützer Straße|dresden|1479|2256
+vvo|33000155|Clara-Viebig-Straße|dresden|1291|2144
+vvo|33000582|Kaditz Am Vorwerksfeld|dresden|690|1125
+vvo|33000583|Spitzhausstraße|dresden|747|1125
+vvo|33000584|Seewiesenweg|dresden|795|1125
+vvo|33000567|Fürstenhainer Straße|dresden|844|1125
+vvo|33000586|Wächterstraße|dresden|1051|1121
+vvo|33000587|Bunsenstraße|dresden|1100|1121
+vvo|33000589|Wurzener Straße|dresden|1236|1085
+vvo|33000250|Btf. Trachenberge|dresden|1345|970
+vvo|33000595|Maxim-Gorki-Straße|dresden|1386|943
+vvo|33000596|St.-Pauli-Friedhof|dresden|1424|943
+vvo|33000597|Oberauer Straße|dresden|1496|947
+vvo|33000598|Bärwalder Straße|dresden|1555|1004
+vvo|33000601|Buchenstraße|dresden|1611|1060
+vvo|33000599|Schanzenstraße|dresden|1677|1060
+vvo|33000600|Rudolf-Leonhard-Straße|dresden|1740|1060
+vvo|33000287|Hans-Oster-Str.|dresden|1861|1060
+vvo|33000604|Marienallee|dresden|1919|1060
+vvo|33000605|Landesdirektion Sachsen|dresden|1968|1060
+vvo|33000606|Waldschlößchenstraße|dresden|2024|1060
+vvo|33000774|K.-Kollwitz-Ufer|dresden|2134|1223
+vvo|33000045|Universitätsklinikum|dresden|2211|1248
+vvo|33000890|Hepkeplatz|dresden|2382|1607
+vvo|33000915|Fraunhofer-Institutszentrum|dresden|2485|1805
+vvo|33000889|Gasanstaltstraße|dresden|2564|1807
+vvo|33000937|Nätherstraße|dresden|2624|1861
+vvo|33000909|Enno-Heidebroek-Str.|dresden|2689|1952
+vvo|33000920|Hülße-Gymnasium|dresden|2770|2021
+vvo|33003042|K.-Kollwitz-Straße|dresden|3701|1865
+vvo|33003041|Dresdner Straße|dresden|3701|1812
+vvo|33000947|Tronitzer Straße|dresden|3701|1759
+vvo|33000936|Hüfnerweg|dresden|3638|1759
+vvo|33000946|Johannes-Brahms-Str.|dresden|3579|1759
+vvo|33000941|Am Brüchigt|dresden|3524|1759
+vvo|33000944|Struppener Straße|dresden|3465|1759
+vvo|33000949|Am Wiesenrand|dresden|3406|1759
+vvo|33000796|Luga|dresden|3520|2098
+vvo|33000795|Krebser Straße|dresden|3444|2100
+vvo|33000924|Krebser Straße Nord|dresden|3465|2054
+vvo|33000923|Veilchenstraße|dresden|3433|2025
+vvo|33000925|Niedersedlitzer Platz|dresden|3402|1994
+vvo|33000952|Prof.-Billroth-Straße|dresden|3371|1963
+vvo|33000951|Schönaer Straße|dresden|3349|1822
+vvo|33000943|Bahnhofstraße|dresden|3349|1759
+vvo|33000942|Weißdornstraße|dresden|3292|1759
+vvo|33000940|Kastanienstraße|dresden|3240|1759
+vvo|33000939|Rathaus Leuben|dresden|3118|1783
+vvo|33000917|Mockethaler Straße|dresden|3019|1823
+vvo|33000916|Niederseidewitzer Weg|dresden|2982|1862
+vvo|33000911|Seidnitzer Weg|dresden|2873|1945
+vvo|33000908|Pferderennbahn|dresden|2691|1860
+vvo|33000906|Winterbergstraße|dresden|2691|1803
+vvo|33000905|Einkaufszentrum Seidnitz|dresden|2687|1672
+vvo|33000904|Hepkestraße|dresden|2683|1607
+vvo|33000903|Altenberger Platz|dresden|2652|1572
+vvo|33000902|Niederwaldplatz|dresden|2560|1440
+vvo|33000901|Oehmestraße|dresden|2566|1381
+vvo|33000831|Berggartenstraße|dresden|2566|1335
+vvo|33000053|Kretschmerstraße|dresden|2566|1290
+vvo|33001162|Busbf. Deuben|dresden|1045|2614
+vvo|33001161|Neumarkt|dresden|1064|2593
+vvo|33000160|Schachtstraße|dresden|1088|2569
+vvo|33001101|Platz des Friedens|dresden|1126|2529
+vvo|33001189|Windbergallee|dresden|1194|2533
+vvo|33001148|Am Dathepark|dresden|1242|2533
+vvo|33001188|Am Windberg|dresden|1293|2533
+vvo|33001149|Schule Burgk|dresden|1341|2533
+vvo|33001187|Zschiedge|dresden|1390|2533
+vvo|33001137|Burgker Straße|dresden|1431|2518
+vvo|33000746|Hermann-Michel-Straße|dresden|1450|2501
+vvo|33000745|Rathausstraße|dresden|1465|2475
+vvo|33000744|Kleinnaundorfer Straße|dresden|1491|2454
+vvo|33000755|Mockritz|dresden|2360|2210
+vvo|33000759|Wilhelm-Busch-Str. Ost|dresden|2359|2294
+vvo|33000736|Bannewitzer Straße|dresden|1878|2494
+vvo|33000735|Altkaitz|dresden|1799|2494
+vvo|33000734|Innsbrucker Straße|dresden|1799|2436
+vvo|33000732|Mommsenstraße|dresden|1803|2175
+vvo|33000782|Uhlandstraße|dresden|1879|1979
+vvo|33000309|Weberplatz|dresden|2092|1979
+vvo|33000785|Corinthstraße|dresden|2416|2127
+vvo|33000786|Spitzwegstraße|dresden|2603|2127
+vvo|33000787|Marie-Wittich-Straße|dresden|2677|2127
+vvo|33000788|Tornaer Straße|dresden|2749|2127
+vvo|33000789|Gamigstraße|dresden|2834|2127
+vvo|33000790|Fritz-Meinhardt-Str.|dresden|2901|2127
+vvo|33000324|Prohlis Einkaufszentrum|dresden|3045|2127
+vvo|33000792|Erich-Kästner-Straße|dresden|3138|2115
+vvo|33000815|Nickerner Weg|dresden|3138|2173
+vvo|33000816|Helena-Rott-Straße|dresden|3138|2220
+vvo|33000817|Arno-Schellenberg-Str.|dresden|3138|2264
+vvo|33000818|Alter Postweg|dresden|3138|2320
+vvo|33000934|Theilestraße|dresden|3203|2188
+vvo|33000938|Hänichenweg|dresden|3261|2247
+vvo|33000935|Lockwitz|dresden|3328|2309
+vvo|33000687|Am Altfrankener Park|dresden|620|2076
+vvo|33000686|Hirtenstraße|dresden|713|2076
+vvo|33000685|Kapellenweg|dresden|801|2076
+vvo|33000684|Wölfnitzer Ring|dresden|891|2076
+vvo|33000691|Weidentalstraße|dresden|921|1923
+vvo|33000507|Grillparzerstraße|dresden|916|1877
+vvo|33000571|Werftstraße|dresden|976|1405
+vvo|33000572|Overbeckstraße|dresden|976|1295
+vvo|33000573|Gewerbegebiet Kaditz|dresden|976|1248
+vvo|33000621|Krhs. Neustadt|dresden|1105|950
+vvo|33000626|Wilder-Mann-Straße|dresden|1127|938
+vvo|33000591|Boxdorfer Straße|dresden|1166|939
+vvo|33000590|Markusfriedhof|dresden|1204|939
+vvo|33000646|Lauterbacher Straße|dresden|1430|885
+vvo|33000638|Hellerberge|dresden|1358|733
+vvo|33000645|Am Olter|dresden|1320|693
+vvo|33000644|Elsterweg|dresden|1271|646
+vvo|33000643|Waldteichstraße|dresden|1272|594
+vvo|33000648|Beckerstraße|dresden|1321|527
+vvo|33000652|Am Festspielhaus|dresden|1506|527
+vvo|33000653|Am Steinacker|dresden|1565|527
+vvo|33000654|Ahlbecker Straße|dresden|1624|527
+vvo|33000670|Karlshagener Weg|dresden|1671|524
+vvo|33000671|Zinnowitzer Straße|dresden|1718|524
+vvo|33000656|Stralsunder Straße|dresden|1763|524
+vvo|33000672|Hugo-Junkers-Ring|dresden|1737|290
+vvo|33000677|Ikarusweg|dresden|1684|290
+vvo|33000673|Zur Steinhöhe|dresden|1630|290
+vvo|33000675|Zum Windkanal|dresden|1577|290
+vvo|33000678|Schwimmh. Klotzsche|dresden|1524|290
+vvo|33000676|Ind.-gebiet Nord|dresden|1471|290
+vvo|33000580|Altkaditz|dresden|806|1185
+vvo|33004241|Altserkowitz|dresden|639|1138
+vvo|33004283|Kaufland Radebeul|dresden|575|1095
+vvo|33004250|Bergblick|dresden|615|884
+vvo|33004251|Nizzastraße|dresden|652|845
+vvo|33004252|Gutenbergstr. Radeb.|dresden|688|808
+vvo|33004253|Eduard-Bilz-Straße|dresden|727|770
+vvo|33004254|F.-Schulze-Str. Radeb.|dresden|765|733
+vvo|33004255|Reichsstraße|dresden|802|695
+vvo|33004256|Fichtestraße|dresden|839|658
+vvo|33004258|Hospiz Radebeul|dresden|906|658
+vvo|33004300|Baumwiese|dresden|971|659
+vvo|33004301|Boxdorf, Am Grunde|dresden|971|588
+vvo|33004302|Bebelplatz|dresden|999|530
+vvo|33004303|Ernst-Wagner-Straße|dresden|1069|530
+vvo|33000634|Lößnitzweg|dresden|1138|530
+vvo|33000642|Keulenbergstraße|dresden|1217|530
+vvo|33000640|Saßnitzer Straße|dresden|1267|530
+vvo|33000615|Dörnichtweg|dresden|1664|569
+vvo|33000614|Grüner Weg|dresden|1700|606
+vvo|33000611|Rathaus Klotzsche|dresden|1742|646
+vvo|33000610|Infineon|dresden|1831|728
+vvo|33000608|Arno-Holz-Allee|dresden|1916|1088
+vvo|33000971|Böhmertstraße|dresden|2115|1017
+vvo|33000968|M.-Oeder-Straße|dresden|2096|966
+vvo|33000989|Jägerpark|dresden|2096|989
+vvo|33001020|Goppeln|dresden|2538|2490
+vvo|33001024|Autobahnmeisterei|dresden|2538|2447
+vvo|33000813|Gombsener Straße|dresden|2538|2407
+vvo|33000811|Leubnitzer Höhe|dresden|2521|2388
+vvo|33000810|Koloniestraße|dresden|2538|2365
+vvo|33000809|Kauschaer Straße|dresden|2538|2323
+vvo|33000808|Thomas-Mann-Straße|dresden|2538|2282
+vvo|33000807|Karl-Laux-Straße|dresden|2538|2241
+vvo|33000804|Altleubnitz|dresden|2538|2205
+vvo|33000805|Neuostra|dresden|2471|2239
+vvo|33000806|Klosterteichplatz|dresden|2495|2268
+vvo|33000803|Dohnaer Straße|dresden|2539|2160
+vvo|33000764|Hans-Dankner-Straße|dresden|1889|1802
+vvo|33000603|Justizvollzugsanstalt|dresden|1543|871
+vvo|33000609|Fabricestraße|dresden|1502|871
+vvo|33000616|Flughafenstraße|dresden|1475|370
+vvo|33000618|Flughafen West|dresden|1509|353
+vvo|33000207|Rethelstraße|dresden|1067|1291
+vvo|33000570|Kaditzer Straße|dresden|1067|1324
+vvo|33000530|Thäterstraße|dresden|1067|1369
+vvo|33000531|Mengsstraße|dresden|1067|1412
+vvo|33000214|Scharfenberger Straße|dresden|1028|1291
+vvo|33000501|Omsewitz|dresden|624|1877
+vvo|33000503|Altomsewitz|dresden|666|1877
+vvo|33000502|Adalb.-Stifter-Weg|dresden|710|1877
+vvo|33000504|Altburgstädtel|dresden|750|1877
+vvo|33000505|Lise-Meitner-Straße|dresden|793|1877
+vvo|33000506|Gorbitzer Straße|dresden|836|1877
+vvo|33000509|A.-Weineck-Straße|dresden|881|1877
+vvo|33000623|Kopernikusstraße|dresden|1112|915
+vvo|33000624|Aachener Straße|dresden|1112|893
+vvo|33000625|Stephanstraße|dresden|1112|870
+vvo|33000627|Platanenstraße|dresden|1112|848
+vvo|33000628|Neuländer Straße|dresden|1076|762
+vvo|33000629|Heidefriedhof|dresden|1023|709
+vvo|33004309|Feuerwehr Boxdorf|dresden|972|503
+vvo|33004305|Querweg|dresden|972|434
+vvo|33004306|An der Triebe|dresden|972|365
+vvo|33004308|Am Weiher|dresden|1069|365
+vvo|33000650|Wilschdf.Ind.-gebiet|dresden|1144|365
+vvo|33000639|Wilschdorfer Landstr.|dresden|1268|365
+vvo|33000636|Rähnitzer Allee|dresden|1369|365
+vvo|33000619|Flugzeugwerke|dresden|1585|365
+vvo|33000661|Grenzstraße|dresden|1659|365
+vvo|33000664|Putbuser Weg|dresden|1659|412
+vvo|33000665|Sagarder Weg|dresden|1659|465
+vvo|33000666|Fontane-Center|dresden|1710|465
+vvo|33000667|St.-Marien-Krankenh.|dresden|1767|465
+vvo|33000260|Dammweg|dresden|1625|1198
+vvo|33000594|Pestalozziplatz|dresden|1430|1116
+vvo|33000647|Eschebachstraße|dresden|1423|1033
+vvo|33000651|Am Hellerhof|dresden|1391|845
+vvo|33000637|Hellerhofstraße|dresden|1363|815
+vvo|33000641|Reineckeweg|dresden|1208|481
+vvo|33000649|Altwilschdorf|dresden|1208|424
+vvo|33000848|Rochwitz, Bühlauer Str.|dresden|2963|1107
+vvo|33000840|Hutbergstraße|dresden|2924|1147
+vvo|33000847|Auf der Höhe|dresden|2881|1187
+vvo|33000846|Kotzschweg|dresden|2832|1187
+vvo|33000843|Amselsteg|dresden|2788|1187
+vvo|33000844|Malerstraße|dresden|2743|1159
+vvo|33000845|Ob. Station Schwebebahn|dresden|2709|1187
+vvo|33000842|Zweibrüderweg|dresden|2816|1129
+vvo|33000841|Scharfensteinstraße|dresden|2776|1088
+vvo|33000894|Bärensteiner Straße|dresden|2634|1609
+vvo|33000895|Kurzer Schritt|dresden|2555|1609
+vvo|33000918|Junghansstraße|dresden|2498|1609
+vvo|33000511|Heinrich-Zille-Straße|dresden|2269|2084
+vvo|33000517|Schurichtstraße|dresden|2204|2158
+vvo|33000730|Dora-Stock-Straße|dresden|2160|2200
+vvo|33000729|Rubensweg|dresden|2060|2200
+vvo|33000512|Stadtgutstraße|dresden|1878|2200
+vvo|33000742|Helmholtzstraße|dresden|1740|2200
+vvo|33000513|Regensburger Straße|dresden|1658|2200
+vvo|33000510|Kaitzer Straße|dresden|1496|2200
+vvo|33000988|Borsbergblick|dresden|3705|1694
+vvo|33000987|Freibad Wostra|dresden|3705|1633
+vvo|33000986|Wostra|dresden|3645|1633
+vvo|33000985|Zur Elbinsel|dresden|3585|1633
+vvo|33000984|Gondelweg|dresden|3526|1633
+vvo|33000983|Kurhausstraße|dresden|3464|1633
+vvo|33000982|Zschierener Straße|dresden|3404|1633
+vvo|33000981|Keppgrundstraße|dresden|3287|1571
+vvo|33000980|Eichbergstraße|dresden|3254|1538
+vvo|33000960|Schiffswerft Laubegast|dresden|3192|1538
+vvo|33000961|Troppauer Straße|dresden|2965|1582
+vvo|33000962|Burgenlandstraße|dresden|2921|1627
+vvo|33000693|Reichenhaller Straße|dresden|2875|1672
+vvo|33000914|Altdobritz|dresden|2875|1797
+vvo|33000997|Kadenstraße|dresden|2901|1807
+vvo|33000913|Vollmarstraße|dresden|2899|1864
+vvo|33000912|An der Rennbahn|dresden|2876|1832
+vvo|33000932|Niedersedlitzer Straße|dresden|3057|1968
+vvo|33000933|Ernst-Toller-Straße|dresden|3057|2020
+vvo|33000793|Urnenstraße|dresden|3258|2113
+vvo|33000794|Altlockwitz|dresden|3328|2113
+vvo|33000955|Am Galgenberg|dresden|3298|2338
+vvo|33000956|Kelterei|dresden|3269|2367
+vvo|33000957|Sobrigauer Weg|dresden|3236|2399
+vvo|33000958|Fußweg nach Borthen|dresden|3199|2437
+vvo|33001007|Sechserhaus|dresden|3169|2465
+vvo|33001005|Fußweg nach Sobrigau|dresden|3138|2491
+vvo|33001006|Hummelmühle|dresden|3078|2491
+vvo|33001008|Gombsen|dresden|3016|2491
+vvo|33001009|Neugombsen|dresden|2954|2491
+vvo|33001001|Klinikum Kreischa|dresden|2893|2491
+vvo|33001012|Haußmannplatz|dresden|2830|2491
+vvo|33001000|Kreischa Am Mühlgr.|dresden|2760|2491
+vvo|33000761|Otto-Pilz-Straße|dresden|2272|2200
+vvo|33000516|Clausen-Dahl-Straße|dresden|2392|2200
+vvo|33000515|Robert-Sterl-Straße|dresden|2464|2200
+vvo|33000514|Am Anger|dresden|2751|2073
+vvo|33000964|Bergfelderweg|dresden|2750|1798
+vvo|33000965|Liebenauer Straße|dresden|2748|1673
+vvo|33000966|Knappestraße|dresden|2790|1632
+vvo|33000967|Wilischstraße|dresden|2828|1593
+vvo|33000893|Kipsdorfer Straße|dresden|2856|1563
+vvo|33000892|Lengefelder Straße|dresden|2803|1563
+vvo|33000891|Berggießhübler Str.|dresden|2750|1563
+vvo|33000969|Schaufußstraße|dresden|2684|1563
+vvo|33000798|Kurt-Tucholsky-Str.|dresden|3171|2073
+vvo|33000929|Göppersdorfer Weg|dresden|3207|2037
+vvo|33000928|Mühlenstraße|dresden|3239|2004
+vvo|33000927|Reisstraße|dresden|3267|1975
+vvo|33000926|An der Post|dresden|3292|1950
+vvo|33000950|Putjatinplatz|dresden|3343|1695
+vvo|33000402|Kleinzschachw. Fähre|dresden|3378|1523
+vvo|33003091|Röhrsdorf|dresden|3494|2479
+vvo|33003090|Borthen|dresden|3416|2403
+vvo|33000954|B.-Smetana-Str.|dresden|3334|2076
+vvo|33000953|Dorfstraße|dresden|3334|2036
+vvo|33000948|Sosaer Straße|dresden|3334|1994
+vvo|33000701|Schillingstraße|dresden|1226|2128
+vvo|33000696|Bonhoefferplatz|dresden|1229|2171
+vvo|33000702|Clara-Zetkin-Straße|dresden|1171|2171
+vvo|33000703|Frankenbergstraße|dresden|1114|2216
+vvo|33000711|Saalhausener Straße|dresden|924|2197
+vvo|33000712|Neunimptscher Straße|dresden|858|2197
+vvo|33000713|Beerenhut|dresden|809|2197
+vvo|33001092|Mittelweg|dresden|759|2197
+vvo|33001090|Dorfplatz Pesterwitz|dresden|693|2197
+vvo|33001093|Zum Weinberg|dresden|624|2197
+vvo|33001091|Pesterwitz|dresden|554|2197
+vvo|33001094|Obere Straße|dresden|496|2197
+vvo|33000688|Altfranken|dresden|429|2197
+vvo|33000689|Hohe Straße|dresden|363|2197
+vvo|33000431|Kohlsdorfer Landstraße|dresden|363|2136
+vvo|33000542|Schunckstraße|dresden|806|1609
+vvo|33000543|Am Lehmberg|dresden|740|1609
+vvo|33000544|Droste-Hülshoff-Str.|dresden|659|1640
+vvo|33000545|Martin-Opitz-Straße|dresden|628|1674
+vvo|33000546|Freiheit|dresden|544|1674
+vvo|33000420|Am Querfeld|dresden|480|1674
+vvo|33000421|Ockerwitz|dresden|425|1674
+vvo|33000419|O.-Maune-Str.|dresden|299|1987
+vvo|33000414|Hohlweg|dresden|381|1987
+vvo|33000415|Schule Gompitz|dresden|462|1987
+vvo|33000411|Podemuser Straße|dresden|236|1987
+vvo|33000428|Zölmen, Zschonerbach|dresden|181|1987
+vvo|33000424|Steinbach|dresden|128|1987
+vvo|33000423|Unkersdorf, Abzw. Roitsch|dresden|128|1879
+vvo|33000427|Unkersdorf, Teichweg|dresden|128|1772
+vvo|33000425|Unkersdorf, Kirche|dresden|128|1660
+vvo|33000445|Rennersdorf|dresden|128|1553
+vvo|33000434|Brabschütz, Zum Schwarm|dresden|277|1553
+vvo|33000430|Altleuteritz|dresden|351|1553
+vvo|33000437|Merbitz, Autobahnbrücke|dresden|407|1553
+vvo|33000446|Altmobschatz|dresden|453|1517
+vvo|33000535|Mobschatzer Höhe|dresden|518|1553
+vvo|33000536|Am Zschonergrundbad|dresden|574|1553
+vvo|33000537|Schleswiger Straße|dresden|631|1553
+vvo|33000548|Hammeraue|dresden|686|1553
+vvo|33000538|Schulberg|dresden|744|1553
+vvo|33000447|Mobschatz, Am Tummelsgrund|dresden|483|1482
+vvo|33000448|Am Hang|dresden|511|1455
+vvo|33000452|Gewerbegebiet Breitscheidstr|dresden|511|1425
+vvo|33000453|Eichbergstr.|dresden|461|1425
+vvo|33000454|Erna-Berger-Straße|dresden|381|1338
+vvo|33000460|Schulstraße|dresden|444|1301
+vvo|33000455|Weinbergstraße|dresden|386|1425
+vvo|33000461|Talstraße|dresden|313|1463
+vvo|33000479|Hässige Straße|dresden|211|1463
+vvo|33000478|Friedensplatz|dresden|131|1425
+vvo|33000477|Dorotheenstraße|dresden|184|1425
+vvo|33000451|Oberwartha, Albertplatz|dresden|236|1425
+vvo|33000457|Parkweg|dresden|288|1425
+vvo|33000456|Sonnenleite|dresden|337|1425
+vvo|33000441|Podemus, Roitscher Straße|dresden|275|1611
+vvo|33000436|Merbitz, Gewerbegebiet|dresden|370|1611
+vvo|33000473|Rohrbahn|dresden|231|1264
+vvo|33000472|Amselgrund|dresden|274|1304
+vvo|33000463|An den Winkelwiesen|dresden|337|1304
+vvo|33000458|Ludwigstraße|dresden|520|1304
+vvo|33000459|Gohliser Weg|dresden|580|1362
+vvo|33000469|Gohlis|dresden|608|1393
+vvo|33000555|Am Urnenfeld|dresden|636|1422
+vvo|33000554|Podemusstraße|dresden|666|1449
+vvo|33000553|Flensburger Straße|dresden|699|1482
+vvo|33000552|Zschonergrundstraße|dresden|725|1510
+vvo|33000551|Merbitzer Straße|dresden|755|1538
+vvo|33000183|Betriebshof Waltherstr.|dresden|1209|1604
+vvo|33000563|Schillerstraße|dresden|558|1272
+vvo|33000559|Kolpingstraße|dresden|594|1260
+vvo|33000561|Niedergohlis Südstr.|dresden|647|1260
+vvo|33000560|Niedergohlis Dorfstr.|dresden|684|1298
+vvo|33000564|Windmühlenweg|dresden|666|1320
+vvo|33000562|Obergohlis|dresden|633|1343
+vvo|33000557|Fehrmannweg|dresden|608|1322
+vvo|33000558|Gartenstraße|dresden|579|1289
+vvo|33000549|Am Steinigt|dresden|520|1641
+vvo|33000442|Zschonergrundmühle|dresden|485|1611
+vvo|33003767|Gönnsdorfer Weg|dresden|3168|1000
+vvo|33000867|Birkenstraße|dresden|2998|1254
+vvo|33000868|Kurze Straße|dresden|2998|1305
+vvo|33000869|Stallberg|dresden|2998|1354
+vvo|33000858|Bergstraße|dresden|3285|1072
+vvo|33000857|Am Dorfende|dresden|3285|1104
+vvo|33003791|Schönfeld Markt|dresden|3288|1192
+vvo|33003790|Schönfeld Schmiede|dresden|3198|1192
+vvo|33003793|Eichbusch|dresden|3186|1287
+vvo|33000999|Rockau Am Dorfplatz |dresden|3163|1297
+vvo|33000998|Rockau Am Preßgrund |dresden|3142|1266
+vvo|33003786|Helfenberg|dresden|3142|1230
+vvo|33003785|Cunnersdorf Gasthaus|dresden|3142|1190
+vvo|33003795|Schönfeld Schule|dresden|3369|1191
+vvo|33000865|Schönfeld Malschendorfer Str.|dresden|3423|1222
+vvo|33003794|Malschendorf|dresden|3423|1303
+vvo|33000866|Schönfeld Meixstraße|dresden|3435|1191
+vvo|33003796|Reitzendorf Kleinbauernmuseum |dresden|3531|1191
+vvo|33003797|Zaschendorf|dresden|3553|1266
+vvo|33003798|Borsberg|dresden|3553|1331
+vvo|33000403|Fährstelle Pillnitz|dresden|3409|1465
+vvo|33000407|Fährstelle Niederpoyritz|dresden|2955|1439
+vvo|33000406|Fährstelle Tolkewitz|dresden|2955|1470
+vvo|33000409|Fährstelle Neustadt|dresden|2028|1257
+vvo|33000408|Fährstelle Johannstadt|dresden|2059|1279
+vvo|33004164|Coswig Spitzgrund|dresden|468|532
+vvo|33004137|Weinböhle Kirchplatz|dresden|283|178
+vvo|33004245|Altkötschenbroda|dresden|310|1026
+vvo|33004281|Hainstraße|dresden|410|1131
+vvo|33004282|Kötschenbrodaer Straße|dresden|551|1131
+vvo|33004242|Friedhofstraße|dresden|697|1063
+vvo|33004237|Barhübelstraße|dresden|823|1019
+vvo|33004236|Seestraße|dresden|875|1019
+vvo|33000577|Dungerstraße|dresden|948|1019
+vvo|33000576|Ranke-/Peschelstraße|dresden|1015|1019
+vvo|33004231|August-Bebel-Straße|dresden|823|930
+vvo|33004257|A.-Bebel-Str./Waldstraße|dresden|823|807
+vvo|33004289|Waldstraße|dresden|891|737
+vvo|33004304|Boxdorf Schule|dresden|956|527
+vvo|33000475|Oberwarthaer Straße|dresden|186|1266
+vvo|33000474|H.-Große-Straße|dresden|186|1307
+vvo|33001373|Frankenring|dresden|115|2078
+vvo|33001369|Kesselsdorf, Am Wüsteberg|dresden|215|2136
+vvo|33001099|Siedlerstraße|dresden|693|2261
+vvo|33001098|Pesterwitz Freitaler Straße|dresden|694|2313
+vvo|33001108|Turnerstraße|dresden|1175|2475
+vvo|33001103|Freital, Fichtestraße|dresden|1218|2431
+vvo|33000714|Gitterseebrücke|dresden|1232|2374
+vvo|33000715|Heidenschanze|dresden|1232|2351
+vvo|33000716|Begerburg|dresden|1232|2329
+vvo|33000717|Felsenkeller|dresden|1232|2304
+vvo|33001126|Steigerstraße|dresden|1522|2611
+vvo|33001138|Schule Kleinnaundorf|dresden|1500|2589
+vvo|33001136|Meßweg|dresden|1478|2567
+vvo|33000749|Gittersee Gewerbegebiet|dresden|1485|2509
+vvo|33000693|Stuttgarter Straße|dresden|1509|2503
+vvo|33000692|Heilbronner Straße|dresden|1514|2482
+vvo|33000694|Tübinger Straße|dresden|1517|2462
+vvo|33001072|Nöthnitz|dresden|1715|2553
+vvo|33001025|Kauscha|dresden|2648|2383
+vvo|33000800|Altnickern|dresden|2818|2213
+vvo|33003094|Burgstädtel|dresden|3410|2501
+vvo|33000797|Lugaer Platz|dresden|3551|2086
+vvo|33003070|Ausspanne|dresden|3589|2048
+vvo|33003072|Einkaufszentrum|dresden|3621|2014
+vvo|33003071|Heidenau Breitscheidstraße|dresden|3659|1977
+vvo|33000896|Dampfschiffstraße|dresden|3609|1477
+vvo|33000897|Söbringer Straße|dresden|3676|1477
+vvo|33000898|Söbringen|dresden|3741|1477
+vvo|33006764|Siedlung Rossendorf B6|dresden|3740|957
+vvo|33006765|Rossendorf Forschungszentrum|dresden|3740|1000
+vvo|33006769|Rossendorf Schankhübel|dresden|3651|957
+vvo|33006767|Rossendorf Gutsweg|dresden|3618|990
+vvo|33003771|Bautzner Landstraße|dresden|3544|957
+vvo|33003808|Eschdorf Rosinendörfchen|dresden|3739|1057
+vvo|33003807|Eschdorf Brücke|dresden|3678|1057
+vvo|33003806|Eschdorf Gasthaus|dresden|3613|1057
+vvo|33003805|Eschdorf Am Steinbruch|dresden|3551|1057
+vvo|33003804|Eschdorf Am Gassenberg|dresden|3585|1022
+vvo|33003802|Schullwitz Gasthaus|dresden|3518|1089
+vvo|33003801|Schullwitz Schule|dresden|3491|1118
+vvo|33003800|Schullwitz Oberdorf|dresden|3460|1149
+vvo|33003792|Schönfeld Friedhof|dresden|3435|1174
+vvo|33000975|H.-Löns-Straße|dresden|2912|856
+vvo|33000976|Schneise 8|dresden|2912|786
+vvo|33000973|Fischhausstraße|dresden|2119|946
+vvo|33000974|Heidemühle|dresden|2280|786
+vvo|33006682|Langebrück, Heidehof|dresden|1944|369
+vvo|33006684|Langebrück, Klotscher Straße|dresden|2013|369
+vvo|33006686|Langebrück Schule|dresden|2061|369
+vvo|33006685|Langebrück Lindenhof|dresden|2033|349
+vvo|33006687|Spritzenhaus|dresden|2061|283
+vvo|33006681|Langebrück Am Mühlenteich|dresden|2061|241
+vvo|33006617|Langebrücker Straße|dresden|2061|198
+vvo|33006618|Grünberg Lausaer Straße|dresden|2061|154
+vvo|33006696|Schönborn|dresden|2175|154
+vvo|33006619|Grünberg Siedlung|dresden|2011|108
+vvo|33006587|E.-Kluge-Straße|dresden|1759|236
+vvo|33006581|Alte Dresdner Straße|dresden|1759|200
+vvo|33006585|Weixdorf Mitte/Rathausplatz|dresden|1720|200
+vvo|33006586|Mittelschule|dresden|1720|159
+vvo|33006590|Alte Moritzburger Straße|dresden|1679|161
+vvo|33006591|Radeburger Landstraße|dresden|1679|130
+vvo|33006592|Promigberg|dresden|1679|99
+vvo|33006582|Gomlitzer Höhe|dresden|1588|160
+vvo|33006596|Am Homsberg|dresden|1516|160
+vvo|33006595|Marsdorf Mitte|dresden|1443|160
+vvo|33004397|Abzw. Waldteiche|dresden|1268|160
+vvo|33000839|Ob. Station Standseilbahn|dresden|2579|1066
