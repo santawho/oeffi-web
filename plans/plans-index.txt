@@ -185,10 +185,6 @@ westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 paris_metro_ratp|48.855414,2.34488|2014-01|Paris Metro|RATP
 paris_metro|48.855414,2.34488|2012-12|Paris Metro|Nathan Kaufmann, Creative Commons
 
-# it
-
-rome_metro|41.891244,12.491097|2010|Rome Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roma_Metropolitana.svg/2000px-Roma_Metropolitana.svg.png
-
 # po
 
 gdansk_tram|54.355338,18.644478|2008|Gdansk Tram|ZKM|http://transportmaps.free.fr/maps/Poland/Gdansk/map_Tram.jpg
