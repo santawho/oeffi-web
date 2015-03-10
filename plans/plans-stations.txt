@@ -2139,7 +2139,7 @@ vvo|33000593|Hp. Pieschen|dresden|1267|1060
 vvo|33000757|Hp. Strehlen|dresden|2272|1921
 vvo|33000907|Bahnhof Reick|dresden|2681|1925
 vvo|33000910|Dresden-Zschachwitz|dresden|3477|1929
-vvo|33003040|Bahnhof Heidenau|dresden|3638|1925
+vvo|33003040|Bahnhof Heidenau|dresden|3699|1925
 vvo|33000166|Hp. Plauen|dresden|1345|2273
 vvo|33001102|Freital-Potschappel|dresden|1187|2440
 vvo|33001162|Freital Deuben|dresden|1031|2606
@@ -2318,7 +2318,6 @@ vvo|33000902|Niederwaldplatz|dresden|2560|1440
 vvo|33000901|Oehmestraße|dresden|2566|1381
 vvo|33000831|Berggartenstraße|dresden|2566|1335
 vvo|33000053|Kretschmerstraße|dresden|2566|1290
-vvo|33001162|Busbf. Deuben|dresden|1045|2614
 vvo|33001161|Neumarkt|dresden|1064|2593
 vvo|33000160|Schachtstraße|dresden|1088|2569
 vvo|33001101|Platz des Friedens|dresden|1126|2529
@@ -2731,3 +2730,6 @@ vvo|33006596|Am Homsberg|dresden|1516|160
 vvo|33006595|Marsdorf Mitte|dresden|1443|160
 vvo|33004397|Abzw. Waldteiche|dresden|1268|160
 vvo|33000839|Ob. Station Standseilbahn|dresden|2579|1066
+vvo|33000772|Tatzberg|dresden|2159|1291
+vvo|33006589|Bf. Weixdorf|dresden|1817|104
+vvo|33004220|Weißes Roß|dresden|596|920
