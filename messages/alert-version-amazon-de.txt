@@ -1,0 +1,4 @@
+title:	Eine neue Version ist verfügbar!
+body:	Diese Version behebt wichtige Fehler. Es ist empfohlen, so bald wie möglich zu aktualisieren.
+button-positive:	Amazon App-Shop | amzn://apps/android?p=de.schildbach.oeffi
+button-negative:	dismiss

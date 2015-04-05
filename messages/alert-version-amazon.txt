@@ -1,0 +1,4 @@
+title:	A new version is available!
+body:	This version fixes important bugs. It is advised to update as soon as you can.
+button-positive:	Amazon Appstore | amzn://apps/android?p=de.schildbach.oeffi
+button-negative:	dismiss
