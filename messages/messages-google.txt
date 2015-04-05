@@ -1,6 +1,6 @@
 # version alert
 alert-version-google		| min-sdk:8 max-sdk:14 version:438		| 1d | warning
-alert-version-google		| min-sdk:15 version:476				| 1d | warning
+alert-version-google		| min-sdk:15 version:477				| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
