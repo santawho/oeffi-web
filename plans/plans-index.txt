@@ -128,9 +128,8 @@ luzern|47.050023,8.310404|2013-12-15|Luzern Liniennetz|Verkehrsbetriebe Luzern A
 # be
 
 brussels_metro|50.847293,4.361933|2009-08|Brussels Metro|STIB-MIVB|http://transportmaps.free.fr/maps/Belgium/Brussels/map_Metro.jpg
-antwerp_tram|51.217197,4.421543||Antwerp Tram|De Lijn|http://transportmaps.free.fr/maps/Belgium/Antwerp/map_Tram_and_Premetro.jpg
-antwerp_city|51.217197,4.421543||Antwerp City Center||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_City_center_transport.jpg
-antwerp_all|51.217197,4.421543||Antwerp All Transport||http://transportmaps.free.fr/maps/Belgium/Antwerp/map_All_transport.jpg
+antwerp_tram|51.217197,4.421543|2015-04|Antwerp Tram|De Lijn
+antwerp_city|51.217197,4.421543||Antwerp City Center|De Lijn
 
 # nl
 
