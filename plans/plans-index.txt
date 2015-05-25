@@ -122,7 +122,7 @@ zuerich_nacht|47.378136,8.540232|2013-12|Zürich Nachtnetz|Zürcher Verkehrsverb
 winterthur_stadt|47.500334,8.72342|2013-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
 winterthur_nacht|47.500334,8.72342|2013-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2013-12|Bern Liniennetz|BERNMOBIL
-luzern|47.050023,8.310404|2013-12-15|Luzern Liniennetz|Verkehrsbetriebe Luzern AG
+luzern|47.050023,8.310404|2014-12-14|Luzern Liniennetz|Passepartout Tarifverbund
 
 # be
 
