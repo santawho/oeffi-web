@@ -135,7 +135,7 @@ antwerp_city|51.217197,4.421543||Antwerp City Center|De Lijn
 
 # nl
 
-amsterdam_tram|52.378861,4.900392|2012|Amsterdam Tram|Alargule/Alain Lemaire, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amsterdamtram.png/1280px-Amsterdamtram.png
+amsterdam_centre|52.378861,4.900392||Amsterdam City Centre|GVB
 
 # se
 
