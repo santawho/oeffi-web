@@ -1,0 +1,5 @@
+title:	An update is available!
+body:	The BVG changed their API, which makes it necessary for you to update Öffi.
+button-positive:	Google Play | market://details?id=de.schildbach.oeffi
+button-neutral:		Direct download | http://oeffi.schildbach.de/download.html
+button-negative:	dismiss
