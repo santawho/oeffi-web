@@ -3,6 +3,7 @@ alert-version-google		| min-sdk:8 max-sdk:14 version:438		| 1d | warning
 alert-version-google		| min-sdk:15 version:479				| 1d | warning
 alert-bugfix-vrs-google		| min-sdk:15 version:481 network:VRS 	| 1d | warning
 alert-bugfix-bvg-google		| min-sdk:15 version:486 network:BVG 	| 1d | warning
+alert-bugfix-vbn-google		| min-sdk:15 version:489 network:VBN 	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
