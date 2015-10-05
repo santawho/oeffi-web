@@ -1882,339 +1882,339 @@ wien|60200399|Zippererstraße U|wien_susb|1693|1228
 
 # Alexander Simm <alexander.simm@stud.uni-goettingen.de>
 
-vsn|1101008|Bahnhof/ZOB|goettingen|1022|856
-vsn|1110463|Kauf Park-Ost|goettingen|544|986
-vsn|1190463|Kauf Park-West|goettingen|511|986
-vsn|1191051|Obere Straße|goettingen|654|1547
-vsn|1191091|Freibad Rosdorf|goettingen|658|1430
-vsn|1181121|Hambergstraße|goettingen|803|1430
-vsn|1111141|Masch|goettingen|692|1501
-vsn|1111131|Am Luhbach|goettingen|789|1501
-vsn|851712|Lange Straße Rosdorf|goettingen|731|1548
-vsn|1191061|Hagenbreite|goettingen|731|1585
-vsn|1191071|Friedensstraße|goettingen|874|1582
-vsn|1111101|Spickenweg|goettingen|929|1539
-vsn|1111081|Leinestraße|goettingen|874|1541
-vsn|1181021|Rischenweg|goettingen|868|1428
-vsn|1191011|Ascherberg|goettingen|911|1386
-vsn|1131141|Liegnitzer Straße|goettingen|1416|90
-vsn|1191121|Greifswalder Straße|goettingen|1385|89
-vsn|1191021|Plesseweg|goettingen|1340|88
-vsn|1191151|Rathaus Bovenden|goettingen|1300|88
-vsn|1131031|Wurzelbruchweg|goettingen|1300|136
-vsn|852004|Feldtorweg|goettingen|1267|86
-vsn|1191001|Breite Straße|goettingen|1239|85
-vsn|1191931|Lenglerner Straße|goettingen|558|350
-vsn|1121921|Twechte|goettingen|615|350
-vsn|1190901|Europaallee|goettingen|721|351
-vsn|1190861|Straßburgstraße|goettingen|721|400
-vsn|1190851|Eschenweg|goettingen|720|467
-vsn|1190841|Holtenser Landstraße|goettingen|742|516
-vsn|1190813|Lindenweg|goettingen|770|551
-vsn|1190272|Elliehäuser Weg|goettingen|818|593
-vsn|1180211|Tulpenweg|goettingen|870|662
-vsn|1180201|Asternweg|goettingen|869|696
-vsn|1120251|Pfalz-Grona-Breite|goettingen|856|627
-vsn|1120872|Londonstraße|goettingen|790|347
-vsn|1190831|Nußanger|goettingen|792|502
-vsn|1190801|Auf dem Hagen|goettingen|835|547
-vsn|1121871|Esebeck|goettingen|242|403
-vsn|1121861|Kleehöfen|goettingen|269|430
-vsn|1120711|Harrenacker|goettingen|295|457
-vsn|1190691|Talgraben|goettingen|335|548
-vsn|1191881|Lehnshof|goettingen|334|639
-vsn|1190671|Gerhard-Zillich-Straße|goettingen|385|660
-vsn|1121841|Am Burggraben|goettingen|407|576
-vsn|1121851|Gesundbrunnen|goettingen|406|533
-vsn|1190662|Am Eikborn|goettingen|438|503
-vsn|1191831|Am Anger|goettingen|486|502
-vsn|853135|Wilhelm-Berg-Straße|goettingen|598|520
-vsn|853118|August-Spindler-Straße|goettingen|623|543
-vsn|1191811|Robert-Bosch-Breite|goettingen|647|569
-vsn|1191801|Wilhelm-Lambrecht-Straße|goettingen|689|640
-vsn|1120442|Adolf-Hoyer-Straße|goettingen|675|590
-vsn|1180701|Diedershäuser Straße|goettingen|363|504
-vsn|1180391|Levinpark|goettingen|785|705
-vsn|1129411|Rudolf-Winkel-Straße|goettingen|706|703
-vsn|1120401|Grätzelstraße|goettingen|803|720
-vsn|1180421|Florenz-Sartorius-Straße|goettingen|687|681
-vsn|1150601|Gustav-Bielefeld-Straße|goettingen|489|693
-vsn|1170551|Otto-Brenner-Straße|goettingen|543|693
-vsn|1170351|Lichtenwalder Straße|goettingen|555|787
-vsn|1190208|Bürgerhaus Grone|goettingen|571|848
-vsn|1140331|Auf dem Greite|goettingen|633|849
-vsn|1180321|Saline|goettingen|695|848
-vsn|1180311|Königsstieg|goettingen|764|837
-vsn|1129301|Rosmarinweg|goettingen|796|805
-vsn|893163|St.-Godehard-Kirche|goettingen|870|754
-vsn|1110801|Knutbühren|goettingen|147|792
-vsn|1180851|In der Wehm|goettingen|326|894
-vsn|1170701|Mittelbergschule|goettingen|330|957
-vsn|1170601|Groß Ellershausen|goettingen|357|1038
-vsn|1160841|Dransfelder Straße|goettingen|447|1038
-vsn|1110861|Am Winterberg|goettingen|282|803
-vsn|1110721|Hasenwinkel|goettingen|234|805
-vsn|1170451|Ithweg|goettingen|683|1111
-vsn|1170421|Harzstraße|goettingen|716|1108
-vsn|1119411|Deisterstraße|goettingen|776|1091
-vsn|1110871|Zollstock|goettingen|797|1026
-vsn|893606|Gotteslager|goettingen|843|1030
-vsn|1180031|Stadtfriedhof|goettingen|888|1030
-vsn|893115|Posthof|goettingen|933|1031
-vsn|1110822|Süntelweg|goettingen|744|1108
-vsn|1110831|Rehbachstraße|goettingen|723|1045
-vsn|853610|Schleifweg|goettingen|745|1045
-vsn|1180541|St.-Heinrich-Straße|goettingen|644|961
-vsn|1180521|Backhausstraße|goettingen|713|961
-vsn|1180511|Krugstraße|goettingen|784|961
-vsn|1170431|Elmweg|goettingen|782|1172
-vsn|1180441|Sollingstraße|goettingen|731|1173
-vsn|1190491|Bramwaldstraße|goettingen|683|1172
-vsn|1110471|Siekweg|goettingen|643|1120
-vsn|893605|Siekhöhe/Kauf Park|goettingen|548|1039
-vsn|1110551|Siekhöhe|goettingen|620|1028
-vsn|1110241|Söseweg|goettingen|817|1305
-vsn|1170321|Weserstraße|goettingen|818|1245
-vsn|1190311|Werrastraße|goettingen|851|1246
-vsn|1190261|Asklepios Fachklinik|goettingen|890|1206
-vsn|1190271|Wiesenstraße|goettingen|937|1161
-vsn|1110281|Cramerstraße|goettingen|1010|1162
-vsn|1190312|Am Hasengraben|goettingen|986|1111
-vsn|1190011|Bürgerstraße|goettingen|1257|1137
-vsn|893101|Platz der Göttinger Sieben|goettingen|1248|628
-vsn|1190060|Weender Straße-West|goettingen|1202|849
-vsn|1190010|Göttingen Markt|goettingen|1181|914
-vsn|1190212|Nikolaistraße|goettingen|1149|1076
-vsn|1190221|Geismartor|goettingen|1364|1077
-vsn|1190020|Kornmarkt|goettingen|1257|1002
-vsn|1190030|Jüdenstraße|goettingen|1335|961
-vsn|1190054|Weender Straße-Ost|goettingen|1309|826
-vsn|1100002|Auditorium|goettingen|1312|696
-vsn|1190041|Theaterstraße|goettingen|1430|873
-vsn|1190301|Albaniplatz|goettingen|1507|932
-vsn|1190101|Friedrichstraße|goettingen|1429|934
-vsn|1190081|Groner Straße|goettingen|1088|1000
-vsn|1190201|Groner Tor|goettingen|1061|1001
-vsn|1190201|Groner Tor/Hirtenbrunnen|goettingen|1020|938
-vsn|1170011|Otto-Frey-Brücke|goettingen|979|1030
-vsn|1180081|Schützenplatz|goettingen|929|756
-vsn|1190051|Landgericht/Bahnhof|goettingen|968|752
-vsn|1130231|Im Rinschenrott|goettingen|951|641
-vsn|1140221|Maschmühlenweg|goettingen|950|667
-vsn|1180071|Hildebrandstraße|goettingen|950|694
-vsn|1140321|Rohns|goettingen|1971|768
-vsn|1180251|Hainbundstraße|goettingen|1892|801
-vsn|1170301|Ewaldstraße|goettingen|1849|758
-vsn|1140402|Jugendherberge|goettingen|1779|715
-vsn|1180111|Nonnenstieg|goettingen|1700|715
-vsn|1149201|Eichendorffplatz|goettingen|1666|779
-vsn|1149231|Dahlmannstraße|goettingen|1666|864
-vsn|1190161|Wagnerstraße|goettingen|1609|921
-vsn|1139101|Campus|goettingen|1395|669
-vsn|1170081|Goßlerstraße|goettingen|1394|582
-vsn|1170211|Christophorusweg|goettingen|1394|555
-vsn|1199411|Rudolf-Diesel-Straße|goettingen|1394|507
-vsn|1190421|Theodor-Heuss-Straße|goettingen|1394|478
-vsn|1190431|Ostlandweg|goettingen|1394|450
-vsn|1180531|Petrikirchstraße|goettingen|1438|437
-vsn|1130941|Krankenhaus Weende|goettingen|1536|441
-vsn|1170501|Hoffmannshof|goettingen|1779|441
-vsn|1190601|Luttertal|goettingen|1874|438
-vsn|1190701|Knochenmühle|goettingen|2086|441
-vsn|1180141|Eulenloch|goettingen|2151|517
-vsn|1170151|Herberhausen|goettingen|2199|565
-vsn|1140132|Roringen|goettingen|2193|321
-vsn|1140641|Hohler Graben|goettingen|2241|267
-vsn|1140631|Lange Straße|goettingen|2187|266
-vsn|1140611|Rottenanger|goettingen|2141|312
-vsn|1140621|Am Menzelberg|goettingen|2141|267
-vsn|1190911|Blauer Turm|goettingen|1373|631
-vsn|1130091|Beyerstraße|goettingen|1506|605
-vsn|1170221|Robert-Koch-Straße|goettingen|1506|570
-vsn|1180301|Klinikum|goettingen|1499|534
-vsn|1190951|Goldschmidtstraße|goettingen|1505|409
-vsn|1190991|Tammannstraße|goettingen|1548|357
-vsn|1170611|Kellnerweg|goettingen|1614|332
-vsn|1190581|Burckhardtweg|goettingen|1673|333
-vsn|1190121|Ulrideshuser Straße|goettingen|1790|337
-vsn|1170521|Faßberg|goettingen|1734|332
-vsn|1170541|Augustinerstraße|goettingen|1845|337
-vsn|1149551|Am Schlehdorn|goettingen|1898|336
-vsn|1190661|Eschenbreite|goettingen|1943|337
-vsn|1190591|Auf der Lieth|goettingen|1944|369
-vsn|1160541|Charlottenburger Straße|goettingen|1897|1640
-vsn|1190521|Gehrenring|goettingen|1882|1597
-vsn|1190531|Bornbreite|goettingen|1855|1597
-vsn|1160551|Eislebener Weg|goettingen|1842|1652
-vsn|1180351|Geismar-Süd|goettingen|1794|1652
-vsn|1190241|Am Rischen|goettingen|1718|1656
-vsn|1169231|Kampstraße|goettingen|1587|1630
-vsn|1169221|Auf dem Paul|goettingen|1571|1613
-vsn|1190211|Stadtstieg|goettingen|1540|1588
-vsn|1170201|Baumschulenweg|goettingen|1434|1589
-vsn|1180151|Treuenhagen|goettingen|1357|1560
-vsn|1190141|Fritz-Reuter-Straße|goettingen|1359|1465
-vsn|1190071|Reinholdstraße|goettingen|1357|1321
-vsn|1190111|Schillerstraße|goettingen|1360|1272
-vsn|1190617|Hiroshimaplatz/Neues Rathaus|goettingen|1357|1210
-vsn|1190321|Kiesseestraße|goettingen|1614|1585
-vsn|1190441|Teichstraße|goettingen|1724|1588
-vsn|1190451|Adolf-Sievert-Straße|goettingen|1772|1588
-vsn|1190617|Neues Rathaus|goettingen|1435|1189
-vsn|1150031|Leibnizstraße|goettingen|1475|1228
-vsn|1190231|Gothaer Platz|goettingen|1509|1308
-vsn|1190251|Magdeburger Weg|goettingen|1515|1425
-vsn|1190641|Kiefernweg|goettingen|1571|1480
-vsn|1190651|Geismar Hauptstraße|goettingen|1649|1557
-vsn|1170331|Geismar Mitteldorfstraße|goettingen|1702|1606
-vsn|1180341|Kurmainzer Weg|goettingen|1722|1627
-vsn|1190501|Schöneberger Straße|goettingen|1890|1546
-vsn|1190511|Vor dem Walde|goettingen|1901|1517
-vsn|1190411|Grete-Henry-Straße|goettingen|1908|1491
-vsn|1180021|Walkemühlenweg|goettingen|1189|1188
-vsn|1190031|Lotzestraße|goettingen|1188|1230
-vsn|1180621|Windausweg|goettingen|1188|1265
-vsn|1180611|Badeparadies Eiswiese|goettingen|1188|1307
-vsn|1169051|Pommerneck|goettingen|1243|1354
-vsn|1190631|Stettiner Straße|goettingen|1318|1354
-vsn|1180241|Ortelsburger Straße|goettingen|1396|1354
-vsn|1150211|Danziger Straße|goettingen|1465|1354
-vsn|1160301|Breslauer Straße|goettingen|1568|1306
-vsn|1159321|Görlitzer Straße|goettingen|1633|1241
-vsn|1190351|Am Kirschberge|goettingen|1679|1241
-vsn|1180451|An der Tillyschanze|goettingen|1678|1335
-vsn|1159501|Himmelsruh|goettingen|1700|1357
-vsn|1170401|Weidenbreite|goettingen|1722|1379
-vsn|1169411|Mittelberg|goettingen|1744|1402
-vsn|1180431|Spandauer Weg|goettingen|1765|1423
-vsn|1190461|Plauener Straße|goettingen|1788|1445
-vsn|1160472|Sandersbeek|goettingen|1820|1475
-vsn|1160482|Tegeler Weg|goettingen|1844|1497
-vsn|1190401|Hannah-Vogt-Straße|goettingen|1888|1442
-vsn|1190391|Ehrengard-Schramm-Weg|goettingen|1847|1401
-vsn|1190341|Alva-Myrdal-Weg|goettingen|1806|1360
-vsn|1190331|Alfred-Delp-Weg|goettingen|1765|1319
-vsn|1190361|Guldenhagen|goettingen|1725|1278
-vsn|1159101|Lönsweg|goettingen|1620|1172
-vsn|1190091|Am Steinsgraben|goettingen|1556|1173
-vsn|1190021|David-Hilbert-Straße|goettingen|1518|1114
-vsn|1180011|Keplerstraße|goettingen|1423|1112
-vsn|1180061|Werner-Heisenberg-Platz|goettingen|1550|1069
-vsn|1170071|Merkelstraße|goettingen|1620|1077
-vsn|1170051|Friedländer Weg|goettingen|1524|990
-vsn|1140451|Klausberg|goettingen|1846|565
-vsn|1170441|Stauffenbergring|goettingen|1847|601
-vsn|1150431|Thomas-Dehler-Weg|goettingen|1846|638
-vsn|1160421|Corvinuskirche|goettingen|1846|674
-vsn|1149101|Hermann-Föge-Weg|goettingen|1614|711
-vsn|1150081|Waldweg|goettingen|1557|706
-vsn|1149051|Bühlstraße|goettingen|1473|725
-vsn|1190151|Theaterplatz|goettingen|1474|842
-vsn|1190061|Nikolausberger Weg|goettingen|1440|704
-vsn|1140071|Humboldtallee|goettingen|1484|666
-vsn|1130561|Helleweg|goettingen|1527|308
-vsn|1130571|Valentinsbreite|goettingen|1527|283
-vsn|1130581|Stumpfe Eiche|goettingen|1462|283
-vsn|1110403|Maria-Montessori-Weg|goettingen|1573|666
-vsn|1130341|Zimmermannstraße|goettingen|1565|499
-vsn|1130321|Am Papenberg|goettingen|1631|499
-vsn|1130361|vor der Laakenbreite|goettingen|1707|500
-vsn|1130351|Sprangerweg|goettingen|1755|549
-vsn|1180051|Kreuzbergring|goettingen|1246|549
-vsn|1199201|Liebrechtstraße|goettingen|1246|494
-vsn|1180401|Grüner Weg|goettingen|1246|441
-vsn|1190921|An der Lutter|goettingen|1246|387
-vsn|1190931|Lutteranger|goettingen|1246|322
-vsn|1190981|Klosterweg|goettingen|1246|283
-vsn|1190731|Karl-Grüneklee-Straße|goettingen|1136|282
-vsn|1190741|Friedrich-Ebert-Straße|goettingen|1136|214
-vsn|1130722|Am Fuchsberg|goettingen|1223|213
-vsn|1190961|Weende Festhalle|goettingen|1311|244
-vsn|1180801|James-Franck-Ring|goettingen|1364|242
-vsn|1190812|Edward-Schröder-Bogen|goettingen|1392|215
-vsn|1190821|Karl-Schwarzschild-Weg|goettingen|1416|191
-vsn|1180831|Heinrich-A.-Zachariä-Bogen|goettingen|1440|166
-vsn|1180901|Friedhof Junkerberg|goettingen|1466|141
-vsn|1190751|Weende Roter Berg|goettingen|1239|170
-vsn|1190971|Weende Freibad|goettingen|1242|250
-vsn|627302|Große Breite|goettingen|1136|335
-vsn|1190352|Eichweg|goettingen|1274|336
-vsn|1190541|Hennebergstraße|goettingen|1374|335
-vsn|1190551|Im Hassel|goettingen|1459|332
-vsn|1110611|Am Alten Krug|goettingen|331|1117
-vsn|1110621|Olenhuser Weg|goettingen|330|1165
-vsn|1110631|Auf der Schanze|goettingen|283|1139
-vsn|1110641|St.-Martini-Straße|goettingen|312|1104
-vsn|1180331|Hermann-Rein-Straße|goettingen|1485|499
-vsn|853181|Hermann-Rein-Straße/West|goettingen|1522|500
-vsn|1159201|Geismar Landstraße|goettingen|1513|1207
-vsn|1180601|Jahnstadion|goettingen|1166|1354
-vsn|1190291|Sandweg|goettingen|941|1356
-vsn|1190322|Marienstraße|goettingen|1044|1096
-vsn|1110301|Angerstraße|goettingen|1043|1131
+vbn|1101008|Bahnhof/ZOB|goettingen|1022|856
+vbn|1110463|Kauf Park-Ost|goettingen|544|986
+vbn|1190463|Kauf Park-West|goettingen|511|986
+vbn|1191051|Obere Straße|goettingen|654|1547
+vbn|1191091|Freibad Rosdorf|goettingen|658|1430
+vbn|1181121|Hambergstraße|goettingen|803|1430
+vbn|1111141|Masch|goettingen|692|1501
+vbn|1111131|Am Luhbach|goettingen|789|1501
+vbn|851712|Lange Straße Rosdorf|goettingen|731|1548
+vbn|1191061|Hagenbreite|goettingen|731|1585
+vbn|1191071|Friedensstraße|goettingen|874|1582
+vbn|1111101|Spickenweg|goettingen|929|1539
+vbn|1111081|Leinestraße|goettingen|874|1541
+vbn|1181021|Rischenweg|goettingen|868|1428
+vbn|1191011|Ascherberg|goettingen|911|1386
+vbn|1131141|Liegnitzer Straße|goettingen|1416|90
+vbn|1191121|Greifswalder Straße|goettingen|1385|89
+vbn|1191021|Plesseweg|goettingen|1340|88
+vbn|1191151|Rathaus Bovenden|goettingen|1300|88
+vbn|1131031|Wurzelbruchweg|goettingen|1300|136
+vbn|852004|Feldtorweg|goettingen|1267|86
+vbn|1191001|Breite Straße|goettingen|1239|85
+vbn|1191931|Lenglerner Straße|goettingen|558|350
+vbn|1121921|Twechte|goettingen|615|350
+vbn|1190901|Europaallee|goettingen|721|351
+vbn|1190861|Straßburgstraße|goettingen|721|400
+vbn|1190851|Eschenweg|goettingen|720|467
+vbn|1190841|Holtenser Landstraße|goettingen|742|516
+vbn|1190813|Lindenweg|goettingen|770|551
+vbn|1190272|Elliehäuser Weg|goettingen|818|593
+vbn|1180211|Tulpenweg|goettingen|870|662
+vbn|1180201|Asternweg|goettingen|869|696
+vbn|1120251|Pfalz-Grona-Breite|goettingen|856|627
+vbn|1120872|Londonstraße|goettingen|790|347
+vbn|1190831|Nußanger|goettingen|792|502
+vbn|1190801|Auf dem Hagen|goettingen|835|547
+vbn|1121871|Esebeck|goettingen|242|403
+vbn|1121861|Kleehöfen|goettingen|269|430
+vbn|1120711|Harrenacker|goettingen|295|457
+vbn|1190691|Talgraben|goettingen|335|548
+vbn|1191881|Lehnshof|goettingen|334|639
+vbn|1190671|Gerhard-Zillich-Straße|goettingen|385|660
+vbn|1121841|Am Burggraben|goettingen|407|576
+vbn|1121851|Gesundbrunnen|goettingen|406|533
+vbn|1190662|Am Eikborn|goettingen|438|503
+vbn|1191831|Am Anger|goettingen|486|502
+vbn|853135|Wilhelm-Berg-Straße|goettingen|598|520
+vbn|853118|August-Spindler-Straße|goettingen|623|543
+vbn|1191811|Robert-Bosch-Breite|goettingen|647|569
+vbn|1191801|Wilhelm-Lambrecht-Straße|goettingen|689|640
+vbn|1120442|Adolf-Hoyer-Straße|goettingen|675|590
+vbn|1180701|Diedershäuser Straße|goettingen|363|504
+vbn|1180391|Levinpark|goettingen|785|705
+vbn|1129411|Rudolf-Winkel-Straße|goettingen|706|703
+vbn|1120401|Grätzelstraße|goettingen|803|720
+vbn|1180421|Florenz-Sartorius-Straße|goettingen|687|681
+vbn|1150601|Gustav-Bielefeld-Straße|goettingen|489|693
+vbn|1170551|Otto-Brenner-Straße|goettingen|543|693
+vbn|1170351|Lichtenwalder Straße|goettingen|555|787
+vbn|1190208|Bürgerhaus Grone|goettingen|571|848
+vbn|1140331|Auf dem Greite|goettingen|633|849
+vbn|1180321|Saline|goettingen|695|848
+vbn|1180311|Königsstieg|goettingen|764|837
+vbn|1129301|Rosmarinweg|goettingen|796|805
+vbn|893163|St.-Godehard-Kirche|goettingen|870|754
+vbn|1110801|Knutbühren|goettingen|147|792
+vbn|1180851|In der Wehm|goettingen|326|894
+vbn|1170701|Mittelbergschule|goettingen|330|957
+vbn|1170601|Groß Ellershausen|goettingen|357|1038
+vbn|1160841|Dransfelder Straße|goettingen|447|1038
+vbn|1110861|Am Winterberg|goettingen|282|803
+vbn|1110721|Hasenwinkel|goettingen|234|805
+vbn|1170451|Ithweg|goettingen|683|1111
+vbn|1170421|Harzstraße|goettingen|716|1108
+vbn|1119411|Deisterstraße|goettingen|776|1091
+vbn|1110871|Zollstock|goettingen|797|1026
+vbn|893606|Gotteslager|goettingen|843|1030
+vbn|1180031|Stadtfriedhof|goettingen|888|1030
+vbn|893115|Posthof|goettingen|933|1031
+vbn|1110822|Süntelweg|goettingen|744|1108
+vbn|1110831|Rehbachstraße|goettingen|723|1045
+vbn|853610|Schleifweg|goettingen|745|1045
+vbn|1180541|St.-Heinrich-Straße|goettingen|644|961
+vbn|1180521|Backhausstraße|goettingen|713|961
+vbn|1180511|Krugstraße|goettingen|784|961
+vbn|1170431|Elmweg|goettingen|782|1172
+vbn|1180441|Sollingstraße|goettingen|731|1173
+vbn|1190491|Bramwaldstraße|goettingen|683|1172
+vbn|1110471|Siekweg|goettingen|643|1120
+vbn|893605|Siekhöhe/Kauf Park|goettingen|548|1039
+vbn|1110551|Siekhöhe|goettingen|620|1028
+vbn|1110241|Söseweg|goettingen|817|1305
+vbn|1170321|Weserstraße|goettingen|818|1245
+vbn|1190311|Werrastraße|goettingen|851|1246
+vbn|1190261|Asklepios Fachklinik|goettingen|890|1206
+vbn|1190271|Wiesenstraße|goettingen|937|1161
+vbn|1110281|Cramerstraße|goettingen|1010|1162
+vbn|1190312|Am Hasengraben|goettingen|986|1111
+vbn|1190011|Bürgerstraße|goettingen|1257|1137
+vbn|893101|Platz der Göttinger Sieben|goettingen|1248|628
+vbn|1190060|Weender Straße-West|goettingen|1202|849
+vbn|1190010|Göttingen Markt|goettingen|1181|914
+vbn|1190212|Nikolaistraße|goettingen|1149|1076
+vbn|1190221|Geismartor|goettingen|1364|1077
+vbn|1190020|Kornmarkt|goettingen|1257|1002
+vbn|1190030|Jüdenstraße|goettingen|1335|961
+vbn|1190054|Weender Straße-Ost|goettingen|1309|826
+vbn|1100002|Auditorium|goettingen|1312|696
+vbn|1190041|Theaterstraße|goettingen|1430|873
+vbn|1190301|Albaniplatz|goettingen|1507|932
+vbn|1190101|Friedrichstraße|goettingen|1429|934
+vbn|1190081|Groner Straße|goettingen|1088|1000
+vbn|1190201|Groner Tor|goettingen|1061|1001
+vbn|1190201|Groner Tor/Hirtenbrunnen|goettingen|1020|938
+vbn|1170011|Otto-Frey-Brücke|goettingen|979|1030
+vbn|1180081|Schützenplatz|goettingen|929|756
+vbn|1190051|Landgericht/Bahnhof|goettingen|968|752
+vbn|1130231|Im Rinschenrott|goettingen|951|641
+vbn|1140221|Maschmühlenweg|goettingen|950|667
+vbn|1180071|Hildebrandstraße|goettingen|950|694
+vbn|1140321|Rohns|goettingen|1971|768
+vbn|1180251|Hainbundstraße|goettingen|1892|801
+vbn|1170301|Ewaldstraße|goettingen|1849|758
+vbn|1140402|Jugendherberge|goettingen|1779|715
+vbn|1180111|Nonnenstieg|goettingen|1700|715
+vbn|1149201|Eichendorffplatz|goettingen|1666|779
+vbn|1149231|Dahlmannstraße|goettingen|1666|864
+vbn|1190161|Wagnerstraße|goettingen|1609|921
+vbn|1139101|Campus|goettingen|1395|669
+vbn|1170081|Goßlerstraße|goettingen|1394|582
+vbn|1170211|Christophorusweg|goettingen|1394|555
+vbn|1199411|Rudolf-Diesel-Straße|goettingen|1394|507
+vbn|1190421|Theodor-Heuss-Straße|goettingen|1394|478
+vbn|1190431|Ostlandweg|goettingen|1394|450
+vbn|1180531|Petrikirchstraße|goettingen|1438|437
+vbn|1130941|Krankenhaus Weende|goettingen|1536|441
+vbn|1170501|Hoffmannshof|goettingen|1779|441
+vbn|1190601|Luttertal|goettingen|1874|438
+vbn|1190701|Knochenmühle|goettingen|2086|441
+vbn|1180141|Eulenloch|goettingen|2151|517
+vbn|1170151|Herberhausen|goettingen|2199|565
+vbn|1140132|Roringen|goettingen|2193|321
+vbn|1140641|Hohler Graben|goettingen|2241|267
+vbn|1140631|Lange Straße|goettingen|2187|266
+vbn|1140611|Rottenanger|goettingen|2141|312
+vbn|1140621|Am Menzelberg|goettingen|2141|267
+vbn|1190911|Blauer Turm|goettingen|1373|631
+vbn|1130091|Beyerstraße|goettingen|1506|605
+vbn|1170221|Robert-Koch-Straße|goettingen|1506|570
+vbn|1180301|Klinikum|goettingen|1499|534
+vbn|1190951|Goldschmidtstraße|goettingen|1505|409
+vbn|1190991|Tammannstraße|goettingen|1548|357
+vbn|1170611|Kellnerweg|goettingen|1614|332
+vbn|1190581|Burckhardtweg|goettingen|1673|333
+vbn|1190121|Ulrideshuser Straße|goettingen|1790|337
+vbn|1170521|Faßberg|goettingen|1734|332
+vbn|1170541|Augustinerstraße|goettingen|1845|337
+vbn|1149551|Am Schlehdorn|goettingen|1898|336
+vbn|1190661|Eschenbreite|goettingen|1943|337
+vbn|1190591|Auf der Lieth|goettingen|1944|369
+vbn|1160541|Charlottenburger Straße|goettingen|1897|1640
+vbn|1190521|Gehrenring|goettingen|1882|1597
+vbn|1190531|Bornbreite|goettingen|1855|1597
+vbn|1160551|Eislebener Weg|goettingen|1842|1652
+vbn|1180351|Geismar-Süd|goettingen|1794|1652
+vbn|1190241|Am Rischen|goettingen|1718|1656
+vbn|1169231|Kampstraße|goettingen|1587|1630
+vbn|1169221|Auf dem Paul|goettingen|1571|1613
+vbn|1190211|Stadtstieg|goettingen|1540|1588
+vbn|1170201|Baumschulenweg|goettingen|1434|1589
+vbn|1180151|Treuenhagen|goettingen|1357|1560
+vbn|1190141|Fritz-Reuter-Straße|goettingen|1359|1465
+vbn|1190071|Reinholdstraße|goettingen|1357|1321
+vbn|1190111|Schillerstraße|goettingen|1360|1272
+vbn|1190617|Hiroshimaplatz/Neues Rathaus|goettingen|1357|1210
+vbn|1190321|Kiesseestraße|goettingen|1614|1585
+vbn|1190441|Teichstraße|goettingen|1724|1588
+vbn|1190451|Adolf-Sievert-Straße|goettingen|1772|1588
+vbn|1190617|Neues Rathaus|goettingen|1435|1189
+vbn|1150031|Leibnizstraße|goettingen|1475|1228
+vbn|1190231|Gothaer Platz|goettingen|1509|1308
+vbn|1190251|Magdeburger Weg|goettingen|1515|1425
+vbn|1190641|Kiefernweg|goettingen|1571|1480
+vbn|1190651|Geismar Hauptstraße|goettingen|1649|1557
+vbn|1170331|Geismar Mitteldorfstraße|goettingen|1702|1606
+vbn|1180341|Kurmainzer Weg|goettingen|1722|1627
+vbn|1190501|Schöneberger Straße|goettingen|1890|1546
+vbn|1190511|Vor dem Walde|goettingen|1901|1517
+vbn|1190411|Grete-Henry-Straße|goettingen|1908|1491
+vbn|1180021|Walkemühlenweg|goettingen|1189|1188
+vbn|1190031|Lotzestraße|goettingen|1188|1230
+vbn|1180621|Windausweg|goettingen|1188|1265
+vbn|1180611|Badeparadies Eiswiese|goettingen|1188|1307
+vbn|1169051|Pommerneck|goettingen|1243|1354
+vbn|1190631|Stettiner Straße|goettingen|1318|1354
+vbn|1180241|Ortelsburger Straße|goettingen|1396|1354
+vbn|1150211|Danziger Straße|goettingen|1465|1354
+vbn|1160301|Breslauer Straße|goettingen|1568|1306
+vbn|1159321|Görlitzer Straße|goettingen|1633|1241
+vbn|1190351|Am Kirschberge|goettingen|1679|1241
+vbn|1180451|An der Tillyschanze|goettingen|1678|1335
+vbn|1159501|Himmelsruh|goettingen|1700|1357
+vbn|1170401|Weidenbreite|goettingen|1722|1379
+vbn|1169411|Mittelberg|goettingen|1744|1402
+vbn|1180431|Spandauer Weg|goettingen|1765|1423
+vbn|1190461|Plauener Straße|goettingen|1788|1445
+vbn|1160472|Sandersbeek|goettingen|1820|1475
+vbn|1160482|Tegeler Weg|goettingen|1844|1497
+vbn|1190401|Hannah-Vogt-Straße|goettingen|1888|1442
+vbn|1190391|Ehrengard-Schramm-Weg|goettingen|1847|1401
+vbn|1190341|Alva-Myrdal-Weg|goettingen|1806|1360
+vbn|1190331|Alfred-Delp-Weg|goettingen|1765|1319
+vbn|1190361|Guldenhagen|goettingen|1725|1278
+vbn|1159101|Lönsweg|goettingen|1620|1172
+vbn|1190091|Am Steinsgraben|goettingen|1556|1173
+vbn|1190021|David-Hilbert-Straße|goettingen|1518|1114
+vbn|1180011|Keplerstraße|goettingen|1423|1112
+vbn|1180061|Werner-Heisenberg-Platz|goettingen|1550|1069
+vbn|1170071|Merkelstraße|goettingen|1620|1077
+vbn|1170051|Friedländer Weg|goettingen|1524|990
+vbn|1140451|Klausberg|goettingen|1846|565
+vbn|1170441|Stauffenbergring|goettingen|1847|601
+vbn|1150431|Thomas-Dehler-Weg|goettingen|1846|638
+vbn|1160421|Corvinuskirche|goettingen|1846|674
+vbn|1149101|Hermann-Föge-Weg|goettingen|1614|711
+vbn|1150081|Waldweg|goettingen|1557|706
+vbn|1149051|Bühlstraße|goettingen|1473|725
+vbn|1190151|Theaterplatz|goettingen|1474|842
+vbn|1190061|Nikolausberger Weg|goettingen|1440|704
+vbn|1140071|Humboldtallee|goettingen|1484|666
+vbn|1130561|Helleweg|goettingen|1527|308
+vbn|1130571|Valentinsbreite|goettingen|1527|283
+vbn|1130581|Stumpfe Eiche|goettingen|1462|283
+vbn|1110403|Maria-Montessori-Weg|goettingen|1573|666
+vbn|1130341|Zimmermannstraße|goettingen|1565|499
+vbn|1130321|Am Papenberg|goettingen|1631|499
+vbn|1130361|vor der Laakenbreite|goettingen|1707|500
+vbn|1130351|Sprangerweg|goettingen|1755|549
+vbn|1180051|Kreuzbergring|goettingen|1246|549
+vbn|1199201|Liebrechtstraße|goettingen|1246|494
+vbn|1180401|Grüner Weg|goettingen|1246|441
+vbn|1190921|An der Lutter|goettingen|1246|387
+vbn|1190931|Lutteranger|goettingen|1246|322
+vbn|1190981|Klosterweg|goettingen|1246|283
+vbn|1190731|Karl-Grüneklee-Straße|goettingen|1136|282
+vbn|1190741|Friedrich-Ebert-Straße|goettingen|1136|214
+vbn|1130722|Am Fuchsberg|goettingen|1223|213
+vbn|1190961|Weende Festhalle|goettingen|1311|244
+vbn|1180801|James-Franck-Ring|goettingen|1364|242
+vbn|1190812|Edward-Schröder-Bogen|goettingen|1392|215
+vbn|1190821|Karl-Schwarzschild-Weg|goettingen|1416|191
+vbn|1180831|Heinrich-A.-Zachariä-Bogen|goettingen|1440|166
+vbn|1180901|Friedhof Junkerberg|goettingen|1466|141
+vbn|1190751|Weende Roter Berg|goettingen|1239|170
+vbn|1190971|Weende Freibad|goettingen|1242|250
+vbn|627302|Große Breite|goettingen|1136|335
+vbn|1190352|Eichweg|goettingen|1274|336
+vbn|1190541|Hennebergstraße|goettingen|1374|335
+vbn|1190551|Im Hassel|goettingen|1459|332
+vbn|1110611|Am Alten Krug|goettingen|331|1117
+vbn|1110621|Olenhuser Weg|goettingen|330|1165
+vbn|1110631|Auf der Schanze|goettingen|283|1139
+vbn|1110641|St.-Martini-Straße|goettingen|312|1104
+vbn|1180331|Hermann-Rein-Straße|goettingen|1485|499
+vbn|853181|Hermann-Rein-Straße/West|goettingen|1522|500
+vbn|1159201|Geismar Landstraße|goettingen|1513|1207
+vbn|1180601|Jahnstadion|goettingen|1166|1354
+vbn|1190291|Sandweg|goettingen|941|1356
+vbn|1190322|Marienstraße|goettingen|1044|1096
+vbn|1110301|Angerstraße|goettingen|1043|1131
 
-vsn|1180211|Tulpenweg|goettingen_nacht|347|464
-vsn|1190813|Lindenweg|goettingen_nacht|329|388
-vsn|1190861|Straßburgstraße|goettingen_nacht|314|337
-vsn|1190901|Europaallee|goettingen_nacht|313|298
-vsn|1121921|Twechte|goettingen_nacht|252|280
-vsn|893163|St.-Godehard-Kirche|goettingen_nacht|344|531
-vsn|1190051|Landgericht/Bahnhof|goettingen_nacht|596|544
-vsn|1180901|Friedhof Junkerberg|goettingen_nacht|845|197
-vsn|1190812|Edward-Schröder-Bogen|goettingen_nacht|846|248
-vsn|1199201|Liebrechtstraße|goettingen_nacht|802|485
-vsn|1190931|Lutteranger|goettingen_nacht|802|411
-vsn|1190971|Weende Freibad|goettingen_nacht|801|337
-vsn|1130581|Stumpfe Eiche|goettingen_nacht|997|199
-vsn|1130571|Valentinsbreite|goettingen_nacht|1011|246
-vsn|1130561|Helleweg|goettingen_nacht|1011|291
-vsn|1190551|Im Hassel|goettingen_nacht|960|273
-vsn|1190951|Goldschmidtstraße|goettingen_nacht|1018|358
-vsn|1180331|Hermann-Rein-Straße|goettingen_nacht|1019|380
-vsn|1190991|Tammannstraße|goettingen_nacht|1194|359
-vsn|1170611|Kellnerweg|goettingen_nacht|1259|358
-vsn|1190581|Burckhardtweg|goettingen_nacht|1327|359
-vsn|1170521|Faßberg|goettingen_nacht|1394|358
-vsn|1190121|Ulrideshuser Straße|goettingen_nacht|1460|358
-vsn|1170541|Augustinerstraße|goettingen_nacht|1525|358
-vsn|1149551|Am Schlehdorn|goettingen_nacht|1609|400
-vsn|1190661|Eschenbreite|goettingen_nacht|1609|457
-vsn|1190591|Auf der Lieth|goettingen_nacht|1608|515
-vsn|1170421|Harzstraße|goettingen_nacht|271|853
-vsn|1180541|St.-Heinrich-Straße|goettingen_nacht|220|827
-vsn|1180521|Backhausstraße|goettingen_nacht|301|799
-vsn|893606|Gotteslager|goettingen_nacht|416|824
-vsn|893115|Posthof|goettingen_nacht|475|825
-vsn|1190201|Groner Tor|goettingen_nacht|546|825
-vsn|1190081|Groner Straße|goettingen_nacht|629|825
-vsn|1190020|Kornmarkt|goettingen_nacht|809|824
-vsn|1190010|Markt|goettingen_nacht|730|765
-vsn|1190030|Jüdenstraße|goettingen_nacht|881|767
-vsn|1190054|Weender Straße-Ost|goettingen_nacht|892|625
-vsn|1190617|Hiroshimaplatz/Neues Rathaus|goettingen_nacht|724|954
-vsn|1190111|Schillerstraße|goettingen_nacht|724|998
-vsn|1190071|Reinholdstraße|goettingen_nacht|724|1042
-vsn|1150211|Danziger Straße|goettingen_nacht|862|1054
-vsn|1190231|Gothaer Platz|goettingen_nacht|876|1011
-vsn|1150031|Leibnizstraße|goettingen_nacht|875|968
-vsn|1180241|Ortelsburger Straße|goettingen_nacht|771|1054
-vsn|1180151|Treuenhagen|goettingen_nacht|736|1137
-vsn|1190211|Stadtstieg|goettingen_nacht|855|1143
-vsn|1180301|Klinikum|goettingen_nacht|1017|440
-vsn|1170221|Robert-Koch-Straße|goettingen_nacht|1018|498
-vsn|1130091|Beyerstraße|goettingen_nacht|996|539
-vsn|1190911|Blauer Turm|goettingen_nacht|906|539
-vsn|1190021|David-Hilbert-Straße|goettingen_nacht|1023|936
-vsn|1159101|Lönsweg|goettingen_nacht|1199|938
-vsn|1190351|Am Kirschberge|goettingen_nacht|1374|937
-vsn|1190331|Alfred-Delp-Weg|goettingen_nacht|1443|949
-vsn|1190391|Ehrengard-Schramm-Weg|goettingen_nacht|1502|1008
-vsn|1190411|Grete-Henry-Straße|goettingen_nacht|1558|1066
-vsn|1190321|Kiesseestraße|goettingen_nacht|1088|1141
-vsn|1190531|Bornbreite|goettingen_nacht|1297|1142
-vsn|1190501|Schöneberger Straße|goettingen_nacht|1321|1088
-vsn|1180431|Spandauer Weg|goettingen_nacht|1251|1103
-vsn|1190060|Weender Straße-West|goettingen_nacht|727|628
+vbn|1180211|Tulpenweg|goettingen_nacht|347|464
+vbn|1190813|Lindenweg|goettingen_nacht|329|388
+vbn|1190861|Straßburgstraße|goettingen_nacht|314|337
+vbn|1190901|Europaallee|goettingen_nacht|313|298
+vbn|1121921|Twechte|goettingen_nacht|252|280
+vbn|893163|St.-Godehard-Kirche|goettingen_nacht|344|531
+vbn|1190051|Landgericht/Bahnhof|goettingen_nacht|596|544
+vbn|1180901|Friedhof Junkerberg|goettingen_nacht|845|197
+vbn|1190812|Edward-Schröder-Bogen|goettingen_nacht|846|248
+vbn|1199201|Liebrechtstraße|goettingen_nacht|802|485
+vbn|1190931|Lutteranger|goettingen_nacht|802|411
+vbn|1190971|Weende Freibad|goettingen_nacht|801|337
+vbn|1130581|Stumpfe Eiche|goettingen_nacht|997|199
+vbn|1130571|Valentinsbreite|goettingen_nacht|1011|246
+vbn|1130561|Helleweg|goettingen_nacht|1011|291
+vbn|1190551|Im Hassel|goettingen_nacht|960|273
+vbn|1190951|Goldschmidtstraße|goettingen_nacht|1018|358
+vbn|1180331|Hermann-Rein-Straße|goettingen_nacht|1019|380
+vbn|1190991|Tammannstraße|goettingen_nacht|1194|359
+vbn|1170611|Kellnerweg|goettingen_nacht|1259|358
+vbn|1190581|Burckhardtweg|goettingen_nacht|1327|359
+vbn|1170521|Faßberg|goettingen_nacht|1394|358
+vbn|1190121|Ulrideshuser Straße|goettingen_nacht|1460|358
+vbn|1170541|Augustinerstraße|goettingen_nacht|1525|358
+vbn|1149551|Am Schlehdorn|goettingen_nacht|1609|400
+vbn|1190661|Eschenbreite|goettingen_nacht|1609|457
+vbn|1190591|Auf der Lieth|goettingen_nacht|1608|515
+vbn|1170421|Harzstraße|goettingen_nacht|271|853
+vbn|1180541|St.-Heinrich-Straße|goettingen_nacht|220|827
+vbn|1180521|Backhausstraße|goettingen_nacht|301|799
+vbn|893606|Gotteslager|goettingen_nacht|416|824
+vbn|893115|Posthof|goettingen_nacht|475|825
+vbn|1190201|Groner Tor|goettingen_nacht|546|825
+vbn|1190081|Groner Straße|goettingen_nacht|629|825
+vbn|1190020|Kornmarkt|goettingen_nacht|809|824
+vbn|1190010|Markt|goettingen_nacht|730|765
+vbn|1190030|Jüdenstraße|goettingen_nacht|881|767
+vbn|1190054|Weender Straße-Ost|goettingen_nacht|892|625
+vbn|1190617|Hiroshimaplatz/Neues Rathaus|goettingen_nacht|724|954
+vbn|1190111|Schillerstraße|goettingen_nacht|724|998
+vbn|1190071|Reinholdstraße|goettingen_nacht|724|1042
+vbn|1150211|Danziger Straße|goettingen_nacht|862|1054
+vbn|1190231|Gothaer Platz|goettingen_nacht|876|1011
+vbn|1150031|Leibnizstraße|goettingen_nacht|875|968
+vbn|1180241|Ortelsburger Straße|goettingen_nacht|771|1054
+vbn|1180151|Treuenhagen|goettingen_nacht|736|1137
+vbn|1190211|Stadtstieg|goettingen_nacht|855|1143
+vbn|1180301|Klinikum|goettingen_nacht|1017|440
+vbn|1170221|Robert-Koch-Straße|goettingen_nacht|1018|498
+vbn|1130091|Beyerstraße|goettingen_nacht|996|539
+vbn|1190911|Blauer Turm|goettingen_nacht|906|539
+vbn|1190021|David-Hilbert-Straße|goettingen_nacht|1023|936
+vbn|1159101|Lönsweg|goettingen_nacht|1199|938
+vbn|1190351|Am Kirschberge|goettingen_nacht|1374|937
+vbn|1190331|Alfred-Delp-Weg|goettingen_nacht|1443|949
+vbn|1190391|Ehrengard-Schramm-Weg|goettingen_nacht|1502|1008
+vbn|1190411|Grete-Henry-Straße|goettingen_nacht|1558|1066
+vbn|1190321|Kiesseestraße|goettingen_nacht|1088|1141
+vbn|1190531|Bornbreite|goettingen_nacht|1297|1142
+vbn|1190501|Schöneberger Straße|goettingen_nacht|1321|1088
+vbn|1180431|Spandauer Weg|goettingen_nacht|1251|1103
+vbn|1190060|Weender Straße-West|goettingen_nacht|727|628
 
 # Carsten Braune <carsten.braune@googlemail.com>
 
