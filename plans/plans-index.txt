@@ -115,7 +115,7 @@ wien_susb|48.209477,16.371074|2013-10-05|Wien Netzplan|Ben Lode
 wien_tram|48.209477,16.371074|2013-10-05|Wien Straßenbahn|Ben Lode
 wien_nacht|48.209477,16.371074|2013-12-15|Wien Nachtnetz|Ben Lode
 wien_city|48.209477,16.371074|2014-11|Wien City|Wiener Linien
-salzburg|47.813229,13.045907|2014-09-30|Salzburg Liniennetz|Salzburg AG
+salzburg|47.813229,13.045907|2015-03-20|Salzburg Liniennetz|Salzburg AG
 
 # ch
 
