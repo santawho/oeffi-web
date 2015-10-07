@@ -154,9 +154,10 @@ stockholm_train|59.329875,18.057218||Stockholm Train|Storstockholms Lokaltrafik|
 
 # no
 
-oslo_subway|59.910337,10.751746|2008-08|Oslo Subway|T-Banen|http://transportmaps.free.fr/maps/Norway/Oslo/map_Subway.jpg
-oslo_tram|59.910337,10.751746|2009-04|Oslo Tram||http://transportmaps.free.fr/maps/Norway/Oslo/map_Tramway.jpg
-oslo_bus|59.910337,10.751746|2009-04|Oslo Bus||http://transportmaps.free.fr/maps/Norway/Oslo/map_Bus.jpg
+oslo_subway|59.910337,10.751746|2015-04-07|Oslo Subway|Truls Lange Civitas
+oslo_tram|59.910337,10.751746|2015-10-19|Oslo Tram|Truls Lange Civitas
+oslo_bus|59.910337,10.751746|2015-08-16|Oslo Bus|Truls Lange Civitas
+oslo_bus_night|59.910337,10.751746|2015-08-16|Oslo Night Bus|Truls Lange Civitas
 trondheim_bus|63.436476,10.398717||Trondheim Bus||http://transportmaps.free.fr/maps/Norway/Trondbeim/map_Bus.jpg
 bergen_sentrum|60.390547,5.332593|2012-06-25|Bergen Sentrum|skyss
 
