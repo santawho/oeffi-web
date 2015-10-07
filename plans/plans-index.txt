@@ -86,7 +86,7 @@ salzgitter|52.15116,10.332488|2012-07|Salzgitter Liniennetz|KVG Braunschweig
 wolfenbuettel|52.15898,10.532012|2011-12|Wolfenbüttel Liniennetz|KVG Braunschweig
 harz|51.888518,10.554843|2011-12|Harz Liniennetz|KVG Braunschweig
 helmstedt|52.222331,11.010690|2012-10|Helmstedt Liniennetz|KVG Braunschweig
-wolfsburg|52.429484,10.788249|2014-10-26|Wolfsburg Liniennetz|WVG
+wolfsburg|52.429484,10.788249|2015-04-13|Wolfsburg Liniennetz|WVG
 karlsruhe_liniennetz|48.993988,8.400328|2015-06-08|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund GmbH
 karlsruhe_regio|48.993988,8.400328|2014-12-14|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund GmbH
 karlsruhe_bus|49.009498,8.404073|2015-06-08|Karlsruhe Busnetz|Karlsruher Verkehrsverbund GmbH
