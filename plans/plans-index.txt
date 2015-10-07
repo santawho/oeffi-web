@@ -264,7 +264,7 @@ beijing_subway|39.924854,116.396577|2009|Beijing Subway|Wikimedia Commons|http:/
 
 # tw
 
-taipei_metro|25.06331,121.55169||Taipei Metro|Taipei Rapid Transit Corporation|http://web.trtc.com.tw/img/all/routemapDanfengsmall.jpg
+taipei_metro|25.06331,121.55169||Taipei Metro|Taipei Rapid Transit Corporation|http://web.metro.taipei/img/E/metrotaipeimap.jpg
 
 # in
 
