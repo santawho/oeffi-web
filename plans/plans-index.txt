@@ -80,8 +80,8 @@ magdeburg_tag|52.130783,11.627347|2015-07|Magdeburg Liniennetz|Magdeburger Regio
 magdeburg_nacht|52.130783,11.627347|2015-07|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_verbund|52.130783,11.627347|2015-01|Magdeburg Verbund-Liniennetz|Magdeburger Regionalverkehrsverbund
 hagen|51.362675,7.461087|2010-06-13|Hagen Liniennetz|Hagener Straßenbahn AG
-braunschweig_gesamt|52.252187,10.539705|2012-09-03|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
-braunschweig_innenstadt|52.263931,10.526361|2012-09-03|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
+braunschweig_gesamt|52.252187,10.539705|2014-11-28|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
+braunschweig_innenstadt|52.263931,10.526361|2014-11-28|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
 salzgitter|52.15116,10.332488|2014-12|Salzgitter Liniennetz|KVG Braunschweig
 wolfenbuettel|52.15898,10.532012|2014-12|Wolfenbüttel Liniennetz|KVG Braunschweig
 helmstedt|52.222331,11.010690|2013-06|Helmstedt Liniennetz|KVG Braunschweig
