@@ -250,8 +250,9 @@ sydney_lightrail|-33.873103,151.199918|2013|Sydney Light Rail|Transport for NSW
 sydney_night|-33.873813,151.206805|2014|Sydney NightRide Buses|Transport for NSW
 sydney_ferry|-33.861256,151.210954|2013|Sydney Ferries|Transport for NSW
 sydney_intercity|-33.882474,151.206688|2014|Sydney Intercity Trains|Transport for NSW
-brisbane_rail_bus|-27.473986,153.028035|2009-08|Brisbane QR and busway network|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Train.jpg
-brisbane_ferry|-27.473986,153.028035|2008-08-04|Brisbane TransLink ferries|TRANSLink|http://transportmaps.free.fr/maps/Australia/Brisbane/map_Ferry.jpg
+brisbane_light_rail|-27.473986,153.028035||Brisbane Light Rail|TRANSLink
+brisbane_ferry|-27.473986,153.028035|2015-07-01|Brisbane Ferry Network|TRANSLink
+brisbane_train|-27.473986,153.028035|2014-01|Brisbane Train Network|QueenslandRail/TRANSLink
 
 # sg
 
