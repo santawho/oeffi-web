@@ -272,5 +272,5 @@ delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload
 
 # jp
 
-tokyo_subway|35.681143,139.76615|2010-10|Tokyo Subway|Bureau of Transportation
+tokyo_subway|35.681143,139.76615|2015-08|Tokyo Subway|Bureau of Transportation
 osaka_subway|34.693921,135.502181|2009-04-15|Osaka Subway|Osaka Municipal Transportation Bureau
