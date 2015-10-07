@@ -46,8 +46,8 @@ kiel_nacht|54.313282,10.132341|2014-09-01|Kiel Nachtliniennetz|KVG
 rostock_vvw_liniennetz|54.078139,12.131724|2015-01-05|Rostock Liniennetz|Verkehrsverbund Warnow
 rostock_vvw_region|54.078139,12.131724|2015-01-05|Rostock Region|Verkehrsverbund Warnow
 rostock_region|54.078139,12.131724|2015-02-16|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
-osnabrueck|52.272832,8.061726|2014-09-11|Osnabrück Liniennetz|Stadtwerke Osnabrück
-osnabrueck_nacht|52.272832,8.061726|2014-09-11|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
+osnabrueck|52.272832,8.061726|2015-09-03|Osnabrück Liniennetz|Stadtwerke Osnabrück
+osnabrueck_nacht|52.272832,8.061726|2015-09-03|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
 stuttgart_verbund|48.784068,9.181713|2014-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
 stuttgart_nacht|48.77861,9.179803|2014-12|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
 ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
