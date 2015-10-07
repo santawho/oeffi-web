@@ -256,7 +256,7 @@ brisbane_train|-27.473986,153.028035|2014-01|Brisbane Train Network|QueenslandRa
 
 # sg
 
-singapore|1.299078,103.84577|2013|Singapore|Land Transport Authority
+singapore|1.299078,103.84577|2015|Singapore|Land Transport Authority
 
 # cn
 
