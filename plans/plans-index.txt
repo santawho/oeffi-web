@@ -120,12 +120,12 @@ salzburg|47.813229,13.045907|2015-03-20|Salzburg Liniennetz|Salzburg AG
 # ch
 
 basel|47.553021,7.591031|2014-12|Basel Liniennetz|tnw Tarifverbund Nordwestschweiz
-zvv|47.378136,8.540232|2012-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
-zvv_nacht|47.378136,8.540232|2013-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
-zuerich_stadt|47.378136,8.540232|2013-12|Zürich Stadt|ZVV/VBZ
-zuerich_nacht|47.378136,8.540232|2013-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
-winterthur_stadt|47.500334,8.72342|2013-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
-winterthur_nacht|47.500334,8.72342|2013-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zvv|47.378136,8.540232|2014-12|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zvv_nacht|47.378136,8.540232|2014-12|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+zuerich_stadt|47.378136,8.540232|2014-06|Zürich Stadt|ZVV/VBZ
+zuerich_nacht|47.378136,8.540232|2014-12|Zürich Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_stadt|47.500334,8.72342|2014-12|Winterthur Stadt|Zürcher Verkehrsverbund/PostAuto Region Zürich
+winterthur_nacht|47.500334,8.72342|2014-12|Winterthur Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 bern|46.948748,7.439239|2013-12|Bern Liniennetz|BERNMOBIL
 luzern|47.050023,8.310404|2014-12-14|Luzern Liniennetz|Passepartout Tarifverbund
 
