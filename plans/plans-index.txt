@@ -71,8 +71,8 @@ bonn_schnellverkehr|50.732784,7.096447|2014-12-14|Bonn Schnellverkehr|Verkehrsve
 bonn_bus|50.732784,7.096447|2014-12-14|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 leverkusen_bus|51.036197,6.994385|2014-12-14|Leverkusen Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 nrw_regio|51.429807,6.775253|2014-12|NRW Busse & Bahnen|VRS
-aachen_schnellverkehr|50.768399,6.090705|2012-12|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH
-aachen_region|50.768399,6.090705|2013-01|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH
+aachen_schnellverkehr|50.768399,6.090705|2014-12|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH
+aachen_region|50.768399,6.090705|2015-04|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH
 darmstadt|49.872582,8.630916|2014-12-14|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
 darmstadt_nacht|49.872582,8.630916|2014-12-14|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
 schwerin|53.634476,11.407313|2011-08|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
