@@ -6,6 +6,7 @@ alert-bugfix-bvg-google		| min-sdk:15 version:486 network:BVG 	| 1d | warning
 alert-bugfix-vbn-google		| min-sdk:15 version:489 network:VBN 	| 1d | warning
 alert-bugfix-rsag-google	| min-sdk:15 version:489 network:RSAG 	| 1d | warning
 alert-bugfix-vsn-google		| min-sdk:15 version:489 network:VSN 	| 1d | warning
+alert-bugfix-vrr-google		| min-sdk:15 version:501 network:VRR 	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
