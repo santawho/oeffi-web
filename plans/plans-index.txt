@@ -54,6 +54,8 @@ ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
 hannover_stadtbahn|52.376715,9.741168|2014-12|Hannover Stadtbahnnetz|GVH
 hannover_bus|52.376715,9.741168|2014-12|Hannover Busnetz|GVH
 hannover_regional|52.376715,9.741168|2014-12|Hannover Regional- und S-Bahn-Linien|GVH
+celle_stadt|52.620411,10.059814|2015-04|Celle Liniennetz Stadt|CeBus
+celle_region|52.620411,10.059814|2015-04|Celle Liniennetz Region|CeBus
 goettingen|51.536290,9.926981|2014-11|Göttingen Liniennetz|Göttinger Verkehrsbetriebe GmbH
 goettingen_nacht|51.536290,9.926981||Göttingen Nachtliesel|Göttinger Verkehrsbetriebe GmbH
 bielefeld|52.029241,8.532835|2015-06|Bielefeld Gesamtnetz|moBiel
