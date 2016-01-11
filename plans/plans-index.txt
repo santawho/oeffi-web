@@ -66,9 +66,9 @@ essen_tag|51.451355,7.014793|2015-06-14|Essen TagNetz|EVAG
 essen_nacht|51.451355,7.014793|2013-06-09|Essen NachtNetz|EVAG
 frankfurt_liniennetz|50.106318,8.662139|2015-12-13|Frankfurt am Main Liniennetz|traffiQ
 frankfurt_flughafen_bus|50.037936,8.559958|2015-12-13|Frankfurt Flughafen Buslinien|traffiQ
-rmv_schnellbahn|50.106318,8.662139|2014-12-14|Rhein-Main Schnellbahn|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31950-51502/original/RMV-Schnellbahnplan.jpg
-rmv_regional|50.106318,8.662139|2014-12-14|Rhein-Main Regional|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31368-27837/original/Regionaler_Schienennetzplan.gif
-rmv_nachtbus|50.106318,8.662139||Rhein-Main Nachtbus|www.nachtbus-frankfurt.de|http://www.rmv.de/linkableblob/de/42766-28928/original/Netzplan_Nachtbus_Frankfurt_RheinMain_.png
+rmv_schnellbahn|50.106318,8.662139|2015-12-13|Rhein-Main Schnellbahn|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31950-51502/original/RMV-Schnellbahnplan.jpg
+rmv_regional|50.106318,8.662139|2015-12-13|Rhein-Main Regional|Rhein-Main-Verkehrsverbund GmbH|http://www.rmv.de/linkableblob/de/31368-27837/original/Regionaler_Schienennetzplan.gif
+rmv_nachtbus|50.106318,8.662139|2015-11|Rhein-Main Nachtbus|www.nachtbus-frankfurt.de
 mainz|50.001395,8.258818|2014-11-03|Mainz|Mainzer Verkehrsgesellschaft mbH
 koeln_schnellverkehr|50.943579,6.95796|2015-12-13|Köln Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
 koeln_bus|50.943579,6.95796|2015-12-13|Köln Busnetz|Verkehrsverbund Rhein-Sieg GmbH
