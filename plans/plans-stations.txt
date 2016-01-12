@@ -1135,615 +1135,615 @@ vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
 
 # Lucas Weiss <lucasweiss@web.de>
 
-db|936190|Diedrichshagen|rostock_region|763|215
-db|935056|Streuwiesenweg|rostock_region|712|185
-db|935219|Stolteraer Weg|rostock_region|701|147
-db|935013|Rohrmannsche Koppel|rostock_region|720|133
-db|936211|Friedhof|rostock_region|736|112
-db|939479|Warnemünde Strand|rostock_region|789|104
-db|936240|Haus Stolteraa|rostock_region|840|82
-db|935088|Wiesenweg|rostock_region|874|82
-db|936253|Hotel Neptun|rostock_region|960|55
-db|935042|Seestraße|rostock_region|1010|55
-db|935074|Wachtlerstraße|rostock_region|985|80
-db|935072|Warnemünde Kirchenplatz|rostock_region|1032|101
-db|936339|Poststraße|rostock_region|983|113
-db|936212|Fritz-Reuter-Straße|rostock_region|1018|130
-db|939235|Rostocker Straße|rostock_region|1023|189
-db|935008|Richard-Wagner-Straße TZW|rostock_region|932|128
-db|8013236|Warnemünde|rostock_region|1093|100
-db|936350|Warnemünde Fähre|rostock_region|1155|100
-db|8013237|Warnemünde Werft (DB)|rostock_region|1092|189
-db|935077|Warnemünde Werft (RSAG REBUS)|rostock_region|1056|189
-db|935086|Werftblick|rostock_region|985|265
-db|936225|Grabower Straße|rostock_region|969|293
-db|8012221|Rostock-Lichtenhagen (DB)|rostock_region|983|328
-db|939485|HP Lichtenhagen (RSAG)|rostock_region|969|328
-db|939485|HP Lichtenhagen (Klenow Tor)|rostock_region|997|328
-db|936230|Güstrower Straße|rostock_region|934|328
-db|936304|Mecklenburger Allee|rostock_region|877|328
-db|935308|Elmenhorster Weg|rostock_region|877|371
-db|935315|Eutiner Straße|rostock_region|877|398
-db|936649|Rügener Straße|rostock_region|804|450
-db|935066|Turkuer Straße|rostock_region|804|484
-db|935078|Warnowallee|rostock_region|804|511
-db|936308|Möllner Straße|rostock_region|887|450
-db|936158|Ärztehaus Lütten Klein|rostock_region|887|484
-db|935094|Zum Laakkanal|rostock_region|1022|299
-db|939040|Zum Pagenwerder|rostock_region|1111|266
-db|935041|Seelotsenring|rostock_region|1090|323
-db|935060|Taklerring|rostock_region|1090|356
-db|935012|Groß Klein Dorf|rostock_region|1093|389
-db|936219|Gerüstbauerring|rostock_region|1090|423
-db|936180|Blockmacherring|rostock_region|1057|453
-db|936187|Dänenberg|rostock_region|1020|453
-db|935026|Schmarl Dorf|rostock_region|1121|497
-db|935027|Schmarl Zentrum|rostock_region|1032|532
-db|8012271|Rostock-Lütten Klein (DB)|rostock_region|983|518
-db|936258|HP Lütten Klein (RSAG REBUS)|rostock_region|983|545
-db|936648|Lütten Klein Zentrum|rostock_region|839|541
-db|936326|Osloer Straße|rostock_region|769|532
-db|936215|Gedser Straße|rostock_region|739|562
-db|936275|Kopenhagener Straße|rostock_region|739|605
-db|936179|Binzer Straße|rostock_region|735|484
-db|935019|Saßnitzer Straße|rostock_region|735|450
-db|935046|Sankt Petersburger Straße|rostock_region|876|587
-db|936243|Helsinkier Straße|rostock_region|876|616
-db|936646|Fischerdorf|rostock_region|873|645
-db|935064|Thomas-Morus-Straße|rostock_region|875|685
-db|936202|Ehm-Welk-Straße|rostock_region|875|720
-db|936174|Bertolt-Brecht-Straße|rostock_region|875|747
-db|936616|Evershagen Süd|rostock_region|912|791
-db|8012807|Rostock-Marienehe (DB)|rostock_region|980|862
-db|936297|Marienehe (RSAG)|rostock_region|965|862
-db|935010|Roald-Amundsen-Straße|rostock_region|1057|574
-db|935052|Stephan-Jantzen-Ring|rostock_region|1040|625
-db|8011523|Rostock-Evershagen (DB)|rostock_region|984|685
-db|936254|HP Evershagen (RSAG)|rostock_region|996|685
-db|936238|Handwerkstraße|rostock_region|1043|712
-db|936264|Industriestraße|rostock_region|1087|669
-db|935043|Siemens|rostock_region|1077|712
-db|935050|Stadtwerke|rostock_region|1060|755
-db|936262|Hundsburgallee|rostock_region|1035|780
-db|936619|Maxim-Gorki-Straße|rostock_region|814|720
-db|935063|Theodor-Storm-Straße|rostock_region|814|747
-db|936307|Messestraße|rostock_region|769|845
-db|935034|Schutow|rostock_region|775|957
-db|939226|Immendiek|rostock_region|834|980
-db|935004|Rahnstädter Weg|rostock_region|915|928
-db|935005|Reutershagen|rostock_region|871|1009
-db|936300|Markt Reutershagen|rostock_region|787|1088
-db|936204|Etkar-André-Straße|rostock_region|719|1095
-db|936182|Bonhoefferstraße|rostock_region|719|1138
-db|935073|Walter-Husemann-Straße|rostock_region|787|1138
-db|935068|Ulrich-von-Hutten-Straße|rostock_region|879|1106
-db|936285|Kuphalstraße|rostock_region|890|1145
-db|935065|Tschaikowskistraße|rostock_region|890|1178
-db|936214|Gartenstadt|rostock_region|890|1208
-db|935037|Schwimmhalle|rostock_region|915|1234
-db|936330|Stadion|rostock_region|965|1237
-db|939222|Klinikum Schillingallee|rostock_region|1022|1268
-db|935023|Schillingallee|rostock_region|1038|1218
-db|8012803|Rostock-Bramow|rostock_region|983|996
-db|936284|Kunsthalle|rostock_region|913|1033
-db|936242|Heinrich-Schütz-Straße|rostock_region|943|1063
-db|8012805|Rostock Holbeinplatz (DB)|rostock_region|999|1091
-db|936251|Holbeinplatz (RSAG)|rostock_region|970|1091
-db|936227|Greifswalder Straße|rostock_region|1023|1146
-db|939227|Dethardingstraße|rostock_region|1088|1211
-db|8012801|Rostock Parkstraße (DB)|rostock_region|1114|1213
-db|936331|Parkstraße (RSAG)|rostock_region|1114|1232
-db|935015|Rosenweg|rostock_region|860|1229
-db|935053|Sternwarte|rostock_region|814|1244
-db|936229|Groß Schwaßer Weg|rostock_region|800|1288
-db|935087|Westfriedhof|rostock_region|829|1308
-db|935093|Zoo|rostock_region|897|1318
-db|936200|Dr.-Lorenz-Weg|rostock_region|933|1305
-db|936337|Platz der Jugend|rostock_region|1022|1308
-db|8079629|Rostock Thierfelder Straße|rostock_region|955|1334
-db|936318|Neuer Friedhof|rostock_region|897|1371
-db|939232|Graureiherweg|rostock_region|852|1387
-db|939231|Tannenweg|rostock_region|795|1371
-db|939230|Friedrichshöhe|rostock_region|767|1362
-db|935049|Stadtweide|rostock_region|854|1419
-db|935020|Satower Straße|rostock_region|823|1450
-db|936161|Akazienweg|rostock_region|780|1492
-db|936306|Mensa|rostock_region|989|1371
-db|936273|Klinikum Süd|rostock_region|1038|1412
-db|936342|Robert-Koch-Straße|rostock_region|1096|1437
-db|935059|Südstadt-Center|rostock_region|1171|1437
-db|936296|Majakowskistraße|rostock_region|1171|1484
-db|936294|Lomonossowstraße|rostock_region|1167|1549
-db|936186|Charles-Darwin-Ring|rostock_region|1167|1572
-db|935016|Südblick (Tram)|rostock_region|1146|1606
-db|939288|Südblick (Bus)|rostock_region|1183|1606
-db|935090|Wohnpark Biestow|rostock_region|1040|1585
-db|939234|Am Dorfteich|rostock_region|985|1585
-db|936178|Biestow|rostock_region|933|1606
-db|936213|Galileistraße|rostock_region|1276|1535
-db|935067|Tychsenstraße|rostock_region|1369|1535
-db|936165|Am Kringelgraben|rostock_region|1463|1535
-db|935035|Schwaaner Landstraße|rostock_region|1552|1512
-db|936283|Zur Mooskuhle|rostock_region|1552|1474
-db|936196|Dieselmotorenwerk|rostock_region|1511|1451
-db|936201|Erich-Schlesinger-Straße|rostock_region|1210|1407
-db|939433|Stadthalle|rostock_region|1293|1387
-db|936305|Mendelejewstraße|rostock_region|1310|1495
-db|936303|Maßmannstraße|rostock_region|1073|1091
-db|936269|Kabutzenhof|rostock_region|1155|1091
-db|936652|Kabutzenhof Fähre|rostock_region|1155|1046
-db|935071|Volkstheater|rostock_region|1208|1118
-db|936197|Doberaner Platz|rostock_region|1271|1149
-db|935032|Schröderplatz|rostock_region|1325|1181
-db|935878|Deutsche-Med-Platz|rostock_region|1291|1217
-db|935018|Saarplatz|rostock_region|1179|1232
-db|939224|Bei der Tweel|rostock_region|1195|1311
-db|936224|Goetheplatz|rostock_region|1326|1288
-db|936280|Kröpeliner Tor|rostock_region|1351|1089
-db|936289|Lange Straße|rostock_region|1419|1092
-db|936203|Schnickmannstraße|rostock_region|1419|1046
-db|936352|Neuer Markt|rostock_region|1499|1125
-db|935044|Speicher|rostock_region|1546|1080
-db|935031|Am Rosengarten|rostock_region|1433|1193
-db|935051|Steintor IHK|rostock_region|1499|1190
-db|936291|Leibnizplatz|rostock_region|1456|1283
-db|936181|Blücherstraße|rostock_region|1517|1259
-db|936341|Puschkinplatz HBZ|rostock_region|1517|1313
-db|936292|Lessingstraße|rostock_region|1496|1355
-db|936239|Hauptbahnhof Nord|rostock_region|1445|1355
-db|8010304|Rostock Hbf (DB)|rostock_region|1398|1386
-db|939295|Hauptbahnhof (RSAG)|rostock_region|1361|1386
-db|939421|Hauptbahnhof Süd|rostock_region|1350|1451
-db|935048|Hauptbahnhof Süd/ZOB|rostock_region|1433|1451
-db|936314|Neubrandenburger Straße|rostock_region|1666|1288
-db|936271|Kessiner Berg|rostock_region|1694|1381
-db|8012806|Rostock-Kassebohm|rostock_region|1692|1291
-db|936168|Am Petridamm|rostock_region|1730|1082
-db|939374|Am Bagehl|rostock_region|1562|1228
-db|936207|Flussbad|rostock_region|1629|1255
-db|935083|Weißes Kreuz|rostock_region|1684|1251
-db|935062|Tessiner Straße|rostock_region|1755|1255
-db|936260|Hüerbaasweg|rostock_region|1835|1253
-db|936184|Brinckmansdorf|rostock_region|1900|1255
-db|936603|Gewerbegebiet Brinckmansdorf|rostock_region|1961|1226
-db|936620|Rudolf-Tarnow-Straße|rostock_region|1917|1199
-db|936615|Brinckmanshöhe|rostock_region|1891|1179
-db|936614|Albert-Schulz-Straße|rostock_region|1891|1160
-db|936612|Riekdahl|rostock_region|1891|1130
-db|936647|Kassebohm|rostock_region|1793|1289
-db|936621|Vicke-Schorler-Ring|rostock_region|1739|1322
-db|936622|Zu den Söllen|rostock_region|1703|1347
-db|939225|Kessiner Weg|rostock_region|1739|1373
-db|936617|Kassebohm Süd|rostock_region|1820|1373
-db|936218|Gerberbruch|rostock_region|1594|1125
-db|935857|Stadthafen|rostock_region|1656|1060
-db|936336|Petridamm|rostock_region|1686|1030
-db|936194|Dierkower Damm|rostock_region|1701|990
-db|939239|Dierkower Kreuz|rostock_region|1705|935
-db|936302|Martin-Niemöller-Straße|rostock_region|1694|837
-db|936252|Hölderlinweg|rostock_region|1682|810
-db|936209|Friedensforum|rostock_region|1661|800
-db|936226|Graf-Stauffenberg-Straße|rostock_region|1627|800
-db|936234|Hafenallee|rostock_region|1584|800
-db|936265|Joliot-Curie-Allee|rostock_region|1584|750
-db|935082|Weidendamm|rostock_region|1584|698
-db|935095|Zum Schäferteich|rostock_region|1651|647
-db|935070|Urho-Kekkonen-Straße|rostock_region|1705|630
-db|936162|Albert-Schweitzer-Straße|rostock_region|1740|664
-db|936267|Jawaharlal-Nehru-Straße|rostock_region|1769|692
-db|936301|Martin-Luther-King-Allee|rostock_region|1792|729
-db|936286|Kurt-Schumacher-Ring|rostock_region|1792|806
-db|936295|Lorenzstraße|rostock_region|1792|891
-db|935022|Schenkendorfweg|rostock_region|1641|918
-db|936173|Baumschulenweg|rostock_region|1584|918
-db|936216|Gehlsheim Klinik|rostock_region|1502|937
-db|936217|Gehlsheimer Straße|rostock_region|1468|972
-db|936206|Fährstraße Michaelshof|rostock_region|1426|980
-db|936351|Gehlsdorf Fähre|rostock_region|1419|1003
-db|936272|Kirchenplatz|rostock_region|1403|957
-db|935030|Schöffenweg|rostock_region|1379|933
-db|936340|Pressentinstraße|rostock_region|1365|890
-db|936618|Langenort Hufe|rostock_region|1365|838
-db|936290|Langenort|rostock_region|1318|799
-db|935079|Warnowblick|rostock_region|1258|799
-db|935081|Warnowrande|rostock_region|1258|744
-db|936324|Oldendorf|rostock_region|1276|680
-db|936281|Krummendorf|rostock_region|1324|632
-db|936241|Heidenholzmoor|rostock_region|1409|609
-db|935038|Seehafen|rostock_region|1473|557
-db|935039|Seehafen Fähre|rostock_region|1398|529
-db|939233|Seehafen Anleger|rostock_region|1367|500
-db|935714|Seehafen Ost|rostock_region|1537|529
-db|939361|Getreidehafen|rostock_region|1639|518
-db|936276|Kraftwerk|rostock_region|1698|518
-db|939223|Liebherrstraße|rostock_region|1600|443
-db|936282|Krummendorf Nord|rostock_region|1527|606
-db|936171|Bahnbetriebswerk|rostock_region|1584|606
-db|936235|Hafenbahnweg|rostock_region|1639|606
-db|936236|HP Dierkow|rostock_region|1951|891
-db|936270|Katerweg|rostock_region|1925|945
-db|936192|Dierkow-Zentrum|rostock_region|1887|945
-db|936247|Hinrichsdorfer Straße|rostock_region|1729|862
-db|936191|Dierkow Dorf|rostock_region|1735|812
-db|935989|Neu Hinrichsdorf, EKZ|rostock_region|1898|629
-db|936185|Brückenweg|rostock_region|1837|683
-db|936311|Neu Hinrichsdorf|rostock_region|1804|629
-db|936167|Am Liepengraben|rostock_region|1772|593
-db|939340|Hinrichsdorf|rostock_region|1804|539
-db|936231|Güterverkehrszentrum|rostock_region|1804|481
-db|936320|Nienhagen|rostock_region|1804|428
-db|936335|Peez Dorf|rostock_region|1755|400
-db|935057|Stuthof|rostock_region|1752|330
-db|936322|Nienhager Koppel|rostock_region|1824|359
-db|936268|Jürgeshof|rostock_region|1882|301
-db|936018|Niederhagen|rostock_region|1896|201
-db|936248|Hinrichshagen|rostock_region|1896|98
-db|935029|Schnatermannweg|rostock_region|1827|101
-db|935033|Schulzenwiese|rostock_region|1752|101
-db|936298|Markgrafenheide|rostock_region|1647|101
-db|935061|Taterhörn|rostock_region|1544|101
-db|935055|Strand|rostock_region|1473|101
-db|936249|Hohe Düne|rostock_region|1401|101
-db|936183|Breitling|rostock_region|1328|101
-db|936250|Hohe Düne Fähre|rostock_region|1237|101
-db|935097|Rostocker Heide|rostock_region|1959|98
-db|935300|Wallensteins Lager|rostock_region|2040|93
-db|935965|Müggenburg|rostock_region|2131|93
-db|8012582|Rostock-Torfbrücke (DB)|rostock_region|2203|111
-db|935271|Torfbrücke (REBUS)|rostock_region|2203|93
-db|935329|Lichtenhagen, Dorf|rostock_region|652|452
-db|935905|Lichtenhagen, Schule|rostock_region|652|405
-db|935416|Lichtenhagen, Wiesengrund|rostock_region|652|332
-db|935490|Elmenhorst, Nordkante|rostock_region|658|156
-db|935487|Elmenhorst, Bachweg|rostock_region|663|175
-db|935488|Elmenhorst, Feuerwehr|rostock_region|619|186
-db|935489|Elmenhorst, Gauswisch|rostock_region|566|188
-db|935491|Elmenhorst, West|rostock_region|512|188
-db|936043|Ostseebad Nienhagen, Ost|rostock_region|423|186
-db|936039|Ostseebad Nienhagen, Technopark|rostock_region|424|157
-db|936040|Ostseebad Nienhagen, Friedhof|rostock_region|356|220
-db|936041|Ostseebad Nienhagen, Hofstraße|rostock_region|300|260
-db|936042|Ostseebad Nienhagen, Mitte|rostock_region|275|302
-db|936045|Ostseebad Nienhagen, West|rostock_region|228|348
-db|936142|Rethwisch|rostock_region|228|477
-db|935787|Bahrenhorst|rostock_region|230|658
-db|935058|Börgerende, Wendeplatz|rostock_region|40|507
-db|935047|Börgerende, Tourist-Info|rostock_region|75|506
-db|935025|Börgerende, An den Weiden|rostock_region|105|509
-db|935036|Börgerende, Hof 14|rostock_region|136|506
-db|935816|Rethwisch, Börgerender Straße|rostock_region|198|509
-db|936696|Rethwisch, Schule|rostock_region|265|507
-db|936695|Rethwisch, Mühlenweg|rostock_region|318|509
-db|936694|Steinbeck, Lindenstraße|rostock_region|374|509
-db|936693|Steinbeck, Koppelweg|rostock_region|423|509
-db|936157|Admannshagen, Ausbau|rostock_region|481|509
-db|935001|Admannshagen|rostock_region|521|507
-db|936659|Lichtenhagen, Admannshäger Weg|rostock_region|561|509
-db|935328|Lichtenhagen, Eschenholt|rostock_region|596|506
-db|935904|Lichtenhagen, Ahrensholt|rostock_region|626|509
-db|935876|Bargeshagen, Sportpark|rostock_region|522|918
-db|935187|Sievershagen, Ostseepark (B105)|rostock_region|634|958
-db|935186|Sievershagen|rostock_region|566|958
-db|935864|Bargeshagen, Schmiede|rostock_region|499|958
-db|935853|Bargeshagen, Gaststätte|rostock_region|473|958
-db|936108|Rabenhorst|rostock_region|453|925
-db|935932|Bartenshagen, Abzweig|rostock_region|426|962
-db|935564|Bad Doberan, Buchenberg|rostock_region|316|963
-db|935597|Bad Doberan, EKZ|rostock_region|316|927
-db|935687|Bad Doberan, Nienhäger Chaussee|rostock_region|230|814
-db|935731|Bad Doberan, ZOB|rostock_region|220|902
-db|935698|Bad Doberan, Stadtmitte (REBUS)|rostock_region|221|938
-db|8081085|Bad Doberan, Stadtmitte (MBB)|rostock_region|198|938
-db|935619|Bad Doberan, Friedrich-Franz-Straße|rostock_region|251|994
-db|935586|Bad Doberan, Clara-Zetkin-Straße|rostock_region|251|1014
-db|936656|Bad Doberan, Althöfer Weg|rostock_region|251|1057
-db|936655|Althof (REBUS)|rostock_region|252|1075
-db|8011031|Althof (DB)|rostock_region|247|1075
-db|935223|Bad Doberan, Kollbruchweg|rostock_region|283|1043
-db|935233|Bad Doberan, Apotheke am Buchenberg|rostock_region|318|1030
-db|935664|Bad Doberan, Markt|rostock_region|156|922
-db|936259|Bad Doberan, Maxim-Gorki-Platz|rostock_region|103|923
-db|935166|Bad Doberan, Friedhof|rostock_region|53|927
-db|935630|Bad Doberan, Goethestraße (REBUS)|rostock_region|159|885
-db|8011069|Bad Doberan, Goethestraße (MBB)|rostock_region|153|885
-db|935530|Bad Doberan, Ärztehaus / Dammchaussee|rostock_region|190|841
-db|935745|Kammerhof, Thünenstraße|rostock_region|200|784
-db|935744|Kammerhof, Seniorenheim|rostock_region|143|784
-db|935316|Bad Doberan, Ärztehaus/Goethestraße|rostock_region|126|800
-db|935208|Bad Doberan, Förderschule|rostock_region|80|900
-db|936733|Bad Doberan, Salzwiesen|rostock_region|98|868
-db|935293|Vorder Bollhagen|rostock_region|72|813
-db|935294|Vorder Bollhagen, Abzweig|rostock_region|72|775
-db|935541|Bad Doberan, Ausbau|rostock_region|90|756
-db|936638|Bad Doberan, Rennbahn (REBUS)|rostock_region|89|727
-db||Bad Doberan, Rennbahn (MBB)|rostock_region|84|727
-db|935172|Heiligendamm, Abzweig|rostock_region|90|636
-db|935688|Heiligendamm (REBUS)|rostock_region|89|609
-db|8011846|Heiligendamm (MBB)|rostock_region|84|609
-db|8011847|Steilküste/Wittenbeck|rostock_region|49|572
-db|935653|Bad Doberan, Kröpeliner Straße|rostock_region|156|980
-db|935225|Brodhagen|rostock_region|110|950
-db|935236|Brodhagen, Abzweig|rostock_region|88|978
-db|935720|Bad Doberan, Stülower Weg|rostock_region|125|1022
-db|935229|Stülow|rostock_region|121|1072
-db|935525|Glashagen, Hof|rostock_region|109|1116
-db|935524|Glashagen|rostock_region|81|1144
-db|935709|Bad Doberan, Straßenverkehrsamt|rostock_region|336|983
-db|935575|Bad Doberan, Buchenweg|rostock_region|334|1005
-db|935943|Bartenshagen, Gehöft 3|rostock_region|404|1023
-db|935954|Bartenshagen, Gehöft 6|rostock_region|401|1056
-db|935966|Bartenshagen, Stützpunkt|rostock_region|401|1089
-db|935921|Bartenshagen|rostock_region|401|1146
-db|935503|Parkentin, Stegekamp|rostock_region|404|1206
-db|8012609|Parkentin|rostock_region|394|1219
-db|935187|Sievershagen, Ostseepark Parkplatz|rostock_region|606|974
-db|939039|Sievershagen, Ostseepark West|rostock_region|566|973
-db|935188|Sievershagen, Süderkamp|rostock_region|565|1017
-db|935892|Lambrechtshagen, Kreuzung|rostock_region|565|1074
-db|935891|Lambrechtshagen, Gärtnerei|rostock_region|566|1110
-db|935786|Allershagen, Hof 2|rostock_region|566|1202
-db|935898|Allershagen, Hof 4|rostock_region|566|1254
-db|935675|Allershagen, Hof 13|rostock_region|566|1312
-db|936010|Allershagen, Wilsen-Ausbau|rostock_region|537|1359
-db|936050|Parkentin, Schule|rostock_region|426|1357
-db|936049|Parkentin, Doberaner Straße|rostock_region|383|1358
-db|936014|Neuhof bei Parkentin|rostock_region|358|1357
-db|935821|Konow|rostock_region|333|1358
-db|935684|Hastorf, Abzweig|rostock_region|311|1357
-db|935686|Hastorf, Dorf|rostock_region|286|1319
-db|935685|Hastorf, Ausbau|rostock_region|273|1358
-db|935146|Hanstorf, Oberdorf|rostock_region|248|1356
-db|8010016|Bad Doberan (DB MBB)|rostock_region|198|1049
-db|935552|Bad Doberan, Bahnhof|rostock_region|223|1049
-db|935676|Bad Doberan, Moorbad|rostock_region|219|1102
-db|935641|Bad Doberan, Krankenhaus|rostock_region|219|1136
-db|935710|Hohenfelde bei Bad Doberan|rostock_region|220|1186
-db|935726|Ivendorf, Grund|rostock_region|219|1239
-db|935725|Ivendorf|rostock_region|219|1282
-db|935682|Hanstorf|rostock_region|220|1388
-db|935544|Gorow|rostock_region|165|1416
-db|935545|Gorow, Abzweig|rostock_region|220|1442
-db|935429|Clausdorf, Abzweig|rostock_region|220|1531
-db|935486|Anna Luisenhof|rostock_region|110|1670
-db|935497|Anna Luisenhof, Ausbau|rostock_region|67|1713
-db|935427|Clausdorf|rostock_region|309|1610
-db|936266|Bliesekow, Abzweig|rostock_region|547|1610
-db|935197|Stäbelow, Dorfplatz|rostock_region|619|1610
-db|935198|Stäbelow, Mühle|rostock_region|661|1610
-db|935848|Kritzmow, Weitenmoor|rostock_region|694|1578
-db|935846|Kritzmow|rostock_region|714|1558
-db|935418|Kritzmow, Schule|rostock_region|719|1514
-db|936347|Wilsen|rostock_region|619|1509
-db|935795|Klein Schwaß|rostock_region|618|1395
-db|935580|Groß Schwaß (REBUS)|rostock_region|625|1334
-db|8011735|Groß Schwaß (DB)|rostock_region|613|1334
-db|936689|Bliesekow|rostock_region|547|1544
-db|935783|Klein Bölkow, Abzweig|rostock_region|297|1636
-db|935561|Groß Bölkow, Abzweig|rostock_region|325|1665
-db|935884|Groß Bölkow, Abzweig Richtung Hohen Luckow|rostock_region|299|1715
-db|935782|Klein Bölkow|rostock_region|217|1663
-db|935560|Groß Bölkow|rostock_region|261|1752
-db|935947|Matersen, Abzweig|rostock_region|235|1778
-db|935946|Matersen|rostock_region|265|1808
-db|935823|Matersen, Wendeplatz|rostock_region|290|1832
-db|936220|Groß Bölkow, Ausbau Haus 101|rostock_region|210|1803
-db|935562|Groß Bölkow, Ausbau|rostock_region|185|1828
-db|935835|Groß Bölkow, Ausbau Haus 104|rostock_region|163|1850
-db|935701|Hohen Luckow, Rostocker Straße|rostock_region|140|1873
-db|935702|Hohen Luckow, Wendeplatz|rostock_region|111|1903
-db|935493|Fahrenholz, Abzweig|rostock_region|413|1753
-db|936029|Nienhusen|rostock_region|475|1818
-db|935373|Ziesendorf|rostock_region|532|1875
-db|935375|Ziesendorf, Ausbau|rostock_region|533|1916
-db|935492|Fahrenholz|rostock_region|454|1690
-db|935414|Ziesendorf, Kiesweg|rostock_region|495|1880
-db|935380|Buchholz, Hof|rostock_region|764|1877
-db|935358|Buchholz, Ausbau|rostock_region|908|1873
-db|935324|Buchholz|rostock_region|1035|1873
-db|936256|Buchholz Heide, Abzweig|rostock_region|1160|1873
-db|936710|Klein Stove|rostock_region|908|1793
-db|936709|Klein Stove, Reiterhof|rostock_region|1035|1793
-db|935369|Buchholz Heide|rostock_region|1158|1793
-db|936055|Benitz|rostock_region|989|1911
-db|935247|Brookhusen|rostock_region|954|1911
-db|935719|Huckstorf (REBUS)|rostock_region|1314|1931
-db|8011924|Huckstorf (DB)|rostock_region|1336|1931
-db|936654|Huckstorf, Haus 3|rostock_region|1318|1897
-db|935296|Wahrstorf|rostock_region|1315|1866
-db|936083|Pölchow (REBUS)|rostock_region|1414|1850
-db|8012654|Pölchow (DB)|rostock_region|1421|1850
-db|936085|Pölchow, Ausbau|rostock_region|1315|1831
-db|936025|Niendorf, Gaststätte|rostock_region|1311|1796
-db|935584|Groß Stove|rostock_region|1278|1753
-db|935585|Groß Stove, Abzweig|rostock_region|1314|1755
-db|935836|Sandkrug, Abzweig|rostock_region|1314|1718
-db|935417|Papendorf, Schule|rostock_region|1501|1703
-db|8012603|Papendorf|rostock_region|1566|1703
-db|935190|Sildemow, Abzweig|rostock_region|1313|1669
-db|935189|Sildemow|rostock_region|1419|1670
-db|936660|Sildemow, In der Seekoppel|rostock_region|1501|1670
-db|935550|Gragetopshof|rostock_region|1707|1640
-db|325025|Graal-Müritz, Wald|rostock_region|2541|96
-db|935546|Graal-Müritz, Ost|rostock_region|2484|96
-db|935549|Graal-Müritz, Birkenallee|rostock_region|2426|96
-db|935547|Graal-Müritz, Ostseering|rostock_region|2368|96
-db|935336|Graal-Müritz, Förderschule|rostock_region|2324|58
-db|935548|Graal-Müritz, Süd|rostock_region|2276|95
-db|8012583|Graal-Müritz|rostock_region|2368|111
-db|8012584|Graal-Müritz, Koppelweg|rostock_region|2276|111
-db|8010300|Rövershagen|rostock_region|2203|418
-db|935104|Rövershagen, Forsthaus|rostock_region|2072|303
-db|935105|Rövershagen, Schule|rostock_region|2178|408
-db|936658|Rövershagen, Grundschule|rostock_region|2178|380
-db|936101|Rövershagen, Karls Erlebnis-Dorf|rostock_region|2174|498
-db|8012377|Mönchhagen (DB)|rostock_region|2203|591
-db|935962|Mönchhagen (REBUS)|rostock_region|2178|591
-db|935651|Mönchhagen, Kindergarten|rostock_region|2100|591
-db|935657|Häschendorf|rostock_region|2100|700
-db|935683|Häschendorf, Abzweig|rostock_region|2175|713
-db|936223|Bentwisch, Bahnhof|rostock_region|2200|766
-db|8011140|Bentwisch (DB)|rostock_region|2200|757
-db|936639|Bentwisch, Feuerwehrhaus|rostock_region|2181|779
-db|936066|Bentwisch|rostock_region|2161|797
-db|936099|Bentwisch, Hanse-Center|rostock_region|2100|817
-db|936077|Bentwisch, Hanse Straße|rostock_region|2100|853
-db|936088|Bentwisch, Gewerbepark|rostock_region|2039|790
-db|936731|Bentwisch, Campus|rostock_region|2033|765
-db|936697|Goorstorf|rostock_region|2015|749
-db|935789|Klein Kussewitz|rostock_region|2268|744
-db|935217|Klein Kussewitz, Neubau|rostock_region|2309|706
-db|935287|Volkenshagen|rostock_region|2309|591
-db|935563|Albertsdorf|rostock_region|2248|782
-db|935569|Groß Kussewitz|rostock_region|2308|779
-db|936087|Poppendorf|rostock_region|2335|726
-db|936089|Poppendorf, Abzweig|rostock_region|2353|780
-db|935384|Bussewitz|rostock_region|2393|780
-db|935286|Vogtshagen|rostock_region|2413|739
-db|935431|Cordshagen|rostock_region|2463|780
-db|935938|Mandelshagen, Baumkate|rostock_region|2504|779
-db|936022|Behnkenhagen|rostock_region|2461|690
-db|936033|Behnkenhagen, Post|rostock_region|2482|690
-db|936233|Blankenhagen|rostock_region|2504|690
-db|935659|Blankenhagen, Neubau|rostock_region|2506|617
-db|935766|Willershagen|rostock_region|2506|548
-db|935660|Willershagen, Gehöft Nr. 10|rostock_region|2506|490
-db|935661|Gelbensande, Eichenallee|rostock_region|2504|408
-db|935662|Gelbensande, Schule|rostock_region|2539|378
-db|8011611|Gelbensande|rostock_region|2474|418
-db|935274|Mandelshagen, Mitte|rostock_region|2601|785
-db|935937|Mandelshagen|rostock_region|2616|799
-db|935288|Völkshagen|rostock_region|2616|859
-db|935556|Gresenhorst, Gaststätte|rostock_region|2632|888
-db|935557|Gresenhorst, Teich|rostock_region|2668|887
-db|935555|Gresenhorst, Bäckerei|rostock_region|2720|888
-db|935910|Bartelshagen I, Haupthaltestelle|rostock_region|2709|837
-db|325100|Rostocker Wulfshagen|rostock_region|2650|833
-db|325103|Gresenhorst, Schule|rostock_region|2697|922
-db|325166|Gresenhorst, Sägewerk|rostock_region|2672|939
-db|935437|Dänschenburg, Ausbau|rostock_region|2672|961
-db|325097|Dänschenburg, Wendeplatz|rostock_region|2672|983
-db|935436|Dänschenburg (REBUS)|rostock_region|2664|983
-db|936715|Neu Roggentin, B110|rostock_region|2098|1242
-db|936060|Pastow, Abzweig|rostock_region|2216|1239
-db|935994|Neu Pastow|rostock_region|2289|1239
-db|935213|Broderstorf, Bahnhof|rostock_region|2348|1243
-db|8011270|Broderstorf|rostock_region|2348|1264
-db|935711|Hohenfelde bei Rostock|rostock_region|2398|1239
-db|935162|Schule an der Carbäck (Richtung Thulendorf)|rostock_region|2471|1233
-db|935883|Schule an der Carbäck|rostock_region|2471|1246
-db|936058|Pastow|rostock_region|2146|1174
-db|936677|Pastow, Gewerbepark|rostock_region|2115|1179
-db|936317|Pastow, Neuendorfer Weg|rostock_region|2062|1178
-db|936065|Pastow, Nordwest|rostock_region|2035|1176
-db|936009|Neuendorf, Ausbau|rostock_region|2092|1119
-db|936012|Neuendorf, Hauptstraße|rostock_region|2092|1076
-db|936068|Pastow, Schmiedestraße|rostock_region|2130|1047
-db|936062|Pastow, Beistensoll|rostock_region|2170|1070
-db|936063|Pastow, Feuerwehr|rostock_region|2238|1049
-db|936061|Pastow, Alte Schulstraße|rostock_region|2268|1047
-db|935982|Neu Broderstorf, Pastower Straße|rostock_region|2309|1049
-db|936067|Neu Broderstorf, Alte Dorfstraße|rostock_region|2347|1119
-db|935202|Broderstorf, Billings-Brook|rostock_region|2347|1174
-db|935980|Neu Broderstorf, Am Pferdeteich|rostock_region|2364|1047
-db|935495|Fienstorf, Abzweig nach Thulendorf|rostock_region|2398|1049
-db|935984|Neu Fienstorf|rostock_region|2415|1014
-db|935494|Fienstorf|rostock_region|2415|991
-db|935446|Öftenhäven|rostock_region|2419|969
-db|936159|Steinfeld, Öftenhävener Weg|rostock_region|2461|950
-db|935445|Thulendorf, Abzweig Steinfeld|rostock_region|2544|1135
-db|935423|Thulendorf, Ausbau|rostock_region|2582|1138
-db|935420|Sagerheide|rostock_region|2622|1136
-db|936221|Billenhagen|rostock_region|2502|833
-db|935099|Rothbeck|rostock_region|2505|897
-db|935100|Rothbeck, Ausbau|rostock_region|2505|919
-db|935207|Steinfeld|rostock_region|2505|1006
-db|935998|Neu Steinfeld|rostock_region|2505|1092
-db|935265|Thulendorf|rostock_region|2505|1179
-db|939391|Neu Roggentin|rostock_region|2031|1274
-db|935527|Roggentin, Globus|rostock_region|2057|1289
-db|936150|Roggentin, Gewerbepark|rostock_region|2126|1290
-db|936637|Roggentin, DB Haltepunkt|rostock_region|2205|1317
-db|8012785|Roggentin|rostock_region|2205|1325
-db|939228|Roggentin, Kösterbecker Straße|rostock_region|2172|1264
-db|936149|Roggentin, Dorfplatz|rostock_region|2027|1312
-db|935830|Kösterbeck, Im Grund|rostock_region|2040|1366
-db|935828|Kösterbeck|rostock_region|2090|1363
-db|935266|Kösterbeck, Am Wald|rostock_region|2168|1362
-db|935829|Kösterbeck, Lindenallee|rostock_region|2167|1342
-db|935243|Teschendorf, Ausbau|rostock_region|2170|1415
-db|935242|Teschendorf|rostock_region|2168|1462
-db|935724|Ikendorf, Ausbau|rostock_region|2289|1366
-db|935191|Broderstorf, Abzweig Ikendorf|rostock_region|2349|1319
-db|8011729|Groß Lüsewitz|rostock_region|2554|1271
-db|935572|Groß Lüsewitz, Abzweig|rostock_region|2554|1243
-db|935450|Sanitz, Hort|rostock_region|2630|1215
-db|935135|Sanitz, ZOB|rostock_region|2659|1286
-db|8012841|Sanitz|rostock_region|2659|1271
-db|935130|Sanitz, Rathaus|rostock_region|2689|1244
-db|935133|Sanitz, Sülzer Straße|rostock_region|2744|1246
-db|935129|Sanitz, Alt|rostock_region|2713|1292
-db|935263|Teutendorf, Abzweig|rostock_region|2713|1327
-db|935804|Klein Wehnendorf, Abzweig|rostock_region|2713|1347
-db|935716|Horst, Bahnhof|rostock_region|2714|1368
-db|936028|Sanitz, Realschule|rostock_region|2604|1304
-db|935617|Sanitz, Gymnasium|rostock_region|2581|1339
-db|935278|Vietow|rostock_region|2678|1417
-db|935895|Niekrenz, Richtung Vietow|rostock_region|2618|1478
-db|936020|Niekrenz|rostock_region|2603|1458
-db|936021|Niekrenz, Ausbau|rostock_region|2603|1525
-db|935596|Gubkow, Am Damm|rostock_region|2605|1573
-db|935475|Gubkow, Richtung Sanitz|rostock_region|2605|1605
-db|935699|Hohen Gubkow|rostock_region|2717|1633
-db|935992|Neu Kokendorf, Abzweig|rostock_region|2642|1633
-db|935595|Gubkow, Am Hofsee|rostock_region|2564|1632
-db|935665|Lieblingshof|rostock_region|2496|1552
-db|935906|Lieblingshof, Abzweig|rostock_region|2496|1630
-db|935907|Lieblingshof, Ausbau|rostock_region|2439|1632
-db|935539|Göldenitz, Abzweig|rostock_region|2384|1632
-db|936078|Petschow, Am Dorfteich|rostock_region|2227|1620
-db|936160|Petschow, Haus 19|rostock_region|2209|1601
-db|936079|Petschow, Ausbau|rostock_region|2194|1586
-db|935533|Godow, Abzweig|rostock_region|2179|1571
-db|935608|Wolfsberg|rostock_region|2152|1576
-db|935649|Godow|rostock_region|2127|1601
-db|935798|Bandelstorf|rostock_region|2101|1632
-db|935170|Petschow, Abzweig Schlage|rostock_region|2150|1656
-db|935390|Petschow|rostock_region|2210|1633
-db|936348|Göldenitz|rostock_region|2210|1773
-db|935150|Schlage|rostock_region|2168|1775
-db|936046|Pankelow|rostock_region|2126|1775
-db|936642|Kessin, ORC|rostock_region|1794|1480
-db|935819|Kessin, Wendeschleife|rostock_region|1826|1481
-db|935765|Kessin|rostock_region|1826|1510
-db|935704|Hohen Schwarfs|rostock_region|1830|1575
-db|935706|Hohen Schwarfs, Abzweig|rostock_region|1862|1547
-db|936199|Beselin, Abzweig|rostock_region|1906|1596
-db|935297|Waldeck, Waldeck I|rostock_region|1921|1611
-db|936628|Waldeck, Waldeck II|rostock_region|1932|1623
-db|935473|Dummerstorf, Abzweig|rostock_region|1959|1650
-db|935474|Dummerstorf, Ärztehaus|rostock_region|1950|1682
-db|935476|Dummerstorf, Neubau|rostock_region|1973|1765
-db|935339|Dummerstorf, Schule|rostock_region|2007|1803
-db|936047|Pankelow, Abzweig|rostock_region|2067|1763
-db|8012002|Kavelstorf|rostock_region|1864|1735
-db|935760|Kavelstorf, Neubau|rostock_region|1884|1718
-db|935761|Kavelstorf, Schule|rostock_region|1769|1720
-db|935432|Damm|rostock_region|1715|1723
-db|936030|Niex|rostock_region|1714|1685
-db|936129|Reez|rostock_region|1715|1782
-db|935589|Groß Viegeln|rostock_region|1717|1838
-db|935808|Klingendorf|rostock_region|1769|1768
-db|936096|Prisannewitz, Ausbau|rostock_region|1901|1793
-db|936094|Prisannewitz|rostock_region|1924|1816
-db|935144|Scharstorf|rostock_region|1950|1840
-db|935148|Scharstorf, Bahnhof|rostock_region|1982|1870
-db|8012856|Scharstorf (DB)|rostock_region|1982|1860
-db|935881|Groß Potrems|rostock_region|2012|1836
-db|936093|Wendorf|rostock_region|2007|1913
-db|935152|Schlage, Abzweig|rostock_region|2068|1819
-db|935574|Groß Potrems, Abzweig|rostock_region|2038|1868
-db|935826|Kossow Krug|rostock_region|2063|1913
-db|935825|Kossow|rostock_region|2130|1911
+db|936190|Diedrichshagen|rostock_region|762|237
+db|935056|Streuwiesenweg|rostock_region|708|205
+db|935219|Stolteraer Weg|rostock_region|696|165
+db|935013|Rohrmannsche Koppel|rostock_region|717|150
+db|936211|Friedhof|rostock_region|731|136
+db|939479|Warnemünde Strand|rostock_region|791|122
+db|936240|Haus Stolteraa|rostock_region|847|122
+db|935088|Wiesenweg|rostock_region|883|116
+db|936253|Kurhausstraße|rostock_region|941|90
+db|935042|Seestraße|rostock_region|983|90
+db|935074|Wachtlerstraße|rostock_region|962|117
+db|935072|Warnemünde Kirchenplatz|rostock_region|1008|138
+db|936339|Poststraße|rostock_region|1008|168
+db|936212|Fritz-Reuter-Straße|rostock_region|1008|196
+db|939235|Rostocker Straße|rostock_region|1031|233
+db|935008|Richard-Wagner-Straße TZW|rostock_region|943|171
+db|8013236|Warnemünde|rostock_region|1096|138
+db|936350|Warnemünde Fähre|rostock_region|1181|138
+db|8013237|Warnemünde Werft (DB)|rostock_region|1116|229
+db|935077|Warnemünde Werft (RSAG REBUS)|rostock_region|1077|229
+db|935086|Werftblick|rostock_region|984|259
+db|936225|Grabower Straße|rostock_region|984|288
+db|8012221|Rostock-Lichtenhagen (DB)|rostock_region|999|325
+db|939485|HP Lichtenhagen (RSAG)|rostock_region|985|325
+db|939485|HP Lichtenhagen (Klenow Tor)|rostock_region|1013|325
+db|936230|Güstrower Straße|rostock_region|947|325
+db|936304|Mecklenburger Allee|rostock_region|886|325
+db|935308|Elmenhorster Weg|rostock_region|886|365
+db|935315|Eutiner Straße|rostock_region|886|394
+db|936649|Rügener Straße|rostock_region|802|432
+db|935066|Turkuer Straße|rostock_region|802|461
+db|935078|Warnowallee|rostock_region|802|489
+db|936308|Möllner Straße|rostock_region|892|445
+db|936158|Ärztehaus Lütten Klein|rostock_region|892|475
+db|935094|Zum Laakkanal|rostock_region|1040|295
+db|939040|Zum Pagenwerder|rostock_region|1132|263
+db|935041|Seelotsenring|rostock_region|1112|320
+db|935060|Taklerring|rostock_region|1112|355
+db|935012|Groß Klein Dorf|rostock_region|1116|390
+db|936219|Gerüstbauerring|rostock_region|1112|425
+db|936180|Blockmacherring|rostock_region|1077|458
+db|936187|Dänenberg|rostock_region|1038|458
+db|935026|Schmarl Dorf|rostock_region|1146|488
+db|935027|Schmarl Zentrum|rostock_region|1050|530
+db|8012271|Rostock-Lütten Klein (DB)|rostock_region|999|511
+db|936258|HP Lütten Klein (RSAG REBUS)|rostock_region|999|540
+db|936648|Lütten Klein Zentrum|rostock_region|847|533
+db|936326|Osloer Straße|rostock_region|787|536
+db|936215|Gedser Straße|rostock_region|752|536
+db|936275|Kopenhagener Straße|rostock_region|731|603
+db|936179|Binzer Straße|rostock_region|731|475
+db|935019|Saßnitzer Straße|rostock_region|731|432
+db|935046|Sankt Petersburger Straße|rostock_region|892|584
+db|936243|Helsinkier Straße|rostock_region|892|613
+db|936646|Fischerdorf|rostock_region|888|641
+db|935064|Thomas-Morus-Straße|rostock_region|892|681
+db|936202|Ehm-Welk-Straße|rostock_region|892|720
+db|936174|Bertolt-Brecht-Straße|rostock_region|892|748
+db|936616|Evershagen Süd|rostock_region|925|798
+db|8012807|Rostock-Marienehe (DB)|rostock_region|999|838
+db|936297|Marienehe (RSAG)|rostock_region|990|838
+db|935010|Roald-Amundsen-Straße|rostock_region|1080|577
+db|935052|Stephan-Jantzen-Ring|rostock_region|1061|625
+db|8011523|Rostock-Evershagen (DB)|rostock_region|999|688
+db|936254|HP Evershagen (RSAG)|rostock_region|1013|688
+db|936238|Handwerkstraße|rostock_region|1065|718
+db|936264|Industriestraße|rostock_region|1110|673
+db|935043|Siemens|rostock_region|1100|715
+db|935050|Stadtwerke|rostock_region|1089|757
+db|936262|Hundsburgallee|rostock_region|1063|784
+db|936619|Maxim-Gorki-Straße|rostock_region|820|720
+db|935063|Theodor-Storm-Straße|rostock_region|820|748
+db|936307|Messestraße|rostock_region|753|849
+db|935034|Schutow|rostock_region|791|891
+db|939226|Immendiek|rostock_region|858|895
+db|935004|Rahnstädter Weg|rostock_region|960|881
+db|935005|Reutershagen|rostock_region|893|928
+db|936300|Markt Reutershagen|rostock_region|775|988
+db|936204|Etkar-André-Straße|rostock_region|713|1001
+db|936182|Bonhoefferstraße|rostock_region|713|1042
+db|935073|Walter-Husemann-Straße|rostock_region|775|1042
+db|935068|Ulrich-von-Hutten-Straße|rostock_region|888|1013
+db|936285|Kuphalstraße|rostock_region|898|1059
+db|935065|Tschaikowskistraße|rostock_region|898|1094
+db|936214|Gartenstadt|rostock_region|898|1126
+db|935037|Schwimmhalle|rostock_region|927|1151
+db|936330|Stadion|rostock_region|980|1154
+db|939222|Klinikum Schillingallee|rostock_region|999|1196
+db|935023|Schillingallee|rostock_region|1057|1137
+db|8012803|Rostock-Bramow|rostock_region|999|925
+db|936284|Kunsthalle|rostock_region|937|953
+db|936242|Heinrich-Schütz-Straße|rostock_region|959|974
+db|8012805|Rostock Holbeinplatz (DB)|rostock_region|1016|1003
+db|936251|Holbeinplatz (RSAG)|rostock_region|985|1003
+db|936227|Greifswalder Straße|rostock_region|1042|1061
+db|939227|Dethardingstraße|rostock_region|1110|1130
+db|8012801|Rostock Parkstraße (DB)|rostock_region|1138|1132
+db|936331|Parkstraße (RSAG)|rostock_region|1138|1152
+db|935015|Rosenweg|rostock_region|869|1149
+db|935053|Sternwarte|rostock_region|819|1165
+db|936229|Groß Schwaßer Weg|rostock_region|805|1211
+db|935087|Westfriedhof|rostock_region|835|1232
+db|935093|Zoo|rostock_region|907|1257
+db|936200|Dr.-Lorenz-Weg|rostock_region|936|1230
+db||Thierfelder Straße (RSAG)|rostock_region|976|1230
+db|8079629|Rostock Thierfelder Straße (DB)|rostock_region|976|1285
+db|936337|Platz der Jugend|rostock_region|1082|1202
+db|936318|Neuer Friedhof|rostock_region|907|1347
+db|939232|Graureiherweg|rostock_region|854|1361
+db|939231|Tannenweg|rostock_region|800|1361
+db|939230|Friedrichshöhe|rostock_region|770|1347
+db|935049|Stadtweide|rostock_region|865|1391
+db|935020|Satower Straße|rostock_region|835|1421
+db|936161|Akazienweg|rostock_region|801|1455
+db|936306|Mensa|rostock_region|994|1343
+db|936273|Klinikum Süd|rostock_region|1054|1338
+db|936342|Robert-Koch-Straße|rostock_region|1112|1338
+db|935059|Südstadt-Center|rostock_region|1172|1349
+db|936296|Majakowskistraße|rostock_region|1114|1377
+db|936294|Lomonossowstraße|rostock_region|1086|1405
+db|936186|Charles-Darwin-Ring|rostock_region|1061|1430
+db|935016|Südblick (Tram)|rostock_region|1012|1477
+db|939288|Südblick (Bus)|rostock_region|1033|1477
+db|935090|Wohnpark Biestow|rostock_region|994|1451
+db|939234|Am Dorfteich|rostock_region|950|1451
+db|936178|Biestow|rostock_region|891|1451
+db|936213|Galileistraße|rostock_region|1181|1437
+db|935067|Tychsenstraße|rostock_region|1246|1437
+db|936165|Am Kringelgraben|rostock_region|1312|1437
+db|935035|Schwaaner Landstraße|rostock_region|1377|1437
+db|936283|Zur Mooskuhle|rostock_region|1442|1437
+db|936196|Dieselmotorenwerk|rostock_region|1485|1421
+db|936201|Erich-Schlesinger-Straße|rostock_region|1229|1343
+db|939433|Stadthalle|rostock_region|1442|1351
+db|936305|Mendelejewstraße|rostock_region|1442|1403
+db|936303|Maßmannstraße|rostock_region|1095|1002
+db|936269|Kabutzenhof|rostock_region|1181|1002
+db|936652|Kabutzenhof Fähre|rostock_region|1181|941
+db|935071|Volkstheater|rostock_region|1238|1031
+db|936197|Doberaner Platz|rostock_region|1305|1064
+db|935032|Schröderplatz|rostock_region|1362|1112
+db|935878|Deutsche-Med-Platz|rostock_region|1326|1164
+db|935018|Saarplatz|rostock_region|1207|1152
+db|939224|Bei der Tweel|rostock_region|1229|1250
+db|936224|Goetheplatz|rostock_region|1371|1268
+db|936280|Kröpeliner Tor|rostock_region|1402|1056
+db|936289|Lange Straße|rostock_region|1451|1059
+db|936203|Schnickmannstraße|rostock_region|1451|1015
+db|936352|Neuer Markt|rostock_region|1526|1086
+db|935044|Speicher|rostock_region|1578|1049
+db|935031|Am Rosengarten|rostock_region|1453|1146
+db|935051|Steintor IHK|rostock_region|1565|1155
+db|936291|Leibnizplatz|rostock_region|1529|1216
+db|936181|Blücherstraße|rostock_region|1561|1183
+db|936341|Puschkinplatz HBZ|rostock_region|1584|1206
+db|936292|Lessingstraße|rostock_region|1600|1234
+db|936239|Hauptbahnhof Nord|rostock_region|1600|1268
+db|8010304|Rostock Hbf (DB)|rostock_region|1526|1290
+db|939295|Hauptbahnhof (RSAG)|rostock_region|1526|1315
+db|939421|Hauptbahnhof Süd|rostock_region|1552|1368
+db|935048|Hauptbahnhof Süd/ZOB|rostock_region|1552|1437
+db|936314|Neubrandenburger Straße|rostock_region|1704|1186
+db|936271|Kessiner Berg|rostock_region|1737|1294
+db|8012806|Rostock-Kassebohm|rostock_region|1760|1165
+db|936168|Am Petridamm|rostock_region|1792|993
+db|939374|Am Bagehl|rostock_region|1629|1133
+db|936207|Flussbad|rostock_region|1686|1133
+db|935083|Weißes Kreuz|rostock_region|1725|1137
+db|935062|Tessiner Straße|rostock_region|1799|1133
+db|936260|Hüerbaasweg|rostock_region|1877|1131
+db|936184|Brinckmansdorf|rostock_region|1935|1137
+db|936603|Gewerbegebiet Brinckmansdorf|rostock_region|1969|1094
+db|936620|Rudolf-Tarnow-Straße|rostock_region|1969|1066
+db|936615|Brinckmanshöhe|rostock_region|1969|1038
+db|936614|Albert-Schulz-Straße|rostock_region|1969|1010
+db|936612|Riekdahl|rostock_region|1969|974
+db|936647|Kassebohm|rostock_region|1840|1167
+db|936621|Vicke-Schorler-Ring|rostock_region|1794|1201
+db|936622|Zu den Söllen|rostock_region|1749|1229
+db|939225|Kessiner Weg|rostock_region|1794|1256
+db|936617|Kassebohm Süd|rostock_region|1855|1256
+db|936218|Gerberbruch|rostock_region|1617|1077
+db|935857|Stadthafen|rostock_region|1650|1027
+db|936336|Petridamm|rostock_region|1650|985
+db|936194|Dierkower Damm|rostock_region|1650|957
+db|939239|Dierkower Kreuz|rostock_region|1653|905
+db|936302|Martin-Niemöller-Straße|rostock_region|1642|805
+db|936252|Hölderlinweg|rostock_region|1629|777
+db|936209|Friedensforum|rostock_region|1607|766
+db|936226|Graf-Stauffenberg-Straße|rostock_region|1571|766
+db|936234|Hafenallee|rostock_region|1525|766
+db|936265|Joliot-Curie-Allee|rostock_region|1525|724
+db|935082|Weidendamm|rostock_region|1525|684
+db|935095|Zum Schäferteich|rostock_region|1598|636
+db|935070|Urho-Kekkonen-Straße|rostock_region|1654|618
+db|936162|Albert-Schweitzer-Straße|rostock_region|1690|653
+db|936267|Jawaharlal-Nehru-Straße|rostock_region|1013|683
+db|936301|Martin-Luther-King-Allee|rostock_region|1743|722
+db|936286|Kurt-Schumacher-Ring|rostock_region|1743|775
+db|936295|Lorenzstraße|rostock_region|1743|862
+db|935022|Schenkendorfweg|rostock_region|1585|889
+db|936173|Baumschulenweg|rostock_region|1525|889
+db|936216|Gehlsheim Klinik|rostock_region|1476|891
+db|936217|Gehlsheimer Straße|rostock_region|1442|891
+db|936206|Fährstraße Michaelshof|rostock_region|1409|891
+db|936351|Gehlsdorf Fähre|rostock_region|1409|941
+db|936272|Kirchenplatz|rostock_region|1354|861
+db|935030|Schöffenweg|rostock_region|1333|840
+db|936340|Pressentinstraße|rostock_region|1312|819
+db|936618|Langenort Hufe|rostock_region|1291|798
+db|936290|Langenort|rostock_region|1282|768
+db|935079|Warnowblick|rostock_region|1282|731
+db|935081|Warnowrande|rostock_region|1282|688
+db|936324|Oldendorf|rostock_region|1292|650
+db|936281|Krummendorf|rostock_region|1317|625
+db|936241|Heidenholzmoor|rostock_region|1368|598
+db|935038|Seehafen|rostock_region|1400|544
+db|935039|Seehafen Fähre|rostock_region|1327|525
+db|939233|Seehafen Anleger|rostock_region|1280|487
+db|935714|Seehafen Ost|rostock_region|1423|523
+db|939223|Liebherrstraße|rostock_region|1453|474
+db|939361|Getreidehafen|rostock_region|1485|517
+db|936276|Kraftwerk|rostock_region|1525|517
+db|936282|Krummendorf Nord|rostock_region|1465|596
+db|936171|Bahnbetriebswerk|rostock_region|1525|596
+db|936235|Hafenbahnweg|rostock_region|1584|596
+db|936236|HP Dierkow|rostock_region|1915|861
+db|936270|Katerweg|rostock_region|1887|918
+db|936192|Dierkow-Zentrum|rostock_region|1847|918
+db|936247|Hinrichsdorfer Straße|rostock_region|1679|831
+db|936191|Dierkow Dorf|rostock_region|1686|778
+db|935989|Neu Hinrichsdorf, EKZ|rostock_region|1903|607
+db|936185|Brückenweg|rostock_region|1788|673
+db|936311|Neu Hinrichsdorf|rostock_region|1754|597
+db|936167|Am Liepengraben|rostock_region|1720|564
+db|939340|Hinrichsdorf|rostock_region|1754|537
+db|936231|Güterverkehrszentrum|rostock_region|1754|494
+db|936320|Nienhagen|rostock_region|1754|438
+db|936335|Peez Dorf|rostock_region|1698|409
+db|935057|Stuthof|rostock_region|1698|335
+db|936322|Nienhager Koppel|rostock_region|1774|365
+db|936268|Jürgeshof|rostock_region|1822|318
+db|936018|Niederhagen|rostock_region|1851|245
+db|936248|Hinrichshagen|rostock_region|1851|136
+db|935029|Schnatermannweg|rostock_region|1778|139
+db|935033|Schulzenwiese|rostock_region|1711|139
+db|936298|Markgrafenheide|rostock_region|1635|139
+db|935061|Taterhörn|rostock_region|1566|139
+db|935055|Strand|rostock_region|1499|139
+db|936249|Hohe Düne|rostock_region|1432|139
+db|936183|Breitling|rostock_region|1365|139
+db|936250|Hohe Düne Fähre|rostock_region|1268|139
+db|935097|Rostocker Heide|rostock_region|1918|136
+db|935300|Wallensteins Lager|rostock_region|2028|131
+db|935965|Müggenburg|rostock_region|2113|131
+db|8012582|Rostock-Torfbrücke (DB)|rostock_region|2205|147
+db|935271|Torfbrücke (REBUS)|rostock_region|2205|133
+db|935329|Lichtenhagen, Dorf|rostock_region|648|485
+db|935905|Lichtenhagen, Schule|rostock_region|648|435
+db|935416|Lichtenhagen, Wiesengrund|rostock_region|648|358
+db|935490|Elmenhorst, Nordkante|rostock_region|654|171
+db|935487|Elmenhorst, Bachweg|rostock_region|659|191
+db|935488|Elmenhorst, Feuerwehr|rostock_region|613|205
+db|935489|Elmenhorst, Gauswisch|rostock_region|1502|205
+db|935491|Elmenhorst, West|rostock_region|485|205
+db|936043|Ostseebad Nienhagen, Ost|rostock_region|404|203
+db|936039|Ostseebad Nienhagen, Technopark|rostock_region|406|172
+db|936040|Ostseebad Nienhagen, Friedhof|rostock_region|334|238
+db|936041|Ostseebad Nienhagen, Hofstraße|rostock_region|274|281
+db|936042|Ostseebad Nienhagen, Mitte|rostock_region|233|341
+db|936045|Ostseebad Nienhagen, West|rostock_region|1894|382
+db|936142|Rethwisch|rostock_region|231|495
+db|935787|Bahrenhorst|rostock_region|235|622
+db|935058|Börgerende, Wendeplatz|rostock_region|41|521
+db|935047|Börgerende, Tourist-Info|rostock_region|71|517
+db|935025|Börgerende, An den Weiden|rostock_region|106|521
+db|935036|Börgerende, Hof 14|rostock_region|136|517
+db|935816|Rethwisch, Börgerender Straße|rostock_region|201|521
+db|936696|Rethwisch, Schule|rostock_region|267|519
+db|936695|Rethwisch, Mühlenweg|rostock_region|318|521
+db|936694|Steinbeck, Lindenstraße|rostock_region|378|521
+db|936693|Steinbeck, Koppelweg|rostock_region|429|521
+db|936157|Admannshagen, Ausbau|rostock_region|491|521
+db|935001|Admannshagen|rostock_region|531|519
+db|936659|Lichtenhagen, Admannshäger Weg|rostock_region|568|521
+db|935328|Lichtenhagen, Eschenholt|rostock_region|606|517
+db|935904|Lichtenhagen, Ahrensholt|rostock_region|637|521
+db|935876|Bargeshagen, Sportpark|rostock_region|533|850
+db|935187|Sievershagen, Ostseepark|rostock_region|637|896
+db|935186|Sievershagen|rostock_region|568|893
+db|935864|Bargeshagen, Schmiede|rostock_region|519|894
+db|935853|Bargeshagen, Gaststätte|rostock_region|487|893
+db|936108|Rabenhorst|rostock_region|461|857
+db|935932|Bartenshagen, Abzweig|rostock_region|440|897
+db|935564|Bad Doberan, Buchenberg|rostock_region|327|899
+db|935597|Bad Doberan, EKZ|rostock_region|327|860
+db|935687|Bad Doberan, Nienhäger Chaussee|rostock_region|236|741
+db|935731|Bad Doberan, ZOB|rostock_region|221|830
+db|935698|Bad Doberan, Stadtmitte (REBUS)|rostock_region|219|872
+db|8081085|Bad Doberan, Stadtmitte (MBB)|rostock_region|192|872
+db|935619|Bad Doberan, Friedrich-Franz-Straße|rostock_region|258|931
+db|935586|Bad Doberan, Clara-Zetkin-Straße|rostock_region|258|953
+db|936656|Bad Doberan, Althöfer Weg|rostock_region|258|998
+db|936655|Althof (REBUS)|rostock_region|256|1014
+db|8011031|Althof (DB)|rostock_region|256|1020
+db|935223|Bad Doberan, Kollbruchweg|rostock_region|291|983
+db|935233|Bad Doberan, Apotheke am Buchenberg|rostock_region|328|969
+db|935664|Bad Doberan, Markt|rostock_region|157|854
+db|936259|Bad Doberan, Maxim-Gorki-Platz|rostock_region|101|856
+db|935166|Bad Doberan, Friedhof|rostock_region|48|860
+db|935630|Bad Doberan, Goethestraße (REBUS)|rostock_region|160|816
+db|8011069|Bad Doberan, Goethestraße (MBB)|rostock_region|154|816
+db|935530|Bad Doberan, Ärztehaus / Dammchaussee|rostock_region|192|769
+db|935745|Kammerhof, Thünenstraße|rostock_region|203|708
+db|935744|Kammerhof, Seniorenheim|rostock_region|143|708
+db|935316|Bad Doberan, Ärztehaus/Goethestraße|rostock_region|94|725
+db|935208|Bad Doberan, Förderschule|rostock_region|78|826
+db|936733|Bad Doberan, Salzwiesen|rostock_region|95|798
+db|935293|Vorder Bollhagen|rostock_region|67|739
+db|935294|Vorder Bollhagen, Abzweig|rostock_region|67|698
+db|935541|Bad Doberan, Ausbau|rostock_region|87|679
+db|936638|Bad Doberan, Rennbahn (REBUS)|rostock_region|85|648
+db||Bad Doberan, Rennbahn (MBB)|rostock_region|79|648
+db|935172|Heiligendamm, Abzweig|rostock_region|87|622
+db|935688|Heiligendamm (REBUS)|rostock_region|85|600
+db|8011846|Heiligendamm (MBB)|rostock_region|79|600
+db|8011847|Steilküste/Wittenbeck|rostock_region|50|568
+db|935653|Bad Doberan, Kröpeliner Straße|rostock_region|157|916
+db|935225|Brodhagen|rostock_region|108|884
+db|935236|Brodhagen, Abzweig|rostock_region|92|914
+db|935720|Bad Doberan, Stülower Weg|rostock_region|124|961
+db|935229|Stülow|rostock_region|120|1014
+db|935525|Glashagen, Hof|rostock_region|107|1060
+db|935524|Glashagen|rostock_region|77|1090
+db|935709|Bad Doberan, Straßenverkehrsamt|rostock_region|348|920
+db|935575|Bad Doberan, Buchenweg|rostock_region|348|944
+db|935943|Bartenshagen, Gehöft 3|rostock_region|417|995
+db|935954|Bartenshagen, Gehöft 6|rostock_region|417|1016
+db|935966|Bartenshagen, Stützpunkt|rostock_region|417|1041
+db|935921|Bartenshagen|rostock_region|417|1092
+db|935503|Parkentin, Stegekamp|rostock_region|417|1133
+db|8012609|Parkentin|rostock_region|410|1170
+db|939039|Sievershagen, Ostseepark West|rostock_region|602|913
+db|935188|Sievershagen, Süderkamp|rostock_region|567|956
+db|935892|Lambrechtshagen, Kreuzung|rostock_region|567|1016
+db|935891|Lambrechtshagen, Gärtnerei|rostock_region|567|1055
+db|935786|Allershagen, Hof 2|rostock_region|567|1159
+db|935898|Allershagen, Hof 4|rostock_region|567|1207
+db|935675|Allershagen, Hof 13|rostock_region|567|1251
+db|936010|Allershagen, Wilsen-Ausbau|rostock_region|526|1299
+db|936050|Parkentin, Schule|rostock_region|443|1299
+db|936049|Parkentin, Doberaner Straße|rostock_region|397|1300
+db|936014|Neuhof bei Parkentin|rostock_region|371|1299
+db|935821|Konow|rostock_region|344|1300
+db|935684|Hastorf, Abzweig|rostock_region|674|1299
+db|935686|Hastorf, Dorf|rostock_region|648|1259
+db|935685|Hastorf, Ausbau|rostock_region|281|1300
+db|935146|Hanstorf, Oberdorf|rostock_region|254|1296
+db|8010016|Bad Doberan (DB MBB)|rostock_region|201|989
+db|935552|Bad Doberan, Bahnhof|rostock_region|228|989
+db|935676|Bad Doberan, Moorbad|rostock_region|221|1046
+db|935641|Bad Doberan, Krankenhaus|rostock_region|221|1081
+db|935710|Hohenfelde bei Bad Doberan|rostock_region|221|1136
+db|935726|Ivendorf, Grund|rostock_region|221|1191
+db|935725|Ivendorf|rostock_region|221|1237
+db|935682|Hanstorf|rostock_region|224|1332
+db|935544|Gorow|rostock_region|166|1354
+db|935545|Gorow, Abzweig|rostock_region|221|1374
+db|935429|Clausdorf, Abzweig|rostock_region|221|1470
+db|935486|Anna Luisenhof|rostock_region|108|1616
+db|935497|Anna Luisenhof, Ausbau|rostock_region|62|1662
+db|935427|Clausdorf|rostock_region|320|1553
+db|936266|Bliesekow, Abzweig|rostock_region|556|1553
+db|935197|Stäbelow, Dorfplatz|rostock_region|613|1553
+db|935198|Stäbelow, Mühle|rostock_region|701|1553
+db|935848|Kritzmow, Weitenmoor|rostock_region|737|1519
+db|935846|Kritzmow|rostock_region|758|1498
+db|935418|Kritzmow, Schule|rostock_region|749|1465
+db|936347|Wilsen|rostock_region|2132|1445
+db|935795|Klein Schwaß|rostock_region|613|1335
+db|935580|Groß Schwaß (REBUS)|rostock_region|616|1285
+db|8011735|Groß Schwaß (DB)|rostock_region|606|1285
+db|936689|Bliesekow|rostock_region|556|1502
+db|935783|Klein Bölkow, Abzweig|rostock_region|304|1582
+db|935561|Groß Bölkow, Abzweig|rostock_region|334|1613
+db|935884|Groß Bölkow, Abzweig Richtung Hohen Luckow|rostock_region|309|1665
+db|935782|Klein Bölkow|rostock_region|221|1609
+db|935560|Groß Bölkow|rostock_region|268|1704
+db|935947|Matersen, Abzweig|rostock_region|240|1732
+db|935946|Matersen|rostock_region|273|1763
+db|935823|Matersen, Wendeplatz|rostock_region|299|1788
+db|936220|Groß Bölkow, Ausbau Haus 101|rostock_region|214|1758
+db|935562|Groß Bölkow, Ausbau|rostock_region|187|1785
+db|935835|Groß Bölkow, Ausbau Haus 104|rostock_region|164|1808
+db|935701|Hohen Luckow, Rostocker Straße|rostock_region|139|1832
+db|935702|Hohen Luckow, Wendeplatz|rostock_region|115|1856
+db|935493|Fahrenholz, Abzweig|rostock_region|425|1705
+db|936029|Nienhusen|rostock_region|495|1773
+db|935373|Ziesendorf|rostock_region|554|1834
+db|935375|Ziesendorf, Ausbau|rostock_region|556|1885
+db|935492|Fahrenholz|rostock_region|471|1679
+db|935414|Ziesendorf, Kiesweg|rostock_region|516|1839
+db|935380|Buchholz, Hof|rostock_region|775|1837
+db|935358|Buchholz, Ausbau|rostock_region|839|1836
+db|935324|Buchholz|rostock_region|902|1836
+db|936256|Buchholz Heide, Abzweig|rostock_region|969|1836
+db|936055|Benitz|rostock_region|935|1908
+db|935247|Brookhusen|rostock_region|898|1908
+db|936710|Klein Stove|rostock_region|795|1648
+db|936709|Klein Stove, Reiterhof|rostock_region|843|1696
+db|935369|Buchholz Heide|rostock_region|969|1748
+db|935719|Huckstorf (REBUS)|rostock_region|1194|1922
+db|8011924|Huckstorf (DB)|rostock_region|1199|1927
+db|936654|Huckstorf, Haus 3|rostock_region|1161|1885
+db|935296|Wahrstorf|rostock_region|1108|1825
+db|936083|Pölchow (REBUS)|rostock_region|1306|1808
+db|8012654|Pölchow (DB)|rostock_region|1315|1808
+db|936085|Pölchow, Ausbau|rostock_region|1108|1788
+db|936025|Niendorf, Gaststätte|rostock_region|1103|1750
+db|935584|Groß Stove|rostock_region|1068|1705
+db|935585|Groß Stove, Abzweig|rostock_region|1107|1707
+db|935836|Sandkrug, Abzweig|rostock_region|1107|1667
+db|935417|Papendorf, Schule|rostock_region|1375|1652
+db|8012603|Papendorf|rostock_region|1469|1652
+db|935190|Sildemow, Abzweig|rostock_region|1105|1553
+db|935189|Sildemow|rostock_region|1253|1555
+db|936660|Sildemow, In der Seekoppel|rostock_region|1375|1555
+db|935550|Gragetopshof|rostock_region|1670|1523
+db|325025|Graal-Müritz, Wald|rostock_region|2514|208
+db|935546|Graal-Müritz, Ost|rostock_region|2466|134
+db|935549|Graal-Müritz, Birkenallee|rostock_region|2422|135
+db|935547|Graal-Müritz, Ostseering|rostock_region|2369|132
+db|935336|Graal-Müritz, Förderschule|rostock_region|2323|94
+db|935548|Graal-Müritz, Süd|rostock_region|2272|132
+db|8012583|Graal-Müritz|rostock_region|2369|150
+db|8012584|Graal-Müritz, Koppelweg|rostock_region|2272|150
+db|8010300|Rövershagen|rostock_region|2205|298
+db|935104|Rövershagen, Forsthaus|rostock_region|2057|288
+db|935105|Rövershagen, Schule|rostock_region|2179|288
+db|936658|Rövershagen, Grundschule|rostock_region|2177|262
+db|936101|Rövershagen, Karls Erlebnis-Dorf|rostock_region|2176|368
+db|8012377|Mönchhagen (DB)|rostock_region|2205|466
+db|935962|Mönchhagen (REBUS)|rostock_region|2179|466
+db|935651|Mönchhagen, Kindergarten|rostock_region|2131|465
+db|935657|Häschendorf|rostock_region|2096|583
+db|935683|Häschendorf, Abzweig|rostock_region|2177|596
+db|936223|Bentwisch, Bahnhof|rostock_region|2196|648
+db|8011140|Bentwisch (DB)|rostock_region|2207|648
+db|936639|Bentwisch, Feuerwehrhaus|rostock_region|2183|666
+db|936066|Bentwisch|rostock_region|2161|681
+db|936099|Bentwisch, Hanse-Center|rostock_region|2096|706
+db|936077|Bentwisch, Hanse Straße|rostock_region|2096|747
+db|936088|Bentwisch, Gewerbepark|rostock_region|2062|677
+db|936731|Bentwisch, Campus|rostock_region|2066|638
+db|936697|Goorstorf|rostock_region|2050|623
+db|935789|Klein Kussewitz|rostock_region|2263|628
+db|935217|Klein Kussewitz, Neubau|rostock_region|2304|590
+db|935287|Volkenshagen|rostock_region|2304|466
+db|935563|Albertsdorf|rostock_region|2242|669
+db|935569|Groß Kussewitz|rostock_region|2302|666
+db|936087|Poppendorf|rostock_region|2331|610
+db|936089|Poppendorf, Abzweig|rostock_region|2350|667
+db|935384|Bussewitz|rostock_region|2392|667
+db|935286|Vogtshagen|rostock_region|2413|623
+db|935431|Cordshagen|rostock_region|2466|667
+db|935938|Mandelshagen, Baumkate|rostock_region|2510|666
+db|936022|Behnkenhagen|rostock_region|2463|572
+db|936033|Behnkenhagen, Post|rostock_region|2487|571
+db|936233|Blankenhagen|rostock_region|2510|572
+db|935659|Blankenhagen, Neubau|rostock_region|2509|494
+db|935766|Willershagen|rostock_region|2509|421
+db|935660|Willershagen, Gehöft Nr. 10|rostock_region|2509|359
+db|935661|Gelbensande, Eichenallee|rostock_region|2510|288
+db|935662|Gelbensande, Schule|rostock_region|2541|256
+db|8011611|Gelbensande|rostock_region|2479|298
+db|935274|Mandelshagen, Mitte|rostock_region|2604|666
+db|935937|Mandelshagen|rostock_region|2603|705
+db|935288|Völkshagen|rostock_region|2603|751
+db|935556|Gresenhorst, Gaststätte|rostock_region|2623|781
+db|935557|Gresenhorst, Teich|rostock_region|2661|780
+db|935555|Gresenhorst, Bäckerei|rostock_region|2717|781
+db|935910|Bartelshagen I, Haupthaltestelle|rostock_region|2705|727
+db|325100|Rostocker Wulfshagen|rostock_region|2641|724
+db|325103|Gresenhorst, Schule|rostock_region|2685|816
+db|325166|Gresenhorst, Sägewerk|rostock_region|2666|836
+db|935437|Dänschenburg, Ausbau|rostock_region|2666|859
+db|325097|Dänschenburg, Wendeplatz|rostock_region|2666|884
+db|935436|Dänschenburg|rostock_region|2657|884
+db|936715|Neu Roggentin, B110|rostock_region|2110|1147
+db|936060|Pastow, Abzweig|rostock_region|2214|1144
+db|935994|Neu Pastow|rostock_region|2283|1144
+db|935213|Broderstorf, Bahnhof|rostock_region|2322|1147
+db|8011270|Broderstorf|rostock_region|2322|1177
+db|935711|Hohenfelde bei Rostock|rostock_region|2383|1144
+db|935162|Schule an der Carbäck (Richtung Thulendorf)|rostock_region|2477|1137
+db|935883|Schule an der Carbäck|rostock_region|2477|1152
+db|936058|Pastow|rostock_region|2159|1074
+db|936677|Pastow, Gewerbepark|rostock_region|2131|1079
+db|936317|Pastow, Neuendorfer Weg|rostock_region|2081|1075
+db|936065|Pastow, Nordwest|rostock_region|2088|1079
+db|936009|Neuendorf, Ausbau|rostock_region|2114|1016
+db|936012|Neuendorf, Hauptstraße|rostock_region|2114|970
+db|936068|Pastow, Schmiedestraße|rostock_region|2136|940
+db|936062|Pastow, Beistensoll|rostock_region|2177|970
+db|936063|Pastow, Feuerwehr|rostock_region|2205|942
+db|936061|Pastow, Alte Schulstraße|rostock_region|2237|940
+db|935982|Neu Broderstorf, Pastower Straße|rostock_region|2281|942
+db|936067|Neu Broderstorf, Alte Dorfstraße|rostock_region|2320|1016
+db|935202|Broderstorf, Billings-Brook|rostock_region|2320|1074
+db|935980|Neu Broderstorf, Am Pferdeteich|rostock_region|2362|940
+db|935495|Fienstorf, Abzweig nach Thulendorf|rostock_region|2397|942
+db|935984|Neu Fienstorf|rostock_region|2416|912
+db|935494|Fienstorf|rostock_region|2416|894
+db|935446|Öftenhäven|rostock_region|2420|875
+db|936159|Steinfeld, Öftenhävener Weg|rostock_region|2465|854
+db|935445|Thulendorf, Abzweig Steinfeld|rostock_region|2553|1033
+db|935423|Thulendorf, Ausbau|rostock_region|2586|1036
+db|935420|Sagerheide|rostock_region|2625|1034
+db|936221|Billenhagen|rostock_region|2512|728
+db|935099|Rothbeck|rostock_region|2511|799
+db|935100|Rothbeck, Ausbau|rostock_region|2511|822
+db|935207|Steinfeld|rostock_region|2511|896
+db|935998|Neu Steinfeld|rostock_region|2511|988
+db|935265|Thulendorf|rostock_region|2511|1080
+db|939391|Neu Roggentin|rostock_region|2048|1180
+db|935527|Roggentin, Globus|rostock_region|2076|1194
+db|936150|Roggentin, Gewerbepark|rostock_region|2136|1198
+db|936637|Roggentin, DB Haltepunkt|rostock_region|2216|1225
+db|8012785|Roggentin|rostock_region|2216|1236
+db|939228|Roggentin, Kösterbecker Straße|rostock_region|2180|1175
+db|936149|Roggentin, Dorfplatz|rostock_region|2080|1221
+db|935830|Kösterbeck, Im Grund|rostock_region|2073|1278
+db|935828|Kösterbeck|rostock_region|2134|1276
+db|935266|Kösterbeck, Am Wald|rostock_region|2177|1275
+db|935829|Kösterbeck, Lindenallee|rostock_region|2176|1253
+db|935243|Teschendorf, Ausbau|rostock_region|2179|1330
+db|935242|Teschendorf|rostock_region|2177|1386
+db|935724|Ikendorf, Ausbau|rostock_region|2283|1278
+db|935191|Broderstorf, Abzweig Ikendorf|rostock_region|2323|1228
+db|8011729|Groß Lüsewitz|rostock_region|2549|1177
+db|935572|Groß Lüsewitz, Abzweig|rostock_region|2549|1147
+db|935450|Sanitz, Hort|rostock_region|2621|1118
+db|935135|Sanitz, ZOB|rostock_region|2652|1190
+db|8012841|Sanitz|rostock_region|2652|1177
+db|935130|Sanitz, Rathaus|rostock_region|2683|1148
+db|935133|Sanitz, Sülzer Straße|rostock_region|2742|1151
+db|935129|Sanitz, Alt|rostock_region|2709|1200
+db|935263|Teutendorf, Abzweig|rostock_region|2709|1230
+db|935804|Klein Wehnendorf, Abzweig|rostock_region|2709|1251
+db|935716|Horst, Bahnhof|rostock_region|2711|1274
+db|936028|Sanitz, Realschule|rostock_region|2593|1212
+db|935617|Sanitz, Gymnasium|rostock_region|2569|1250
+db|935278|Vietow|rostock_region|2672|1332
+db|935895|Niekrenz, Richtung Vietow|rostock_region|2608|1397
+db|936020|Niekrenz|rostock_region|2592|1376
+db|936021|Niekrenz, Ausbau|rostock_region|2592|1431
+db|935596|Gubkow, Am Damm|rostock_region|2594|1477
+db|935475|Gubkow, Richtung Sanitz|rostock_region|2594|1516
+db|935699|Hohen Gubkow|rostock_region|2713|1539
+db|935992|Neu Kokendorf, Abzweig|rostock_region|2639|1539
+db|935595|Gubkow, Am Hofsee|rostock_region|2572|1538
+db|935665|Lieblingshof|rostock_region|2517|1476
+db|935906|Lieblingshof, Abzweig|rostock_region|2517|1536
+db|935907|Lieblingshof, Ausbau|rostock_region|2457|1538
+db|935539|Göldenitz, Abzweig|rostock_region|2399|1538
+db|936078|Petschow, Am Dorfteich|rostock_region|2239|1525
+db|936160|Petschow, Haus 19|rostock_region|2220|1505
+db|936079|Petschow, Ausbau|rostock_region|2204|1489
+db|935533|Godow, Abzweig|rostock_region|2188|1473
+db|935608|Wolfsberg|rostock_region|2160|1479
+db|935649|Godow|rostock_region|2133|1505
+db|935798|Bandelstorf|rostock_region|2088|1539
+db|935170|Petschow, Abzweig Schlage|rostock_region|2168|1563
+db|935390|Petschow|rostock_region|2221|1538
+db|936348|Göldenitz|rostock_region|2223|1688
+db|935150|Schlage|rostock_region|2191|1686
+db|936046|Pankelow|rostock_region|2154|1689
+db|936642|Kessin, ORC|rostock_region|1819|1373
+db|935819|Kessin, Wendeschleife|rostock_region|1849|1377
+db|935765|Kessin|rostock_region|1852|1405
+db|935704|Hohen Schwarfs|rostock_region|1852|1478
+db|935706|Hohen Schwarfs, Abzweig|rostock_region|1891|1445
+db|936199|Beselin, Abzweig|rostock_region|1937|1496
+db|935297|Waldeck, Waldeck I|rostock_region|1953|1512
+db|936628|Waldeck, Waldeck II|rostock_region|1966|1525
+db|935473|Dummerstorf, Abzweig|rostock_region|1993|1553
+db|935474|Dummerstorf, Ärztehaus|rostock_region|1977|1593
+db|935476|Dummerstorf, Neubau|rostock_region|2011|1682
+db|935339|Dummerstorf, Schule|rostock_region|1933|1715
+db|936047|Pankelow, Abzweig|rostock_region|2099|1682
+db|8012002|Kavelstorf|rostock_region|1887|1647
+db|935760|Kavelstorf, Neubau|rostock_region|1910|1629
+db|935761|Kavelstorf, Schule|rostock_region|1788|1631
+db|935432|Damm|rostock_region|1732|1635
+db|936030|Niex|rostock_region|1730|1593
+db|936129|Reez|rostock_region|1730|1698
+db|935589|Groß Viegeln|rostock_region|1732|1758
+db|935808|Klingendorf|rostock_region|1788|1683
+db|936096|Prisannewitz, Ausbau|rostock_region|1927|1710
+db|936094|Prisannewitz|rostock_region|1951|1735
+db|935144|Scharstorf|rostock_region|1974|1758
+db|935148|Scharstorf, Bahnhof|rostock_region|2009|1786
+db|8012856|Scharstorf (DB)|rostock_region|2020|1786
+db|935881|Groß Potrems|rostock_region|2046|1753
+db|936093|Wendorf|rostock_region|2048|1854
+db|935152|Schlage, Abzweig|rostock_region|2103|1736
+db|935574|Groß Potrems, Abzweig|rostock_region|2103|1763
+db|935826|Kossow Krug|rostock_region|2099|1854
+db|935825|Kossow|rostock_region|2228|1852
 
 # Ben Lode <ben.lode@gmx.at>
 
