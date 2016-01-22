@@ -120,7 +120,8 @@ graz_nightline|47.073371,15.416154|2015-09-12|Graz Nightline|Verbund Linie
 wien_susb|48.209477,16.371074|2013-10-05|Wien Netzplan|Ben Lode
 wien_tram|48.209477,16.371074|2013-10-05|Wien Straßenbahn|Ben Lode
 wien_nacht|48.209477,16.371074|2013-12-15|Wien Nachtnetz|Ben Lode
-wien_city|48.209477,16.371074|2014-11|Wien City|Wiener Linien
+wien_city|48.209477,16.371074|2015-05-19|Wien City|Wiener Linien
+wien_grossraum|48.209477,16.371074|2015-12-13|Wien Großraum Nahverkehr|ÖBB
 salzburg|47.813229,13.045907|2015-03-20|Salzburg Liniennetz|Salzburg AG
 
 # ch
