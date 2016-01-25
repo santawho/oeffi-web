@@ -17,7 +17,7 @@ potsdam_nacht|52.390931,13.067171|2015-12-13|Potsdam Nachtliniennetz|Verkehrsver
 cottbus_tag_abc|51.760897,14.330106|2015-12-13|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg GmbH
 cottbus_abend|51.760897,14.330106|2015-12-13|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg GmbH
 frankfurt_oder_abc|52.336876,14.545712|2015-12-13|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg GmbH
-greifswald|54.092863,13.370336|2014-10|Greifswald Liniennetz|Stadtwerke Greifswald
+greifswald|54.092863,13.370336|2015-12|Greifswald Liniennetz|Stadtwerke Greifswald
 dresden|51.050961,13.733239|2015-06-18|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2015-01-05|Dresden Nachtverkehr|dvb.de
 # dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
