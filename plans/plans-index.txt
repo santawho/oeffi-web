@@ -196,6 +196,10 @@ nottingham_bus_greater_area|52.947042,-1.146276||Nottingham Greater Area Bus||ht
 york|53.957911,-1.093061||York Bus||http://transportmaps.free.fr/maps/United_Kingdom/York/map_Bus.jpg
 westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 
+# it
+
+rome_metro|41.901276,12.499574||Rome Metro and Tram|atac
+
 # fr
 
 paris_metro_ratp|48.855414,2.34488|2014-01|Paris Metro|RATP
