@@ -199,6 +199,8 @@ westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 # it
 
 rome_metro|41.901276,12.499574||Rome Metro and Tram|atac
+napoli_city|40.852780,14.271692||Napoli City|Unico Campania
+napoli_region|40.852780,14.271692||Napoli Region|Unico Campania
 
 # fr
 
