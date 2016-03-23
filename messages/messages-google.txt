@@ -9,6 +9,7 @@ alert-bugfix-vsn-google		| min-sdk:15 version:489 network:VSN 	| 1d | warning
 alert-bugfix-vrr-google		| min-sdk:15 version:501 network:VRR 	| 1d | warning
 alert-bugfix-kvv-google		| min-sdk:15 version:510 network:KVV 	| 1d | warning
 alert-bugfix-sh-google		| min-sdk:15 version:513 network:SH 	| 1d | warning
+alert-bugfix-bayern-google	| min-sdk:15 version:515 network:BAYERN	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
