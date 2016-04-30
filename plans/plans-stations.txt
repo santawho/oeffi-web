@@ -1153,8 +1153,8 @@ db|939235|Rostocker Straße|rostock_region|1031|233
 db|935008|Richard-Wagner-Straße TZW|rostock_region|943|171
 db|8013236|Warnemünde|rostock_region|1096|138
 db|936350|Warnemünde Fähre|rostock_region|1181|138
-db|8013237|Warnemünde Werft (DB)|rostock_region|1116|229
-db|935077|Warnemünde Werft (RSAG REBUS)|rostock_region|1077|229
+db|8013237|Warnemünde Werft (DB)|rostock_region|1113|229
+db|935077|Warnemünde Werft (RSAG REBUS)|rostock_region|1080|229
 db|935086|Werftblick|rostock_region|984|259
 db|936225|Grabower Straße|rostock_region|984|288
 db|8012221|Rostock-Lichtenhagen (DB)|rostock_region|999|325
@@ -1381,7 +1381,7 @@ db|936018|Niederhagen|rostock_region|1851|245
 db|936248|Hinrichshagen|rostock_region|1851|136
 db|935029|Schnatermannweg|rostock_region|1778|139
 db|935033|Schulzenwiese|rostock_region|1711|139
-db||Markgrafenheide Ost|rostock_region|1711|99
+db|842059|Markgrafenheide StrandResort|rostock_region|1711|99
 db|936298|Markgrafenheide|rostock_region|1635|139
 db|935061|Taterhörn|rostock_region|1566|139
 db|935055|Strand|rostock_region|1499|139
