@@ -51,8 +51,8 @@ wismar|53.903943,11.391928||Wismar Stadtverkehr|NAHBUS Nordwestmecklenburg GmbH
 nordwestmecklenburg|53.903943,11.391928|2016-03-14|Nordwestmecklenburg Busnetz|NAHBUS Nordwestmecklenburg GmbH
 osnabrueck|52.272832,8.061726|2015-09-03|Osnabrück Liniennetz|Stadtwerke Osnabrück
 osnabrueck_nacht|52.272832,8.061726|2015-09-03|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
-stuttgart_verbund|48.784068,9.181713|2014-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
-stuttgart_nacht|48.77861,9.179803|2014-12|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
+stuttgart_verbund|48.784068,9.181713|2016-06|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
+stuttgart_nacht|48.77861,9.179803|2016-05|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
 ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
 hannover_stadtbahn|52.376715,9.741168|2014-12|Hannover Stadtbahnnetz|GVH
 hannover_bus|52.376715,9.741168|2014-12|Hannover Busnetz|GVH
