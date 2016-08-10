@@ -13,7 +13,7 @@ alert-bugfix-bayern-google	| min-sdk:15 version:515 network:BAYERN	| 1d | warnin
 alert-bugfix-vms-google		| min-sdk:15 version:516 network:VMS	| 1d | warning
 alert-bugfix-vvs-google		| min-sdk:15 version:523 network:VVS	| 1d | warning
 alert-bugfix-sydney-google	| min-sdk:15 version:524 network:SYDNEY	| 1d | warning
-alert-bugfix-vbb-google		| min-sdk:15 version:527 network:VBB	| 1d | warning
+alert-bugfix-vbb-google		| min-sdk:15 version:528 network:VBB	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
