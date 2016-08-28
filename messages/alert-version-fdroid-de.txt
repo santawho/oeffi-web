@@ -1,4 +1,4 @@
 title:	Eine neue Version ist verfügbar!
 body:	Diese Version behebt wichtige Fehler. Es ist empfohlen, so bald wie möglich zu aktualisieren.
-button-positive:	F-Droid | http://oeffi.schildbach.de/download_de.html
+button-positive:	F-Droid | https://oeffi.schildbach.de/download_de.html
 button-negative:	dismiss
