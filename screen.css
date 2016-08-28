@@ -1,7 +1,7 @@
  html, body {
 text-align: center;
 font-size: 90%;
-font-family: Verdana, Arial, Helvetica, sans-serif;
+font-family: sans-serif;
 }
 *
 {
@@ -18,7 +18,7 @@ padding-bottom:20px;
 
 h1
 {
-font-family: Times, serif;
+font-family: serif;
 text-align: center;
 font-weight:bold;
 padding:30px;
