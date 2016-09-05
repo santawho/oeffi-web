@@ -51,7 +51,7 @@ kiel_liniennetz|54.313282,10.132341|2015-02|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2014-09-01|Kiel Nachtliniennetz|KVG
 rostock_vvw_liniennetz|54.078139,12.131724|2016-01-04|Rostock Liniennetz|Verkehrsverbund Warnow
 rostock_vvw_region|54.078139,12.131724|2016-01-04|Rostock Region|Verkehrsverbund Warnow
-rostock_region|54.078139,12.131724|2016-01-04|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
+rostock_region|54.078139,12.131724|2016-09-05|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
 wismar|53.903943,11.391928||Wismar Stadtverkehr|NAHBUS Nordwestmecklenburg GmbH
 nordwestmecklenburg|53.903943,11.391928|2016-03-14|Nordwestmecklenburg Busnetz|NAHBUS Nordwestmecklenburg GmbH
 osnabrueck|52.272832,8.061726|2015-09-03|Osnabrück Liniennetz|Stadtwerke Osnabrück
