@@ -157,6 +157,12 @@ antwerp_city|51.217197,4.421543||Antwerp City Center|De Lijn
 
 amsterdam_centre|52.378861,4.900392||Amsterdam City Centre|GVB
 
+# dk
+
+copenhagen_city|55.672717,12.562532||Copenhagen City|DOT
+copenhagen_region|55.672717,12.562532||Copenhagen Greater Area|DOT
+copenhagen_night|55.672717,12.562532|2015-02|Copenhagen Night Bus|DOT
+
 # se
 
 gothenburg_tram|57.708792,11.973538|2012-12-09|Göteborg Tram and Trunk Bus|västtrafik
