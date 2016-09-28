@@ -23,7 +23,7 @@ dresden_nacht|51.050961,13.733239|2015-01-05|Dresden Nachtverkehr|dvb.de
 # dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
 leipzig_halle_schnellbahn|51.423347,12.220980|2015-12-13|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
 leipzig_tag|51.345476,12.379382|2015-11-28|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
-leipzig_nacht|51.345476,12.379382|2015-11-28|Leipig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
+leipzig_nacht|51.345476,12.379382|2015-11-28|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
 halle_tag|51.477347,11.985263|2016-05-02|Halle Linien Tag|SWH/HAVAG
 halle_nacht|51.477347,11.985263|2016-05-02|Halle Linien Nacht|SWH/HAVAG
 muenchen_schnellbahn|48.140377,11.560643|2014-12|München Schnellbahn|MVV
