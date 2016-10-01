@@ -45,8 +45,8 @@ bayreuth_nacht|49.949701,11.579951|2014-10-15|Bayreuth Spät|Verkehrsverbund Gro
 bamberg|49.900716,10.899453|2013-09-12|Bamberg Liniennetz|Stadtwerke Bamberg
 coburg_liniennetz|50.262975,10.957691|2015-06-18|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2014-12-14|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
-hamburg_usar|53.552946,10.006782|2014-12-14|Hamburg Schnellbahn/Regional|HVV
-hamburg_metrobus_gross|53.552946,10.006782|2014-12-14|Hamburg MetroBus Großbereich|HVV
+hamburg_usar|53.552946,10.006782|2015-12-13|Hamburg Schnellbahn/Regional|HVV
+hamburg_metrobus_gross|53.552946,10.006782|2015-12-13|Hamburg MetroBus Großbereich|HVV
 kiel_liniennetz|54.313282,10.132341|2015-02|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2014-09-01|Kiel Nachtliniennetz|KVG
 rostock_vvw_liniennetz|54.078139,12.131724|2016-01-04|Rostock Liniennetz|Verkehrsverbund Warnow
