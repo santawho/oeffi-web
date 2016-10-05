@@ -1,0 +1,4 @@
+title:	Did you know?
+body:	Drag stations
+
+	You can mark stations as favorites by dragging them to the right. Or you can ignore them by dragging to the left. Drag to the opposite direction to undo your choice.

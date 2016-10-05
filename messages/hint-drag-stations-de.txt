@@ -1,0 +1,4 @@
+title:	Schon gewusst?
+body:	Ziehen von Haltestellen
+
+	Du kannst Haltestellen favorisieren, indem du sie nach rechts ziehst. Oder du kannst sie ignorieren, wenn du sie nach links ziehst. Die jeweils entgegengesetzte Richtung macht deine Wahl rückgängig.
