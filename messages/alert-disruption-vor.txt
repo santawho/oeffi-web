@@ -1,0 +1,5 @@
+title:	Disruption notice
+body:	The server of VOR is currently out of order. Thus, there are problems with direction queries in the Vienna, Lower Austria and Burgenland area.
+
+To work around the problem, you can switch Öffi to the "Verkehrsauskunft Österreich (VAO)" network.
+button-neutral:		dismiss

@@ -1,0 +1,5 @@
+title:	Störungsmeldung
+body:	Der Server des VOR ist derzeit gestört. Daher kommt es zu Problemen mit Verbindungsauskünften im Raum Wien, Niederösterreich und Burgenland.
+
+Um das Problem zu umgehen, kannst du Öffi auf das Verkehrsnetz "Verkehrsauskunft Österreich (VAO)" umschalten.
+button-neutral:		dismiss
