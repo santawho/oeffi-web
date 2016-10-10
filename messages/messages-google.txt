@@ -14,6 +14,7 @@ alert-bugfix-vvs-google		| min-sdk:15 version:523 network:VVS	| 1d | warning
 alert-bugfix-sydney-google	| min-sdk:15 version:524 network:SYDNEY	| 1d | warning
 alert-bugfix-vbb-google		| min-sdk:15 version:528 network:VBB	| 1d | warning
 alert-bugfix-vao-google		| min-sdk:15 version:547 network:VAO	| 1d | warning
+alert-bugfix-vrn-google		| min-sdk:15 version:548 network:VRN	| 1d | warning
 alert-disruption-vor		| network:VOR task:directions			| 1d | warning
 
 # hints
