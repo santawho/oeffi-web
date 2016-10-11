@@ -276,10 +276,10 @@ buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http
 melbourne_metropolitan_train|-37.813425,144.962869|2016-01|Melbourne Metropolitan Train|Public Transport Victoria
 melbourne_metropolitan_tram|-37.813425,144.962869|2015-01|Melbourne Metropolitan Tram|State of Victoria
 melbourne_metropolitan_nightrider|-37.813425,144.962869|2015-01|Melbourne NightRider|Public Transport Victoria
-sydney_trains|-33.882474,151.206688|2013|Sydney Trains|Transport for NSW
-sydney_lightrail|-33.873103,151.199918|2013|Sydney Light Rail|Transport for NSW
-sydney_night|-33.873813,151.206805|2014|Sydney NightRide Buses|Transport for NSW
-sydney_ferry|-33.861256,151.210954|2013|Sydney Ferries|Transport for NSW
+sydney_trains|-33.882474,151.206688|2015|Sydney Trains|Transport for NSW
+sydney_lightrail|-33.873103,151.199918|2015|Sydney Light Rail|Transport for NSW
+sydney_night|-33.873813,151.206805|2015|Sydney NightRide Buses|Transport for NSW
+sydney_ferry|-33.861256,151.210954|2015|Sydney Ferries|Transport for NSW
 sydney_intercity|-33.882474,151.206688|2014|Sydney Intercity Trains|Transport for NSW
 brisbane_light_rail|-27.473986,153.028035||Brisbane Light Rail|TRANSLink
 brisbane_ferry|-27.473986,153.028035|2015-07-01|Brisbane Ferry Network|TRANSLink
