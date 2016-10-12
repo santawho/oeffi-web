@@ -16,6 +16,7 @@ alert-bugfix-vbb-google		| min-sdk:15 version:528 network:VBB	| 1d | warning
 alert-bugfix-vao-google		| min-sdk:15 version:547 network:VAO	| 1d | warning
 alert-bugfix-vrn-google		| min-sdk:15 version:548 network:VRN	| 1d | warning
 alert-disruption-vor		| network:VOR task:directions			| 1d | warning
+alert-disruption-stv		| network:STV							| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info

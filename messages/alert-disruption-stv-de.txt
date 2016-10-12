@@ -1,0 +1,5 @@
+title:	Störungsmeldung
+body:	Der Server des Steirische Verkehrsverbund ist derzeit gestört. Daher sind Auskünfte im Raum Graz, Klagenfurt und Steiermark derzeit nicht möglich.
+
+Um das Problem zu umgehen, kannst du Öffi auf das Verkehrsnetz "Verkehrsauskunft Österreich (VAO)" umschalten.
+button-neutral:		dismiss
