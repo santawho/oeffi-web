@@ -1,5 +1,5 @@
 # version alert
-alert-version-fdroid		| min-sdk:10 version:526				| 1d | warning
+alert-version-fdroid		| min-sdk:10 version:529				| 1d | warning
 alert-disruption-vor		| network:VOR task:directions			| 1d | warning
 alert-disruption-stv		| network:STV							| 1d | warning
 

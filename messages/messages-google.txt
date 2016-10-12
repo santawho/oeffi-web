@@ -1,18 +1,5 @@
 # version alert
-alert-version-google		| min-sdk:10 version:526				| 1d | warning
-alert-bugfix-vrs-google		| min-sdk:15 version:481 network:VRS 	| 1d | warning
-alert-bugfix-bvg-google		| min-sdk:15 version:512 network:BVG 	| 1d | warning
-alert-bugfix-vbn-google		| min-sdk:15 version:489 network:VBN 	| 1d | warning
-alert-bugfix-rsag-google	| min-sdk:15 version:489 network:RSAG 	| 1d | warning
-alert-bugfix-vsn-google		| min-sdk:15 version:489 network:VSN 	| 1d | warning
-alert-bugfix-vrr-google		| min-sdk:15 version:501 network:VRR 	| 1d | warning
-alert-bugfix-kvv-google		| min-sdk:15 version:510 network:KVV 	| 1d | warning
-alert-bugfix-sh-google		| min-sdk:15 version:513 network:SH 	| 1d | warning
-alert-bugfix-bayern-google	| min-sdk:15 version:515 network:BAYERN	| 1d | warning
-alert-bugfix-vms-google		| min-sdk:15 version:516 network:VMS	| 1d | warning
-alert-bugfix-vvs-google		| min-sdk:15 version:523 network:VVS	| 1d | warning
-alert-bugfix-sydney-google	| min-sdk:15 version:524 network:SYDNEY	| 1d | warning
-alert-bugfix-vbb-google		| min-sdk:15 version:528 network:VBB	| 1d | warning
+alert-version-google		| min-sdk:10 version:529				| 1d | warning
 alert-bugfix-vao-google		| min-sdk:15 version:547 network:VAO	| 1d | warning
 alert-bugfix-vrn-google		| min-sdk:15 version:548 network:VRN	| 1d | warning
 alert-disruption-vor		| network:VOR task:directions			| 1d | warning
