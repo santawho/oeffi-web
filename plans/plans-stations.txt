@@ -1147,10 +1147,10 @@ db|936253|Kurhausstraße|rostock_region|935|145
 db|935042|Seestraße|rostock_region|983|145
 db|935074|Wachtlerstraße|rostock_region|959|175
 db|935072|Warnemünde Kirchenplatz|rostock_region|1011|199
-db|936339|Poststraße|rostock_region|1011|233
-db|936212|Fritz-Reuter-Straße|rostock_region|1011|265
+db|936339|Poststraße|rostock_region|1011|265
+db|936212|Fritz-Reuter-Straße|rostock_region|1005|233
 db|939235|Rostocker Straße|rostock_region|1036|306
-db|935008|Richard-Wagner-Straße TZW|rostock_region|937|237
+db|935008|Richard-Wagner-Straße TZW|rostock_region|939|235
 db|8013236|Warnemünde|rostock_region|1110|199
 db|936350|Warnemünde Fähre|rostock_region|1205|199
 db|8013237|Warnemünde Werft (DB)|rostock_region|1128|302
@@ -1225,7 +1225,7 @@ db|935037|Schwimmhalle|rostock_region|919|1340
 db|936330|Stadion|rostock_region|979|1344
 db|939222|Klinikum Schillingallee|rostock_region|1001|1391
 db|935023|Schillingallee|rostock_region|1066|1325
-db||Fischereihafen|rostock_region|1106|1022
+db|842095|Fischereihafen|rostock_region|1106|1022
 db|842065|Alter Hafen Süd|rostock_region|1022|1056
 db|8012803|Rostock-Bramow (DB)|rostock_region|1000|1086
 db|842066|Bramow (RSAG)|rostock_region|1010|1086
@@ -1304,7 +1304,7 @@ db|935048|Hauptbahnhof Süd/ZOB|rostock_region|1623|1663
 db|936314|Neubrandenburger Straße|rostock_region|1794|1380
 db|936271|Kessiner Berg|rostock_region|1832|1502
 db|8012806|Rostock-Kassebohm|rostock_region|1858|1356
-db|936168|Am Petridamm|rostock_region|1894|1162
+db|936168|Am Petridamm|rostock_region|1862|1228
 db|939374|Am Bagehl|rostock_region|1711|1321
 db|936207|Flussbad|rostock_region|1774|1321
 db|935083|Weißes Kreuz|rostock_region|1818|1325
@@ -1382,13 +1382,13 @@ db|936335|Peez Dorf|rostock_region|1788|504
 db|935057|Stuthof|rostock_region|1788|421
 db|936322|Nienhager Koppel|rostock_region|1876|453
 db|936268|Jürgeshof|rostock_region|1892|402
-db|936018|Niederhagen|rostock_region|1895|324
+db|936018|Niederhagen|rostock_region|1895|308
 db|936248|Hinrichshagen|rostock_region|1895|197
 db|935029|Schnatermannweg|rostock_region|1812|200
 db|935033|Schulzenwiese|rostock_region|1715|200
 db|842068|Campingplatz|rostock_region|1671|169
 db|842059|Markgrafenheide StrandResort|rostock_region|1701|139
-db|936298|Markgrafenheide|rostock_region|1611|200
+db|842049|Markgrafenheide|rostock_region|1611|200
 db|935061|Taterhörn|rostock_region|1550|200
 db|935055|Strand|rostock_region|1490|200
 db|936249|Hohe Düne|rostock_region|1430|200
@@ -1482,14 +1482,14 @@ db|935943|Bartenshagen, Gehöft 3|rostock_region|448|1145
 db|935954|Bartenshagen, Gehöft 6|rostock_region|448|1169
 db|935966|Bartenshagen, Stützpunkt|rostock_region|448|1196
 db|935921|Bartenshagen|rostock_region|448|1254
-db|935503|Parkentin, Stegekamp|rostock_region|448|1301
+db|935503|Parkentin, Stegekamp|rostock_region|448|1300
 db|8012609|Parkentin|rostock_region|440|1342
 db|939039|Sievershagen, Ostseepark West|rostock_region|553|1078
-db|935188|Sievershagen, Süderkamp|rostock_region|519|1121
-db|935892|Lambrechtshagen, Kreuzung|rostock_region|519|1159
-db|935891|Lambrechtshagen, Gärtnerei|rostock_region|519|1202
-db|935786|Allershagen, Hof 2|rostock_region|519|1248
-db|935898|Allershagen, Hof 4|rostock_region|519|1302
+db|935188|Sievershagen, Süderkamp|rostock_region|523|1131
+db|935892|Lambrechtshagen, Kreuzung|rostock_region|523|1169
+db|935891|Lambrechtshagen, Gärtnerei|rostock_region|523|1196
+db|935786|Allershagen, Hof 2|rostock_region|523|1254
+db|935898|Allershagen, Hof 4|rostock_region|523|1300
 db|935675|Allershagen, Hof 13|rostock_region|519|1352
 db|936010|Allershagen, Wilsen-Ausbau|rostock_region|503|1440
 db|936050|Parkentin, Schule|rostock_region|477|1439
@@ -1542,7 +1542,7 @@ db|935493|Fahrenholz, Abzweig|rostock_region|442|1796
 db|936029|Nienhusen|rostock_region|469|1828
 db|935373|Ziesendorf|rostock_region|493|1848
 db|935375|Ziesendorf, Ausbau|rostock_region|495|1905
-db|935492|Fahrenholz|rostock_region|456|1748
+db|935492|Fahrenholz|rostock_region|456|1740
 db|935414|Ziesendorf, Kiesweg|rostock_region|450|1854
 db|935380|Buchholz, Hof|rostock_region|656|1851
 db|935358|Buchholz, Ausbau|rostock_region|728|1850
@@ -1586,7 +1586,7 @@ db|936101|Rövershagen, Karls Erlebnis-Dorf|rostock_region|2245|459
 db|8012377|Mönchhagen (DB)|rostock_region|2278|589
 db|935962|Mönchhagen (REBUS)|rostock_region|2248|589
 db|935651|Mönchhagen, Kindergarten|rostock_region|2204|588
-db|935657|Häschendorf|rostock_region|2168|700
+db|935657|Häschendorf|rostock_region|2168|696
 db|935683|Häschendorf, Abzweig|rostock_region|2246|719
 db|936223|Bentwisch, Bahnhof|rostock_region|2270|800
 db|8011140|Bentwisch (DB)|rostock_region|2278|800
@@ -1667,7 +1667,7 @@ db|935207|Steinfeld|rostock_region|2517|960
 db|935998|Neu Steinfeld|rostock_region|2517|1157
 db|935265|Thulendorf|rostock_region|2517|1260
 db|939391|Neu Roggentin|rostock_region|2182|1358
-db|935527|Roggentin, Globus|rostock_region|2930|1389
+db|935527|Roggentin, Globus|rostock_region|2214|1389
 db|936150|Roggentin, Gewerbepark|rostock_region|2266|1392
 db|936637|Roggentin, DB Haltepunkt|rostock_region|2327|1426
 db|8012785|Roggentin|rostock_region|2327|1434
