@@ -1,5 +1,5 @@
 title:	Störungsmeldung
-body:	Der Server des VOR ist derzeit gestört. Daher kommt es zu Problemen mit Verbindungsauskünften im Raum Wien, Niederösterreich und Burgenland.
+body:	Das Netzwerk "Verkehrsauskunft Österreich" wurde auf Wunsch der VAO GmbH aus Öffi entfernt.
 
 Um das Problem zu umgehen, kannst du Öffi auf das Verkehrsnetz "ÖBB-Personenverkehr AG" umschalten.
 button-neutral:		dismiss
