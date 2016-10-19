@@ -1,5 +1,5 @@
 title:	Störungsmeldung
 body:	Das Netzwerk "Verkehrsauskunft Österreich" wurde auf Wunsch der VAO GmbH aus Öffi entfernt.
 
-Um das Problem zu umgehen, kannst du Öffi auf das Verkehrsnetz "ÖBB-Personenverkehr AG" umschalten.
+Um das Problem zu umgehen, kannst du Öffi auf ein anderes Verkehrsnetz, das deine Region abdeckt, umschalten.
 button-neutral:		dismiss
