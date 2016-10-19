@@ -1,6 +1,5 @@
 # version alert
 alert-version-fdroid		| min-sdk:10 version:529				| 1d | warning
-alert-disruption-stv		| network:STV							| 1d | warning
 alert-disruption-vao		| network:VAO							| 1d | warning
 
 # hints
