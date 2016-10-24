@@ -2,6 +2,7 @@
 alert-version-google		| min-sdk:10 version:529				| 1d | warning
 alert-bugfix-vrn-google		| min-sdk:15 version:548 network:VRN	| 1d | warning
 alert-bugfix-vor-google		| min-sdk:15 version:550 network:VOR	| 1d | warning
+alert-bugfix-vvt-google		| min-sdk:15 version:554 network:VVT	| 1d | warning
 alert-disruption-vao		| network:VAO							| 1d | warning
 
 # hints
