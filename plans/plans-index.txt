@@ -87,8 +87,8 @@ leverkusen_bus|51.036197,6.994385|2015-12-13|Leverkusen Busnetz|Verkehrsverbund 
 nrw_regio|51.429807,6.775253|2015-12|NRW Busse & Bahnen|VRS
 aachen_schnellverkehr|50.768399,6.090705|2014-12|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH
 aachen_region|50.768399,6.090705|2015-04|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH
-darmstadt|49.872582,8.630916|2014-12-14|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
-darmstadt_nacht|49.872582,8.630916|2014-12-14|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
+darmstadt|49.872582,8.630916|2016-06-12|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
+darmstadt_nacht|49.872582,8.630916|2016-06-12|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
 schwerin|53.634476,11.407313|2015-03|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
 magdeburg_tag|52.130783,11.627347|2015-07|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_nacht|52.130783,11.627347|2015-07|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
