@@ -126,10 +126,11 @@ innsbruck_tram|47.26332,11.400951|2012-12-15|Innsbruck Straßenbahn|Steve Stipsi
 graz|47.073371,15.416154|2015-09-12|Graz Liniennetz|Verbund Linie
 graz_sbahn|47.073371,15.416154|2014-12-14|Graz S-Bahn|ÖBB/STB
 graz_nightline|47.073371,15.416154|2015-09-12|Graz Nightline|Verbund Linie
-wien_susb|48.209477,16.371074|2013-10-05|Wien Netzplan|Ben Lode
-wien_tram|48.209477,16.371074|2013-10-05|Wien Straßenbahn|Ben Lode
-wien_nacht|48.209477,16.371074|2013-12-15|Wien Nachtnetz|Ben Lode
+wien_susb|48.209477,16.371074|2015-12-13|Wien Netzplan|Ben Lode
+wien_tram|48.209477,16.371074|2015-12-13|Wien Straßenbahn|Ben Lode
+wien_nacht|48.209477,16.371074|2015-12-13|Wien Nachtnetz|Ben Lode
 wien_city|48.209477,16.371074|2015-05-19|Wien City|Wiener Linien
+wien_gesamt|48.209477,16.371074|2016-01|Wien Gesamtnetz|Wiener Linien
 wien_grossraum|48.209477,16.371074|2015-12-13|Wien Großraum Nahverkehr|ÖBB
 salzburg|47.813229,13.045907|2015-10-28|Salzburg Liniennetz|Salzburg AG
 
