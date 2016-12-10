@@ -839,7 +839,7 @@ vrr|22009624|BN-Oberkassel|bonn_schnellverkehr|1770|925
 vrr|22002179|Niederdollendorf|bonn_schnellverkehr|1860|1010
 vrr|22002182|Königswinter|bonn_schnellverkehr|1950|1105
 vrr|22001797|Bad Honnef|bonn_schnellverkehr|2060|1215
-vrr|22001762|BN-Mehlem |bonn_schnellverkehr|1745|1285
+vrr|22001762|BN-Mehlem|bonn_schnellverkehr|1745|1285
 vrr|22009601|Roisdorf|bonn_schnellverkehr|1020|560
 vrr|22005351|Sechtem|bonn_schnellverkehr|915|460
 vrr|22005502|Brühl|bonn_schnellverkehr|835|380
@@ -1838,7 +1838,7 @@ wien|60200956|Ober St. Veit U|wien_susb|354|1040
 wien|60200959|Oberdöbling S|wien_susb|1107|212
 wien|60200981|Ottakring S+U|wien_susb|592|737
 wien|60201003|Penzing S|wien_susb|532|957
-wien|60201007|Perfektastraße U |wien_susb|797|1493
+wien|60201007|Perfektastraße U|wien_susb|797|1493
 wien|60201018|Pilgramgasse U|wien_susb|1130|1040
 wien|60201301|Praterkai S|wien_susb|2027|837
 wien|60201040|Praterstern S+U|wien_susb|1696|661
@@ -2541,7 +2541,7 @@ vvo|33003783|Fernsehturm|dresden|2900|1290
 vvo|33000854|Rossendorfer Str.|dresden|2990|964
 vvo|33000855|Taubenberg|dresden|3062|964
 vvo|33003774|Am Steinkreuz|dresden|3118|964
-vvo|33003773|Heidestraße |dresden|3184|964
+vvo|33003773|Heidestraße|dresden|3184|964
 vvo|33003788|Hutbergschule|dresden|3200|1002
 vvo|33003772|Südstraße|dresden|3250|1048
 vvo|33003770|Gasthof Weißig|dresden|3274|987
@@ -2987,15 +2987,15 @@ vvo|33000857|Am Dorfende|dresden|3285|1104
 vvo|33003791|Schönfeld Markt|dresden|3288|1192
 vvo|33003790|Schönfeld Schmiede|dresden|3198|1192
 vvo|33003793|Eichbusch|dresden|3186|1287
-vvo|33000999|Rockau Am Dorfplatz |dresden|3163|1297
-vvo|33000998|Rockau Am Preßgrund |dresden|3142|1266
+vvo|33000999|Rockau Am Dorfplatz|dresden|3163|1297
+vvo|33000998|Rockau Am Preßgrund|dresden|3142|1266
 vvo|33003786|Helfenberg|dresden|3142|1230
 vvo|33003785|Cunnersdorf Gasthaus|dresden|3142|1190
 vvo|33003795|Schönfeld Schule|dresden|3369|1191
 vvo|33000865|Schönfeld Malschendorfer Str.|dresden|3423|1222
 vvo|33003794|Malschendorf|dresden|3423|1303
 vvo|33000866|Schönfeld Meixstraße|dresden|3435|1191
-vvo|33003796|Reitzendorf Kleinbauernmuseum |dresden|3531|1191
+vvo|33003796|Reitzendorf Kleinbauernmuseum|dresden|3531|1191
 vvo|33003797|Zaschendorf|dresden|3553|1266
 vvo|33003798|Borsberg|dresden|3553|1331
 vvo|33000403|Fährstelle Pillnitz|dresden|3409|1465
