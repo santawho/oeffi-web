@@ -3090,3 +3090,707 @@ vvo|33000839|Ob. Station Standseilbahn|dresden|2579|1066
 vvo|33000772|Tatzberg|dresden|2159|1291
 vvo|33006589|Bf. Weixdorf|dresden|1817|104
 vvo|33004220|Weißes Roß|dresden|596|920
+
+# Constantin Felden <constantinfelden44@gmail.com>
+
+mvv|1003240|Flughafen München|muenchen_schnellbahn|1978|195|15
+mvv|1002860|Flughafen,Besucherpark|muenchen_schnellbahn|1978|278|13
+mvv|1002680|Freising|muenchen_schnellbahn|1810|235|10
+mvv|1002670|Pulling|muenchen_schnellbahn|1615|233|10
+mvv|1002660|Neufahrn|muenchen_schnellbahn|1488|275|15
+mvv|1002650|Eching|muenchen_schnellbahn|1338|278|13
+mvv|1002020|Lohhof|muenchen_schnellbahn|1185|278|13
+mvv|1002010|Unterschleißheim|muenchen_schnellbahn|950|303|15
+mvv|1002000|Oberschleißheim|muenchen_schnellbahn|880|370|15
+mvv|1000320|Feldmoching|muenchen_schnellbahn|785|518|15
+mvv|1000310|Fasanerie|muenchen_schnellbahn|783|580|13
+mvv|1000300|Moosach|muenchen_schnellbahn|783|635|18
+mvv|1000009|Laim|muenchen_schnellbahn|778|1050|33
+mvv|1000031|Hirschgarten|muenchen_schnellbahn|910|1050|28
+mvv|1000008|Donnersbergerbrücke|muenchen_schnellbahn|1045|1053|38
+mvv|1000007|Hackerbrücke|muenchen_schnellbahn|1155|1055|35
+mvv|1000006|Hauptbahnhof|muenchen_schnellbahn|1403|1075|58
+mvv|1000001|Karlsplatz (Stachus)|muenchen_schnellbahn|1525|1078|50
+mvv|1000002|Marienplatz|muenchen_schnellbahn|1703|1055|38
+mvv|1000003|Isartor|muenchen_schnellbahn|1845|1055|38
+mvv|1000004|Rosenheimer Platz|muenchen_schnellbahn|1950|1050|35
+mvv|1000005|Ostbahnhof|muenchen_schnellbahn|2108|1053|38
+mvv|1006840|Petershausen|muenchen_schnellbahn|588|203|15
+mvv|1006830|Vierkirchen-Esterhofen|muenchen_schnellbahn|588|275|15
+mvv|1006820|Röhrmoos|muenchen_schnellbahn|588|353|15
+mvv|1006810|Hebertshausen|muenchen_schnellbahn|585|425|15
+mvv|1006950|Altomünster|muenchen_schnellbahn|315|328|15
+mvv|1006930|Kleinberghofen Bahnhof|muenchen_schnellbahn|313|370|15
+mvv|1006920|Erdweg Bahnhof|muenchen_schnellbahn|313|415|15
+mvv|1006910|Arnbach|muenchen_schnellbahn|315|465|15
+mvv|1006900|Markt Indersdorf Bahnhof Markt|muenchen_schnellbahn|315|513|15
+mvv|1006890|Niederroth,Bahnhof Markt|muenchen_schnellbahn|315|558|15
+mvv|1006880|Schwabhausen,Bahnhof|muenchen_schnellbahn|313|608|15
+mvv|1006870|Bachern|muenchen_schnellbahn|353|643|15
+mvv|1006850|Dachau Stadt|muenchen_schnellbahn|485|645|18
+mvv|1006800|Dachau Bahnhof|muenchen_schnellbahn|608|668|18
+mvv|1001920|Karlsfeld|muenchen_schnellbahn|648|708|15
+mvv|1001910|Allach|muenchen_schnellbahn|688|745|18
+mvv|1001930|Untermenzing|muenchen_schnellbahn|713|770|15
+mvv|1000900|Leuchtenbergring|muenchen_schnellbahn|2285|1060|23
+mvv|1000910|Berg am Laim|muenchen_schnellbahn|2415|1053|20
+mvv|1000800|Riem|muenchen_schnellbahn|2535|985|15
+mvv|1002110|Feldkirchen Feldkirchen|muenchen_schnellbahn|2580|940|15
+mvv|1002120|Heimstetten Kirchheim|muenchen_schnellbahn|2625|895|15
+mvv|1003950|Grub|muenchen_schnellbahn|2670|850|15
+mvv|1003960|Poing|muenchen_schnellbahn|2720|805|15
+mvv|1003970|Markt Schwaben Markt|muenchen_schnellbahn|2765|758|15
+mvv|1003250|Ottenhofen|muenchen_schnellbahn|2810|680|15
+mvv|1003260|St Koloman Wörth|muenchen_schnellbahn|2808|628|15
+mvv|1003270|Aufhausen|muenchen_schnellbahn|2810|570|15
+mvv|1003280|Altenerding|muenchen_schnellbahn|2808|513|15
+mvv|1003290|Erding|muenchen_schnellbahn|2810|458|15
+mvv|1006160|Mammendorf Mammendorf|muenchen_schnellbahn|130|470|15
+mvv|1006150|Malching|muenchen_schnellbahn|133|578|15
+mvv|1006140|Maisach|muenchen_schnellbahn|133|688|15
+mvv|1006130|Gernlinden|muenchen_schnellbahn|160|763|15
+mvv|1006120|Esting Olching|muenchen_schnellbahn|208|813|15
+mvv|1006110|Olching|muenchen_schnellbahn|260|865|15
+mvv|1006100|Gröbenzell|muenchen_schnellbahn|315|918|15
+mvv|1001810|Lochhausen|muenchen_schnellbahn|363|965|15
+mvv|1001800|Langwied|muenchen_schnellbahn|475|1028|15
+mvv|1000010|Pasing|muenchen_schnellbahn|575|1060|35
+mvv|1001100|St.-Martin-Straße|muenchen_schnellbahn|2105|1195|15
+mvv|1001110|Giesing|muenchen_schnellbahn|2105|1263|23
+mvv|1001120|Fasangarten|muenchen_schnellbahn|2100|1535|18
+mvv|1002300|Fasanenpark|muenchen_schnellbahn|2100|1585|15
+mvv|1002310|Unterhaching|muenchen_schnellbahn|2100|1633|15
+mvv|1002320|Taufkirchen|muenchen_schnellbahn|2100|1678|15
+mvv|1002330|Furth|muenchen_schnellbahn|2100|1733|15
+mvv|1002340|Deisenhofen|muenchen_schnellbahn|2100|1785|15
+mvv|1002350|Sauerlach|muenchen_schnellbahn|2098|1835|15
+mvv|1004360|Otterfing|muenchen_schnellbahn|2098|1885|15
+mvv|1004370|Holzkirchen|muenchen_schnellbahn|2098|1930|18
+mvv|1005950|Geltendorf|muenchen_schnellbahn|128|1643|15
+mvv|1006230|Türkenfeld Türkenfeld|muenchen_schnellbahn|128|1568|15
+mvv|1006220|Grafrath|muenchen_schnellbahn|128|1488|15
+mvv|1006210|Schöngeising|muenchen_schnellbahn|128|1408|15
+mvv|1006200|Buchenau|muenchen_schnellbahn|128|1330|15
+mvv|1006190|Fürstenfeldbruck|muenchen_schnellbahn|128|1258|15
+mvv|1006180|Eichenau|muenchen_schnellbahn|125|1178|15
+mvv|1006170|Puchheim|muenchen_schnellbahn|150|1098|15
+mvv|1001710|Aubing|muenchen_schnellbahn|290|1053|15
+mvv|1001700|Leienfelsstraße|muenchen_schnellbahn|415|1053|15
+mvv|1000920|Trudering|muenchen_schnellbahn|2540|1138|18
+mvv|1002130|Gronsdorf|muenchen_schnellbahn|2588|1185|15
+mvv|1002140|Haar|muenchen_schnellbahn|2650|1245|15
+mvv|1004000|Vaterstetten|muenchen_schnellbahn|2733|1352|15
+mvv|1004010|Baldham|muenchen_schnellbahn|2734|1418|15
+mvv|1004020|Zorneding|muenchen_schnellbahn|2733|1495|15
+mvv|1004030|Eglharting|muenchen_schnellbahn|2730|1560|15
+mvv|1004040|Kirchseeon|muenchen_schnellbahn|2733|1628|15
+mvv|1004050|Grafing Bahnhof|muenchen_schnellbahn|2730|1688|15
+mvv|1004060|Grafing Stadt|muenchen_schnellbahn|2730|1778|15
+mvv|1004070|Ebersberg|muenchen_schnellbahn|2730|1854|23
+mvv|1005480|Tutzing|muenchen_schnellbahn|580|1905|18
+mvv|1005470|Feldafing|muenchen_schnellbahn|578|1830|15
+mvv|1005460|Possenhofen|muenchen_schnellbahn|578|1760|15
+mvv|1005450|Starnberg|muenchen_schnellbahn|578|1690|15
+mvv|1005490|Starnberg Nord|muenchen_schnellbahn|578|1618|15
+mvv|1005430|Gauting|muenchen_schnellbahn|578|1548|15
+mvv|1005420|Stockdorf|muenchen_schnellbahn|578|1480|15
+mvv|1002600|Planegg|muenchen_schnellbahn|578|1408|15
+mvv|1002590|Gräfelfing|muenchen_schnellbahn|580|1340|15
+mvv|1002580|Lochham|muenchen_schnellbahn|583|1268|15
+mvv|1001720|Westkreuz|muenchen_schnellbahn|573|1155|20
+mvv|1001740|Freiham|muenchen_schnellbahn|505|1250|15
+mvv|1006240|Harthaus|muenchen_schnellbahn|455|1298|15
+mvv|1006250|Germering-Unterpfaffenhofen|muenchen_schnellbahn|423|1368|15
+mvv|1005350|Geisenbrunn|muenchen_schnellbahn|423|1443|15
+mvv|1005360|Gilching-Argelsried|muenchen_schnellbahn|423|1520|15
+mvv|1005370|Neugilching|muenchen_schnellbahn|420|1595|15
+mvv|1005380|Weßling|muenchen_schnellbahn|423|1673|15
+mvv|1005390|Steinebach|muenchen_schnellbahn|423|1753|15
+mvv|1005400|Seefeld-Hechendorf Seefeld|muenchen_schnellbahn|423|1825|15
+mvv|1005410|Herrsching|muenchen_schnellbahn|423|1905|18
+mvv|1000700|Daglfing|muenchen_schnellbahn|2285|923|18
+mvv|1000710|Englschalking|muenchen_schnellbahn|2288|805|18
+mvv|1000720|Johanneskirchen|muenchen_schnellbahn|2288|690|18
+mvv|1002030|Unterföhring|muenchen_schnellbahn|2255|565|15
+mvv|1002040|Ismaning|muenchen_schnellbahn|2160|473|15
+mvv|1002850|Hallbergmoos|muenchen_schnellbahn|2065|378|15
+mvv|1001000|Perlach|muenchen_schnellbahn|2198|1465|18
+mvv|1001010|Neuperlach Süd|muenchen_schnellbahn|2333|1510|18
+mvv|1002200|Neubiberg|muenchen_schnellbahn|2388|1535|18
+mvv|1002210|Ottobrunn|muenchen_schnellbahn|2420|1570|18
+mvv|1002220|Hohenbrunn|muenchen_schnellbahn|2450|1600|15
+mvv|1002230|Wächterhof|muenchen_schnellbahn|2465|1640|15
+mvv|1002240|Höhenkirchen-Siegertsbrunn|muenchen_schnellbahn|2465|1685|15
+mvv|1002250|Dürrnhaar|muenchen_schnellbahn|2465|1735|15
+mvv|1002260|Aying|muenchen_schnellbahn|2468|1783|15
+mvv|1002270|Peiß|muenchen_schnellbahn|2465|1828|15
+mvv|1002280|Großhelfendorf|muenchen_schnellbahn|2465|1880|18
+mvv|1004350|Kreuzstraße|muenchen_schnellbahn|2468|1928|15
+mvv|1001150|Heimeranplatz|muenchen_schnellbahn|1038|1250|18
+mvv|1001130|Harras|muenchen_schnellbahn|1040|1360|13
+mvv|1001300|Mittersendling|muenchen_schnellbahn|1038|1405|15
+mvv|1001310|Siemenswerke|muenchen_schnellbahn|1040|1495|15
+mvv|1001310|Siemenswerke|muenchen_schnellbahn|1060|1460|15
+mvv|1001320|Solln|muenchen_schnellbahn|1040|1550|15
+mvv|1002500|Großhesselohe Isartalbahnhof|muenchen_schnellbahn|1040|1608|18
+mvv|1002520|Pullach|muenchen_schnellbahn|1040|1655|18
+mvv|1002530|Höllriegelskreuth|muenchen_schnellbahn|1040|1710|15
+mvv|1002540|Buchenhain|muenchen_schnellbahn|1045|1748|13
+mvv|1002550|Baierbrunn|muenchen_schnellbahn|1045|1785|15
+mvv|1002560|Hohenschäftlarn|muenchen_schnellbahn|1045|1820|15
+mvv|1002570|Ebenhausen-Schäftlarn|muenchen_schnellbahn|1045|1858|15
+mvv|1004750|Icking|muenchen_schnellbahn|1045|1890|15
+mvv|1004760|Wolfratshausen|muenchen_schnellbahn|1043|1930|18
+mvv|1000360|Olympia-Einkaufszentrum|muenchen_schnellbahn|995|635|15
+mvv|1000312|Georg-Brauchle-Ring|muenchen_schnellbahn|995|683|15
+mvv|1000200|Westfriedhof|muenchen_schnellbahn|1000|738|18
+mvv|1000990|Gern|muenchen_schnellbahn|998|795|18
+mvv|1000190|Rotkreuzplatz|muenchen_schnellbahn|1095|875|18
+mvv|1000180|Maillingerstraße|muenchen_schnellbahn|1218|878|18
+mvv|1000170|Stiglmaierplatz|muenchen_schnellbahn|1340|878|15
+mvv|1000050|Sendlinger Tor|muenchen_schnellbahn|1560|1260|28
+mvv|1000150|Fraunhoferstraße|muenchen_schnellbahn|1680|1268|18
+mvv|1000160|Kolumbusplatz|muenchen_schnellbahn|1783|1265|18
+mvv|1001180|Candidplatz|muenchen_schnellbahn|1825|1330|15
+mvv|1001190|Wettersteinplatz|muenchen_schnellbahn|1823|1403|15
+mvv|1001200|St.-Quirin-Platz|muenchen_schnellbahn|1823|1475|15
+mvv|1001210|Mangfallplatz|muenchen_schnellbahn|1823|1550|15
+mvv|1000790|Hasenbergl|muenchen_schnellbahn|920|515|15
+mvv|1000780|Dülferstraße|muenchen_schnellbahn|1060|515|15
+mvv|1000770|Harthof|muenchen_schnellbahn|1198|518|15
+mvv|1000760|Am Hart|muenchen_schnellbahn|1335|518|15
+mvv|1000750|Frankfurter Ring|muenchen_schnellbahn|1408|535|15
+mvv|1000740|Milbertshofen|muenchen_schnellbahn|1410|573|15
+mvv|1000400|Scheidplatz|muenchen_schnellbahn|1415|643|20
+mvv|1000140|Hohenzollernplatz|muenchen_schnellbahn|1415|700|15
+mvv|1000130|Josephsplatz|muenchen_schnellbahn|1413|765|18
+mvv|1000120|Theresienstraße|muenchen_schnellbahn|1415|835|15
+mvv|1000110|Königsplatz|muenchen_schnellbahn|1415|905|15
+mvv|1001170|Silberhornstraße|muenchen_schnellbahn|1910|1263|15
+mvv|1001160|Untersbergstraße|muenchen_schnellbahn|2023|1260|15
+mvv|1001110|Giesing|muenchen_schnellbahn|2103|1260|18
+mvv|1001070|Karl-Preis-Platz|muenchen_schnellbahn|2218|1263|15
+mvv|1001060|Innsbrucker Ring|muenchen_schnellbahn|2323|1260|20
+mvv|1001220|Josephsburg|muenchen_schnellbahn|2450|1225|15
+mvv|1001230|Kreillerstraße|muenchen_schnellbahn|2493|1180|13
+mvv|1001240|Moosfeld|muenchen_schnellbahn|2615|1060|15
+mvv|1001250|Messestadt West|muenchen_schnellbahn|2685|1030|15
+mvv|1001260|Messestadt Ost|muenchen_schnellbahn|2775|1033|13
+mvv|1001500|Fürstenried West|muenchen_schnellbahn|858|1723|15
+mvv|1001490|Basler Straße|muenchen_schnellbahn|855|1660|15
+mvv|1001480|Forstenrieder Allee|muenchen_schnellbahn|858|1598|15
+mvv|1001470|Machtlfinger Straße|muenchen_schnellbahn|888|1493|15
+mvv|1001460|Aidenbachstraße|muenchen_schnellbahn|960|1458|15
+mvv|1001440|Thalkirchen (Tierpark)|muenchen_schnellbahn|1323|1460|15
+mvv|1001430|Brudermühlstraße|muenchen_schnellbahn|1375|1423|15
+mvv|1001140|Implerstraße|muenchen_schnellbahn|1428|1355|15
+mvv|1000030|Poccistraße|muenchen_schnellbahn|1513|1338|15
+mvv|1000040|Goetheplatz|muenchen_schnellbahn|1543|1313|15
+mvv|1000060|Odeonsplatz|muenchen_schnellbahn|1700|895|15
+mvv|1000070|Universität|muenchen_schnellbahn|1700|825|15
+mvv|1000080|Giselastraße|muenchen_schnellbahn|1703|775|18
+mvv|1000500|Münchner Freiheit|muenchen_schnellbahn|1700|723|15
+mvv|1000410|Bonner Platz|muenchen_schnellbahn|1528|635|13
+mvv|1000340|Petuelring|muenchen_schnellbahn|1333|643|18
+mvv|1000350|Olympiazentrum|muenchen_schnellbahn|1230|640|15
+mvv|1000380|Oberwiesenfeld|muenchen_schnellbahn|1113|633|13
+mvv|1000370|Moosacher St.-Martins-Platz|muenchen_schnellbahn|863|635|15
+mvv|1000260|Westendstraße|muenchen_schnellbahn|955|1250|15
+mvv|1000250|Schwanthalerhöhe|muenchen_schnellbahn|1233|1250|15
+mvv|1000240|Theresienwiese|muenchen_schnellbahn|1318|1165|18
+mvv|1000590|Lehel|muenchen_schnellbahn|1805|895|15
+mvv|1000580|Max-Weber-Platz|muenchen_schnellbahn|1928|900|18
+mvv|1000570|Prinzregentenplatz|muenchen_schnellbahn|2010|845|15
+mvv|1000560|Böhmerwaldplatz|muenchen_schnellbahn|2010|785|15
+mvv|1000680|Richard-Strauss-Straße|muenchen_schnellbahn|2010|725|15
+mvv|1000670|Arabellapark|muenchen_schnellbahn|2083|660|15
+mvv|1000280|Laimer Platz|muenchen_schnellbahn|773|1255|15
+mvv|1000270|Friedenheimer Straße|muenchen_schnellbahn|855|1258|15
+mvv|1001050|Michaelibad|muenchen_schnellbahn|2325|1320|15
+mvv|1001040|Quiddestraße|muenchen_schnellbahn|2325|1360|15
+mvv|1001030|Neuperlach Zentrum|muenchen_schnellbahn|2325|1405|15
+mvv|1001020|Therese-Giehse-Allee|muenchen_schnellbahn|2333|1455|15
+mvv|1001540|Klinikum Großhadern|muenchen_schnellbahn|675|1545|15
+mvv|1001530|Großhadern|muenchen_schnellbahn|675|1495|15
+mvv|1001520|Haderner Stern|muenchen_schnellbahn|693|1435|15
+mvv|1001510|Holzapfelkreuth|muenchen_schnellbahn|745|1383|15
+mvv|1001340|Westpark|muenchen_schnellbahn|810|1363|15
+mvv|1001330|Partnachplatz|muenchen_schnellbahn|923|1363|15
+mvv|1000510|Dietlindenstraße|muenchen_schnellbahn|1710|685|10
+mvv|1000520|Nordfriedhof|muenchen_schnellbahn|1708|645|13
+mvv|1000530|Alte Heide|muenchen_schnellbahn|1710|610|13
+mvv|1000540|Studentenstadt|muenchen_schnellbahn|1710|570|15
+mvv|1000420|Freimann|muenchen_schnellbahn|1708|533|13
+mvv|1000430|Kieferngarten|muenchen_schnellbahn|1708|495|13
+mvv|1000470|Fröttmaning|muenchen_schnellbahn|1708|455|13
+mvv|1000480|Garching-Hochbrück|muenchen_schnellbahn|1708|418|13
+mvv|1000490|Garching|muenchen_schnellbahn|1708|380|13
+mvv|1000460|Garching,Forschungszentrum|muenchen_schnellbahn|1708|350|15
+mvv|1001730|Neuabing|muenchen_schnellbahn|555|1206|15
+
+mvv|1000780|Dülferstraße|muenchen_tram_metrobus|954|328|10
+mvv|1000788|Aschenbrennerstraße|muenchen_tram_metrobus|946|286|10
+mvv|1000351|Stösserstraße|muenchen_tram_metrobus|866|288|10
+mvv|1000349|Stanigplatz|muenchen_tram_metrobus|780|288|10
+mvv|1000790|Hasenbergl|muenchen_tram_metrobus|768|328|10
+mvv|1000357|Ittlingerstraße|muenchen_tram_metrobus|770|354|8
+mvv|1000356|Hasenbergl Süd|muenchen_tram_metrobus|768|370|8
+mvv|1000355|Gundermannstraße|muenchen_tram_metrobus|770|390|10
+mvv|1000363|Pulverturmstraße|muenchen_tram_metrobus|768|410|10
+mvv|1000354|Goldlackplatz|muenchen_tram_metrobus|784|424|12
+mvv|1000353|Robinienstraße|muenchen_tram_metrobus|836|426|12
+mvv|1000344|Franz-Sperr-Weg|muenchen_tram_metrobus|890|424|12
+mvv|1000343|Max-Wönner-Straße|muenchen_tram_metrobus|944|424|12
+mvv|1000342|Lerchenauer See|muenchen_tram_metrobus|1000|422|12
+mvv|1000341|Himmelschlüsselstraße|muenchen_tram_metrobus|1054|424|12
+mvv|1000322|Lassallestraße|muenchen_tram_metrobus|1146|388|10
+mvv|1000318|Olympia-Einkaufszentrum West|muenchen_tram_metrobus|1146|420|12
+mvv|1000360|Olympia-Einkaufszentrum|muenchen_tram_metrobus|1142|452|12
+mvv|1000333|Dessauerstraße|muenchen_tram_metrobus|1162|482|8
+mvv|1000323|Olympiapark Nord|muenchen_tram_metrobus|1198|390|12
+mvv|1000380|Oberwiesenfeld|muenchen_tram_metrobus|1240|446|12
+mvv|1000324|Lerchenauer Straße|muenchen_tram_metrobus|1268|444|10
+mvv|1000754|Preußenstraße|muenchen_tram_metrobus|1328|444|10
+mvv|1000329|Anhalter Platz|muenchen_tram_metrobus|1384|444|12
+mvv|1000331|Moosacher Straße|muenchen_tram_metrobus|1414|376|12
+mvv|1000750|Frankfurter Ring|muenchen_tram_metrobus|1416|328|12
+mvv|1000751|Korbinianplatz|muenchen_tram_metrobus|1434|282|10
+mvv|1000417|Milbertshofener Straße|muenchen_tram_metrobus|1548|282|12
+mvv|1000407|Abtstraße|muenchen_tram_metrobus|1652|280|12
+mvv|1000425|Domagkstraße West|muenchen_tram_metrobus|1746|282|14
+mvv|1000448|Gertrud-Grunow-Straße|muenchen_tram_metrobus|1876|282|12
+mvv||Alfred-Arndt-Straße|muenchen_tram_metrobus|1972|332|12
+mvv|1000457|Zaunweg|muenchen_tram_metrobus|1970|380|12
+mvv|1000530|Alte Heide|muenchen_tram_metrobus|2048|466|12
+mvv|1000540|Studentenstadt|muenchen_tram_metrobus|2050|426|12
+mvv|1002102|Unterföhring, Feringastraße|muenchen_tram_metrobus|2306|352|12
+mvv|1000601|Fritz-Meyer|muenchen_tram_metrobus|2700|376|10
+mvv|1000556|Regina-Ullmann-Straße|muenchen_tram_metrobus|2700|404|12
+mvv|1000602|Johannes|muenchen_tram_metrobus|2786|570|10
+mvv|1000557|Bichlhofweg|muenchen_tram_metrobus|2854|570|12
+mvv|1000721|Johanneskirchen Bf West|muenchen_tram_metrobus|2910|570|12
+mvv|1000720|Johanneskirchen Bahnhof|muenchen_tram_metrobus|2938|586|12
+mvv|1000300|Moosach Bahnhof|muenchen_tram_metrobus|642|452|20
+mvv|1000237|Bunzlauer Platz|muenchen_tram_metrobus|658|538|10
+mvv|1000231|Baubergerstraße|muenchen_tram_metrobus|658|566|10
+mvv|1000234|Schragenhofstraße|muenchen_tram_metrobus|658|596|10
+mvv|1000230|Skagerrakstraße|muenchen_tram_metrobus|684|634|12
+mvv|1000229|Netzer Straße|muenchen_tram_metrobus|776|634|12
+mvv|1000228|Nederlinger Straße|muenchen_tram_metrobus|794|650|12
+mvv|1000236|In den Kirschen|muenchen_tram_metrobus|794|674|12
+mvv|1000212|Maria-Ward-Straße|muenchen_tram_metrobus|796|704|12
+mvv|1000213|Dall'Armistraße|muenchen_tram_metrobus|796|750|12
+mvv|1000214|Schloss Nymphenburg|muenchen_tram_metrobus|796|798|12
+mvv|1000215|Romanplatz|muenchen_tram_metrobus|998|876|20
+mvv|1000227|Hirschgartenallee|muenchen_tram_metrobus|914|914|10
+mvv|1000226|Kemnatenstraße|muenchen_tram_metrobus|914|942|10
+mvv|1000225|Herthastraße|muenchen_tram_metrobus|914|970|10
+mvv|1000238|Winfriedstraße|muenchen_tram_metrobus|914|1000|12
+mvv|1000009|Laim Bahnhof|muenchen_tram_metrobus|914|1088|12
+mvv|1001602|Fürstenrieder Straße|muenchen_tram_metrobus|914|1270|12
+mvv|1000280|Laimer Platz|muenchen_tram_metrobus|916|1400|14
+mvv|1001518|Aindorferstraße|muenchen_tram_metrobus|914|1440|12
+mvv|1001516|Ammerseestraße|muenchen_tram_metrobus|916|1512|12
+mvv|1001514|Andreas-Vöst-Straße|muenchen_tram_metrobus|848|1536|12
+mvv|1001510|Holzapfelkreuth|muenchen_tram_metrobus|798|1578|12
+mvv|1002164|Waldfriedhof|muenchen_tram_metrobus|800|1660|12
+mvv|1001462|Waldfriedhof Haupteingang|muenchen_tram_metrobus|798|1712|10
+mvv|1001464|Drygalski-Allee|muenchen_tram_metrobus|888|1754|10
+mvv|1001470|Machtlfinger Straße|muenchen_tram_metrobus|984|1752|14
+mvv|1001324|Geisenhausenerstraße|muenchen_tram_metrobus|1012|1738|12
+mvv|1001303|Ratzingerplatz|muenchen_tram_metrobus|1098|1736|12
+mvv|1001460|Aidenbachstraße|muenchen_tram_metrobus|1130|1742|14
+mvv|1001812|Schloss Blutenburg|muenchen_tram_metrobus|288|726|12
+mvv|1001807|Blutenburg|muenchen_tram_metrobus|328|762|12
+mvv|1001806|Bertha-von-Suttner-Weg|muenchen_tram_metrobus|374|802|12
+mvv|1001805|Friedhof Obermenzing|muenchen_tram_metrobus|416|838|10
+mvv|1001804|Alte Allee|muenchen_tram_metrobus|458|876|10
+mvv|1001803|Polkostraße|muenchen_tram_metrobus|500|914|12
+mvv|1001802|Rubensstraße|muenchen_tram_metrobus|544|950|12
+mvv|1001801|Marschnerstraße|muenchen_tram_metrobus|582|984|12
+mvv|1000010|Pasing Bahnhof|muenchen_tram_metrobus|624|1100|38
+mvv|1001622|Pasinger Marienplatz|muenchen_tram_metrobus|606|1210|10
+mvv|1001623|Engelbertstraße|muenchen_tram_metrobus|612|1304|12
+mvv|1001626|Planegger Straße|muenchen_tram_metrobus|614|1350|14
+mvv|1001628|Siegmannstraße|muenchen_tram_metrobus|612|1382|12
+mvv|1001633|Perlschneiderstraße|muenchen_tram_metrobus|614|1426|10
+mvv|1001632|Seeholzenweg|muenchen_tram_metrobus|614|1472|12
+mvv|1001634|Blumenau|muenchen_tram_metrobus|612|1516|12
+mvv|1001542|Terofalstraße|muenchen_tram_metrobus|612|1560|12
+mvv|1001538|Krokusstraße|muenchen_tram_metrobus|614|1608|10
+mvv|1001536|Haderunstraße|muenchen_tram_metrobus|498|1652|12
+mvv|1001534|Am Ährenfeld|muenchen_tram_metrobus|500|1696|12
+mvv|1001530|Großhadern|muenchen_tram_metrobus|620|1726|12
+mvv|1001424|Marchioninistraße|muenchen_tram_metrobus|616|1746|8
+mvv|1001472|Klinikum Großhadern Ost|muenchen_tram_metrobus|616|1778|12
+mvv|1001426|Max-Lebsche-Platz|muenchen_tram_metrobus|616|1808|10
+mvv|1001432|Zöllerstraße|muenchen_tram_metrobus|616|1868|12
+mvv|1001434|Ehrenmal|muenchen_tram_metrobus|618|1908|12
+mvv|1001437|Bellinzonastraße|muenchen_tram_metrobus|700|1930|12
+mvv|1001500|Fürstenried West|muenchen_tram_metrobus|932|1930|16
+mvv|1001726|Neuaubing West|muenchen_tram_metrobus|114|1138|10
+mvv|1001724|Kunreuthstraße|muenchen_tram_metrobus|114|1182|10
+mvv|1001722|Riesenburgstraße|muenchen_tram_metrobus|124|1230|10
+mvv|1001718|Wiesentfelser Straße|muenchen_tram_metrobus|152|1214|12
+mvv|1001712|Altenburgstraße|muenchen_tram_metrobus|176|1192|10
+mvv|1001708|Wertheimer Straße|muenchen_tram_metrobus|196|1176|12
+mvv|1001706|Sipplinger Straße|muenchen_tram_metrobus|220|1156|12
+mvv|1001704|Mainaustraße|muenchen_tram_metrobus|272|1140|12
+mvv|1001702|Ravensburger Ring|muenchen_tram_metrobus|364|1138|12
+mvv|1001720|Westkreuz Bahnhof|muenchen_tram_metrobus|410|1140|14
+mvv|1001682|Varnhagenstraße|muenchen_tram_metrobus|486|1142|12
+mvv|1001683|Volmstraße|muenchen_tram_metrobus|568|1140|12
+mvv|1001627|Weinbergerstraße|muenchen_tram_metrobus|672|1350|12
+mvv|1001727|Benedikterstraße|muenchen_tram_metrobus|712|1306|10
+mvv|1001612|Westbad|muenchen_tram_metrobus|716|1274|12
+mvv|1001608|Lohensteinstraße|muenchen_tram_metrobus|758|1272|12
+mvv|1001643|Fischer-von-Erlach-Straße|muenchen_tram_metrobus|760|1322|10
+mvv|1001644|Mitterfeldstraße|muenchen_tram_metrobus|760|1358|12
+mvv|1001404|Lorettoplatz|muenchen_tram_metrobus|742|1766|12
+mvv|1001402|Aurikelstraße|muenchen_tram_metrobus|742|1726|12
+mvv|1001502|Kornwegerstraße|muenchen_tram_metrobus|742|1686|12
+mvv|1001309|Werdenfelsstraße|muenchen_tram_metrobus|880|1636|12
+mvv|1001308|Ettalstraße|muenchen_tram_metrobus|878|1614|12
+mvv|1001307|Luise-Kiesselbach-Platz|muenchen_tram_metrobus|930|1602|12
+mvv|1001306|Fernpaßstraße|muenchen_tram_metrobus|1026|1602|10
+mvv|1001330|Partnachplatz|muenchen_tram_metrobus|1064|1572|10
+mvv|1001305|Drachenseestraße|muenchen_tram_metrobus|1118|1568|12
+mvv|1001129|Harras|muenchen_tram_metrobus|1256|1570|12
+mvv|1001431|Sylvensteinstraße|muenchen_tram_metrobus|1484|1626|10
+mvv|1001149|Heckenstaller|muenchen_tram_metrobus|1602|1624|10
+mvv|1001430|Brudermühlstraße|muenchen_tram_metrobus|1678|1624|12
+mvv|1001148|Schäftlarnstraße|muenchen_tram_metrobus|1780|1624|10
+mvv|1001191|Gerhardstraße|muenchen_tram_metrobus|1930|1628|10
+mvv|1001180|Candidplatz|muenchen_tram_metrobus|2190|1510|14
+mvv|1002439|Tegernseer Landstraße|muenchen_tram_metrobus|2336|1512|18
+mvv|1001146|Spixstraße|muenchen_tram_metrobus|2370|1512|10
+mvv|1001046|Valeppstraße|muenchen_tram_metrobus|2434|1514|12
+mvv|1001045|Fockensteinstraße|muenchen_tram_metrobus|2490|1468|12
+mvv|1001110|Giesing Bahnhof|muenchen_tram_metrobus|2508|1438|20
+mvv|1001107|Werinherstraße|muenchen_tram_metrobus|2492|1358|12
+mvv|1001044|Ungsteiner Straße|muenchen_tram_metrobus|2538|1358|12
+mvv|1001026|Thomasiusplatz|muenchen_tram_metrobus|2558|1346|10
+mvv|1001025|St.-Martin-Straße Ost|muenchen_tram_metrobus|2558|1318|10
+mvv|1000161|St.-Cajetan-Straße|muenchen_tram_metrobus|2558|1244|12
+mvv|1000089|Orleansstraße|muenchen_tram_metrobus|2498|1154|14
+mvv|1000005|Ostbahnhof|muenchen_tram_metrobus|2530|1086|42
+mvv|1000046|Haidenauplatz|muenchen_tram_metrobus|2666|1050|12
+mvv|1000023|Grillparzerstraße|muenchen_tram_metrobus|2666|946|16
+mvv|1000570|Prinzregentenplatz|muenchen_tram_metrobus|2498|766|14
+mvv|1000133|Galileiplatz|muenchen_tram_metrobus|2450|684|10
+mvv|1000134|Wehrlestraße|muenchen_tram_metrobus|2448|628|12
+mvv|1000076|Herkomerplatz|muenchen_tram_metrobus|2316|546|12
+mvv|1000077|Mauerkircherstraße|muenchen_tram_metrobus|2256|550|12
+mvv|1000137|Am Tucherpark|muenchen_tram_metrobus|2176|554|12
+mvv|1000132|Hirschauer Straße|muenchen_tram_metrobus|2176|600|12
+mvv|1000135|Chinesischer Turm|muenchen_tram_metrobus|2178|680|10
+mvv|1000136|Thiemestraße|muenchen_tram_metrobus|2120|710|12
+mvv|1000080|Giselastraße|muenchen_tram_metrobus|2054|708|14
+mvv|1000108|Hohenzollernstraße|muenchen_tram_metrobus|2042|634|10
+mvv|1001165|Tierpark (Alemannenstr.)|muenchen_tram_metrobus|1814|1776|14
+mvv|1001166|Wilhelm-Kuhnert-Straße|muenchen_tram_metrobus|1852|1742|10
+mvv|1001167|Lebscheestraße|muenchen_tram_metrobus|1894|1704|12
+mvv|1001168|Ludmillastraße|muenchen_tram_metrobus|1934|1670|12
+mvv|1002159|Humboldtstraße|muenchen_tram_metrobus|2142|1466|12
+mvv|1000159|Kolumbusplatz (Nord)|muenchen_tram_metrobus|2142|1404|12
+mvv|1000117|Taubenstraße|muenchen_tram_metrobus|2180|1396|12
+mvv|1000042|Mariahilfplatz|muenchen_tram_metrobus|2274|1354|14
+mvv|1000116|Schweigerstraße|muenchen_tram_metrobus|2272|1290|14
+mvv|1000115|Baaderstraße|muenchen_tram_metrobus|2230|1280|12
+mvv|1000114|Gärtnerplatztheater|muenchen_tram_metrobus|2176|1278|12
+mvv|1000113|Blumenstraße|muenchen_tram_metrobus|2070|1212|12
+mvv|1000114|Viktualienmarkt|muenchen_tram_metrobus|2070|1170|14
+mvv|1000002|Marienplatz Süd|muenchen_tram_metrobus|2026|1138|12
+mvv|1000131|St.-Jakobs|muenchen_tram_metrobus|1946|1220|12
+mvv|1000050|Sendlinger Tor|muenchen_tram_metrobus|1836|1402|42
+mvv|1000190|Rotkreuzplatz|muenchen_tram_metrobus|1160|794|14
+mvv|1000207|Winthirplatz|muenchen_tram_metrobus|1094|872|12
+mvv|1000209|Dankwartstraße|muenchen_tram_metrobus|1050|914|10
+mvv|1000216|Steubenplatz|muenchen_tram_metrobus|1018|980|12
+mvv|1000031|Hirschgarten|muenchen_tram_metrobus|1016|1090|12
+mvv|1001202|Lautensackstraße|muenchen_tram_metrobus|1096|1272|12
+mvv|1001201|Hauzenberger Straße|muenchen_tram_metrobus|1138|1320|12
+mvv|1001205|Elsenheimerstraße|muenchen_tram_metrobus|1188|1318|10
+mvv|1000082|Astallerstraße|muenchen_tram_metrobus|1244|1366|10
+mvv|1001150|Heimeranplatz|muenchen_tram_metrobus|1256|1396|14
+mvv|1001217|Hansastraße|muenchen_tram_metrobus|1268|1424|10
+mvv|1001218|Hansapark|muenchen_tram_metrobus|1268|1450|12
+mvv|1001232|Baumgartnerstraße|muenchen_tram_metrobus|1304|1486|12
+mvv|1001102|Herzog-Ernst-Platz|muenchen_tram_metrobus|1374|1482|12
+mvv|1000101|Hans-Fischer-Straße|muenchen_tram_metrobus|1594|1546|12
+mvv|1000030|Poccistraße|muenchen_tram_metrobus|1780|1578|12
+mvv|1000083|Tumblingerstraße|muenchen_tram_metrobus|1856|1588|10
+mvv|1001132|Lagerhausstraße|muenchen_tram_metrobus|1872|1574|10
+mvv|1000146|Ehrengutstraße|muenchen_tram_metrobus|1890|1558|10
+mvv|1000144|Zenettistraße|muenchen_tram_metrobus|1912|1544|12
+mvv|1000059|Kapuzinerstraße|muenchen_tram_metrobus|1968|1516|10
+mvv|1000143|Waltherstraße|muenchen_tram_metrobus|1968|1486|10
+mvv|1000141|Stephansplatz|muenchen_tram_metrobus|1910|1444|10
+mvv|1000142|Mais|muenchen_tram_metrobus|1832|1470|10
+mvv|1000111|Regerplatz|muenchen_tram_metrobus|2340|1292|12
+mvv|1000138|Schwester-Eubulina-Platz|muenchen_tram_metrobus|2402|1292|10
+mvv|1000139|Auerfeldstraße|muenchen_tram_metrobus|2498|1238|12
+mvv|1001222|Garmischer Straße|muenchen_tram_metrobus|1240|1448|12
+mvv|1001224|Siegenburger Straße|muenchen_tram_metrobus|1200|1486|10
+mvv|1001226|Hinterbärenbadstraße|muenchen_tram_metrobus|1100|1506|12
+mvv|1001340|Westpark|muenchen_tram_metrobus|930|1576|10
+mvv|1001315|Pilsenseestraße|muenchen_tram_metrobus|978|1636|10
+mvv|1001316|Höglwörther Straße|muenchen_tram_metrobus|1012|1658|10
+mvv|1001317|Murnauer Straße|muenchen_tram_metrobus|1048|1680|10
+mvv|1001338|Leutstettener Straße|muenchen_tram_metrobus|1144|1868|12
+mvv|1001339|Siemensallee|muenchen_tram_metrobus|1142|1892|10
+mvv|1001345|Marienstern|muenchen_tram_metrobus|1142|1920|10
+mvv|1001346|Hofbrunnstraße|muenchen_tram_metrobus|1142|1946|10
+mvv|1001403|Plattlinger Straße|muenchen_tram_metrobus|1112|1962|12
+mvv|1001349|Wilhelm-Busch-Straße|muenchen_tram_metrobus|1052|1964|10
+mvv|1001351|Gulbranssonstraße|muenchen_tram_metrobus|1010|1942|10
+mvv|1001354|Stäblistraße|muenchen_tram_metrobus|1010|1912|12
+mvv|1001350|Munckerstraße|muenchen_tram_metrobus|1008|1888|12
+mvv|1001405|Staffelseestraße|muenchen_tram_metrobus|1010|1856|12
+mvv|1001408|Züricher Straße|muenchen_tram_metrobus|1010|1824|12
+mvv|1001409|Limmatstraße|muenchen_tram_metrobus|974|1808|14
+mvv|1001480|Forstenrieder Allee|muenchen_tram_metrobus|936|1804|14
+mvv|1000092|Kustermannpark|muenchen_tram_metrobus|2648|1180|12
+mvv|1001001|Anzinger Straße|muenchen_tram_metrobus|2684|1282|12
+mvv|1001070|Karl-Preis-Platz|muenchen_tram_metrobus|2688|1436|10
+mvv|1001003|Ramersdorf|muenchen_tram_metrobus|2688|1466|12
+mvv|1001031|Diakon-Kerolt-Weg|muenchen_tram_metrobus|2686|1486|8
+mvv|1001032|Woferlstraße|muenchen_tram_metrobus|2686|1506|8
+mvv|1001047|Adilostraße|muenchen_tram_metrobus|2686|1526|10
+mvv|1001033|Weddigenstraße|muenchen_tram_metrobus|2688|1544|8
+mvv|1001019|Pfanzeltplatz|muenchen_tram_metrobus|2686|1564|10
+mvv|1001014|Wilhelm-Hoegner-Straße|muenchen_tram_metrobus|2686|1582|8
+mvv|1001035|Friedhof Perlach|muenchen_tram_metrobus|2698|1596|10
+mvv|1001015|Thomas-Dehler-Straße|muenchen_tram_metrobus|2762|1596|10
+mvv|1001030|Neuperlach Zentrum|muenchen_tram_metrobus|2802|1598|12
+mvv|1000960|Kafkastraße|muenchen_tram_metrobus|2874|1594|12
+mvv|1000961|Sudermannallee|muenchen_tram_metrobus|2958|1598|12
+mvv|1000962|Klinikum Neuperlach|muenchen_tram_metrobus|3040|1598|12
+mvv|1000963|Tribulaunstraße|muenchen_tram_metrobus|3088|1622|12
+mvv|1000964|Im Gefilde|muenchen_tram_metrobus|3112|1640|12
+mvv|1000965|Eulenspiegelstraße|muenchen_tram_metrobus|3138|1666|12
+mvv|1000966|Waldheimplatz|muenchen_tram_metrobus|3188|1704|14
+mvv|1000967|Waldperlach|muenchen_tram_metrobus|3158|1740|10
+mvv|1000981|Am Hain|muenchen_tram_metrobus|3228|1742|10
+mvv|1002265|Putzbrunn,Seemannsiedlung|muenchen_tram_metrobus|3244|1784|8
+mvv|1002288|Putzbrunn,Waldkolonie|muenchen_tram_metrobus|3248|1806|8
+mvv|1002287|Putzbrunn,Brennerei|muenchen_tram_metrobus|3246|1826|10
+mvv|1002176|Putzbrunn,Kirchenzentrum|muenchen_tram_metrobus|3246|1848|10
+mvv|1002174|Putzbrunn,Wernher-von-Braun-Straße|muenchen_tram_metrobus|3246|1866|10
+mvv|1002172|Putzbrunn,Michael-Haslbeck-Straße|muenchen_tram_metrobus|3246|1926|16
+mvv|1000500|Münchner Freiheit|muenchen_tram_metrobus|2046|588|20
+mvv|1000108|Hohenzollernstraße|muenchen_tram_metrobus|2042|634|12
+mvv|1000109|Friedrichstraße|muenchen_tram_metrobus|1872|636|12
+mvv|1000043|Kurfürstenplatz|muenchen_tram_metrobus|1822|642|16
+mvv|1000455|Bismarckstraße|muenchen_tram_metrobus|1694|644|14
+mvv|1000452|Pündterplatz|muenchen_tram_metrobus|1602|644|10
+mvv|1000107|Barbarastraße|muenchen_tram_metrobus|1534|642|12
+mvv|1000106|Infanteriestraße|muenchen_tram_metrobus|1442|648|12
+mvv|1000011|Leonrodplatz|muenchen_tram_metrobus|1334|744|12
+mvv|1000105|Fasaneriestraße|muenchen_tram_metrobus|1302|774|12
+mvv|1000104|Albrechtstraße|muenchen_tram_metrobus|1232|792|12
+mvv|1000087|Bergmannstraße|muenchen_tram_metrobus|1376|1344|10
+mvv|1000250|Schwanthalerhöhe|muenchen_tram_metrobus|1376|1398|12
+mvv|1000027|Ridlerstraße|muenchen_tram_metrobus|1376|1424|10
+mvv|1001101|Ganghoferbrücke|muenchen_tram_metrobus|1374|1450|12
+mvv|1001103|Sendlinger Kirche|muenchen_tram_metrobus|1376|1512|10
+mvv|1001104|Margaretenplatz|muenchen_tram_metrobus|1344|1530|12
+mvv|1001129|Am Harras|muenchen_tram_metrobus|1288|1558|12
+mvv|1001335|Johann-Clanze-Straße|muenchen_tram_metrobus|1206|1598|12
+mvv|1001321|Adunistraße|muenchen_tram_metrobus|1206|1628|12
+mvv|1001322|Schneemannstraße|muenchen_tram_metrobus|1206|1658|12
+mvv|1001323|Zielstattstraße|muenchen_tram_metrobus|1206|1690|12
+mvv|1001302|Hofmannstraße|muenchen_tram_metrobus|1206|1720|12
+mvv|1001327|Gmunder Straße|muenchen_tram_metrobus|1192|1828|12
+mvv|1007000|Hauptbahnhof Nord|muenchen_tram_metrobus|1646|982|18
+mvv|1000090|Holzkirchner Bahnhof|muenchen_tram_metrobus|1624|1274|10
+mvv|1000056|Georg-Hirth-Platz|muenchen_tram_metrobus|1622|1400|10
+mvv|1000057|Beethovenplatz|muenchen_tram_metrobus|1624|1494|10
+mvv|1000040|Goetheplatz|muenchen_tram_metrobus|1848|1524|12
+mvv|1000058|Kapuzinerplatz/ Arbeitsagentur|muenchen_tram_metrobus|1912|1520|12
+mvv|1000162|Kolumbusplatz/Humboldtstr.|muenchen_tram_metrobus|2176|1446|16
+mvv|1001170|Silberhornstraße|muenchen_tram_metrobus|2336|1436|14
+mvv|1000061|Baldep|muenchen_tram_metrobus|2072|1524|12
+mvv|1000062|Claude-Lorrain Str|muenchen_tram_metrobus|2138|1496|12
+mvv|1000296|Ackermannbogen|muenchen_tram_metrobus|1508|542|12
+mvv|1000000|Georg-Birz-Straße|muenchen_tram_metrobus|1562|584|12
+mvv|1000034|Nordbad|muenchen_tram_metrobus|1842|584|12
+mvv|1000140|Hohenzollernplatz|muenchen_tram_metrobus|1922|586|10
+mvv|1000434|Potsdamer Straße|muenchen_tram_metrobus|1990|516|12
+mvv|1000510|Dietlindenstraße|muenchen_tram_metrobus|2054|510|12
+mvv|1000511|Osterwaldstraße|muenchen_tram_metrobus|2184|510|10
+mvv|1000512|Herzogpark|muenchen_tram_metrobus|2272|512|12
+mvv|1000650|Effnerplatz|muenchen_tram_metrobus|2348|514|12
+mvv|1000680|Richard-Strauss-Straße|muenchen_tram_metrobus|2494|600|12
+mvv|1000560|Böhmerwaldplatz|muenchen_tram_metrobus|2492|672|14
+mvv|1000663|Zaubzerstraße|muenchen_tram_metrobus|2760|826|16
+mvv|1000662|Einsteinstraße|muenchen_tram_metrobus|2760|946|12
+mvv|1000901|Ampfingstraße|muenchen_tram_metrobus|2756|1148|14
+mvv|1000921|Mühldorfstraße|muenchen_tram_metrobus|2758|1218|12
+mvv|1000898|Sankt Pius|muenchen_tram_metrobus|2760|1252|12
+mvv|1001027|Aschheimer Straße|muenchen_tram_metrobus|2760|1286|14
+mvv|1001064|Langbürgener Straße|muenchen_tram_metrobus|2620|1466|10
+mvv|1001056|Balanstraße|muenchen_tram_metrobus|2562|1466|12
+mvv|1001108|Chiemgaustraße|muenchen_tram_metrobus|2510|1510|12
+mvv|1001554|Gondrellplatz|muenchen_tram_metrobus|728|1512|14
+mvv|1001552|Senftenauerstraße|muenchen_tram_metrobus|782|1512|12
+mvv|1001213|Stegener Weg|muenchen_tram_metrobus|1040|1498|12
+mvv|1001212|Säulingstraße|muenchen_tram_metrobus|1070|1470|12
+mvv|1001208|Fachnerstraße|muenchen_tram_metrobus|1106|1440|14
+mvv|1000260|Westendstraße|muenchen_tram_metrobus|1148|1398|12
+mvv|1001214|Hans-Thonauer-Straße|muenchen_tram_metrobus|1094|1390|12
+mvv|1001216|Siglstraße|muenchen_tram_metrobus|1044|1376|12
+mvv|1001206|Am Lokschuppen|muenchen_tram_metrobus|1204|1274|10
+mvv|1000064|Barthstraße|muenchen_tram_metrobus|1286|1272|12
+mvv|1000066|Schrenkstraße|muenchen_tram_metrobus|1416|1274|10
+mvv|1000067|Holzapfelstraße|muenchen_tram_metrobus|1482|1272|12
+mvv|1000055|Hermann-Lingg-Straße|muenchen_tram_metrobus|1546|1274|12
+mvv|1005000|Hauptbahnhof Süd|muenchen_tram_metrobus|1670|1204|12
+mvv|1001051|Müllerstraße|muenchen_tram_metrobus|1922|1382|12
+mvv|1000068|Reichenbachplatz|muenchen_tram_metrobus|2134|1258|10
+mvv|1000003|Isartor|muenchen_tram_metrobus|2200|1086|22
+mvv|1000084|Mariannenplatz|muenchen_tram_metrobus|2200|1004|10
+mvv|1000590|Lehel|muenchen_tram_metrobus|2200|824|14
+mvv|1000081|Nationalmuseum/Haus d.Kunst|muenchen_tram_metrobus|2202|742|10
+mvv|1000079|Paradiesstraße|muenchen_tram_metrobus|2202|666|12
+mvv|1000078|Tivolistraße|muenchen_tram_metrobus|2200|606|12
+mvv|1001624|Rathaus Pasing|muenchen_tram_metrobus|620|1166|12
+mvv|1001618|Offenbachstraße|muenchen_tram_metrobus|622|1200|10
+mvv|1001614|Am Knie|muenchen_tram_metrobus|662|1270|12
+mvv|1001606|Willibaldplatz|muenchen_tram_metrobus|812|1270|12
+mvv|1001604|Agnes-Bernauer-Platz|muenchen_tram_metrobus|872|1270|10
+mvv|1001204|Agnes-Bernauer-Straße|muenchen_tram_metrobus|1026|1270|10
+mvv|1000014|Karlspl.(Stachus) Nord|muenchen_tram_metrobus|1754|978|12
+mvv|1000016|Lenbachplatz|muenchen_tram_metrobus|1878|948|10
+mvv|1000020|Theatinerstraße|muenchen_tram_metrobus|2020|948|12
+mvv|1000017|Nationaltheater|muenchen_tram_metrobus|2096|948|12
+mvv|1000018|Kammerspiele|muenchen_tram_metrobus|2160|948|12
+mvv|1000019|Maxmonument|muenchen_tram_metrobus|2202|950|12
+mvv|1000021|Maximilianeum|muenchen_tram_metrobus|2276|948|12
+mvv|1000580|Max-Weber-Platz|muenchen_tram_metrobus|2326|824|22
+mvv|1000581|Max-Weber-Platz (Johannispl.)|muenchen_tram_metrobus|2346|884|14
+mvv|1000902|Schlüsselbergstraße|muenchen_tram_metrobus|2822|1204|14
+mvv|1000903|Baumkirchner Straße|muenchen_tram_metrobus|2916|1204|12
+mvv|1000904|Mutschellestraße|muenchen_tram_metrobus|2962|1216|12
+mvv|1001230|Kreillerstraße|muenchen_tram_metrobus|3020|1272|14
+mvv|1000906|St.-Veit-Straße|muenchen_tram_metrobus|3056|1376|14
+mvv|1000210|Amalienburgstraße|muenchen_tram_metrobus|704|704|12
+mvv|1000211|Botanischer Garten|muenchen_tram_metrobus|744|704|12
+mvv|1000219|Kriemhildenstraße|muenchen_tram_metrobus|998|920|12
+mvv|1000217|Briefzentrum|muenchen_tram_metrobus|1072|980|12
+mvv|1000218|Burghausener Straße|muenchen_tram_metrobus|1152|980|12
+mvv|1000222|Marsstraße|muenchen_tram_metrobus|1336|980|12
+mvv|1000223|Deroystraße|muenchen_tram_metrobus|1408|980|10
+mvv|1000007|Hackerbrücke|muenchen_tram_metrobus|1476|980|12
+mvv|1000232|Hopfenstraße|muenchen_tram_metrobus|1552|980|12
+mvv|1000001|Karlsplatz (Stachus)|muenchen_tram_metrobus|1820|1124|56
+mvv|1000150|Fraunhoferstraße|muenchen_tram_metrobus|2018|1414|20
+mvv|1000041|Eduard-Schmid-Straße|muenchen_tram_metrobus|2194|1354|10
+mvv|1001105|Ostfriedhof|muenchen_tram_metrobus|2340|1356|12
+mvv|1000370|St.-Martins-Platz|muenchen_tram_metrobus|2404|1356|14
+mvv|1001109|Schwanseestraße|muenchen_tram_metrobus|2508|1646|12
+mvv|1000221|Hubertusstraße|muenchen_tram_metrobus|1026|856|10
+mvv|1000220|Renatastraße|muenchen_tram_metrobus|1042|844|12
+mvv|1000204|Neuhausen|muenchen_tram_metrobus|1064|824|12
+mvv|1000205|Volkartstraße|muenchen_tram_metrobus|1086|808|12
+mvv|1000400|Scheidplatz|muenchen_tram_metrobus|1702|450|24
+mvv|1000301|Pelkovenstraße|muenchen_tram_metrobus|774|508|16
+mvv|1000302|Hugo-Troendle-Straße|muenchen_tram_metrobus|902|568|12
+mvv|1000303|Wintrichring|muenchen_tram_metrobus|1028|568|14
+mvv|1000304|Hanauer Straße|muenchen_tram_metrobus|1156|582|12
+mvv|1000305|Borstei München|muenchen_tram_metrobus|1202|626|14
+mvv|1000306|Olympiapark West München|muenchen_tram_metrobus|1250|668|14
+mvv|1000307|Goethe-Institut München|muenchen_tram_metrobus|1282|696|12
+mvv|1000032|Hochschule|muenchen_tram_metrobus|1412|812|12
+mvv|1000013|Sandstraße|muenchen_tram_metrobus|1552|840|14
+mvv|1000170|Stiglmaierplatz|muenchen_tram_metrobus|1654|868|12
+mvv|1000015|Karlstraße|muenchen_tram_metrobus|1654|916|12
+mvv|1000340|Petuelring|muenchen_tram_metrobus|1602|450|14
+mvv|1001053|Gartenstraße|muenchen_tram_metrobus|1602|498|14
+mvv|1000309|Ackermannstraße|muenchen_tram_metrobus|1604|538|14
+mvv|1000311|Herzogstraße|muenchen_tram_metrobus|1602|578|14
+mvv|1000047|Elisabethplatz|muenchen_tram_metrobus|1820|690|12
+mvv|1000048|Nordendstraße|muenchen_tram_metrobus|1822|740|12
+mvv|1000049|Schellingstraße|muenchen_tram_metrobus|1822|782|10
+mvv|1000051|Pinakotheken|muenchen_tram_metrobus|1820|838|12
+mvv|1000052|Karolinenplatz|muenchen_tram_metrobus|1820|882|10
+mvv|1002192|Ottostraße|muenchen_tram_metrobus|1822|928|12
+mvv|1000503|Schwabing Nord|muenchen_tram_metrobus|1852|238|12
+mvv|1000988|Anni-Albers-Straße|muenchen_tram_metrobus|1850|330|12
+mvv|1000501|Am Münchner Tor|muenchen_tram_metrobus|1852|374|10
+mvv|1000433|Parzivalplatz|muenchen_tram_metrobus|1894|438|10
+mvv|1000091|Bundesfinanzhof|muenchen_tram_metrobus|2310|592|14
+mvv|1000075|Sternwartstraße|muenchen_tram_metrobus|2308|656|12
+mvv|1000074|Holbeinstraße|muenchen_tram_metrobus|2308|708|14
+mvv|1000073|Friedensengel|muenchen_tram_metrobus|2310|746|14
+mvv|1000072|Wiener Platz|muenchen_tram_metrobus|2308|968|12
+mvv|1000071|Am Gasteig|muenchen_tram_metrobus|2310|1008|14
+mvv|1000069|Deutsches Museum|muenchen_tram_metrobus|2250|1130|12
+mvv|1000910|Berg am Laim|muenchen_tram_metrobus|2910|1088|12
+mvv||Riedenburger Straße|muenchen_tram_metrobus|2824|990|12
+mvv|1000612|Vogelweideplatz|muenchen_tram_metrobus|2808|946|10
+mvv|1000022|Flurstraße|muenchen_tram_metrobus|2584|850|12
+mvv|1000004|Rosenheimer Platz|muenchen_tram_metrobus|2340|1090|24
+mvv|1001190|Wettersteinplatz|muenchen_tram_metrobus|2194|1590|12
+mvv|1001117|Kurzstraße|muenchen_tram_metrobus|2022|1678|10
+mvv|1001118|Südtiroler Straße|muenchen_tram_metrobus|2000|1702|12
+mvv|1001119|Tiroler Platz|muenchen_tram_metrobus|1972|1726|12
+mvv|1001121|Authariplatz|muenchen_tram_metrobus|1942|1752|12
+mvv|1001122|Theodolindenplatz|muenchen_tram_metrobus|1916|1774|12
+mvv|1001123|Klinikum Harlaching|muenchen_tram_metrobus|1886|1802|10
+mvv|1001124|Menterschwaige|muenchen_tram_metrobus|1846|1834|14
+mvv|1001125|Großhesseloher Brücke|muenchen_tram_metrobus|1814|1862|14
+mvv|1001126|Schilcherweg|muenchen_tram_metrobus|1782|1892|12
+mvv|1002458|Grünwald,Bavariafilmplatz|muenchen_tram_metrobus|1756|1914|14
+mvv|1002460|Grünwald,Robert-Koch-Straße|muenchen_tram_metrobus|1734|1934|12
+mvv|1002462|Grünwald,Parkplatz|muenchen_tram_metrobus|1710|1956|10
+mvv|1002464|Grünwald,Ludwig-Thoma-Straße|muenchen_tram_metrobus|1682|1982|12
+mvv|1002456|Grünwald,Derbolfinger Platz|muenchen_tram_metrobus|1648|2010|14
+mvv|1000320|Feldmoching|muenchen_tram_metrobus|638|328|14
+mvv|1000200|Westfriedhof|muenchen_tram_metrobus|1142|628|14
+mvv|1000350|Oympiazentrum|muenchen_tram_metrobus|1474|448|16
+mvv|1000060|Odeonsplatz|muenchen_tram_metrobus|2052|824|16
+mvv|1001060|Innsbrucker Ring|muenchen_tram_metrobus|2802|1436|14
+mvv|1001010|Neuperlach Süd|muenchen_tram_metrobus|2800|1700|12
+mvv|1003240|Flughafen München|muenchen_tram_metrobus|3046|428|46
+mvv|1003290|Erding|muenchen_tram_metrobus|3206|792|26
+mvv|1001260|Messestadt Ost|muenchen_tram_metrobus|3190|1100|30
+mvv|1000920|Trudering|muenchen_tram_metrobus|3096|1206|12
+mvv|1004070|Ebersberg|muenchen_tram_metrobus|3220|1338|22
+mvv|1004350|Kreuzstraße|muenchen_tram_metrobus|2980|1914|26
+mvv|1004370|Holzkirchen|muenchen_tram_metrobus|2574|1870|20
+mvv|1001210|Mangfallplatz|muenchen_tram_metrobus|2276|1756|24
+mvv|1002530|Höllriegelskreuth|muenchen_tram_metrobus|1256|2016|12
+mvv|1004760|Wolfratshausen|muenchen_tram_metrobus|1356|2088|30
+mvv|1001540|Klinikum Großhadern|muenchen_tram_metrobus|670|1852|24
+mvv|1005480|Tutzing|muenchen_tram_metrobus|384|1550|20
+mvv|1005410|Herrsching|muenchen_tram_metrobus|134|1478|24
+mvv|1005950|Geltendorf|muenchen_tram_metrobus|136|1040|26
+mvv|1006160|Mammendorf|muenchen_tram_metrobus|150|740|26
+mvv|1006950|Altomünster|muenchen_tram_metrobus|172|436|22
+mvv|1006840|Petershausen|muenchen_tram_metrobus|328|306|20
+mvv|1002680|Freising|muenchen_tram_metrobus|568|216|22
+mvv|1003240|Flughafen München|muenchen_tram_metrobus|842|208|36
+mvv|1000460|Garching Forschungszentrum|muenchen_tram_metrobus|2126|194|30
+mvv|1000670|Arabellapark|muenchen_tram_metrobus|2606|566|22
+mvv|1000983|Wilhelm-Hale-Straße|muenchen_tram_metrobus|1018|1020|24
+mvv|1000029|Landshuter Allee|muenchen_tram_metrobus|1230|836|24
+mvv|1000103|Schlörstraße|muenchen_tram_metrobus|1230|882|24
+mvv|1000008|Donnersbergbrücke|muenchen_tram_metrobus|1246|1070|36
+mvv|1001337|Kistlerhof|muenchen_tram_metrobus|1144|1830|26
+mvv|1001187|Ichostraße|muenchen_tram_metrobus|2306|1458|24
+mvv|1000421|Karl-Theodor|muenchen_tram_metrobus|1728|532|26
+mvv|1000054|Donnersberger Straße|muenchen_tram_metrobus|1230|980|26
+mvv|1000002|Marienplatz|muenchen_tram_metrobus|2058|1072|38
+mvv|1000900|Leuchtenbergring|muenchen_tram_metrobus|2768|1088|26
+mvv|1001169|Winterstraße|muenchen_tram_metrobus|2184|1478|22
+mvv|1001163|Jakob-Gelb-Platz München|muenchen_tram_metrobus|2182|1494|22
+mvv|1000006|Hauptbahnhof|muenchen_tram_metrobus|1672|1082|56
+mvv|1000670|Arabellapark|muenchen_tram_metrobus|2560|538|26
+mvv|1000632|Prinz-Eugen-Park München|muenchen_tram_metrobus|2696|428|24
+mvv|1000633|Schlösselgarten München|muenchen_tram_metrobus|2696|450|24
+mvv|1000653|Cosimabad|muenchen_tram_metrobus|2678|510|28
+mvv|1000655|Arabellapark/Klinikum Bogenhausen|muenchen_tram_metrobus|2540|508|28
+mvv|1000651|Arabellastraße|muenchen_tram_metrobus|2424|510|28
+mvv|1000007|Hackerbrücke|muenchen_tram_metrobus|1458|1088|28
+mvv|1000600|St. Emmeram|muenchen_tram_metrobus|2518|358|28
