@@ -104,9 +104,9 @@ karlsruhe_liniennetz|48.993988,8.400328|2016-12-11|Karlsruhe Liniennetz|Karlsruh
 karlsruhe_regio|48.993988,8.400328|2016-12-11|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
 karlsruhe_bus|49.009498,8.404073|2016-12-11|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_nightliner|49.009498,8.404073|2015-11-13|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
-freiburg_liniennetz|47.996556,7.840286|2015-12-11|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
-freiburg_nacht|47.996556,7.840286|2015-12-11|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
-freiburg_regio|47.996556,7.840286|2015-12|Freiburg Regio|RVF
+freiburg_liniennetz|47.996556,7.840286|2016-09-12|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
+freiburg_nacht|47.996556,7.840286|2016-04-01|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
+freiburg_regio|47.996556,7.840286|2016-07|Freiburg Regio|RVF
 freiburg_tarifzonen|47.996556,7.840286|2014-06|Freiburg Tarifzonen|RVF
 freudenstadt_werktag|48.460501,8.428012|2014-03|Freudenstadt Liniennetz Werktags|vgf
 freudenstadt_freizeit|48.460501,8.428012|2014-03|Freudenstadt Liniennetz Freizeit|vgf
