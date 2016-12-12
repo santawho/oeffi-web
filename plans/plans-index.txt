@@ -9,12 +9,13 @@ berlin_bsu_abc_arabic|52.520134,13.388018|2015-12-13|Berlin Schnellbahn Linienne
 berlin_tram|52.521152,13.412832|2016-12-11|Berlin Tram-Netz|Berliner Verkehrsbetriebe||BVG
 berlin_nacht|52.520134,13.388018|2014|Berlin Nachtverkehr|Berliner Verkehrsbetriebe||BVG
 # berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|http://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
-brandenburg_regionalverkehr|52.525578,13.369523|2015-12-13|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg ||VBB
-potsdam_tag|52.390931,13.067171|2015-12-13|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg ||VBB
-potsdam_nacht|52.390931,13.067171|2015-12-13|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg ||VBB
-cottbus_tag_abc|51.760897,14.330106|2015-12-13|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg ||VBB
-cottbus_abend|51.760897,14.330106|2015-12-13|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg ||VBB
-frankfurt_oder_abc|52.336876,14.545712|2015-12-13|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg ||VBB
+brandenburg_regionalverkehr|52.525578,13.369523|2016-12-11|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_tag|52.390931,13.067171|2016-12-11|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_nacht|52.390931,13.067171|2016-12-11|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+cottbus_tag_abc|51.760897,14.330106|2016-12-11|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg||VBB
+cottbus_abend|51.760897,14.330106|2016-12-11|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg||VBB
+frankfurt_oder_abc|52.336876,14.545712|2016-12-11|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg||VBB
+brandenburg_havel|52.405872,12.538199|2016-03-01|Brandenburg an der Havel|Verkehrsverbund Berlin-Brandenburg||VBB
 greifswald|54.092863,13.370336|2015-12|Greifswald Liniennetz|Stadtwerke Greifswald
 dresden|51.050961,13.733239|2016-03-20|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2015-01-05|Dresden Nachtverkehr|dvb.de
