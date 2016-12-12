@@ -35,11 +35,11 @@ augsburg|48.364936,10.893713|2015-12|Augsburg Innenraum|AVV GmbH
 augsburg_nachtbus|48.364936,10.893713|2015-12|Augsburg Nachtbus|AVV GmbH
 ulm_stadt|48.398610,9.983322|2014-12|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
 ulm_regional|48.398610,9.983322|2014-11-06|Ulm Regionalnetz|Donau-Iller-Nahverkehrsverbund GmbH
-nuernberg_gesamtraum|49.445719,11.082618|2016-09-01|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg||VGN
-nuernberg_schiene|49.445719,11.082618|2015-01-01|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg||VGN
-nuernberg_nightliner|49.445719,11.082618|2015-12-13|Nürnberg, Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
-fuerth_verkehrsnetz|49.469832,10.990178|2015-12-13|Fürth Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
-erlangen_verkehrsnetz|49.595851,11.001701|2015-12-13|Erlangen Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_gesamtraum|49.445719,11.082618|2016-12-11|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_schiene|49.445719,11.082618|2016-12-11|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_nightliner|49.445719,11.082618|2016-12-11|Nürnberg, Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
+fuerth_verkehrsnetz|49.469832,10.990178|2016-12-11|Fürth Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
+erlangen_verkehrsnetz|49.595851,11.001701|2016-12-11|Erlangen Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
 bayreuth_tag|49.949701,11.579951|2014-10-15|Bayreuth Tag|Verkehrsverbund Großraum Nürnberg||VGN
 bayreuth_nacht|49.949701,11.579951|2014-10-15|Bayreuth Spät|Verkehrsverbund Großraum Nürnberg||VGN
 bamberg|49.900716,10.899453|2013-09-12|Bamberg Liniennetz|Stadtwerke Bamberg
