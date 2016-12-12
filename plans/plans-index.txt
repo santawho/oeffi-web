@@ -28,8 +28,8 @@ halle_nacht|51.477347,11.985263|2016-12-19|Halle Linien Nacht|SWH/HAVAG
 muenchen_schnellbahn|48.140377,11.560643|2016-12-11|München Schnellbahn|MVV
 muenchen_tram_metrobus|48.140377,11.560643|2016-12-11|München Tram/MetroBus|MVV/MVG
 muenchen_nacht|48.140377,11.560643|2016-12-11|München Nachtnetz|MVG
-ingolstadt_tag|48.74462,11.437987|2014-12-14|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
-ingolstadt_nacht|48.74462,11.437987|2014-12-14|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
+ingolstadt_tag|48.74462,11.437987|2015-12-13|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
+ingolstadt_nacht|48.74462,11.437987|2015-12-13|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2015-12|Augsburg Innenraum|AVV GmbH
 augsburg_nachtbus|48.364936,10.893713|2015-12|Augsburg Nachtbus|AVV GmbH
 ulm_stadt|48.398610,9.983322|2014-12|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
