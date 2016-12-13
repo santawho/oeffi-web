@@ -46,8 +46,8 @@ coburg_liniennetz|50.262975,10.957691|2015-12-13|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2016-12-11|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2015-12-13|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2015-12-13|Hamburg MetroBus Großbereich|HVV
-kiel_liniennetz|54.313282,10.132341|2015-02|Kiel Liniennetz|KVG
-kiel_nacht|54.313282,10.132341|2014-09-01|Kiel Nachtliniennetz|KVG
+kiel_liniennetz|54.313282,10.132341|2016-09|Kiel Liniennetz|KVG
+kiel_nacht|54.313282,10.132341|2016-09|Kiel Nachtliniennetz|KVG
 rostock_vvw_liniennetz|54.078139,12.131724|2016-01-04|Rostock Liniennetz|Verkehrsverbund Warnow
 rostock_vvw_region|54.078139,12.131724|2016-01-04|Rostock Region|Verkehrsverbund Warnow
 rostock_region|54.078139,12.131724|2016-09-05|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
