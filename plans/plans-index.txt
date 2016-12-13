@@ -186,7 +186,7 @@ bergen_sentrum|60.390547,5.332593|2012-06-25|Bergen Sentrum|skyss
 
 # fi
 
-helsinki_centrum|60.171361,24.941214|2013-01-01|Helsinki Centrum|HSL HRT
+helsinki_centrum|60.171361,24.941214|2013-08-12|Helsinki Centrum|HSL HRT
 helsinki_metro|60.171361,24.941214||Helsinki Metro|HSL HRT
 
 # tr
