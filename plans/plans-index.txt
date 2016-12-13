@@ -32,8 +32,8 @@ ingolstadt_tag|48.74462,11.437987|2015-12-13|Ingolstadt Liniennetz|Ingolstädter
 ingolstadt_nacht|48.74462,11.437987|2015-12-13|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2016-12|Augsburg Innenraum|AVV GmbH
 augsburg_nachtbus|48.364936,10.893713|2016-12|Augsburg Nachtbus|AVV GmbH
-ulm_stadt|48.398610,9.983322|2014-12|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
-ulm_regional|48.398610,9.983322|2014-11-06|Ulm Regionalnetz|Donau-Iller-Nahverkehrsverbund GmbH
+ulm_stadt|48.398610,9.983322|2016-12-11|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
+ulm_regional|48.398610,9.983322|2016-12-11|Ulm Regionalnetz|Donau-Iller-Nahverkehrsverbund GmbH
 nuernberg_gesamtraum|49.445719,11.082618|2016-12-11|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg||VGN
 nuernberg_schiene|49.445719,11.082618|2016-12-11|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg||VGN
 nuernberg_nightliner|49.445719,11.082618|2016-12-11|Nürnberg, Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
