@@ -148,9 +148,9 @@ luzern|47.050023,8.310404|2016-12-11|Luzern Liniennetz|Passepartout Tarifverbund
 
 # be
 
-brussels|50.847293,4.361933|2015-09|Brussels|STIB-MIVB
-brussels_metro|50.847293,4.361933|2015-04|Brussels Metro|STIB-MIVB
-brussels_night|50.847293,4.361933|2015-07|Brussels Night Lines|STIB-MIVB
+brussels|50.847293,4.361933|2016-09|Brussels|STIB-MIVB
+brussels_metro|50.847293,4.361933|2016-04|Brussels Metro|STIB-MIVB
+brussels_night|50.847293,4.361933|2016-07|Brussels Night Lines|STIB-MIVB
 antwerp_tram|51.217197,4.421543|2015-04|Antwerp Tram|De Lijn
 antwerp_city|51.217197,4.421543||Antwerp City Center|De Lijn
 
