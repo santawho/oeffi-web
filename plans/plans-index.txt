@@ -132,7 +132,7 @@ wien_nacht|48.209477,16.371074|2015-12-13|Wien Nachtnetz|Ben Lode
 wien_city|48.209477,16.371074|2015-05-19|Wien City|Wiener Linien
 wien_gesamt|48.209477,16.371074|2016-01|Wien Gesamtnetz|Wiener Linien
 wien_grossraum|48.209477,16.371074|2015-12-13|Wien Großraum Nahverkehr|ÖBB||OEBB
-salzburg|47.813229,13.045907|2015-10-28|Salzburg Liniennetz|Salzburg AG
+salzburg|47.813229,13.045907|2016-10-01|Salzburg Liniennetz|Salzburg AG
 
 # ch
 
