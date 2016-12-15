@@ -84,7 +84,7 @@ koeln_bus|50.943579,6.95796|2016-12-11|Köln Busnetz|Verkehrsverbund Rhein-Sieg 
 bonn_schnellverkehr|50.732784,7.096447|2016-12-11|Bonn Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
 bonn_bus|50.732784,7.096447|2016-12-11|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 leverkusen_bus|51.036197,6.994385|2015-12-13|Leverkusen Busnetz|Verkehrsverbund Rhein-Sieg GmbH
-nrw_regio|51.429807,6.775253|2015-12|NRW Busse & Bahnen|VRS
+nrw_regio|51.429807,6.775253|2016-12|NRW Busse & Bahnen|VRS
 aachen_schnellverkehr|50.768399,6.090705|2016-06|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH
 aachen_region|50.768399,6.090705|2015-12|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH
 darmstadt|49.872582,8.630916|2016-12-11|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
