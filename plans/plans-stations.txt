@@ -7,6 +7,7 @@
 # maxx: 3388
 # miny: 0
 # maxy: 2397
+!transform:1.03,1.03,0,-76
 bvg|9023302|U Adenauerplatz|berlin_bsu_abc|1003|1386|18
 bvg|9193002|S Adlershof|berlin_bsu_abc|2708|1836|18
 bvg|9011102|U Afrikanische Str.|berlin_bsu_abc|1227|622|18
@@ -321,7 +322,10 @@ bvg|9063452|S Südende|berlin_bsu_abc|1527|1909|18
 bvg|9058101|S Südkreuz Bhf|berlin_bsu_abc|1582|1668|23
 bvg|9016202|U Südstern|berlin_bsu_abc|1927|1482|18
 bvg|9003254|U Bundestag|berlin_bsu_abc|1508|1119|18
+!transform:
 
+# Andreas Schildbach
+!transform:0.75,0.75,0,-56
 # M1
 bvg|9100540|Universitätsstr.|berlin_tram|757|929
 bvg|9100038|Am Kupfergraben|berlin_tram|779|929
@@ -715,10 +719,11 @@ bvg|9185503|Adlergestell/Vetschauer Allee|berlin_tram|1966|1675
 bvg|9185502|Reifenwerk|berlin_tram|1985|1695
 bvg|9185501|Zum Seeblick|berlin_tram|2003|1713
 bvg|9185001|Alt-Schmöckwitz|berlin_tram|2021|1731
+!transform:
 
 # pangratz666@gmail.com
 # @pangratz
-
+!transform:0.8,0.8
 vrr|22000687|Bonn Hbf|bonn_schnellverkehr|1270|770
 vrr|22001104|Stadthaus|bonn_schnellverkehr|1275|645
 vrr|22001115|B.-v.-Suttner-Pl./Beethovenhaus|bonn_schnellverkehr|1375|645
@@ -871,9 +876,10 @@ vrr|22006230|Großbüllesheim|bonn_schnellverkehr|510|765
 vrr|22009585|Derkum|bonn_schnellverkehr|510|670
 vrr|22006221|Weilerswist|bonn_schnellverkehr|510|575
 vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
+!transform:
 
 # Jakob Lüttgau <silentpark@gmail.com>
-
+!transform:0.84,0.84,-50,-50
 ||Agathenburg|hamburg_usar|354.60256|1323.17536
 ||Ahrensburg|hamburg_usar|1938.6432|580.61744
 ||Ahrensburg Ost|hamburg_usar|1910.12224|665.22976
@@ -1132,9 +1138,9 @@ vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
 ||Hauptbahnhof Süd|hamburg_usar|1374|1352
 ||Hamburg Hbf|hamburg_usar|1374|1247
 ||Hamburg Dammtor|hamburg_usar|1105.39312|1132.22928
+!transform:
 
 # Lucas Weiss <lucasweiss@web.de>
-
 db|936190|Diedrichshagen|rostock_region|733|310
 db|935056|Streuwiesenweg|rostock_region|672|274
 db|935219|Stolteraer Weg|rostock_region|659|230
@@ -1754,7 +1760,7 @@ db|935826|Kossow Krug|rostock_region|2234|1897
 db|935825|Kossow|rostock_region|2288|1899
 
 # Ben Lode <ben.lode@gmx.at>
-
+!transform:0.75,0.75
 wien|60201858|Aderklaaer Straße U|wien_susb|2064|297
 wien|60200027|Alser Straße U|wien_susb|1004|589
 wien|60200031|Alte Donau U|wien_susb|1865|490
@@ -1888,9 +1894,10 @@ wien|60201482|Wolf in der Au S|wien_susb|158|915
 wien|60201519|Zentralfriedhof S|wien_susb|1727|1453
 wien|60201530|Zieglergasse U|wien_susb|1008|954
 wien|60200399|Zippererstraße U|wien_susb|1693|1228
+!transform:
 
 # Alexander Simm <alexander.simm@stud.uni-goettingen.de>
-
+!transform:0.75,0.75
 vbn|1101008|Bahnhof/ZOB|goettingen|1022|856
 vbn|1110463|Kauf Park-Ost|goettingen|544|986
 vbn|1190463|Kauf Park-West|goettingen|511|986
@@ -2161,7 +2168,9 @@ vbn|1180601|Jahnstadion|goettingen|1166|1354
 vbn|1190291|Sandweg|goettingen|941|1356
 vbn|1190322|Marienstraße|goettingen|1044|1096
 vbn|1110301|Angerstraße|goettingen|1043|1131
+!transform:
 
+!transform:0.75,0.75
 vbn|1180211|Tulpenweg|goettingen_nacht|347|464
 vbn|1190813|Lindenweg|goettingen_nacht|329|388
 vbn|1190861|Straßburgstraße|goettingen_nacht|314|337
@@ -2224,9 +2233,10 @@ vbn|1190531|Bornbreite|goettingen_nacht|1297|1142
 vbn|1190501|Schöneberger Straße|goettingen_nacht|1321|1088
 vbn|1180431|Spandauer Weg|goettingen_nacht|1251|1103
 vbn|1190060|Weender Straße-West|goettingen_nacht|727|628
+!transform:
 
 # Carsten Braune <carsten.braune@googlemail.com>
-
+!transform:1.35477249,1.3552759
 vvo|33000191|Leutewitz|dresden|705|1660
 vvo|33000190|Gottfried-Keller-Str.|dresden|805|1660
 vvo|33000189|Cossebauder Straße|dresden|888|1660
@@ -3090,9 +3100,9 @@ vvo|33000839|Ob. Station Standseilbahn|dresden|2579|1066
 vvo|33000772|Tatzberg|dresden|2159|1291
 vvo|33006589|Bf. Weixdorf|dresden|1817|104
 vvo|33004220|Weißes Roß|dresden|596|920
+!transform:
 
 # Constantin Felden <constantinfelden44@gmail.com>
-
 mvv|1003240|Flughafen München|muenchen_schnellbahn|1978|195|15
 mvv|1002860|Flughafen,Besucherpark|muenchen_schnellbahn|1978|278|13
 mvv|1002680|Freising|muenchen_schnellbahn|1810|235|10
