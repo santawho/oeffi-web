@@ -3804,3 +3804,930 @@ mvv|1000655|Arabellapark/Klinikum Bogenhausen|muenchen_tram_metrobus|2540|508|28
 mvv|1000651|Arabellastraße|muenchen_tram_metrobus|2424|510|28
 mvv|1000007|Hackerbrücke|muenchen_tram_metrobus|1458|1088|28
 mvv|1000600|St. Emmeram|muenchen_tram_metrobus|2518|358|28
+
+﻿vrr|20036119|Emmerich|nrw_regio|652|296|13
+vrr|20036112|Praest|nrw_regio|678|328|5
+vrr|20040035|Millingen|nrw_regio|710|359|13
+vrr|20040024|Empel-Rees|nrw_regio|745|382|13
+vrr|20035840|Haldern|nrw_regio|769|410|13
+vrr|20037030|Mehrhoog|nrw_regio|795|438|13
+db|8006356|Wesel Feldmark|nrw_regio|823|460|13
+vrr|20036918|Wesel|nrw_regio|848|491|16
+vrr|20036447|Friedrichsfeld|nrw_regio|874|518|18
+vrr|20036966|Voerde|nrw_regio|902|546|18
+vrr|20036259|Dinslaken|nrw_regio|926|564|18
+vrr|20014453|OB-Holten|nrw_regio|951|588|16
+vrr|20014190|OB-Sterkrade|nrw_regio|970|616|16
+vrr|24060834|Bocholt|nrw_regio|862|279|7
+vrr|20037034|Dingden|nrw_regio|862|320|7
+vrr|20036619|Hamminkeln|nrw_regio|860|364|7
+db|8001030|Blumenkamp|nrw_regio|862|408|9
+vrr|20016021|Ruhrort|nrw_regio|807|609|9
+vrr|20016056|Meiderich Süd|nrw_regio|839|642|7
+vrr|20016162|Meiderich Ost|nrw_regio|872|674|5
+vrr|20016357|Obermeiderich|nrw_regio|903|703|9
+vrr|20014022|Oberhausen Hbf|nrw_regio|996|705|36
+vrr|20037032|Xanten|nrw_regio|689|686|7
+vrr|20036653|Alpen|nrw_regio|710|707|9
+vrr|20037031|Millingen|nrw_regio|729|728|9
+vrr|20037033|Rheinberg|nrw_regio|750|749|9
+vrr|20036308|Moers|nrw_regio|771|768|9
+vrr|20016537|Trompet|nrw_regio|792|791|7
+vrr|20016280|Rumeln|nrw_regio|813|810|9
+vrr|20021002|Krefeld Hbf|nrw_regio|496|913|31
+vrr|20021590|Oppum|nrw_regio|586|910|27
+vrr|20021061|Linn|nrw_regio|655|891|4
+vrr|20021089|Uerdingen|nrw_regio|724|898|9
+vrr|20021096|Hohenbudberg Chempark|nrw_regio|791|891|9
+vrr|20016450|Rheinhausen|nrw_regio|876|889|16
+vrr|20016452|Rheinhausen Ost|nrw_regio|913|892|5
+vrr|20016084|Hochfeld Süd|nrw_regio|946|891|5
+vrr|20016032|Duisburg Hbf|nrw_regio|1029|924|70
+vrr|20021989|Forsthaus|nrw_regio|423|929|9
+vrr|20021676|Anrath|nrw_regio|383|969|9
+vrr|20022005|Viersen|nrw_regio|355|1191|29
+vrr|20023007|Mönchengladbach Hbf|nrw_regio|353|1287|40
+vrr|20023023|Rheydt Hbf|nrw_regio|355|1349|31
+vrr|20023860|Wickrath|nrw_regio|355|1381|7
+vrr|20023559|Herrath|nrw_regio|353|1398|7
+vrr|21002648|Erkelenz|nrw_regio|347|1411|11
+vrr|21003896|Hückelhoven-Baal|nrw_regio|347|1427|9
+vrr|21003866|Brachelen|nrw_regio|353|1442|5
+vrr|21003272|Lindern|nrw_regio|347|1457|11
+vrr|21003220|Geilenkirchen|nrw_regio|353|1488|25
+vrr|21005952|Übach-Palenberg|nrw_regio|346|1519|13
+vrr|21003690|Herzogenrath|nrw_regio|353|1548|27
+vrr|21003750|Kohlscheid|nrw_regio|361|1588|13
+vrr|21001086|Aachen West|nrw_regio|353|1632|14
+vrr|21001016|Aachen Schanz|nrw_regio|353|1655|14
+vrr|21001008|Aachen Hbf|nrw_regio|346|1696|31
+vrr|21001646|Rothe Erde|nrw_regio|396|1696|16
+vrr|21001260|Eilendorf|nrw_regio|434|1683|7
+vrr|21005766|Stolberg|nrw_regio|477|1696|14
+vrr|21002828|Eschweiler hbf|nrw_regio|532|1702|13
+vrr|21004566|Langerwehe|nrw_regio|587|1696|16
+vrr|21002286|Düren|nrw_regio|669|1696|25
+vrr|22005252|Horrem|nrw_regio|764|1695|18
+vrr|22000835|Köln-Ehrenfeld|nrw_regio|855|1687|29
+vrr|22000008|Köln Hbf|nrw_regio|1049|1649|63
+vrr|80022257|EW-St. Jöris|nrw_regio|477|1631|5
+vrr|21001916|Alsdorf-Poststraße|nrw_regio|477|1607|7
+vrr|21002012|Alsdorf-Mariadorf|nrw_regio|477|1585|5
+vrr|21001900|Alsdorf-Kellersberg|nrw_regio|477|1562|4
+vrr|21001986|Alsdorf-Annapark|nrw_regio|477|1538|5
+vrr|21001924|Alsdorf-Busch|nrw_regio|452|1538|5
+vrr|21003768|August-Schmidt-Platz|nrw_regio|425|1538|7
+vrr|21003764|Alt Merkstein|nrw_regio|396|1539|7
+vrr|80021640|Eygelshoven Markt|nrw_regio|288|1538|5
+vrr|80004544|Landgraaf|nrw_regio|261|1538|7
+vrr|80004545|Heerlen|nrw_regio|152|1536|31
+vrr|80021643|Hergenrath|nrw_regio|326|1791|5
+vrr|80004378|Welkenraedt|nrw_regio|300|1830|25
+vrr|80020841|Verviers-Central|nrw_regio|256|1870|27
+db|8800012|Liege|nrw_regio|122|1897|25
+vrr|80020506|Pepinster|nrw_regio|191|1926|9
+vrr|80022361|Theux|nrw_regio|191|1957|7
+vrr|80022363|Spa-Geronstere|nrw_regio|191|1988|7
+db|8800110|Eupen|nrw_regio|311|1866|7
+vrr|21005758|Stolberg Schneidmühle|nrw_regio|450|1819|7
+vrr|21005786|Stolberg Mühlener Bahnhof|nrw_regio|414|1854|7
+vrr|21005792|Stolberg Rathaus|nrw_regio|382|1886|9
+vrr|21005788|Stolberg Altstadt|nrw_regio|353|1913|9
+vrr|21002836|Eschweiler West|nrw_regio|516|1655|5
+vrr|21002860|Eschweiler Talbahnhof|nrw_regio|541|1655|7
+vrr|21002932|Eschweiler-Nothberg|nrw_regio|565|1655|5
+vrr|21003020|Eschweiler-Weisweiler|nrw_regio|587|1655|9
+vrr|21002251|Annakirmesplatz|nrw_regio|669|1791|5
+vrr|21002341|Kuhbrücke|nrw_regio|645|1814|5
+vrr|21002493|Lendersdorf|nrw_regio|623|1836|7
+vrr|21002509|Renkerstraße|nrw_regio|602|1858|7
+vrr|21002541|Tuchmühle|nrw_regio|578|1881|7
+vrr|21004445|Kreuzau|nrw_regio|554|1904|7
+vrr|21004441|Kreuzau Eifelstraße|nrw_regio|532|1928|9
+vrr|21004487|Üdingen|nrw_regio|508|1950|9
+vrr|21004493|Untermaubach-Schlagstein|nrw_regio|486|1972|7
+vrr|21004463|Obermaubach|nrw_regio|463|1994|7
+vrr|21004919|Zerkall|nrw_regio|440|2018|7
+vrr|21004911|Nideggen|nrw_regio|417|2042|5
+vrr|21004897|Abenden|nrw_regio|395|2062|7
+vrr|21003385|Blens|nrw_regio|371|2086|7
+vrr|21003399|Hausen|nrw_regio|349|2108|7
+vrr|21003409|Heimbach|nrw_regio|326|2132|9
+vrr|21002427|Im Großen Tal|nrw_regio|669|1627|5
+vrr|21004995|Huchem-Stammeln|nrw_regio|671|1600|7
+vrr|21005031|Selhausen|nrw_regio|671|1575|5
+vrr|21005003|Krauthausen|nrw_regio|669|1550|5
+vrr|21004253|Selgersdorf|nrw_regio|671|1523|4
+vrr|21004217|Forschungszentrum|nrw_regio|671|1498|7
+vrr|21004188|Jülich|nrw_regio|671|1473|5
+vrr|21004136|Jülich Nord|nrw_regio|671|1448|5
+vrr|21004138|Broich|nrw_regio|644|1423|7
+vrr|21004654|Tetz|nrw_regio|617|1393|5
+vrr|21004592|Linnich|nrw_regio|575|1393|5
+||Binsfeld|nrw_regio|712|1765|7
+vrr|21005044|Bubenheim|nrw_regio|723|1776|7
+vrr|21006052|Jakobwüllesheim|nrw_regio|733|1786|7
+vrr|21006074|Vettweiß|nrw_regio|744|1796|5
+vrr|22007910|Zülpich|nrw_regio|754|1807|7
+vrr|22006303|Nemmenich|nrw_regio|763|1817|7
+vrr|22000036|Hansaring|nrw_regio|980|1591|23
+vrr|20035739|Kleve|nrw_regio|332|698|5
+vrr|20036118|Bedburg-Hau|nrw_regio|350|717|7
+vrr|20036116|Goch|nrw_regio|369|735|7
+vrr|20035896|Weeze|nrw_regio|388|756|7
+vrr|20036115|Kevelaer|nrw_regio|407|773|7
+vrr|20036117|Geldern|nrw_regio|427|793|7
+vrr|20036114|Nieukerk|nrw_regio|446|812|7
+vrr|20036113|Aldekerk|nrw_regio|465|831|5
+vrr|20021005|Kempen|nrw_regio|482|850|7
+vrr|20022229|Dülken|nrw_regio|310|1150|7
+vrr|20022181|Boisheim|nrw_regio|276|1114|7
+vrr|20023814|Breyell|nrw_regio|243|1080|5
+vrr|20023754|Kaldenkirchen|nrw_regio|210|1048|9
+vrr|24035561|Venlo|nrw_regio|158|996|27
+vrr|21006234|Dalheim|nrw_regio|133|1356|9
+vrr|21006208|Arsbeck|nrw_regio|157|1355|7
+vrr|21006340|Wegberg|nrw_regio|179|1356|9
+vrr|20023539|Genhausen|nrw_regio|201|1355|9
+vrr|20023235|Rheindahlen|nrw_regio|224|1356|7
+vrr|80022026|Heinsberg (Rheinl)|nrw_regio|136|1405|7
+vrr|80022027|Heinsberg Kreishaus|nrw_regio|154|1423|9
+vrr|80022033|Heinsberg-Oberbruch|nrw_regio|174|1442|7
+vrr|80022021|Heinsberg-Dremmern|nrw_regio|192|1458|7
+vrr|80022025|Heinsberg-Porselen|nrw_regio|219|1458|7
+vrr|80022024|Heinsberg-Horst|nrw_regio|247|1458|9
+vrr|80022023|Heinsberg-Randerath|nrw_regio|277|1458|7
+vrr|20023190|Rh.-Odenkirchen|nrw_regio|477|1349|9
+vrr|20023655|Hochneukirch|nrw_regio|596|1350|9
+vrr|20023812|Jüchen|nrw_regio|715|1349|11
+vrr|20020001|Grevenbroich|nrw_regio|797|1407|13
+vrr|20020259|Rommerskirchen|nrw_regio|852|1461|11
+vrr|22009570|Stommeln|nrw_regio|852|1534|11
+db|8004898|2006613|Pulheim|nrw_regio|854|1576|11
+vrr|20020369|Holzheim|nrw_regio|864|1340|9
+vrr|20020013|Kapellen-Wevelinghoven|nrw_regio|831|1373|5
+vrr|20020476|Gustorf|nrw_regio|766|1438|5
+vrr|20020478|Frimmersdorf|nrw_regio|766|1463|7
+vrr|22006791|Bedburg|nrw_regio|766|1488|7
+vrr|22009561|Glesch|nrw_regio|766|1514|7
+vrr|22009562|Paffendorf|nrw_regio|766|1539|7
+vrr|22009563|Zieverich|nrw_regio|766|1565|7
+vrr|22005301|Bergheim|nrw_regio|766|1591|7
+vrr|22007603|Quadrath-Ichendorf|nrw_regio|766|1616|7
+vrr|20020268|Dormagen|nrw_regio|916|1411|16
+vrr|20019871|Meerbusch-Osterath|nrw_regio|764|1099|13
+db|8003363|Köln West|nrw_regio|1043|1783|13
+vrr|22000876|Köln Süd|nrw_regio|1049|1799|13
+vrr|22005447|Hürth-Kalscheuren|nrw_regio|1059|1817|11
+vrr|22005447|Hürth-Kalscheuren|nrw_regio|1000|1816|11
+vrr|22005389|Kierberg|nrw_regio|954|1847|7
+vrr|22006913|Erftstadt|nrw_regio|921|1853|11
+vrr|22006221|Weilerswist|nrw_regio|891|1853|11
+vrr|22009585|Derkum|nrw_regio|857|1845|9
+vrr|22006230|Großbüllesheim|nrw_regio|826|1845|7
+vrr|22006058|Euskirchen|nrw_regio|794|1866|23
+vrr|22009587|Satzvey|nrw_regio|732|1879|9
+vrr|22006263|Mechernich|nrw_regio|727|1906|14
+vrr|22009588|Scheven|nrw_regio|700|1910|9
+vrr|22006346|Kall|nrw_regio|694|1935|13
+vrr|22006484|Urft|nrw_regio|668|1951|11
+vrr|22006381|Nettersheim|nrw_regio|645|1974|13
+vrr|22006429|Blankenheim|nrw_regio|624|1996|11
+vrr|22009589|Schmidtheim|nrw_regio|602|2018|11
+vrr|22006472|Dahlem|nrw_regio|575|2042|11
+vrr|80002743|Jünkerath|nrw_regio|553|2076|14
+vrr|80002779|Lissendorf|nrw_regio|529|2087|11
+vrr|80002876|Oberbettingen-Hillesheim|nrw_regio|516|2105|11
+vrr|15007296|Gerolstein|nrw_regio|501|2127|18
+vrr|22006055|Zuckerfabrik|nrw_regio|793|1934|9
+vrr|22009592|Stotzheim|nrw_regio|794|1956|7
+vrr|22009593|Kreuzweingarten|nrw_regio|793|1978|7
+vrr|22006140|Arloff|nrw_regio|793|2000|9
+vrr|22006137|Iversheim|nrw_regio|793|2022|9
+vrr|22006099|Bad Münstereifel|nrw_regio|793|2045|9
+vrr|15009609|Ahrbrück|nrw_regio|632|2070|7
+vrr|80002768|Kreuzberg|nrw_regio|665|2070|5
+vrr|80002662|Altenahr|nrw_regio|696|2070|9
+vrr|80002783|Mayschloß|nrw_regio|729|2070|9
+vrr|15001582|Rech|nrw_regio|761|2070|7
+vrr|15009612|Dernau|nrw_regio|793|2078|9
+vrr|80002852|Walporzheim|nrw_regio|826|2078|9
+vrr|80002660|Ahrweiler Markt|nrw_regio|858|2076|9
+vrr|15001987|Ahrweiler|nrw_regio|890|2078|11
+vrr|15007968|Bad Neuenahr|nrw_regio|921|2077|9
+vrr|15002853|Heimersheim|nrw_regio|954|2077|9
+vrr|15007261|Bad Bodendorf|nrw_regio|988|2077|9
+vrr|15012944|Remagen|nrw_regio|1059|2076|25
+db|8005580|Sinzig|nrw_regio|1074|2107|7
+vrr|15001585|Bad Breisig|nrw_regio|1074|2123|7
+vrr|80000544|Brohl|nrw_regio|1068|2141|5
+vrr|80000571|Oberwinter|nrw_regio|1061|2027|13
+db|8005153|Rolandseck|nrw_regio|1054|2006|13
+vrr|22001762|Mehlem|nrw_regio|1052|1956|11
+vrr|22000161|Bad Godesberg|nrw_regio|1059|1935|13
+vrr|22000687|Bonn Hbf|nrw_regio|1062|1901|25
+vrr|22009601|Roisdorf|nrw_regio|1059|1867|9
+vrr|22005351|Sechtem|nrw_regio|1059|1851|11
+vrr|22005352|Brühl|nrw_regio|1067|1833|11
+vrr|22000036|K Hansaring|nrw_regio|979|1593|29
+vrr|22000041|Köln Messe/Deutz|nrw_regio|1214|1647|67
+vrr|22000816|Trimbornst|nrw_regio|1301|1643|16
+vrr|22000657|Köln Frankfurter Str|nrw_regio|1341|1637|9
+vrr|22000892|Köln/Bonn Flughafen|nrw_regio|1343|1751|27
+vrr|22000468|Köln Porz|nrw_regio|1287|1782|13
+vrr|22002071|Troisdorf|nrw_regio|1301|1832|22
+vrr|22002066|Fr.-Wilhelmshütte|nrw_regio|1287|1878|7
+vrr|22001823|Menden (Rheinland)|nrw_regio|1293|1895|9
+vrr|22001504|Bonn-Beuel|nrw_regio|1295|1912|9
+vrr|22009624|Bonn-Oberkassel|nrw_regio|1293|1928|9
+vrr|22002179|Niederdollendorf|nrw_regio|1293|1944|9
+vrr|22002182|Königswinter|nrw_regio|1293|1960|9
+vrr|22001781|Rhöndorf|nrw_regio|1293|1977|9
+vrr|22001797|Bad Honnef|nrw_regio|1293|1993|9
+vrr|15009678|Unkel|nrw_regio|1293|2009|9
+vrr|15009677|Erpel|nrw_regio|1287|2025|7
+vrr|15009676|Linz|nrw_regio|1293|2042|9
+vrr|15010137|Leubsdorf|nrw_regio|1287|2059|7
+vrr|15010105|Bad Hönningen|nrw_regio|1293|2076|9
+vrr|15010106|Rheinbrohl|nrw_regio|1287|2090|7
+vrr|15012964|Leutesdorf|nrw_regio|1287|2107|7
+vrr|15010107|Neuwied|nrw_regio|1293|2124|9
+vrr|15010110|Engers|nrw_regio|1302|2141|7
+vrr|22001811|Siegburg/Bonn|nrw_regio|1410|1832|29
+vrr|22002243|Hennef|nrw_regio|1463|1832|11
+vrr|22002461|Eitorf|nrw_regio|1499|1830|11
+vrr|22004688|Herchen|nrw_regio|1536|1830|13
+vrr|22004728|Schladern|nrw_regio|1572|1833|13
+vrr|22004719|Au (Sieg)|nrw_regio|1608|1826|11
+vrr|15007328|Etzbach|nrw_regio|1652|1819|7
+vrr|15016513|Wissen|nrw_regio|1690|1824|9
+vrr|15001580|Niederhövels|nrw_regio|1728|1819|7
+vrr|15007305|Scheuerfeld|nrw_regio|1766|1819|9
+vrr|15005278|Betzdorf|nrw_regio|1803|1824|14
+vrr|15001583|Kirchen|nrw_regio|1845|1819|14
+vrr|15012937|Freusburg Siedlung|nrw_regio|1880|1813|11
+vrr|15001578|Brachbach|nrw_regio|1916|1819|14
+vrr|15012938|Mudersbach|nrw_regio|1953|1811|11
+vrr|80002075|Niederschelden|nrw_regio|1989|1811|11
+vrr|23510099|Niederschelden Nord|nrw_regio|2025|1811|11
+vrr|23510098|Eiserfeld|nrw_regio|2061|1813|11
+vrr|23510097|Siegen|nrw_regio|2110|1819|29
+vrr|22008215|Geilhausen|nrw_regio|1608|1898|7
+vrr|15001596|Hohegrete|nrw_regio|1608|1917|5
+vrr|15008233|Breitscheidt|nrw_regio|1608|1937|7
+vrr|15001594|Kloster Marienthal|nrw_regio|1608|1958|7
+vrr|15008235|Obererbach|nrw_regio|1608|1977|7
+vrr|15002716|Altenkirchen|nrw_regio|1608|1999|7
+vrr|15008237|Ingelbach|nrw_regio|1608|2019|7
+vrr|15001586|Alsdorf|nrw_regio|1804|1904|7
+vrr|15001597|Schutzbach|nrw_regio|1803|1925|7
+vrr|15001595|Niederdreisbach|nrw_regio|1803|1944|7
+vrr|15001589|Biersdorf Bf|nrw_regio|1803|1965|9
+vrr|15001590|Biersdorf Ort|nrw_regio|1804|1985|7
+vrr|15009186|Daaden|nrw_regio|1804|2005|7
+vrr|22006992|Rösrath-Stümpen|nrw_regio|1368|1627|7
+vrr|22003767|Rösrath|nrw_regio|1390|1628|7
+vrr|22003964|Hoffnungsthal|nrw_regio|1411|1628|7
+vrr|22009639|Honrath|nrw_regio|1430|1628|7
+vrr|22003845|Overath|nrw_regio|1454|1627|5
+vrr|22003857|Engelskirchen|nrw_regio|1472|1609|7
+vrr|22003862|Ründeroth|nrw_regio|1492|1590|7
+vrr|22003874|Dieringhausen|nrw_regio|1508|1572|5
+vrr|22003883|Gummersbach|nrw_regio|1526|1553|5
+vrr|22004113|Marienheide|nrw_regio|1545|1535|7
+vrr|24202630|Meinerzhagen|nrw_regio|1563|1517|7
+vrr|15001587|Grünebacherhütte|nrw_regio|1854|1863|7
+vrr|15001581|Grünebach Ort|nrw_regio|1879|1888|7
+vrr|15001591|Sassenroth|nrw_regio|1906|1913|7
+vrr|15001592|Königsstollen|nrw_regio|1946|1913|9
+vrr|15001593|Herdorf|nrw_regio|1992|1913|5
+vrr|23510100|Struthütten|nrw_regio|2038|1915|7
+vrr|23510101|Altenseelbach|nrw_regio|2083|1913|7
+vrr|23510102|Neunkirchen|nrw_regio|2128|1915|9
+vrr|23510892|Wahlbach|nrw_regio|2172|1913|9
+vrr|23510320|Burbach|nrw_regio|2217|1915|7
+vrr|23510799|Würgendorf Ort|nrw_regio|2262|1913|7
+vrr|23510798|Würgendorf|nrw_regio|2308|1913|9
+vrr|23510891|Holzhausen|nrw_regio|2351|1915|7
+vrr|23510637|Niederdresselndorf|nrw_regio|2397|1913|7
+vrr|80004256|Allendorf|nrw_regio|2442|1913|7
+vrr|80004257|Haiger Obertor|nrw_regio|2487|1913|7
+vrr|23510219|Haiger|nrw_regio|2539|1904|14
+vrr|80004125|Sechshelden|nrw_regio|2582|1944|16
+vrr|23510163|Dillenburg|nrw_regio|2625|1988|16
+vrr|23510177|Herborn|nrw_regio|2649|2013|7
+vrr|80004124|Rodenbach|nrw_regio|2470|1819|9
+vrr|80004123|Dillbrecht|nrw_regio|2366|1819|9
+vrr|23510688|Wilnsdorf-Rudersdorf|nrw_regio|2240|1819|5
+vrr|23510529|Siegen-Weidenau|nrw_regio|2110|1779|14
+vrr|23510528|Siegen-Geisweid|nrw_regio|2111|1743|9
+vrr|23510191|Kreuztal|nrw_regio|2064|1712|16
+vrr|23510400|Kreuztal-Eichen|nrw_regio|2041|1687|7
+vrr|23510583|Kreuztal-Littfeld|nrw_regio|2021|1666|9
+vrr|23510767|Kirchhundem-Welschem-Ennest|nrw_regio|1994|1649|11
+vrr|23510546|Kirchhundem|nrw_regio|1977|1625|7
+vrr|23510238|Lennestadt-Altenhundem|nrw_regio|1952|1609|11
+vrr|23510605|Lennestadt-Meggen|nrw_regio|1939|1584|7
+vrr|23510472|Lennestadt-Grevenbrück|nrw_regio|1910|1569|9
+vrr|23511047|Finnentrop|nrw_regio|1891|1548|7
+vrr|23510438|Ferndorf|nrw_regio|2147|1704|7
+vrr|23510554|Kredenbach|nrw_regio|2184|1702|7
+vrr|23510333|Dahlbruch|nrw_regio|2221|1702|7
+vrr|23510511|Hillnhütten|nrw_regio|2256|1704|7
+vrr|23510731|Stift Keppel-Allenbach|nrw_regio|2291|1704|7
+vrr|23510508|Hilchenbach|nrw_regio|2327|1702|7
+vrr|23510759|Vormwald Dorf|nrw_regio|2364|1704|7
+vrr|23510758|Vormwald|nrw_regio|2399|1704|7
+vrr|23510893|Lützel|nrw_regio|2437|1702|7
+vrr|23510413|Erndtebrück|nrw_regio|2472|1711|13
+vrr|23510285|Birkelbach|nrw_regio|2505|1702|7
+vrr|23510252|Aue-Wingeshausen|nrw_regio|2540|1702|7
+vrr|23510270|Berghausen|nrw_regio|2575|1702|7
+vrr|23510675|Raumland-Markhausen|nrw_regio|2610|1702|7
+vrr|23510700|Erndtebrück-Schameder|nrw_regio|2521|1730|7
+vrr|23510568|Erndtebrück-Leimstruth|nrw_regio|2544|1754|7
+vrr|23510651|Bad Laasphe-Oberndorf|nrw_regio|2568|1779|7
+vrr|23510439|Bad Laasphe-Feudingen|nrw_regio|2593|1803|7
+vrr|23510560|Bad Laasphe|nrw_regio|2617|1828|5
+vrr|23511628|Bad Laasphe-Niederlaasphe|nrw_regio|2640|1852|7
+vrr|23510495|Heggen|nrw_regio|1852|1586|7
+vrr|23510250|Attendorn|nrw_regio|1833|1604|5
+vrr|23510553|Kraghammer|nrw_regio|1791|1627|7
+vrr|23510582|Listerscheid|nrw_regio|1768|1627|5
+vrr|23510861|Attendorn-Hohen Hagen|nrw_regio|1742|1628|7
+vrr|23510718|Sondern|nrw_regio|1718|1627|7
+vrr|23510401|Eichhagen|nrw_regio|1693|1627|7
+vrr|23514415|Olpe|nrw_regio|1669|1627|7
+vrr|24202854|Plettenberg|nrw_regio|1871|1525|9
+vrr|24203200|Werdohl|nrw_regio|1849|1504|11
+vrr|24202403|Altena|nrw_regio|1828|1483|9
+vrr|24201001|Letmathe|nrw_regio|1789|1441|14
+vrr|20002059|Hohenlimburg|nrw_regio|1789|1375|9
+vrr|24205999|Letmathe Dechenhöhle|nrw_regio|1880|1443|13
+vrr|24200505|Iserlohn|nrw_regio|1988|1441|14
+vrr|24206021|Iserlohnerheide|nrw_regio|1995|1408|7
+vrr|24200748|Kalthof|nrw_regio|1995|1385|7
+vrr|24206023|Hennen|nrw_regio|1995|1361|7
+vrr|24063617|Ergste|nrw_regio|1995|1336|7
+vrr|24200006|Lüdenscheid|nrw_regio|1611|1483|7
+vrr|24200040|Brügge|nrw_regio|1595|1471|5
+vrr|24206003|Schalksmühle|nrw_regio|1621|1443|7
+vrr|24203434|Dahlerbrück|nrw_regio|1649|1417|7
+vrr|20002298|Rummenohl|nrw_regio|1674|1391|7
+vrr|20002300|Dahl|nrw_regio|1698|1364|7
+vrr|20002087|HA-Oberhagen|nrw_regio|1726|1340|7
+vrr|20002007|Hagen Hbf|nrw_regio|1810|1296|38
+vrr|24063583|Schwerte|nrw_regio|1997|1291|27
+vrr|24032759|Fröndenberg|nrw_regio|2170|1289|13
+vrr|24202072|Bösperde|nrw_regio|2170|1352|5
+vrr|24202003|Menden (Sauerland)|nrw_regio|2168|1373|7
+vrr|24206058|Menden Süd|nrw_regio|2168|1394|7
+vrr|24202062|Lendringsen|nrw_regio|2168|1413|7
+vrr|24203023|Binolen|nrw_regio|2170|1434|7
+vrr|24203024|Volkringhausen|nrw_regio|2186|1450|7
+vrr|24203017|Sanssouci|nrw_regio|2201|1466|7
+vrr|24203000|Balve|nrw_regio|2217|1482|7
+vrr|24203027|Garbeck|nrw_regio|2231|1496|7
+vrr|24203116|Küntrop|nrw_regio|2247|1513|7
+vrr|24203141|Neuenrade|nrw_regio|2263|1527|7
+vrr|24012104|Winterberg|nrw_regio|2430|1466|7
+vrr|14031745|Silbach|nrw_regio|2399|1434|7
+vrr|24024500|Siedlinghausen|nrw_regio|2399|1394|7
+vrr|24011312|Bigge|nrw_regio|2399|1356|7
+vrr|24035446|Korbach|nrw_regio|2464|1436|5
+vrr|24035522|Usseln|nrw_regio|2464|1403|5
+vrr|24039999|Willingen|nrw_regio|2464|1371|5
+vrr|24011078|Wickede|nrw_regio|2203|1289|9
+db|8004228|Neheim-Hüsten|nrw_regio|2236|1289|9
+vrr|24060854|Arnsberg|nrw_regio|2268|1289|11
+vrr|24035319|Oeventrop|nrw_regio|2301|1289|7
+vrr|24011240|Freienohl|nrw_regio|2333|1289|9
+vrr|24011542|Meschede|nrw_regio|2366|1289|9
+vrr|24011524|Bestwig|nrw_regio|2399|1298|13
+vrr|24011310|Olsberg|nrw_regio|2425|1298|13
+vrr|24060005|Brilon Wald|nrw_regio|2464|1298|16
+vrr|24063359|Brilon Stadt|nrw_regio|2532|1224|11
+vrr|24011512|Bredelar|nrw_regio|2514|1296|7
+vrr|24011467|Marsberg|nrw_regio|2539|1296|5
+vrr|24035292|Westheim|nrw_regio|2567|1298|9
+vrr|23208118|Scherfede|nrw_regio|2593|1296|7
+vrr|23208130|Warburg|nrw_regio|2645|1296|22
+vrr|23226015|Hofgeismar-Hümme|nrw_regio|2670|1384|7
+vrr|23208586|Hofgeismar|nrw_regio|2656|1403|14
+vrr|23209892|Willebadessen|nrw_regio|2649|1226|13
+vrr|23207131|Altenbeken|nrw_regio|2649|1118|25
+vrr|23207177|Bad Driburg|nrw_regio|2685|1118|7
+vrr|23207413|Brakel|nrw_regio|2708|1118|7
+vrr|23207718|Ottbergen|nrw_regio|2729|1127|11
+vrr|23207305|Wehrden|nrw_regio|2729|1202|7
+vrr|80000488|Lauenförde-Beverungen|nrw_regio|2754|1226|7
+vrr|23207313|Bad Karlshafen|nrw_regio|2778|1252|5
+vrr|80000453|Bodenfelde|nrw_regio|2802|1277|7
+vrr|23209033|Godelheim|nrw_regio|2747|1118|7
+vrr|23207700|Höxter Rathaus|nrw_regio|2769|1116|7
+vrr|23209023|Lüchtringen|nrw_regio|2785|1100|5
+vrr|80002250|Holzminden|nrw_regio|2802|1085|9
+vrr|80002347|Stadtoldendorf|nrw_regio|2818|1067|7
+vrr|80000481|Kreiensen|nrw_regio|2836|1050|7
+vrr|80000321|Steinheim|nrw_regio|2731|1041|7
+vrr|23003764|Schieder|nrw_regio|2797|973|7
+vrr|23002354|Lügde|nrw_regio|2797|892|7
+vrr|23210082|Sandebeck|nrw_regio|2657|1039|7
+vrr|23003424|Leopoldstal|nrw_regio|2656|985|9
+vrr|23003382|Hom-Bad Meinberg|nrw_regio|2649|931|11
+vrr|23002000|Detmold|nrw_regio|2649|877|13
+vrr|23002200|Lage|nrw_regio|2649|808|14
+vrr|23009016|Hörstmar|nrw_regio|2682|801|7
+vrr|23002500|Lemgo|nrw_regio|2701|801|7
+vrr|23020016|Lemgo-Lüttfeld|nrw_regio|2717|801|5
+vrr|80000508|Bad Pyrmont|nrw_regio|2797|807|7
+vrr|80002195|Emmerthal|nrw_regio|2797|731|9
+vrr|80000476|Hameln|nrw_regio|2797|647|14
+vrr|80002243|Hessisch Oldendorf|nrw_regio|2797|599|7
+vrr|80002332|Rinteln|nrw_regio|2797|546|7
+vrr|23004907|Vlotho|nrw_regio|2797|495|7
+vrr|23001028|Bad Oeynhausen Süd|nrw_regio|2797|443|7
+vrr|23001741|Löhne|nrw_regio|2621|443|16
+db|8002824|Hiddenhausen-Schweicheln|nrw_regio|2593|485|9
+vrr|23001380|Herford|nrw_regio|2621|529|34
+vrr|23002223|Bad Salzuflen|nrw_regio|2656|651|7
+vrr|23002390|Schötmar|nrw_regio|2656|689|9
+vrr|23002210|Sylbach|nrw_regio|2657|730|9
+vrr|23003566|Ehlenbruch|nrw_regio|2617|801|7
+vrr|23003896|Helpup|nrw_regio|2595|801|7
+vrr|23003885|Oerlinghausen|nrw_regio|2574|791|11
+vrr|23005619|Ubbedissen|nrw_regio|2565|772|7
+vrr|23005062|Oldentrup|nrw_regio|2553|761|7
+vrr|23005390|Bielefeld Ost|nrw_regio|2542|747|5
+vrr|23005500|Bielefeld|nrw_regio|2495|716|31
+vrr|23005060|Brake|nrw_regio|2568|623|9
+vrr|23005059|Brackwede|nrw_regio|2422|770|20
+vrr|23005727|Isselhorst-Avenwedde|nrw_regio|2408|815|7
+vrr|23010385|Bl-Senne|nrw_regio|2498|850|7
+vrr|23009042|Bl-Windelsbleiche|nrw_regio|2498|878|7
+vrr|23009024|Bl-Sennestadt|nrw_regio|2498|901|7
+vrr|23006664|Schloß Holte|nrw_regio|2497|925|7
+vrr|23207253|Hövelriege|nrw_regio|2497|948|7
+vrr|23206144|Hövelhof|nrw_regio|2497|973|7
+vrr|23209028|Pb-Sennelager|nrw_regio|2498|997|7
+vrr|23240312|PB-Schloß Neuhaus|nrw_regio|2498|1022|7
+vrr|23207087|PB Nord|nrw_regio|2497|1046|7
+vrr|23207015|PB-Kasseler Tor|nrw_regio|2498|1069|7
+vrr|23207000|Paderborn Hbf|nrw_regio|2497|1116|29
+vrr|23208025|Scharmede|nrw_regio|2462|1144|7
+vrr|23208016|Salzkotten|nrw_regio|2437|1146|5
+vrr|24032585|Geseke|nrw_regio|2415|1144|5
+vrr|24035377|Ehringhausen|nrw_regio|2390|1146|7
+vrr|24035376|Dedinghausen|nrw_regio|2366|1146|7
+vrr|24011593|Lippstadt|nrw_regio|2310|1137|22
+vrr|24060002|Bad Sassendorf|nrw_regio|2277|1146|7
+vrr|24011246|Soest|nrw_regio|2217|1139|22
+vrr|24012851|Borgeln|nrw_regio|2177|1071|7
+vrr|24012909|Welver|nrw_regio|2118|1013|7
+vrr|24007756|Hamm|nrw_regio|2008|946|34
+vrr|24007120|Heessen|nrw_regio|2123|945|11
+vrr|24014679|Ahlen|nrw_regio|2174|946|9
+vrr|24014606|Neubeckum|nrw_regio|2224|945|11
+vrr|24014717|Oelde|nrw_regio|2273|945|9
+vrr|23006516|Rheda-Wiedenbrück|nrw_regio|2329|894|14
+vrr|23005947|Gütersloh Hbf|nrw_regio|2364|859|22
+vrr|23006102|Herzebrock|nrw_regio|2277|842|9
+vrr|23006101|Clarholz|nrw_regio|2238|803|7
+vrr|24035258|Beelen|nrw_regio|2200|765|7
+vrr|80000451|Warendorf|nrw_regio|2163|728|7
+vrr|23001033|Bad Oeynhausen|nrw_regio|2623|396|22
+vrr|23007595|Porta Westfalica|nrw_regio|2623|348|16
+vrr|23004213|Minden|nrw_regio|2623|299|25
+vrr|80000451|Bückeburg|nrw_regio|2808|298|11
+vrr|23004479|Petershagen-Lahde|nrw_regio|2609|242|9
+vrr|80002291|Leese-Stolzenau|nrw_regio|2609|221|11
+vrr|23004738|Rahden|nrw_regio|2493|221|7
+vrr|23001272|Espelkamp|nrw_regio|2493|258|7
+vrr|23001850|Lübbecke|nrw_regio|2493|293|7
+vrr|23006087|Holzhausen-Heddinghausen|nrw_regio|2493|329|7
+vrr|23004787|Neue Mühle|nrw_regio|2493|366|7
+vrr|23009034|Bieren-Rödinghausen|nrw_regio|2493|401|5
+vrr|23001120|Bünde|nrw_regio|2505|464|22
+vrr|23001695|Kirchlengern|nrw_regio|2546|462|11
+vrr|24060845|Osnabrück Hbf|nrw_regio|2271|249|27
+vrr|24035811|Wissingen|nrw_regio|2371|301|7
+vrr|24035817|Westerhausen|nrw_regio|2409|340|7
+vrr|24035812|Melle|nrw_regio|2434|466|11
+vrr|24035813|Bruchmühlen|nrw_regio|2469|471|9
+vrr|24036538|OS-Sutthausen|nrw_regio|2271|327|7
+vrr|80020905|Oesede|nrw_regio|2271|357|9
+vrr|24036916|Kloster Oesede|nrw_regio|2271|387|7
+vrr|24036917|Wellendorf|nrw_regio|2271|417|9
+vrr|24036915|Hilter|nrw_regio|2271|445|7
+vrr|24036914|Dissen-Bad Rothenfelde|nrw_regio|2271|474|5
+vrr|23006281|Westbarthausen|nrw_regio|2271|502|7
+vrr|23006337|Borgholzhausen|nrw_regio|2271|534|7
+vrr|23009037|Hesseln|nrw_regio|2271|562|7
+vrr|23010183|Quelle-Kupferheide|nrw_regio|2374|726|7
+vrr|23005063|Quelle|nrw_regio|2353|705|7
+vrr|23006340|Steinhagen Bielefelder Str|nrw_regio|2333|684|7
+vrr|23006714|Steinhagen|nrw_regio|2313|663|7
+vrr|23009040|Künsebeck|nrw_regio|2292|642|7
+vrr|23006033|Halle|nrw_regio|2270|619|7
+vrr|23009036|Halle Gerry-Weber-Stadion|nrw_regio|2271|592|7
+vrr|24029620|Halen|nrw_regio|2210|207|7
+vrr|24035267|OS-Altstadt|nrw_regio|2210|244|14
+vrr|24060007|Ibbenbüren-Laggenbeck|nrw_regio|2165|259|11
+vrr|24014317|Ibbenbüren|nrw_regio|2132|259|11
+vrr|24013311|Ibbenbüren-Esch|nrw_regio|2098|259|11
+vrr|24060000|Hörstel|nrw_regio|2067|258|9
+vrr|24035268|Hasbergen|nrw_regio|2186|343|9
+vrr|24035269|Natrup-Hagen|nrw_regio|2161|368|7
+vrr|24014087|Lengerich|nrw_regio|2135|394|7
+vrr|24013198|Kattenvenne|nrw_regio|2109|420|9
+vrr|24033341|Ostbevern|nrw_regio|2083|445|9
+vrr|24031378|Westbevern|nrw_regio|2060|469|9
+vrr|24060846|Rheine|nrw_regio|1985|263|29
+vrr|24013927|Rheine-Mesum|nrw_regio|1990|299|7
+vrr|24013729|Emsdetten|nrw_regio|2001|319|11
+vrr|24013031|Reckenfeld|nrw_regio|1990|336|7
+vrr|24030003|Greven|nrw_regio|2002|355|11
+vrr|24046742|MS-Sprakel|nrw_regio|1988|375|7
+vrr|24041531|MS Zentrum Nord|nrw_regio|1974|445|14
+vrr|24041000|Münster Hbf|nrw_regio|1997|525|32
+vrr|24030476|Telgte|nrw_regio|2086|651|9
+db|8006207|WAF Einen-Müssingen|nrw_regio|2123|688|9
+vrr|24047228|MS-Hiltrup|nrw_regio|2009|637|14
+vrr|24035260|Rinkerode|nrw_regio|2016|688|7
+vrr|24064230|Drensteinfurt|nrw_regio|2009|737|14
+vrr|24060015|Mersch|nrw_regio|2016|784|7
+vrr|24035259|Bockum-Hövel|nrw_regio|2016|835|7
+vrr|24021858|Nordbögge|nrw_regio|1969|924|9
+vrr|24011186|Kamen|nrw_regio|1952|941|11
+vrr|24011188|Kamen-Methler|nrw_regio|1934|920|9
+vrr|20000298|Do-Kurl|nrw_regio|1917|925|9
+vrr|20000162|DO-Scharnhorst|nrw_regio|1899|925|9
+vrr|20000131|Dortmund Hbf|nrw_regio|1845|952|45
+vrr|20000274|DO-Kirchderne|nrw_regio|1843|796|11
+vrr|20000114|DO-Derne|nrw_regio|1843|772|11
+vrr|24011213|Preußen|nrw_regio|1843|749|11
+vrr|24016135|Lünen Hbf|nrw_regio|1843|724|11
+vrr|24060001|Werne|nrw_regio|1868|702|7
+vrr|24015733|Capelle|nrw_regio|1891|679|9
+vrr|24016014|Ascheberg|nrw_regio|1913|656|7
+vrr|24062124|Davensberg|nrw_regio|1936|635|7
+vrr|24047600|MS-Amelsbüren|nrw_regio|1959|611|7
+vrr|24021696|Bork|nrw_regio|1821|702|7
+vrr|24016102|Selm-Beifang|nrw_regio|1787|668|7
+vrr|24016093|Selm|nrw_regio|1754|635|7
+vrr|24015617|Lüddinghausen|nrw_regio|1721|604|7
+vrr|24015351|Dülmen|nrw_regio|1651|532|16
+vrr|24019113|Lette|nrw_regio|1594|474|7
+vrr|24016602|Coesfeld|nrw_regio|1532|415|16
+vrr|24016685|Rosendahl-Holtwick|nrw_regio|1510|390|7
+vrr|24017491|Legden|nrw_regio|1490|369|5
+vrr|24016386|Ahaus|nrw_regio|1471|352|7
+vrr|24029984|Epe|nrw_regio|1454|333|9
+vrr|24016870|Gronau|nrw_regio|1447|306|11
+vrr|24035449|Glanerbrug|nrw_regio|1393|306|11
+vrr|24035448|De Eschmarke|nrw_regio|1363|305|13
+vrr|24060362|Enschede|nrw_regio|1314|305|22
+vrr|24031053|Ochtrup|nrw_regio|1503|298|7
+vrr|24012977|Metelen Land|nrw_regio|1557|299|7
+vrr|24016548|Steinfurt-Burgsteinfurt|nrw_regio|1615|298|7
+vrr|24063782|Steinfurt-Grottenkamp|nrw_regio|1672|298|7
+vrr|24031280|Steinfurt-Borghorst|nrw_regio|1728|298|9
+vrr|24031258|Nordwalde|nrw_regio|1796|298|5
+vrr|24062012|Altenberge|nrw_regio|1891|336|7
+vrr|24048521|Münster Häger|nrw_regio|1936|383|7
+vrr|80002341|Salzbergen|nrw_regio|1885|258|9
+vrr|80000518|Schüttorf|nrw_regio|1842|265|5
+vrr|80000455|Bad Bentheim|nrw_regio|1794|263|20
+vrr|24046625|MS-Roxel|nrw_regio|1849|467|7
+vrr|24030583|Havixbeck|nrw_regio|1796|417|7
+vrr|24030008|Billerbeck|nrw_regio|1749|415|7
+vrr|24035257|Lutum|nrw_regio|1700|415|7
+vrr|24017181|Coesfeld Schulzentrum|nrw_regio|1653|415|9
+vrr|24016643|Maria Veen|nrw_regio|1405|415|7
+vrr|24016598|Reken|nrw_regio|1366|415|7
+vrr|20004092|Dorsten Lembeck|nrw_regio|1330|415|7
+vrr|20003999|Dorsten Wulfen|nrw_regio|1293|415|7
+vrr|24046350|MS-Albachten|nrw_regio|1875|534|11
+vrr|24060012|Bösensell|nrw_regio|1824|532|11
+vrr|24017104|Notulln-Appelhülsen|nrw_regio|1773|530|11
+vrr|24015349|Buldern|nrw_regio|1721|530|11
+vrr|20004936|Sythen|nrw_regio|1594|534|11
+vrr|20003527|Haltern am See|nrw_regio|1527|532|14
+vrr|20003703|Marl-Sinsen|nrw_regio|1527|560|11
+vrr|20003581|Recklinghausen Hbf|nrw_regio|1534|595|18
+vrr|20003644|RE-Süd|nrw_regio|1541|632|11
+vrr|20007501|Herne|nrw_regio|1691|689|23
+vrr|20000925|Castrop-Rauxel Hbf|nrw_regio|1707|759|13
+vrr|20000343|DO-Mengede|nrw_regio|1707|815|11
+vrr|20007500|HER-Börnig|nrw_regio|1674|723|7
+vrr|20005808|C.-R. Süd|nrw_regio|1672|742|5
+vrr|20005793|C.-R.-Merklinde|nrw_regio|1674|763|7
+vrr|20000697|DO-Bövinghausen|nrw_regio|1674|784|7
+vrr|20000698|DO-Lütgendortmund Nord|nrw_regio|1674|805|7
+vrr|20000337|DO-Marten|nrw_regio|1672|826|7
+vrr|20000390|DO-Rahm|nrw_regio|1674|845|7
+vrr|20000830|DO-Huckarde Nord|nrw_regio|1672|864|7
+vrr|20007590|Herne-Wanne-Eickel Hbf|nrw_regio|1534|712|29
+vrr|20005354|BO-Riemke|nrw_regio|1534|775|7
+vrr|20005987|BO-Hamme|nrw_regio|1534|808|7
+vrr|20005925|BO-West|nrw_regio|1536|840|7
+vrr|20005194|Bochum Hbf|nrw_regio|1534|945|27
+vrr|20000196|DO-Dorstfeld|nrw_regio|1691|995|14
+vrr|20005503|Wattenscheid|nrw_regio|1475|941|16
+vrr|20009406|E-Kray Süd|nrw_regio|1424|911|7
+vrr|20009289|Essen Hbf|nrw_regio|1342|955|38
+vrr|20006700|BO-Ehrenfeld|nrw_regio|1496|980|7
+vrr|20005504|Wattenscheid-Höntrop|nrw_regio|1475|981|7
+vrr|20009213|E-Eiberg|nrw_regio|1456|980|7
+vrr|20009584|E-Steele Ost|nrw_regio|1426|988|9
+vrr|20009582|E-Steele|nrw_regio|1412|994|9
+vrr|20009703|E-Horst|nrw_regio|1435|1004|7
+vrr|20005418|BO-Dahlhausen|nrw_regio|1449|1018|7
+vrr|20008435|Hattingen (Ruhr)|nrw_regio|1463|1030|7
+vrr|20008437|Hattingen Mitte|nrw_regio|1475|1044|7
+vrr|20005868|BO-Langendreer West|nrw_regio|1567|980|7
+vrr|20005455|BO-Langendreer|nrw_regio|1588|981|7
+vrr|20000635|DO-Kley|nrw_regio|1609|980|7
+vrr|20000640|DO-Oespel|nrw_regio|1630|981|7
+vrr|20000472|DO-Universität|nrw_regio|1651|980|7
+vrr|20000825|DO-Dorstfeld Süd|nrw_regio|1670|981|7
+vrr|20000066|DO West|nrw_regio|1714|1008|7
+vrr|20000352|DO-Möllerbrücke|nrw_regio|1733|1008|7
+vrr|20000831|DO Körne West|nrw_regio|1777|1008|5
+vrr|20000132|DO-Stadthaus|nrw_regio|1794|1008|5
+vrr|20000831|DO Körne West|nrw_regio|1892|1008|7
+vrr|20000672|DO Körne|nrw_regio|1910|1008|7
+vrr|20000670|DO Knappschaftskrankenhaus|nrw_regio|1925|1008|7
+vrr|20000642|DO Asseln Mitte|nrw_regio|1941|1008|7
+vrr|20000629|DO Wickede West|nrw_regio|1955|1008|7
+vrr|20000507|Wickede|nrw_regio|1966|1013|5
+vrr|24017977|Massen|nrw_regio|1974|1023|7
+vrr|24017854|Unna Königsborn|nrw_regio|1974|1036|7
+vrr|24006054|Unna West|nrw_regio|1974|1051|7
+vrr|20000328|DO-Lütgendortmund|nrw_regio|1637|910|5
+vrr|20001181|DO Somborn|nrw_regio|1655|911|7
+vrr|20000327|DO Germania|nrw_regio|1672|911|7
+vrr|20000341|DO Marten Süd|nrw_regio|1686|910|7
+vrr|20000741|DO Wischlingen|nrw_regio|1700|911|7
+vrr|20000726|DO Huckarde|nrw_regio|1700|885|7
+vrr|20000497|DO Westerfilde|nrw_regio|1700|859|7
+vrr|20000742|DO Nette/Oestrich|nrw_regio|1700|833|7
+vrr|20009699|E Überruhr|nrw_regio|1412|1027|7
+vrr|20009686|E Holthausen|nrw_regio|1412|1053|7
+vrr|20009424|E Kupferdreh|nrw_regio|1412|1078|7
+vrr|20010353|Velbert Nierenhof|nrw_regio|1412|1106|9
+vrr|20010337|Velbert Langenberg|nrw_regio|1412|1132|9
+vrr|20010350|Velbert Nerviges|nrw_regio|1410|1158|7
+vrr|20010094|Velbert Rosenhügel|nrw_regio|1412|1183|7
+vrr|20011724|Wülfrath Aprath|nrw_regio|1412|1209|9
+vrr|20009590|E Süd|nrw_regio|1309|1022|5
+vrr|20009578|E Stadtwald|nrw_regio|1295|1022|7
+vrr|20009074|E Hügel|nrw_regio|1281|1037|7
+vrr|20009640|E Werden|nrw_regio|1265|1053|7
+vrr|20009383|E Kettwig|nrw_regio|1249|1067|7
+vrr|20009385|Kettwig Stausee|nrw_regio|1234|1085|7
+vrr|20019528|Hösel|nrw_regio|1216|1100|7
+vrr|20018634|Ratingen Ost|nrw_regio|1192|1127|7
+vrr|20018209|D Rath|nrw_regio|1171|1127|9
+vrr|20018210|D Rath Mitte|nrw_regio|1127|1127|7
+vrr|20018488|Düsseldorf Flughafen|nrw_regio|1035|1086|31
+vrr|20018517|Düsseldorf Flughafen Terminal|nrw_regio|970|1118|9
+vrr|20018206|D Unterrath|nrw_regio|1089|1118|5
+vrr|20018285|D Derendorf|nrw_regio|1094|1127|5
+vrr|20018012|D Zoo|nrw_regio|1094|1135|5
+vrr|20018019|Wehrhahn|nrw_regio|1092|1146|5
+vrr|20016341|DU Schlenk|nrw_regio|1082|1001|5
+vrr|20016332|DU Buchholz|nrw_regio|1082|1015|7
+vrr|20016129|DU Großenbaum|nrw_regio|1082|1027|5
+vrr|20016416|DU Rahm|nrw_regio|1082|1039|7
+vrr|20018372|Du Angermund|nrw_regio|1082|1053|5
+vrr|20020626|Kaarster See|nrw_regio|793|1202|7
+vrr|20020625|Kaarster Bahnhof|nrw_regio|806|1214|7
+vrr|20020624|Kaarst Mitte|nrw_regio|820|1228|7
+vrr|20020623|Kaarst IKEA|nrw_regio|832|1242|9
+vrr|20020055|Neuss Hbf|nrw_regio|902|1286|29
+vrr|20020390|NE Am Kaiser|nrw_regio|928|1254|5
+vrr|20020496|NE Rheinparkcenter|nrw_regio|937|1254|5
+vrr|20018111|D Hamm|nrw_regio|945|1254|5
+vrr|20018115|D Völklinger Straße|nrw_regio|952|1254|4
+vrr|20018249|D Bilk|nrw_regio|961|1254|5
+vrr|20018785|D Friedrichstadt|nrw_regio|970|1254|5
+vrr|20018235|Düsseldorf Haupt|nrw_regio|1050|1287|74
+vrr|20018010|D Flingern|nrw_regio|1132|1256|9
+vrr|20018217|D Gerresheim|nrw_regio|1166|1256|9
+vrr|20019054|Erkrath Nord|nrw_regio|1174|1228|7
+vrr|20019191|ME Neanderthal|nrw_regio|1188|1228|7
+vrr|20019020|ME Zentrum|nrw_regio|1200|1228|7
+vrr|20019083|ME Stadtwald|nrw_regio|1214|1228|7
+vrr|20018972|Erkrath|nrw_regio|1197|1263|7
+vrr|20019029|Erkrath Hochdahl|nrw_regio|1230|1263|9
+vrr|20019720|Erkrath Millrath|nrw_regio|1300|1261|7
+vrr|20013970|Haan Gruiten|nrw_regio|1330|1263|11
+vrr|20013970|Haan Gruiten|nrw_regio|1328|1319|9
+vrr|20013892|Haan|nrw_regio|1328|1342|5
+vrr|20013800|Solingen Hbf|nrw_regio|1335|1373|22
+vrr|22003432|Leichlingen|nrw_regio|1328|1410|5
+vrr|22005216|Opladen|nrw_regio|1335|1433|11
+vrr|22003027|Leverkusen Schlebusch|nrw_regio|1260|1475|9
+vrr|20013790|SG Vogelpark|nrw_regio|1300|1350|5
+vrr|20019723|Hilden Süd|nrw_regio|1279|1329|7
+vrr|20018969|Hilden|nrw_regio|1260|1310|7
+vrr|20018743|Eller|nrw_regio|1225|1310|7
+vrr|20018259|Eller Mitte|nrw_regio|1192|1310|7
+vrr|20018094|D Oberbilk|nrw_regio|1159|1310|7
+vrr|20018094|D Oberbilk|nrw_regio|1157|1357|5
+vrr|20018006|D Volksgarten|nrw_regio|1127|1310|9
+vrr|20018006|D Volksgarten|nrw_regio|1124|1359|7
+vrr|20018570|Eller Süd|nrw_regio|1166|1359|5
+vrr|20018748|Reisholz|nrw_regio|1183|1375|5
+vrr|20018263|Benrath|nrw_regio|1197|1392|7
+vrr|20018576|Garath|nrw_regio|1185|1403|4
+vrr|20018995|Hellerhof|nrw_regio|1185|1410|4
+vrr|20019505|Langenfeld-Berghausen|nrw_regio|1185|1417|4
+vrr|20019479|Langenfeld (Rheinland)|nrw_regio|1185|1426|5
+vrr|22001027|Leverkusen Rheindorf|nrw_regio|1178|1431|4
+vrr|22003152|LEV Küppersteg|nrw_regio|1178|1438|4
+vrr|22005228|Leverkusen Mitte|nrw_regio|1195|1447|11
+vrr|22000814|LEV Chempark|nrw_regio|1178|1457|4
+vrr|22000813|K Stammheim|nrw_regio|1178|1464|4
+vrr|22000572|Köln Mühlheim|nrw_regio|1206|1489|22
+vrr|22000779|K Buchforst|nrw_regio|1185|1518|7
+vrr|22000750|K Nippes|nrw_regio|921|1515|5
+vrr|22000325|K Geldernstr./Parkgürtel|nrw_regio|923|1503|7
+vrr|22000358|K Longerich|nrw_regio|921|1490|7
+vrr|22000402|K Volkhovener Weg|nrw_regio|921|1476|7
+vrr|22000385|K Chorweiler|nrw_regio|921|1466|5
+vrr|22009574|K Chorweiler Nord|nrw_regio|921|1454|5
+vrr|22008756|K Blumenberg|nrw_regio|923|1443|5
+vrr|22000420|K Worringen|nrw_regio|923|1431|7
+vrr|20020280|Dormagen Chempark|nrw_regio|916|1420|5
+vrr|20020268|Dormagen|nrw_regio|902|1408|11
+vrr|20020314|Nievenheim|nrw_regio|916|1392|7
+vrr|20020727|Neuss Allerheiligen|nrw_regio|916|1375|7
+vrr|20020207|Norf|nrw_regio|916|1357|7
+vrr|20020105|Neuss Süd|nrw_regio|916|1340|7
+vrr|20020049|Büttgen|nrw_regio|778|1268|9
+vrr|20023712|Kleinenbroich|nrw_regio|692|1268|7
+vrr|20023857|Korschenbroich|nrw_regio|610|1268|9
+vrr|20023189|MG Lürrip|nrw_regio|528|1268|7
+vrr|20004778|Marl Hamm|nrw_regio|1475|527|11
+vrr|20003224|Marl Mitte|nrw_regio|1438|527|9
+vrr|20007421|Ge Hassel|nrw_regio|1400|525|11
+vrr|20006673|GE Buer Nord|nrw_regio|1363|525|9
+vrr|24060831|Borken|nrw_regio|1220|279|11
+vrr|24012976|Marbeck Heiden|nrw_regio|1218|306|11
+vrr|20003077|Rhade|nrw_regio|1220|334|11
+vrr|20003073|Deuten|nrw_regio|1218|362|9
+vrr|20003217|Hervest-Dorsten|nrw_regio|1225|417|9
+vrr|20003868|Dorsten|nrw_regio|1223|443|14
+vrr|20004095|Feldhausen|nrw_regio|1225|471|11
+vrr|20004196|Gladbeck Zweckel|nrw_regio|1221|497|11
+vrr|20003202|Gladbeck West|nrw_regio|1218|525|11
+vrr|20003283|Bottrop Boy|nrw_regio|1218|569|16
+vrr|20003335|Bottrop Hbf|nrw_regio|1218|635|13
+vrr|20003447|Bottrop Vonderort|nrw_regio|1148|635|11
+vrr|20014210|OB Osterfeld Süd|nrw_regio|1078|635|9
+vrr|20005613|Gelsenkirchen Hbf|nrw_regio|1340|719|25
+vrr|20005031|GE Rotthausen|nrw_regio|1330|793|11
+vrr|20009404|E Kray Nord|nrw_regio|1328|863|9
+vrr|20009375|E Zollverein Nord|nrw_regio|1305|691|9
+vrr|20009117|E Altenessen|nrw_regio|1281|698|13
+vrr|20009150|E Bergeborbeck|nrw_regio|1253|689|11
+vrr|20009197|E Dellwig|nrw_regio|1180|691|11
+vrr|20009198|E Dellwig Ost|nrw_regio|1234|738|11
+vrr|20009255|E Gerschede|nrw_regio|1230|770|13
+vrr|20009158|E Borbeck|nrw_regio|1227|805|13
+vrr|20009159|E Borbeck Süd|nrw_regio|1232|840|9
+vrr|20016522|DU Entenfang|nrw_regio|1146|1043|7
+vrr|20017026|DU Bissingheim|nrw_regio|1131|1029|7
+vrr|20016371|DU Wedau|nrw_regio|1115|1013|7
+vrr|20009643|E West|nrw_regio|1288|987|11
+vrr|20009244|E Frohnhausen|nrw_regio|1234|987|11
+vrr|20015225|Mülheim (Ruhr) Hbf|nrw_regio|1183|952|29
+vrr|20015227|MH West|nrw_regio|1146|994|9
+vrr|20015012|MH Styrum|nrw_regio|1129|987|11
+vrr|24012086|Bönen|nrw_regio|1995|1025|14
+vrr|24011217|Lünern|nrw_regio|2058|1076|7
+vrr|24011000|Hemmerde|nrw_regio|2079|1099|9
+vrr|24011303|Werl|nrw_regio|2105|1123|9
+vrr|24006058|Westönnen|nrw_regio|2128|1146|7
+vrr|24032850|Frömern|nrw_regio|2102|1169|9
+vrr|24032834|Ardey|nrw_regio|2142|1209|9
+vrr|24011218|Unna|nrw_regio|1988|1085|16
+vrr|20000705|DO Signal Iduna Park|nrw_regio|1845|1020|13
+vrr|20000705|DO Signal Iduna Park|nrw_regio|1878|1020|7
+vrr|20000228|DO Hörde|nrw_regio|1864|1064|9
+vrr|20000701|DO Tierpark|nrw_regio|1838|1104|7
+vrr|20000277|DO Kirchhörde|nrw_regio|1838|1135|7
+vrr|20000700|DO Löttringhausen|nrw_regio|1838|1162|11
+vrr|20002436|Wittbräucke|nrw_regio|1836|1190|7
+vrr|20002269|Herdecke|nrw_regio|1838|1219|7
+vrr|20000039|DO Applerbeck Süd|nrw_regio|1920|1226|7
+vrr|20005469|Witten Hbf|nrw_regio|1732|1144|20
+vrr|20008080|Wetter|nrw_regio|1753|1169|11
+vrr|20002435|HA Vorhalle|nrw_regio|1768|1181|11
+vrr|20000038|DO Applerbeck|nrw_regio|1948|1120|5
+vrr|24011179|Holzwickede/Do Flughafen|nrw_regio|1988|1118|13
+vrr|20013869|Solingen Grünewald|nrw_regio|1421|1373|9
+vrr|20013818|Solingen Mitte|nrw_regio|1447|1373|9
+vrr|20013006|SG Schaberg|nrw_regio|1473|1373|11
+vrr|20012058|RS Güldenwerth|nrw_regio|1496|1373|9
+vrr|20012077|Remscheid Hbf|nrw_regio|1522|1373|11
+vrr|20012106|RS Lennep|nrw_regio|1548|1373|11
+vrr|20012113|RS Lüttringhausen|nrw_regio|1574|1373|11
+vrr|20011531|W Ronsdorf|nrw_regio|1599|1371|11
+vrr|20008174|Schwelm|nrw_regio|1679|1291|14
+vrr|20011130|W Barmen|nrw_regio|1615|1284|14
+vrr|20011130|W Barmen|nrw_regio|1615|1331|9
+vrr|20011524|W Unterbarmen|nrw_regio|1583|1268|9
+vrr|20011524|W Unterbarmen|nrw_regio|1583|1338|7
+vrr|20011376|Wuppertal Hbf|nrw_regio|1494|1296|29
+vrr|20008132|Ennepetal|nrw_regio|1714|1296|14
+vrr|20011302|W Vohwinkel|nrw_regio|1414|1280|18
+vrr|20011302|W Vohwinkel|nrw_regio|1414|1322|11
+vrr|20011396|W Steinbeck|nrw_regio|1470|1263|5
+vrr|20011151|W Zoologischer Garten|nrw_regio|1461|1261|4
+vrr|20011313|W Sonnborn|nrw_regio|1454|1263|4
+vrr|20011602|W Oberbarmen|nrw_regio|1646|1303|18
+vrr|20011594|W Langerfeld|nrw_regio|1658|1268|5
+vrr|20008198|Schwelm West|nrw_regio|1667|1268|5
+vrr|20008093|Gevelsberg West|nrw_regio|1693|1270|7
+vrr|20008092|Geverlsberg Kipp|nrw_regio|1705|1259|7
+vrr|20008313|Gevelsberg Hbf|nrw_regio|1718|1258|7
+vrr|20008088|Gevelsberg Knapp|nrw_regio|1730|1259|7
+vrr|20002433|Westerbauer|nrw_regio|1742|1259|7
+vrr|20002432|Heubing|nrw_regio|1754|1258|7
+vrr|20002434|Wehringhausen|nrw_regio|1766|1268|7
+vrr|22009596|Euskirchen Kuchenheim|nrw_regio|832|1903|7
+vrr|22001857|Swisttal Odendorf|nrw_regio|849|1903|7
+vrr|22001690|Rheinbach|nrw_regio|867|1903|7
+vrr|22007900|Rheinbach Römerkanal|nrw_regio|884|1903|7
+vrr|22001489|Meckenheim|nrw_regio|902|1903|7
+vrr|22008845|Meckenheim Industriepark|nrw_regio|917|1903|7
+vrr|22009598|Meckenheim Kottenforst|nrw_regio|935|1903|7
+vrr|22009599|Alfter Witterschlick|nrw_regio|952|1903|7
+vrr|80022337|Alfter Impekhoven|nrw_regio|970|1903|7
+vrr|22001341|BN Duisdorf|nrw_regio|987|1903|7
+vrr|80022020|BN Helmholtzstraße|nrw_regio|1005|1903|7
+vrr|80022338|Bonn Enderich Nord|nrw_regio|1021|1903|7
+vrr|21004738|Merzenich|nrw_regio|703|1683|9
+vrr|22006786|Buir|nrw_regio|724|1683|9
+vrr|22009567|Sindorf|nrw_regio|743|1683|9
+vrr|22009568|Frechen Königsdorf|nrw_regio|774|1674|4
+vrr|22000702|Weiden West|nrw_regio|781|1677|4
+vrr|22000212|K Lövenich|nrw_regio|823|1676|4
+vrr|22000185|K Müngersdorf Technologiepark|nrw_regio|830|1677|5
+vrr|22000036|Köln Hansaring|nrw_regio|980|1537|9
+vrr|22001862|K Airport Businesspark|nrw_regio|1302|1709|9
+vrr|22000466|K Steinstr|nrw_regio|1302|1732|9
+vrr|22000488|Porz Wahn|nrw_regio|1309|1795|7
+vrr|22002030|Spich|nrw_regio|1307|1807|7
+vrr|22009640|Hennef Im Siegbogen|nrw_regio|1475|1828|5
+vrr|22009664|Blankenberg|nrw_regio|1482|1821|5
+vrr|22009665|Merten|nrw_regio|1489|1829|7
+vrr|22004861|Dattenfeld|nrw_regio|1555|1826|7
+vrr|22004723|Rosbach|nrw_regio|1590|1828|7
+db|8400735|Zevenaar|nrw_regio|458|296|7
+vrr|80004381|Arnhem Central|nrw_regio|388|294|20
+vrr|80004379|Amsterdam|nrw_regio|297|261|16
+db|8400470|Nimwegen|nrw_regio|301|322|18
+vrr|80003995|Hengelo|nrw_regio|1242|217|14
+vrr|80003995|Hengelo|nrw_regio|1739|196|13
+vrr|80000461|Emden|nrw_regio|1884|195|18
+vrr|80000445|Bremen|nrw_regio|2306|196|16
+vrr|80000445|Bremen|nrw_regio|2345|179|14
+vrr|80000527|Wilhelmshaven|nrw_regio|2254|179|20
+vrr|80000146|Rotenburg|nrw_regio|2568|203|20
+vrr|80000496|Nienburg|nrw_regio|2656|195|16
+vrr|80000469|Hannover|nrw_regio|2855|333|16
+vrr|80000474|Hildesheim|nrw_regio|2850|681|16
+vrr|80000469|Hannover|nrw_regio|2857|616|13
+vrr|80000469|Hannover|nrw_regio|2885|973|18
+vrr|80000449|Bad Harzburg|nrw_regio|2881|1046|18
+vrr|80000466|Göttingen|nrw_regio|2853|1165|16
+vrr|80000495|Northeim|nrw_regio|2850|1298|18
+vrr|80000466|Göttingen|nrw_regio|2804|1335|20
+vrr|23226011|Kassel Hbf|nrw_regio|2734|1424|14
+vrr|23226012|Kassel Wilhelmshöhe|nrw_regio|2699|1457|22
+vrr|23226011|Kassel|nrw_regio|2558|1438|18
+vrr|80000340|Marburg|nrw_regio|2519|1468|16
+vrr|80000340|Marburg|nrw_regio|2685|1906|16
+vrr|80000256|Frankfurt|nrw_regio|2708|2045|22
+vrr|80000324|Limburg|nrw_regio|1609|2066|16
+vrr|80000256|Frankfurt|nrw_regio|1442|2160|16
+vrr|15010117|Koblenz|nrw_regio|1220|2162|16
+vrr|15010117|Koblenz|nrw_regio|1337|2162|13
+vrr|15010117|Koblenz|nrw_regio|1026|2160|18
+vrr|15012967|Trier|nrw_regio|484|2160|11
+vrr|80004407|Bruxelles|nrw_regio|81|1849|16
+db|8400424|Maastricht|nrw_regio|117|1796|20
+db|8400355|Kerkrade|nrw_regio|170|1641|16
+db|8400424|Maastricht|nrw_regio|107|1618|20
+db|8400564|Sittard|nrw_regio|91|1459|14
+db|8400523|Roermond|nrw_regio|107|1076|16
+db|8400206|Eindhoven|nrw_regio|103|922|18
+db|8400470|Nimwegen|nrw_regio|165|891|22
+vrr|20019871|Meerbusch Osterath|nrw_regio|765|1086|25
+vrr|20004582|Gladbeck Ost|nrw_regio|1353|566|10
+vrr|20005159|GE Buer Süd|nrw_regio|1377|590|10
+vrr|20006772|GE Zoo|nrw_regio|1402|616|10
