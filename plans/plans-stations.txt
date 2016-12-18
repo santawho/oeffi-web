@@ -1460,7 +1460,7 @@ db|936259|Bad Doberan, Maxim-Gorki-Platz|rostock_region|99|988
 db|935166|Bad Doberan, Friedhof|rostock_region|54|992
 db|935630|Bad Doberan, Goethestraße (REBUS)|rostock_region|158|940
 db|8011069|Bad Doberan, Goethestraße (MBB)|rostock_region|152|946
-db|935530|Bad Doberan, Ärztehaus / Dammchaussee|rostock_region|183|890
+db|935530|Bad Doberan, Ärztehaus/Dammchaussee|rostock_region|183|890
 db|935745|Kammerhof, Thünenstraße|rostock_region|207|821
 db|935744|Kammerhof, Seniorenheim|rostock_region|139|821
 db|935316|Bad Doberan, Ärztehaus/Goethestraße|rostock_region|119|840
@@ -3617,7 +3617,7 @@ mvv|1000090|Holzkirchner Bahnhof|muenchen_tram_metrobus|1624|1274|10
 mvv|1000056|Georg-Hirth-Platz|muenchen_tram_metrobus|1622|1400|10
 mvv|1000057|Beethovenplatz|muenchen_tram_metrobus|1624|1494|10
 mvv|1000040|Goetheplatz|muenchen_tram_metrobus|1848|1524|12
-mvv|1000058|Kapuzinerplatz/ Arbeitsagentur|muenchen_tram_metrobus|1912|1520|12
+mvv|1000058|Kapuzinerplatz/Arbeitsagentur|muenchen_tram_metrobus|1912|1520|12
 mvv|1000162|Kolumbusplatz/Humboldtstr.|muenchen_tram_metrobus|2176|1446|16
 mvv|1001170|Silberhornstraße|muenchen_tram_metrobus|2336|1436|14
 mvv|1000061|Baldep|muenchen_tram_metrobus|2072|1524|12
