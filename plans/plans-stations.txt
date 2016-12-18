@@ -4731,3 +4731,383 @@ vrr|20019871|Meerbusch Osterath|nrw_regio|765|1086|25
 vrr|20004582|Gladbeck Ost|nrw_regio|1353|566|10
 vrr|20005159|GE Buer Süd|nrw_regio|1377|590|10
 vrr|20006772|GE Zoo|nrw_regio|1402|616|10
+
+﻿vrr|22000702|Weiden West|koeln_schnellverkehr|420|1045|13
+vrr|22000241|Weiden Schulstr.|koeln_schnellverkehr|450|1138|8
+vrr|22000261|Weiden Zentrum|koeln_schnellverkehr|488|1138|8
+vrr|22000830|Bahnstr.|koeln_schnellverkehr|525|1138|8
+vrr|22000142|Mohnweg|koeln_schnellverkehr|560|1140|8
+vrr|22000200|Junkersdorf|koeln_schnellverkehr|598|1140|8
+vrr|22000187|Rheinenergie-Stadion|koeln_schnellverkehr|635|1140|8
+vrr|22000186|Alter Militärring|koeln_schnellverkehr|670|1140|8
+vrr|22000181|Eupener Str.|koeln_schnellverkehr|708|1140|8
+vrr|22000180|Clarenbachstift|koeln_schnellverkehr|745|1138|8
+vrr|22000179|Maarweg|koeln_schnellverkehr|780|1140|8
+vrr|22000178|Aachener Str./Gürtel|koeln_schnellverkehr|820|1143|8
+vrr|22000144|Melaten|koeln_schnellverkehr|898|1143|8
+vrr|22000143|Universitätsstr.|koeln_schnellverkehr|950|1145|8
+vrr|22000028|Moltkestr.|koeln_schnellverkehr|1005|1143|8
+vrr|22000027|Rudolfplatz|koeln_schnellverkehr|1085|1143|10
+vrr|22000002|Neumarkt|koeln_schnellverkehr|1213|1150|13
+vrr|22000001|Heumarkt|koeln_schnellverkehr|1363|1150|10
+vrr|22000039|Deutzer Freiheit|koeln_schnellverkehr|1473|1115|8
+vrr|22000041|Bf Deutz/Messe|koeln_schnellverkehr|1525|1015|13
+vrr|22000044|Deutz Fachhochschule|koeln_schnellverkehr|1620|1015|10
+vrr|22000512|Kalk Post|koeln_schnellverkehr|1705|1015|8
+vrr|22000513|Kalk Kapelle|koeln_schnellverkehr|1770|1015|10
+vrr|22000517|Fuldaer Str.|koeln_schnellverkehr|1828|1010|8
+vrr|22000518|Höhenberg Frankfurter Str.|koeln_schnellverkehr|1883|1010|8
+vrr|22000539|Kalker Friedhof|koeln_schnellverkehr|1930|1010|8
+vrr|22000540|Merheim|koeln_schnellverkehr|1975|1010|8
+vrr|22000546|Flehbachstr.|koeln_schnellverkehr|2023|1010|5
+vrr|22000547|Brück Mauspfad|koeln_schnellverkehr|2068|1013|8
+vrr|22000668|Lustheide|koeln_schnellverkehr|2113|1010|8
+vrr|22000669|Refrath|koeln_schnellverkehr|2160|1010|8
+vrr|22000670|Kippekausen|koeln_schnellverkehr|2205|1010|8
+vrr|22000671|Frankenforst|koeln_schnellverkehr|2253|1010|8
+vrr|22000667|Neuenweg|koeln_schnellverkehr|2300|1010|8
+vrr|22000666|Kölner Str.|koeln_schnellverkehr|2348|1010|8
+vrr|22000655|Im Hoppenkamp|koeln_schnellverkehr|2390|1010|8
+vrr|22000655|Bensberg|koeln_schnellverkehr|2435|1008|10
+vrr|22000298|Ollenhauerring|koeln_schnellverkehr|628|638|8
+vrr|22000242|Schaffrathsgasse|koeln_schnellverkehr|628|660|8
+vrr|22000291|Bocklemünd|koeln_schnellverkehr|645|693|8
+vrr|22000283|Westfriedhof|koeln_schnellverkehr|670|718|8
+vrr|22000282|Wolffsohnstr.|koeln_schnellverkehr|698|748|8
+vrr|22000264|Akazienweg|koeln_schnellverkehr|733|778|10
+vrr|22000262|Äußere Kanalstr.|koeln_schnellverkehr|778|823|10
+vrr|22000255|Leyendeckerstr.|koeln_schnellverkehr|818|863|10
+vrr|22000251|Venloer Str./Gürtel|koeln_schnellverkehr|868|905|15
+vrr|22000237|Körnerstr.|koeln_schnellverkehr|900|948|10
+vrr|22000236|Piusstr.|koeln_schnellverkehr|938|983|10
+vrr|22000031|Hans-Böckler-Platz/Bf West|koeln_schnellverkehr|1000|1023|18
+vrr|22000030|Friesenplatz|koeln_schnellverkehr|1088|1053|15
+vrr|22000007|Appellhofplatz|koeln_schnellverkehr|1213|1080|13
+vrr|22000003|Poststr.|koeln_schnellverkehr|1218|1223|13
+vrr|22000011|Severinstr.|koeln_schnellverkehr|1363|1223|13
+vrr|22000040|Suevenstr.|koeln_schnellverkehr|1555|1148|10
+vrr|22000041|Bf Deutz/Lanxess arena|koeln_schnellverkehr|1558|1033|13
+vrr|22000042|Koelnmesse|koeln_schnellverkehr|1558|920|10
+vrr|22000567|Stegerwaldsiedlung|koeln_schnellverkehr|1580|860|8
+vrr|22000569|Waldecker Str.|koeln_schnellverkehr|1685|850|8
+vrr|22000577|Buchheim Frankfurter Str.|koeln_schnellverkehr|1740|815|8
+vrr|22000578|Buchheim Herler Str.|koeln_schnellverkehr|1795|745|13
+vrr|22000579|Wichheimer Str.|koeln_schnellverkehr|1838|705|10
+vrr|22000583|Holweide Vischeringstr.|koeln_schnellverkehr|1898|685|10
+vrr|22000584|Maria-Himmelfahrt-Str.|koeln_schnellverkehr|1965|690|10
+vrr|22000585|Neufelder Str.|koeln_schnellverkehr|2030|690|10
+vrr|22000594|Dellbrück Mauspfad|koeln_schnellverkehr|2098|690|10
+vrr|22000595|Dellbrück Hauptstr.|koeln_schnellverkehr|2160|690|8
+vrr|22000596|Thielenbruch|koeln_schnellverkehr|2228|690|10
+vrr|22000663|Schlebusch|koeln_schnellverkehr|1848|385|8
+vrr|22000609|Odenthaler Str.|koeln_schnellverkehr|1835|433|8
+vrr|22000608|Leuchterstr.|koeln_schnellverkehr|1803|465|8
+vrr|22000607|Am Emberg|koeln_schnellverkehr|1778|495|8
+vrr|22000606|Im Weidenbruch|koeln_schnellverkehr|1743|525|8
+vrr|22000633|Mülheim Berliner Str.|koeln_schnellverkehr|1700|563|8
+vrr|22000632|Von-Sparr-Str.|koeln_schnellverkehr|1665|598|8
+vrr|22000631|Keupstr.|koeln_schnellverkehr|1630|635|8
+vrr|22000570|Mülheim Wiener Platz|koeln_schnellverkehr|1605|670|13
+vrr|22000568|Grünstr.|koeln_schnellverkehr|1603|793|8
+vrr|22000903|Sparkasse Am Butzweilerhof|koeln_schnellverkehr|798|650|8
+vrr|22000976|IKEA Am Butzweilerhof|koeln_schnellverkehr|820|675|8
+vrr|22000274|Alter Flughafen Butzweilerhof|koeln_schnellverkehr|843|700|8
+vrr|22000272|Rektor-Klein-Str.|koeln_schnellverkehr|865|720|8
+vrr|22000273|Margaretastr.|koeln_schnellverkehr|888|745|8
+vrr|22000249|Iltisstr./Äußere Kanalstr.|koeln_schnellverkehr|913|768|8
+vrr|22000247|Lenauplatz|koeln_schnellverkehr|935|790|8
+vrr|22000246|Nußbaumerstr.|koeln_schnellverkehr|958|820|10
+vrr|22000245|Subbelrather Str./Gürtel|koeln_schnellverkehr|930|855|10
+vrr|22000239|Liebigstr.|koeln_schnellverkehr|988|920|8
+vrr|22000238|Gutenbergstr.|koeln_schnellverkehr|1013|943|8
+vrr|22000008|Dom/Hbf|koeln_schnellverkehr|1315|995|13
+vrr|22000006|Rathaus|koeln_schnellverkehr|1365|1058|8
+vrr|22000708|Frechen-Benzelrath|koeln_schnellverkehr|440|1380|8
+vrr|22000709|Mühlengasse|koeln_schnellverkehr|493|1380|8
+vrr|22000710|Frechen Rathaus|koeln_schnellverkehr|540|1380|8
+vrr|22000711|Frechen Kirche|koeln_schnellverkehr|590|1383|8
+vrr|22000712|Frechen Bf|koeln_schnellverkehr|635|1380|8
+vrr|22000713|Haus Vorst|koeln_schnellverkehr|683|1360|8
+vrr|22000235|Marsdorf|koeln_schnellverkehr|713|1330|8
+vrr|22000234|Stüttgenhof|koeln_schnellverkehr|748|1298|8
+vrr|22000172|Brahmsstr.|koeln_schnellverkehr|778|1265|8
+vrr|22000170|Dürener Str./Gürtel|koeln_schnellverkehr|823|1208|13
+vrr|22000169|Wüllnerstr.|koeln_schnellverkehr|820|1178|10
+vrr|22000039|Deutzer Freiheit|koeln_schnellverkehr|1495|1155|8
+vrr|22000045|Severinsbrücke|koeln_schnellverkehr|1548|1198|8
+vrr|22000046|Drehbrücke|koeln_schnellverkehr|1573|1225|8
+vrr|22000047|Poller Kirchweg|koeln_schnellverkehr|1593|1245|8
+vrr|22000444|Raiffeisenstr.|koeln_schnellverkehr|1618|1273|8
+vrr|22000438|Poll Salmstr.|koeln_schnellverkehr|1640|1295|8
+vrr|22000439|Baumschulenweg|koeln_schnellverkehr|1668|1323|8
+vrr|22000449|Westhoven Kölner Str.|koeln_schnellverkehr|1693|1345|8
+vrr|22000450|Westhoven Berliner Str.|koeln_schnellverkehr|1718|1370|8
+vrr|22000451|Ensen Gilgaustr.|koeln_schnellverkehr|1743|1395|8
+vrr|22000452|Ensen Kloster|koeln_schnellverkehr|1765|1420|8
+vrr|22000466|Porz Steinstr.|koeln_schnellverkehr|1785|1455|8
+vrr|22000467|Porz Markt|koeln_schnellverkehr|1785|1485|8
+vrr|22000228|Rosenhügel|koeln_schnellverkehr|1785|1523|8
+vrr|22000486|Zündorf|koeln_schnellverkehr|1785|1553|8
+vrr|22000166|Sülz Hermeskeiler Platz|koeln_schnellverkehr|765|1463|10
+db|440828|Mommsenstr.|koeln_schnellverkehr|783|1408|8
+db|441463|Zülpicher Straße/Gürtel|koeln_schnellverkehr|828|1368|13
+db|445552|Lindenburg (Universitätsklinik)|koeln_schnellverkehr|860|1333|8
+db|442338|Weyertal|koeln_schnellverkehr|895|1300|8
+db|444505|Universität|koeln_schnellverkehr|958|1300|8
+db|444501|Dasselstr./Bf Süd|koeln_schnellverkehr|1048|1283|8
+db|444511|Zülpicher Platz|koeln_schnellverkehr|1100|1230|10
+vrr|22000521|Vingst|koeln_schnellverkehr|1870|1080|8
+vrr|22000533|Ostheim|koeln_schnellverkehr|1900|1110|8
+vrr|22000553|Steinweg|koeln_schnellverkehr|1933|1145|8
+vrr|22000554|Porzer Str.|koeln_schnellverkehr|1970|1165|8
+vrr|22000556|Rath-Heumar|koeln_schnellverkehr|2018|1168|8
+vrr|22000555|Röttgensweg|koeln_schnellverkehr|2073|1168|8
+vrr|22000557|Königsforst|koeln_schnellverkehr|2120|1168|8
+vrr|22000417|Merkenich|koeln_schnellverkehr|1115|340|8
+vrr|22000416|Merkenich Mitte|koeln_schnellverkehr|1143|368|8
+vrr|22000370|Fordwerke Nord|koeln_schnellverkehr|1155|400|8
+vrr|22000369|Fordwerke Mitte|koeln_schnellverkehr|1155|433|8
+vrr|22000368|Fordwerke Süd|koeln_schnellverkehr|1153|468|8
+vrr|22000367|Geestemünder Str.|koeln_schnellverkehr|1155|503|8
+vrr|22000342|Niehl|koeln_schnellverkehr|1135|530|8
+vrr|22000362|Wilhelm-Sollmann-Str.|koeln_schnellverkehr|1083|565|10
+vrr|22000337|Scheibenstr.|koeln_schnellverkehr|1110|598|10
+vrr|22000336|Mollwitzstr.|koeln_schnellverkehr|1138|623|10
+vrr|22000303|Neusser Str./Gürtel|koeln_schnellverkehr|1180|668|10
+vrr|22000304|Florastr.|koeln_schnellverkehr|1230|718|10
+vrr|22000305|Lohsestr.|koeln_schnellverkehr|1278|763|13
+vrr|22000035|Ebertplatz|koeln_schnellverkehr|1300|838|18
+vrr|22000036|Hansaring|koeln_schnellverkehr|1195|918|28
+vrr|22000032|Christophstr./Mediapark|koeln_schnellverkehr|1138|978|13
+vrr|22000023|Barbarossaplatz|koeln_schnellverkehr|1178|1295|23
+vrr|22000022|Eifelstr.|koeln_schnellverkehr|1235|1360|15
+vrr|22000021|Eifelplatz|koeln_schnellverkehr|1275|1433|8
+vrr|22000052|Pohligstr.|koeln_schnellverkehr|1275|1465|8
+vrr|22000053|Herthastr.|koeln_schnellverkehr|1275|1495|8
+vrr|22000054|Gottesweg|koeln_schnellverkehr|1275|1525|8
+vrr|22000056|Zollstockgürtel|koeln_schnellverkehr|1275|1555|8
+vrr|22000057|Zollstock Südfriedhof|koeln_schnellverkehr|1275|1588|8
+vrr|22000160|Sülzgürtel|koeln_schnellverkehr|993|1485|10
+vrr|22000162|Berrenrather Str./Gürtel|koeln_schnellverkehr|923|1463|8
+vrr|22000163|Euskirchener Str.|koeln_schnellverkehr|885|1425|8
+vrr|22000173|Gleueler Str./Gürtel|koeln_schnellverkehr|818|1273|8
+vrr|22000182|Oskar-Jäger-Str./Gürtel|koeln_schnellverkehr|813|1060|8
+vrr|22000254|Weinsbergstr./Gürtel|koeln_schnellverkehr|815|995|8
+vrr|22000251|Venloer Str./Gürtel|koeln_schnellverkehr|840|933|8
+vrr|22000326|Escher Str.|koeln_schnellverkehr|1005|773|8
+vrr|22000325|Geldernstr./Parkgürtel|koeln_schnellverkehr|1040|730|13
+vrr|22000317|Amsterdamer Str./Gürtel|koeln_schnellverkehr|1320|665|10
+vrr|22000315|Slabystr.|koeln_schnellverkehr|1483|670|10
+vrr|22000572|Bf Mülheim|koeln_schnellverkehr|1703|718|20
+vrr|22000357|Longerich Friedhof|koeln_schnellverkehr|850|523|8
+vrr|22000385|Chorweiler|koeln_schnellverkehr|853|408|15
+vrr|22000384|Heimersdorf|koeln_schnellverkehr|865|455|8
+vrr|22000356|Longericher Str.|koeln_schnellverkehr|900|523|8
+vrr|22000355|Meerfeldstr.|koeln_schnellverkehr|948|523|8
+vrr|22000364|Herforder Str.|koeln_schnellverkehr|993|523|8
+vrr|22000363|Altonaer Platz|koeln_schnellverkehr|1040|535|8
+vrr|22000343|Niehl Sebastianstr.|koeln_schnellverkehr|1295|555|8
+vrr|22000818|Nesselrodestr.|koeln_schnellverkehr|1320|605|8
+vrr|22000316|Kinderkrankenhaus|koeln_schnellverkehr|1320|718|8
+vrr|22000034|Reichenspergerplatz|koeln_schnellverkehr|1325|785|10
+vrr|22000009|Breslauer Platz/Hbf|koeln_schnellverkehr|1315|930|13
+vrr|22000065|Schönhauser Str.|koeln_schnellverkehr|1495|1435|10
+vrr|22000076|Bayenthalgürtel|koeln_schnellverkehr|1518|1458|10
+vrr|22000897|Heinrich-Lübke-Ufer|koeln_schnellverkehr|1543|1480|10
+vrr|22000106|Rodenkirchen Bf|koeln_schnellverkehr|1563|1503|10
+vrr|22000107|Siegstr.|koeln_schnellverkehr|1580|1525|10
+vrr|22000108|Michaelshoven|koeln_schnellverkehr|1583|1553|10
+vrr|22000124|Sürth Bf|koeln_schnellverkehr|1583|1578|10
+vrr|22000134|Godorf Bf|koeln_schnellverkehr|1588|1605|8
+vrr|22000742|Wesseling Nord|koeln_schnellverkehr|1588|1640|8
+vrr|22000741|Wesseling|koeln_schnellverkehr|1588|1675|8
+vrr|22000740|Wesseling Süd|koeln_schnellverkehr|1585|1708|8
+vrr|22000743|Urfeld|koeln_schnellverkehr|1585|1743|8
+vrr|22000680|Widdig|koeln_schnellverkehr|1585|1775|8
+vrr|22000679|Uedorf|koeln_schnellverkehr|1588|1810|8
+vrr|22000678|Hersel|koeln_schnellverkehr|1588|1843|8
+vrr|22000694|Tannenbusch Mitte|koeln_schnellverkehr|1588|1878|8
+vrr|22000000|Kartäuserhof|koeln_schnellverkehr|1363|1308|8
+vrr|22000020|Bonner Wall|koeln_schnellverkehr|1365|1433|8
+vrr|22000313|Zoo Flora|koeln_schnellverkehr|1380|735|8
+vrr|22000314|Boltensternstr|koeln_schnellverkehr|1418|695|8
+vrr|22000026|Eifelwal|koeln_schnellverkehr|1103|1373|8
+vrr|22000150|Weißhausstr.|koeln_schnellverkehr|1073|1405|8
+vrr|22000151|Arnulfstr.|koeln_schnellverkehr|1048|1430|8
+vrr|22000152|Sülzburgstr.|koeln_schnellverkehr|1023|1455|8
+vrr|22000167|Klettenbergpark|koeln_schnellverkehr|995|1525|8
+vrr|22000730|Efferen|koeln_schnellverkehr|998|1558|8
+vrr|22000732|Kiebitzweg|koeln_schnellverkehr|998|1588|8
+vrr|22000733|Hürth-Hermülheim|koeln_schnellverkehr|1020|1618|8
+vrr|22000731|Fischenich|koeln_schnellverkehr|1043|1640|8
+vrr|22000738|Brühl-Vochem|koeln_schnellverkehr|1075|1673|8
+vrr|22000734|Brühl Nord|koeln_schnellverkehr|1100|1698|8
+vrr|22000735|Brühl Mitte|koeln_schnellverkehr|1125|1723|10
+vrr|22000736|Brühl Süd|koeln_schnellverkehr|1150|1750|8
+vrr|22000737|Badorf|koeln_schnellverkehr|1175|1773|8
+vrr|22000739|Schwadorf|koeln_schnellverkehr|1203|1798|8
+vrr|22000677|Walberberg|koeln_schnellverkehr|1228|1825|8
+vrr|22000676|Merten|koeln_schnellverkehr|1253|1850|8
+vrr|22000675|Waldorf|koeln_schnellverkehr|1278|1875|8
+vrr|22000674|Dersdorf|koeln_schnellverkehr|1305|1898|10
+vrr|22001801|Hangelar Mitte|koeln_schnellverkehr|2060|1888|10
+vrr|22001802|Hangelar Ost|koeln_schnellverkehr|2095|1853|10
+vrr|22001803|Sankt Augustin Ort|koeln_schnellverkehr|2105|1818|10
+vrr|22001805|Sankt Augustin Kloster|koeln_schnellverkehr|2108|1775|10
+vrr|22001806|Sankt Augustin Zentrum|koeln_schnellverkehr|2105|1738|10
+vrr|22001807|Sankt Augustin-Mülldorf|koeln_schnellverkehr|2078|1703|10
+vrr|15001594|Kloster Marienthal|koeln_schnellverkehr|2485|1880|8
+vrr|15008233|Breitscheidt|koeln_schnellverkehr|2485|1828|8
+vrr|15001596|Hohegrete|koeln_schnellverkehr|2485|1773|8
+vrr|15008215|Geilhausen|koeln_schnellverkehr|2485|1723|8
+vrr|15016513|Wissen|koeln_schnellverkehr|2620|1650|8
+vrr|15007328|Etzbach|koeln_schnellverkehr|2573|1650|8
+vrr|22004719|Au (Sieg)|koeln_schnellverkehr|2515|1640|13
+vrr|22004723|Rosbach|koeln_schnellverkehr|2468|1640|13
+vrr|22004728|Schladern|koeln_schnellverkehr|2420|1640|13
+vrr|22004861|Dattenfeld|koeln_schnellverkehr|2370|1640|13
+vrr|22004688|Herchen|koeln_schnellverkehr|2320|1640|13
+vrr|22002461|Eitorf|koeln_schnellverkehr|2270|1640|13
+vrr|22009665|Merten|koeln_schnellverkehr|2225|1635|10
+vrr|22009664|Blankenberg|koeln_schnellverkehr|2183|1635|10
+vrr|22009640|Hennef im Siegbogen|koeln_schnellverkehr|2140|1635|10
+vrr|22002243|Hennef|koeln_schnellverkehr|2098|1640|13
+vrr|22001811|Siegburg/Bonn|koeln_schnellverkehr|2038|1650|28
+vrr|22002071|Troisdorf|koeln_schnellverkehr|1940|1638|15
+vrr|22002030|Spich|koeln_schnellverkehr|1908|1598|10
+vrr|22000488|Porz-Wahn|koeln_schnellverkehr|1880|1568|10
+vrr|22000892|Köln/Bonn Flughafen|koeln_schnellverkehr|2040|1435|20
+vrr|22000468|Porz|koeln_schnellverkehr|1828|1498|13
+vrr|22000466|K Steinstraße|koeln_schnellverkehr|1828|1448|10
+vrr|22001862|K Airport Businesspark|koeln_schnellverkehr|1828|1305|10
+vrr|22000816|K Trimbornstraße|koeln_schnellverkehr|1713|1085|15
+vrr|22000657|K Frankfurter|koeln_schnellverkehr|1923|1258|15
+vrr|22009692|Rösrath-Stümpen|koeln_schnellverkehr|2208|1248|5
+vrr|22003767|Rösrath|koeln_schnellverkehr|2295|1248|8
+vrr|22003964|Hoffnungsthal|koeln_schnellverkehr|2393|1248|8
+vrr|22009639|Honrath|koeln_schnellverkehr|2485|1245|8
+vrr|22003845|Overath|koeln_schnellverkehr|2583|1248|8
+vrr|22003857|Engelskirchen|koeln_schnellverkehr|2665|1203|10
+vrr|22003862|Ründeroth|koeln_schnellverkehr|2718|1148|8
+vrr|22003874|Dieringhausen|koeln_schnellverkehr|2773|1095|8
+vrr|22003883|Gummersbach|koeln_schnellverkehr|2795|1033|10
+vrr|22004113|Marienheide|koeln_schnellverkehr|2795|970|8
+vrr|24202630|Meinerzhagen|koeln_schnellverkehr|2828|905|8
+vrr|22000041|K Messe/Deutz|koeln_schnellverkehr|1515|965|25
+vrr|22000779|K Buchforst|koeln_schnellverkehr|1665|825|10
+vrr|22000586|K-Holweide|koeln_schnellverkehr|1920|568|10
+vrr|22000604|K-Dellbrück|koeln_schnellverkehr|2023|565|10
+vrr|22009626|Duckterath|koeln_schnellverkehr|2140|565|10
+vrr|22005208|Bergisch Gladbach|koeln_schnellverkehr|2248|490|13
+vrr|22000813|K Stammheim|koeln_schnellverkehr|1668|473|10
+vrr|22000814|LEV Chempark|koeln_schnellverkehr|1620|428|10
+vrr|22005228|LEV Mitte|koeln_schnellverkehr|1578|378|15
+vrr|22003152|LEV-Küppersteg|koeln_schnellverkehr|1530|338|10
+vrr|22001027|LEV-Rheindorf|koeln_schnellverkehr|1485|293|10
+vrr|20011594|Langenfeld|koeln_schnellverkehr|1440|245|10
+vrr|20019505|Langenfeld-Berghausen|koeln_schnellverkehr|1385|190|10
+vrr|20018995|D-Hellerhof|koeln_schnellverkehr|1323|128|10
+vrr|22003027|LEV-Schlebusch|koeln_schnellverkehr|1705|380|10
+vrr|22005219|Opladen|koeln_schnellverkehr|1705|338|8
+vrr|22003432|Leichlingen|koeln_schnellverkehr|1705|300|8
+vrr|20013892|Haan|koeln_schnellverkehr|1705|135|8
+vrr|20013800|Solingen Hbf|koeln_schnellverkehr|1713|238|23
+vrr|20019723|Hilden Süd|koeln_schnellverkehr|1468|130|10
+vrr|20013790|SG Vogelpark|koeln_schnellverkehr|1600|195|10
+vrr|20013869|SG Grünewald|koeln_schnellverkehr|1795|285|10
+vrr|20013818|Solingen Mitte|koeln_schnellverkehr|1853|285|10
+vrr|20013006|SG-Schaberg|koeln_schnellverkehr|1910|283|10
+vrr|20012058|RS-Güldenwerth|koeln_schnellverkehr|1968|283|10
+vrr|20012077|Remscheid Hbf|koeln_schnellverkehr|2025|285|10
+vrr|20012106|RS-Lennep|koeln_schnellverkehr|2083|285|10
+vrr|20012113|RS-Lüttringhausen|koeln_schnellverkehr|2140|283|10
+vrr|20011531|W-Ronsdorf|koeln_schnellverkehr|2245|260|10
+vrr|22000008|Köln Hbf|koeln_schnellverkehr|1318|963|18
+vrr|22000750|K Nippes|koeln_schnellverkehr|1098|800|10
+vrr|22000358|K Longerich|koeln_schnellverkehr|810|510|10
+vrr|22000402|K Volkshovener Weg|koeln_schnellverkehr|815|458|10
+vrr|22009574|K-Chorweiler Nord|koeln_schnellverkehr|833|355|10
+vrr|22008756|K-Blumenberg|koeln_schnellverkehr|775|338|10
+vrr|22000420|K-Worringen|koeln_schnellverkehr|670|318|10
+vrr|20020280|Dormagen Chempark|koeln_schnellverkehr|670|273|10
+vrr|20020268|Dormagen|koeln_schnellverkehr|663|230|15
+vrr|20020314|Nievenheim|koeln_schnellverkehr|670|183|10
+vrr|20020727|Neuss-Allerheiligen|koeln_schnellverkehr|668|133|10
+vrr|22000185|K-Müngersdorf|koeln_schnellverkehr|665|913|10
+vrr|22000212|K-Lövenich|koeln_schnellverkehr|473|988|10
+vrr|22009568|Frechen-Königsdorf|koeln_schnellverkehr|365|1095|10
+vrr|22005252|Horrem|koeln_schnellverkehr|313|1130|18
+vrr|22009567|Sindorf|koeln_schnellverkehr|288|1173|10
+vrr|22006786|Buir|koeln_schnellverkehr|260|1200|10
+vrr|21004738|Merzenich|koeln_schnellverkehr|233|1230|10
+vrr|21002286|Düren|koeln_schnellverkehr|200|1258|20
+vrr|21004566|Langerwehe|koeln_schnellverkehr|125|1273|10
+vrr|21002427|Im Großen Tal|koeln_schnellverkehr|185|1198|10
+vrr|21004995|Huchen-Stammeln|koeln_schnellverkehr|128|1143|10
+vrr|21002251|Annakirmesplatz|koeln_schnellverkehr|178|1310|10
+vrr|21002341|Kuhbrücke|koeln_schnellverkehr|178|1348|10
+vrr|21002493|Lendersdorf|koeln_schnellverkehr|180|1383|10
+vrr|21002509|Renkerstraße|koeln_schnellverkehr|178|1418|10
+vrr|21002541|Tuchmühle|koeln_schnellverkehr|178|1450|10
+vrr|21004445|Kreuzau|koeln_schnellverkehr|178|1488|10
+vrr|21002541|Binsfeld|koeln_schnellverkehr|320|1470|10
+vrr|22007603|Quadrath-Ichendorf|koeln_schnellverkehr|298|990|10
+vrr|22005301|Bergheim|koeln_schnellverkehr|298|930|10
+vrr|22009563|Zieverich|koeln_schnellverkehr|298|863|10
+vrr|22009562|Paffendorf|koeln_schnellverkehr|298|788|10
+vrr|22009561|Glesch|koeln_schnellverkehr|298|718|10
+vrr|22006791|Bedburg|koeln_schnellverkehr|298|630|10
+vrr|20020478|Frimmersdorf|koeln_schnellverkehr|298|543|10
+vrr|20020476|Gustorf|koeln_schnellverkehr|298|478|10
+vrr|20020001|Grevenbroich|koeln_schnellverkehr|323|418|15
+vrr|20020259|Rommerskirchen|koeln_schnellverkehr|370|505|10
+vrr|22009570|Stommeln|koeln_schnellverkehr|370|585|10
+vrr|22006613|Pulheim|koeln_schnellverkehr|418|658|10
+vrr|20023812|Jüchen|koeln_schnellverkehr|185|370|10
+vrr|20020013|Kapellen-Wevelighoven|koeln_schnellverkehr|385|358|10
+vrr|20020369|Holzheim|koeln_schnellverkehr|448|293|10
+vrr|22005447|Hürth-Kalscheuren|koeln_schnellverkehr|1178|1520|13
+vrr|22005352|Brühl|koeln_schnellverkehr|1305|1733|10
+vrr|22005351|Sechtem|koeln_schnellverkehr|1380|1808|10
+vrr|22005389|Brühl-Kierberg|koeln_schnellverkehr|990|1725|8
+vrr|22006913|Erftstadt|koeln_schnellverkehr|963|1800|10
+vrr|22006221|Weilerswist|koeln_schnellverkehr|960|1870|10
+vrr|20023007|Mönchengladbach|koeln_schnellverkehr|145|313|15
+vrr|20023023|Rheydt|koeln_schnellverkehr|123|335|13
+vrr|20021002|Krefeld Hbf|koeln_schnellverkehr|593|90|10
+vrr|20020055|Neuss|koeln_schnellverkehr|593|110|10
+vrr|20018235|Düsseldorf Hbf|koeln_schnellverkehr|753|90|10
+vrr|20020055|Neuss|koeln_schnellverkehr|740|105|10
+vrr|20018235|Düsseldorf|koeln_schnellverkehr|1375|90|15
+vrr|20011376|Wuppertal|koeln_schnellverkehr|1795|95|15
+vrr|23510097|Siegen|koeln_schnellverkehr|2683|1618|10
+vrr|80000034|Betzdorf|koeln_schnellverkehr|2698|1633|10
+vrr|15002716|Altenkirchen|koeln_schnellverkehr|2418|1958|20
+vrr|20200687|Bonn|koeln_schnellverkehr|2000|1958|13
+vrr|22001504|Bonn-Beuel|koeln_schnellverkehr|1948|1880|8
+vrr|15010107|Neuwied|koeln_schnellverkehr|1938|1893|8
+vrr|20200687|Bonn|koeln_schnellverkehr|1618|1938|13
+vrr|20200687|Bonn|koeln_schnellverkehr|1473|1938|13
+vrr|15012944|Remagen|koeln_schnellverkehr|1460|1958|13
+vrr|20200687|Bonn|koeln_schnellverkehr|1328|1955|15
+vrr|22000161|BN-Bad Godesberg|koeln_schnellverkehr|1655|1955|23
+vrr|22006058|Euskirchen|koeln_schnellverkehr|915|1930|13
+vrr|22006346|Kall|koeln_schnellverkehr|938|1945|13
+vrr|25007296|Gerolstein|koeln_schnellverkehr|915|1958|13
+vrr|22006058|Euskirchen|koeln_schnellverkehr|408|1540|20
+vrr|21003409|Heimbach|koeln_schnellverkehr|213|1538|20
+vrr|21001008|Aachen|koeln_schnellverkehr|58|1305|13
+vrr|21005766|Stolberg|koeln_schnellverkehr|63|1328|13
+vrr|21001008|Aachen|koeln_schnellverkehr|58|1183|13
+vrr|21002828|Eschweiler|koeln_schnellverkehr|58|1205|10
+vrr|21004592|Linnich|koeln_schnellverkehr|85|1078|13
+vrr|20018235|Düsseldorf|koeln_schnellverkehr|490|215|10
+vrr|20020055|Neuss|koeln_schnellverkehr|493|233|10
+db|444508|Mauritiuskirche|koeln_schnellverkehr|1143|1188|10
+db|442752|Appellhofplatz/Zeughaus|koeln_schnellverkehr|1214|1034|10
+db|444928|Ulrepforte|koeln_schnellverkehr|1299|1393|14
+db|443431|Chlodwigplatz|koeln_schnellverkehr|1366|1393|16
+db|444628|Ubierring|koeln_schnellverkehr|1434|1393|15
+db|8002104|Friedrich Wilhelmshütte|koeln_schnellverkehr|2002|1749|11
+db|8003966|Menden|koeln_schnellverkehr|2002|1839|11
+db|8003361|Köln Süd|koeln_schnellverkehr|1073|1308|23
