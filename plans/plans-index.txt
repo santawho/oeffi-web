@@ -20,7 +20,7 @@ greifswald|54.092863,13.370336|2015-12|Greifswald Liniennetz|Stadtwerke Greifswa
 dresden|51.050961,13.733239|2016-03-20|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2015-01-05|Dresden Nachtverkehr|dvb.de
 # dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
-leipzig_halle_schnellbahn|51.423347,12.220980|2015-12-13|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
+leipzig_halle_schnellbahn|51.423347,12.220980|2016-12-11|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
 leipzig_tag|51.345476,12.379382|2016-11-27|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
 leipzig_nacht|51.345476,12.379382|2016-11-27|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
 halle_tag|51.477347,11.985263|2016-12-19|Halle Linien Tag|SWH/HAVAG
