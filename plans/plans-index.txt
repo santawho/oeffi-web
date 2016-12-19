@@ -89,6 +89,8 @@ aachen_schnellverkehr|50.768399,6.090705|2016-06|Aachen Schnellverkehr|Aachener 
 aachen_region|50.768399,6.090705|2015-12|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH
 darmstadt|49.872582,8.630916|2016-12-11|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
 darmstadt_nacht|49.872582,8.630916|2016-12-11|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
+duesseldorf|51.230794,6.769025|2016-02-21|Düsseldorf Liniennetz|Rheinbahn
+duesseldorf_nacht|51.230794,6.769025|2016-02-21|Düsseldorf Nachtlinien|Rheinbahn
 schwerin|53.634476,11.407313|2015-03|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
 magdeburg_tag|52.130783,11.627347|2016-09-12|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_nacht|52.130783,11.627347|2016-01-07|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
