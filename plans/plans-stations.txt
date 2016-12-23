@@ -3805,7 +3805,7 @@ mvv|1000651|Arabellastraße|muenchen_tram_metrobus|2424|510|28
 mvv|1000007|Hackerbrücke|muenchen_tram_metrobus|1458|1088|28
 mvv|1000600|St. Emmeram|muenchen_tram_metrobus|2518|358|28
 
-﻿vrr|20036119|Emmerich|nrw_regio|652|296|13
+vrr|20036119|Emmerich|nrw_regio|652|296|13
 vrr|20036112|Praest|nrw_regio|678|328|5
 vrr|20040035|Millingen|nrw_regio|710|359|13
 vrr|20040024|Empel-Rees|nrw_regio|745|382|13
@@ -4732,7 +4732,7 @@ vrr|20004582|Gladbeck Ost|nrw_regio|1353|566|10
 vrr|20005159|GE Buer Süd|nrw_regio|1377|590|10
 vrr|20006772|GE Zoo|nrw_regio|1402|616|10
 
-﻿vrr|22000702|Weiden West|koeln_schnellverkehr|420|1045|13
+vrr|22000702|Weiden West|koeln_schnellverkehr|420|1045|13
 vrr|22000241|Weiden Schulstr.|koeln_schnellverkehr|450|1138|8
 vrr|22000261|Weiden Zentrum|koeln_schnellverkehr|488|1138|8
 vrr|22000830|Bahnstr.|koeln_schnellverkehr|525|1138|8
