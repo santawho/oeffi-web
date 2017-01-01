@@ -5111,3 +5111,362 @@ db|444628|Ubierring|koeln_schnellverkehr|1434|1393|15
 db|8002104|Friedrich Wilhelmshütte|koeln_schnellverkehr|2002|1749|11
 db|8003966|Menden|koeln_schnellverkehr|2002|1839|11
 db|8003361|Köln Süd|koeln_schnellverkehr|1073|1308|23
+
+vvs|5004211|Kirchheim|stuttgart_verbund|3039|1931|14
+vvs|5004345|Ötlingen|stuttgart_verbund|2970|1861|14
+vvs|5004257|Wendlingen|stuttgart_verbund|2901|1792|14
+vvs|5004241|Wernau|stuttgart_verbund|2841|1732|15
+vvs|5007802|Plochingen|stuttgart_verbund|2786|1679|16
+vvs|5001800|Altbach|stuttgart_verbund|2721|1611|14
+vvs|5001803|Zell|stuttgart_verbund|2657|1548|15
+vvs|5001802|Oberesslingen|stuttgart_verbund|2594|1485|15
+vvs|5007800|Esslingen|stuttgart_verbund|2529|1419|15
+vvs|5001801|Mettingen|stuttgart_verbund|2463|1356|13
+vvs|5006091|Obertürkheim|stuttgart_verbund|2400|1291|13
+vvs|5006085|Untertürkheim|stuttgart_verbund|2326|1217|24
+vvs|5006080|Neckarpark|stuttgart_verbund|2216|1107|13
+vvs|5006333|Bad Cannstatt|stuttgart_verbund|2139|967|46
+vvs|5006118|Hauptbahnhof|stuttgart_verbund|1651|1206|70
+vvs|5006056|Stadtmitte|stuttgart_verbund|1520|1327|37
+vvs|5006221|Feuersee|stuttgart_verbund|1437|1413|32
+vvs|5006052|Schwabstraße|stuttgart_verbund|1363|1487|33
+vvs|5007703|Schorndorf|stuttgart_verbund|3127|1332|21
+vvs|5001704|Weiler|stuttgart_verbund|3088|1292|15
+vvs|5001705|Winterbach|stuttgart_verbund|3050|1255|18
+vvs|5001702|Geradstetten|stuttgart_verbund|3015|1219|15
+vvs|5001703|Grunbach|stuttgart_verbund|2976|1182|15
+vvs|5003711|Beutelsbach|stuttgart_verbund|2938|1144|20
+vvs|5007704|Endersbach|stuttgart_verbund|2900|1106|17
+vvs|5001701|Stetten Beinstein|stuttgart_verbund|2864|1071|18
+vvs|5007701|Rommelshausen|stuttgart_verbund|2827|1032|17
+vvs|5007604|Waiblingen|stuttgart_verbund|2783|990|19
+vvs|5006500|Fellbach|stuttgart_verbund|2671|989|20
+vvs|5001300|Sommerrain|stuttgart_verbund|2563|989|19
+vvs|5000034|Nürnberger Straße|stuttgart_verbund|2453|990|19
+vvs|5006008|Universität|stuttgart_verbund|1315|1573|24
+vvs|5006027|Österfeld|stuttgart_verbund|1247|1640|25
+vvs|5006002|Vaihingen|stuttgart_verbund|1045|1842|22
+vvs|5006001|Rohr|stuttgart_verbund|996|1888|24
+vvs|5001205|Oberaichen|stuttgart_verbund|1042|1995|18
+vvs|5000175|Leinfelden|stuttgart_verbund|1124|2077|18
+vvs|5007003|Echterdingen|stuttgart_verbund|1204|2158|16
+vvs|5001203|Flughafen Messe|stuttgart_verbund|1288|2239|20
+vvs|5001905|Filderstadt|stuttgart_verbund|1384|2324|20
+vvs|5007600|Backnang|stuttgart_verbund|3126|645|16
+vvs|5007601|Maubach|stuttgart_verbund|3068|704|18
+vvs|5001601|Nellmersbach|stuttgart_verbund|3012|760|16
+vvs|5007605|Winnenden|stuttgart_verbund|2956|816|16
+vvs|5001603|Schwaikhaim|stuttgart_verbund|2900|872|13
+vvs|5001602|Neustadt-Hohenacker|stuttgart_verbund|2845|926|13
+vvs|5007500|Burgstall|stuttgart_verbund|2921|440|16
+vvs|5007502|Kirchberg|stuttgart_verbund|2589|302|15
+vvs|5003514|Erdmannhausen|stuttgart_verbund|2369|302|16
+vvs|5007503|Marbach|stuttgart_verbund|2149|302|15
+vvs|5001500|Benningen|stuttgart_verbund|1930|302|15
+vvs|5001503|Freiberg|stuttgart_verbund|1709|303|17
+vvs|5007403|Favoritenpark|stuttgart_verbund|1488|303|16
+vvs|5007402|Ludwigsburg|stuttgart_verbund|1238|351|24
+vvs|5001402|Kornwestheim|stuttgart_verbund|1357|470|20
+vvs|5006465|Zuffenhausen|stuttgart_verbund|1528|659|26
+vvs|5006157|Feuerbach|stuttgart_verbund|1613|739|28
+vvs|5006295|Nordbahnhof|stuttgart_verbund|1749|879|25
+vvs|5001400|Bietigheim Bissingen|stuttgart_verbund|604|307|19
+vvs|5007404|Tamm|stuttgart_verbund|799|301|15
+vvs|5007400|Asperg|stuttgart_verbund|989|302|18
+vvs|5003201|Sindelfingen|stuttgart_verbund|631|1809|20
+vvs|5003198|Maichingen|stuttgart_verbund|547|1727|16
+vvs|5003197|Maichingen Nord|stuttgart_verbund|465|1643|15
+vvs|5003196|Magstadt|stuttgart_verbund|381|1561|18
+vvs|5003195|Renningen Süd|stuttgart_verbund|300|1477|16
+vvs|5001303|Weil der Stadt|stuttgart_verbund|78|1513|19
+vvs|5001301|Malmsheim|stuttgart_verbund|183|1407|16
+vvs|5007302|Renningen|stuttgart_verbund|305|1289|17
+vvs|5001302|Rutesheim|stuttgart_verbund|425|1170|20
+vvs|5007301|Leonberg|stuttgart_verbund|548|1053|18
+vvs|5001003|Höfingen|stuttgart_verbund|666|931|17
+vvs|5007000|Ditzingen|stuttgart_verbund|787|812|20
+vvs|5002270|Weilimdorf|stuttgart_verbund|908|691|15
+vvs|5007603|Korntal|stuttgart_verbund|1089|658|19
+vvs|5001403|Neuwirtshaus|stuttgart_verbund|1291|660|16
+vvs|5006002|Vaihingen|stuttgart_verbund|1015|1803|16
+vvs|5006004|Vaihingen Schillerplatz|stuttgart_verbund|1048|1754|16
+vvs|5000005|Fauststr.|stuttgart_verbund|1097|1703|13
+vvs|5000006|Vaihingen Viadukt|stuttgart_verbund|1147|1675|16
+vvs|5000008|Engelboldstr.|stuttgart_verbund|1262|1675|14
+vvs|5006009|Kaltental|stuttgart_verbund|1329|1675|14
+vvs|5006010|Waldeck|stuttgart_verbund|1396|1675|15
+vvs|5000043|Heslach Vogelrain|stuttgart_verbund|1431|1655|14
+vvs|5000013|Südheimer Platz|stuttgart_verbund|1471|1620|15
+vvs|5000015|Bihlplatz|stuttgart_verbund|1510|1582|17
+vvs|5006017|Erwin Schoettle Platz|stuttgart_verbund|1546|1545|19
+vvs|5006019|Marienpl.|stuttgart_verbund|1585|1507|16
+vvs|5006020|Österreich. Platz|stuttgart_verbund|1622|1470|17
+vvs|5000055|Berliner Platz|stuttgart_verbund|1362|1170|24
+vvs|5000229|Börsenplatz|stuttgart_verbund|1504|1121|22
+vvs|5006024|Staatsgalerie|stuttgart_verbund|1822|1260|15
+vvs|5000025|Neckartor|stuttgart_verbund|1843|1240|15
+vvs|5000026|Stöckach|stuttgart_verbund|1872|1220|21
+vvs|5000027|Metzstr.|stuttgart_verbund|1905|1182|17
+vvs|5000028|Mineralbäder|stuttgart_verbund|1935|1151|14
+vvs|5000030|Mercedesstr.|stuttgart_verbund|1971|1123|14
+vvs|5000032|Uff Kirchhof|stuttgart_verbund|2249|931|10
+vvs|5000033|Augsburger Platz|stuttgart_verbund|2364|936|16
+vvs|5000035|Antwerpener Straße|stuttgart_verbund|2512|1059|12
+vvs|5000036|Beskidenstr.|stuttgart_verbund|2567|1115|15
+vvs|5000037|Höhenstr.|stuttgart_verbund|2622|1170|14
+vvs|5000038|Esslinger Str.|stuttgart_verbund|2676|1224|15
+vvs|5000039|Schwabenlandhalle|stuttgart_verbund|2732|1281|15
+vvs|5006040|Fellbach Lutherkirche|stuttgart_verbund|2789|1337|20
+vvs|5006503|Botnang|stuttgart_verbund|651|1446|17
+vvs|5006210|Eltinger Str.|stuttgart_verbund|734|1448|17
+vvs|5000211|Millöckerstr.|stuttgart_verbund|818|1448|15
+vvs|5000212|Beethovenstr.|stuttgart_verbund|902|1446|13
+vvs|5006213|Lindpaintnerstr.|stuttgart_verbund|984|1446|15
+vvs|5000216|Herderplatz|stuttgart_verbund|1074|1440|13
+vvs|5000217|Vogelsang|stuttgart_verbund|1128|1386|16
+vvs|5000218|Arndt-/Spittastr.|stuttgart_verbund|1183|1331|14
+vvs|5006206|Schwab-/Bebelstr.|stuttgart_verbund|1235|1278|14
+vvs|5006219|Schloss-/Johannesstr.|stuttgart_verbund|1290|1226|16
+vvs|5000323|Daimlerpl-|stuttgart_verbund|2214|871|12
+vvs|5000322|Kursaal|stuttgart_verbund|2295|791|16
+vvs|5000321|Gnesener Str.|stuttgart_verbund|2398|765|14
+vvs|5006320|Obere Ziegelei|stuttgart_verbund|2494|764|14
+vvs|5002492|Hauptfriedhof|stuttgart_verbund|2590|765|14
+vvs|5002490|Steinhaldenfeld|stuttgart_verbund|2685|765|14
+vvs|5002484|Neugereut|stuttgart_verbund|2785|762|17
+vvs|5000356|Jurastr.|stuttgart_verbund|1190|1799|14
+vvs|5000355|Wallgraben|stuttgart_verbund|1285|1794|16
+vvs|5002599|Lapp Kabel|stuttgart_verbund|1197|1855|15
+vvs|5002613|Dürrlewang|stuttgart_verbund|1137|1911|20
+vvs|5000174|Unteraichen|stuttgart_verbund|1186|2013|16
+vvs|5007173|Leinfelden Frank|stuttgart_verbund|1240|1960|16
+vvs|5006171|Möhringen Freibad|stuttgart_verbund|1300|1906|17
+vvs|5000183|Rohrer Weg|stuttgart_verbund|1355|1850|17
+vvs|5000364|Fasanenhof|stuttgart_verbund|1297|1956|14
+vvs|5002584|Europaplatz|stuttgart_verbund|1296|2002|17
+vvs|5002586|EnBW City|stuttgart_verbund|1297|2047|16
+vvs|5000363|Fasanenhof Schelmenwasen|stuttgart_verbund|1297|2091|14
+vvs|5000350|SSB Zentrum|stuttgart_verbund|1380|1795|16
+vvs|5000170|Vaihinger Str.|stuttgart_verbund|1445|1786|24
+vvs|5006169|Möhringen Bf|stuttgart_verbund|1502|1785|18
+vvs|5000354|Sigmaringer Str.|stuttgart_verbund|1620|1885|17
+vvs|5000353|Plieninger Str.|stuttgart_verbund|1676|1941|14
+vvs|5000360|Salzäcker|stuttgart_verbund|1732|1994|13
+vvs|5006352|Landhaus|stuttgart_verbund|1788|2050|16
+vvs|5006555|Plieningen|stuttgart_verbund|1829|2094|16
+vvs|5006102|Waldfriedhof|stuttgart_verbund|1511|1662|21
+vvs|5000344|Liststr.|stuttgart_verbund|1624|1542|18
+vvs|5000343|Pfaffenweg|stuttgart_verbund|1661|1579|18
+vvs|5000342|Wielandshöhe|stuttgart_verbund|1693|1613|16
+vvs|5000165|Haigst|stuttgart_verbund|1731|1650|16
+vvs|5000341|Nägelestr.|stuttgart_verbund|1768|1686|16
+vvs|5006340|Zahnradbf.|stuttgart_verbund|1796|1729|15
+vvs|5006165|Degerloch|stuttgart_verbund|1782|1770|25
+vvs|5002594|Degerloch Albstr.|stuttgart_verbund|1740|1783|20
+vvs|5006166|Peregrinastr.|stuttgart_verbund|1684|1782|18
+vvs|5006167|Sonnenberg|stuttgart_verbund|1623|1782|17
+vvs|5006168|Riedsee|stuttgart_verbund|1563|1781|18
+vvs|5002974|Nellingen Ostfildern|stuttgart_verbund|2576|2211|17
+vvs|5002973|Techn. Akademie|stuttgart_verbund|2542|2175|19
+vvs|5002972|Kreuzbrunnen|stuttgart_verbund|2495|2130|15
+vvs|5002971|Scharnhauser Park|stuttgart_verbund|2450|2085|14
+vvs|5002970|Parksiedlung|stuttgart_verbund|2403|2037|15
+vvs|5002969|Zinsholz|stuttgart_verbund|2356|1994|12
+vvs|5002968|Ruit|stuttgart_verbund|2313|1949|19
+vvs|5000136|Heumaden|stuttgart_verbund|2268|1901|20
+vvs|5006133|Bockelstr.|stuttgart_verbund|2236|1866|19
+vvs|5006130|Schemppstr.|stuttgart_verbund|2196|1829|17
+vvs|5006134|Sillenbruch|stuttgart_verbund|2158|1791|18
+vvs|5000129|Silberwald|stuttgart_verbund|2122|1755|16
+vvs|5006128|Ruhbahn (Fernsehturm)|stuttgart_verbund|2082|1715|19
+vvs|5006127|Stelle|stuttgart_verbund|2064|1681|13
+vvs|5000126|Geroksruhe|stuttgart_verbund|2033|1654|15
+vvs|5000125|Payerstr.|stuttgart_verbund|2003|1623|16
+vvs|5000124|Bubenbad|stuttgart_verbund|1973|1592|15
+vvs|5000123|Stafflenbergstr.|stuttgart_verbund|1943|1559|18
+vvs|5006122|Heidehofstr.|stuttgart_verbund|1912|1529|18
+vvs|5006121|Eugenspl.|stuttgart_verbund|1883|1499|13
+vvs|5000163|Weinsteige|stuttgart_verbund|1839|1717|20
+vvs|5006160|Bopser|stuttgart_verbund|1855|1598|23
+vvs|5000159|Dobelstr.|stuttgart_verbund|1853|1501|18
+vvs|5006119|Olgaeck|stuttgart_verbund|1808|1424|22
+vvs|5006074|Rathaus|stuttgart_verbund|1691|1403|20
+vvs|5006075|Charlottenplatz|stuttgart_verbund|1745|1358|28
+vvs|5006022|Schlossplatz|stuttgart_verbund|1686|1307|23
+vvs|5006116|Stadtbiblothek|stuttgart_verbund|1574|1045|23
+vvs|5000115|Eckartshaldenweg|stuttgart_verbund|1567|957|17
+vvs|5002235|Killesberg|stuttgart_verbund|1243|941|20
+vvs|5006114|Löwentorbrücke|stuttgart_verbund|1635|885|20
+vvs|5006113|Pragsattel|stuttgart_verbund|1754|763|24
+vvs|5000112|Sieglestr.|stuttgart_verbund|1754|700|15
+vvs|5000111|Borsigstr.|stuttgart_verbund|1755|667|16
+vvs|5000110|Friedrichswahl|stuttgart_verbund|1755|631|14
+vvs|5006109|Hohensteinstr.|stuttgart_verbund|1757|596|15
+vvs|5000108|Zuffenhausen Rathaus|stuttgart_verbund|1685|531|18
+vvs|5000107|Kirchtalstr.|stuttgart_verbund|1511|530|19
+vvs|5006105|Salzwiesenstr.|stuttgart_verbund|1340|530|16
+vvs|5000104|Wimpfener Str.|stuttgart_verbund|1167|529|17
+vvs|5000103|Heutingsheimer Str.|stuttgart_verbund|994|532|19
+vvs|5000102|Korntaler Str.|stuttgart_verbund|827|531|19
+vvs|5000100|Stammheim|stuttgart_verbund|654|532|15
+vvs|5006294|Zuffenhausen Kelterplatz|stuttgart_verbund|1824|531|18
+vvs|5006293|Schozacher Str.|stuttgart_verbund|1941|531|15
+vvs|5006292|Fürfelder Str.|stuttgart_verbund|2082|531|18
+vvs|5006291|Tapachstr.|stuttgart_verbund|2224|533|17
+vvs|5000289|Himmelsleiter|stuttgart_verbund|2363|531|15
+vvs|5000288|Suttnerstr.|stuttgart_verbund|2506|529|17
+vvs|5006287|Freiberg|stuttgart_verbund|2644|533|18
+vvs|5006288|Mönchfeld|stuttgart_verbund|2783|533|19
+vvs|5000298|Pragfriedhof|stuttgart_verbund|1628|1000|16
+vvs|5000297|Milchhof|stuttgart_verbund|1665|964|17
+vvs|5000296|Mittnachtstr.|stuttgart_verbund|1704|925|17
+vvs|5006261|Löwentor|stuttgart_verbund|1812|818|16
+vvs|5002494|Züricher Str.|stuttgart_verbund|1873|754|20
+vvs|5002493|Rietmüllerhaus|stuttgart_verbund|1929|701|17
+vvs|5002473|Hallschlag|stuttgart_verbund|1980|648|21
+vvs|5000262|Rosensteinpark|stuttgart_verbund|1851|854|15
+vvs|5000263|Glockenstr.|stuttgart_verbund|1881|889|15
+vvs|5006253|Rosensteinbr.|stuttgart_verbund|1935|926|16
+vvs|5000032|Uff-Kirchhof|stuttgart_verbund|2248|932|17
+vvs|5001604|Ebitzweg|stuttgart_verbund|2324|957|13
+vvs|5000264|Kienbachstr.|stuttgart_verbund|2331|1040|17
+vvs|5000265|Blick|stuttgart_verbund|2334|1078|19
+vvs|5000267|Eszet|stuttgart_verbund|2330|1118|18
+vvs|5000268|Schlotterbeckstr.|stuttgart_verbund|2333|1156|19
+vvs|5000084|Wasenstr.|stuttgart_verbund|2326|1447|23
+vvs|5000225|Wangen Marktplatz|stuttgart_verbund|2392|1510|18
+vvs|5000226|Hedelfinger Str.|stuttgart_verbund|2453|1570|15
+vvs|5000227|Hedelfingen|stuttgart_verbund|2506|1627|18
+vvs|5000083|Inselstr.|stuttgart_verbund|2282|1445|16
+vvs|5000082|Im Degen|stuttgart_verbund|2242|1446|18
+vvs|5000081|Brendle (Großmarkt)|stuttgart_verbund|2204|1446|15
+vvs|5000080|Wangener-/Landhausstr.|stuttgart_verbund|2169|1445|17
+vvs|5000079|Gaisburg|stuttgart_verbund|2078|1437|15
+vvs|5000078|Ostheim Leo-Vetter-Bad|stuttgart_verbund|2045|1402|19
+vvs|5006060|Ostendpl.|stuttgart_verbund|2010|1367|16
+vvs|5000077|Bergfriedhof|stuttgart_verbund|1981|1329|15
+vvs|5000076|Karl-Olga-Krankenhaus|stuttgart_verbund|1932|1283|17
+vvs|5006223|Schlachthof|stuttgart_verbund|2098|1388|15
+vvs|5000222|Raitelsberg|stuttgart_verbund|2058|1352|16
+vvs|5007140|Gerlingen|stuttgart_verbund|650|1298|18
+vvs|5000141|Siedlung|stuttgart_verbund|709|1238|17
+vvs|5000143|Breitwiesen|stuttgart_verbund|776|1172|18
+vvs|5000144|Giebel|stuttgart_verbund|839|1103|18
+vvs|5000145|Salamanderweg|stuttgart_verbund|885|1056|18
+vvs|5000146|Bergheimer Hof|stuttgart_verbund|934|1008|16
+vvs|5000147|Wolfbusch|stuttgart_verbund|982|958|17
+vvs|5000148|Rastatter Str.|stuttgart_verbund|1033|911|17
+vvs|5006149|Weilimdorf Löwen-Markt|stuttgart_verbund|1078|862|16
+vvs|5000151|Landauer Str.|stuttgart_verbund|1127|814|14
+vvs|5000152|Feuerbach Pforstenwäldle|stuttgart_verbund|1175|767|15
+vvs|5000153|Sportpark Feuerbach|stuttgart_verbund|1280|759|17
+vvs|5000154|Föhrich|stuttgart_verbund|1372|760|17
+vvs|5006180|Wilhelm-Geiger-Platz|stuttgart_verbund|1469|758|14
+vvs|5000158|Maybachstr.|stuttgart_verbund|1702|760|15
+vvs|5006070|Hölderlinplatz|stuttgart_verbund|1073|1104|16
+vvs|5006071|Russische Kirche|stuttgart_verbund|1170|1105|18
+vvs|5006072|Rosenberg-/Seidenstr.|stuttgart_verbund|1272|1102|18
+vvs|5003573|Neckargröningen Remseck|stuttgart_verbund|2785|646|17
+vvs|5003572|Brückenstr.|stuttgart_verbund|2714|646|16
+vvs|5003571|Mühle|stuttgart_verbund|2641|647|17
+vvs|5003570|Hornbach|stuttgart_verbund|2572|645|15
+vvs|5006270|Mühlhausen|stuttgart_verbund|2499|645|18
+vvs|5000271|Auwiesen|stuttgart_verbund|2427|645|14
+vvs|5000272|Hofen|stuttgart_verbund|2357|646|16
+vvs|5006273|Max-Eyth-See|stuttgart_verbund|2285|645|19
+vvs|5000274|Wagrainäcker|stuttgart_verbund|2217|646|14
+vvs|5000275|Elbestr.|stuttgart_verbund|2168|688|16
+vvs|5000276|Freibergstr.|stuttgart_verbund|2129|728|16
+vvs|5000277|Münster Rathaus|stuttgart_verbund|2089|767|17
+vvs|5000278|Münster Viadukt|stuttgart_verbund|2050|806|17
+vvs|5000280|Kraftwerk Münster|stuttgart_verbund|2014|843|17
+vvs|5000281|Mühlsteg|stuttgart_verbund|1974|883|16
+vvs|5006330|NeckarPark (Stadion)|stuttgart_verbund|2094|1212|22
+||Cannstatter Wasen|stuttgart_verbund|2041|1166|14
+vvs|5005583|Besigheim|stuttgart_verbund|466|302|16
+vvs|5005785|Walheim|stuttgart_verbund|326|302|16
+vvs|5005723|Kirchheim (N)|stuttgart_verbund|191|304|19
+vvs|5032003|Heilbronn|stuttgart_verbund|103|325|23
+vvs|5031013|Pforzheim|stuttgart_verbund|104|439|21
+vvs|5005879|Vaihingen (E)|stuttgart_verbund|191|417|17
+vvs|5005782|Sersheim|stuttgart_verbund|328|417|17
+vvs|5005639|Sachsenheim|stuttgart_verbund|465|418|17
+vvs|5001910|Ellental|stuttgart_verbund|552|363|18
+vvs|5004536|Heimerdingen|stuttgart_verbund|82|640|16
+vvs|5004527|Hemmingen|stuttgart_verbund|248|638|23
+vvs|5005795|Schwieberdingen|stuttgart_verbund|415|641|20
+vvs|5005632|Münchingen|stuttgart_verbund|582|641|17
+vvs|5007607|Münchingen Rührberg|stuttgart_verbund|753|641|15
+vvs|5007606|Korntal Gymnasium|stuttgart_verbund|921|641|17
+vvs|5005776|Gäufelden|stuttgart_verbund|378|2249|18
+vvs|5004510|Bondorf|stuttgart_verbund|320|2309|14
+vvs|5030011|Horb|stuttgart_verbund|336|2325|12
+vvs|5030005|Freudenstadt|stuttgart_verbund|378|2311|22
+vvs|5007202|Herrenberg Zwerchweg|stuttgart_verbund|500|2249|17
+vvs|5003231|Gültstein|stuttgart_verbund|557|2308|16
+vvs|5021000|Tübingen|stuttgart_verbund|557|2345|16
+vvs|5004711|Böbl. Danziger Str.|stuttgart_verbund|773|1951|17
+vvs|5006742|Böbl. Südbf.|stuttgart_verbund|809|1989|17
+vvs|5004712|Böbl. Heusteigerstr.|stuttgart_verbund|846|2025|17
+vvs|5004713|Böbl. Zimmerschlag|stuttgart_verbund|884|2062|17
+vvs|5003222|Holzgerlingen Nord|stuttgart_verbund|920|2103|16
+vvs|5004193|Holzgerlingen|stuttgart_verbund|957|2138|15
+vvs|5004786|Holzgerlingen Buch|stuttgart_verbund|996|2177|16
+vvs|5004192|Weil im Schönbuch Troppel|stuttgart_verbund|1034|2213|14
+vvs|5004781|Weil im Schönenbuch Röte|stuttgart_verbund|1070|2252|14
+vvs|5007037|Weil im Schönenbuch Untere Halde|stuttgart_verbund|1108|2289|16
+vvs|5026356|Dettenhausen|stuttgart_verbund|1142|2320|20
+vvs|5026356|Dettenhausen|stuttgart_verbund|1202|2370|31
+vvs|5005770|Oberbohingen|stuttgart_verbund|2896|1903|18
+vvs|5002931|Nürtingen|stuttgart_verbund|2897|2021|19
+vvs|5005772|Bempflingen|stuttgart_verbund|2897|2193|16
+vvs|5021000|Tübingen|stuttgart_verbund|2925|2310|18
+vvs|5004512|Herrenberg|stuttgart_verbund|2950|2290|17
+vvs|5005863|Nürtingen Vorstadt|stuttgart_verbund|2952|2072|16
+vvs|5005858|Roßdorf|stuttgart_verbund|3002|2121|14
+vvs|5005793|Frickenhausen|stuttgart_verbund|3050|2171|14
+vvs|5005859|Frickenh. Kelterstr.|stuttgart_verbund|3102|2222|16
+vvs|5004433|Linsenhofen|stuttgart_verbund|3153|2273|19
+vvs|5005794|Neuffen|stuttgart_verbund|3200|2320|21
+vvs|5005794|Neuffen|stuttgart_verbund|3230|2368|17
+vvs|5005777|Kirchheim Süd|stuttgart_verbund|3106|1998|18
+vvs|5005778|Dettingen|stuttgart_verbund|3172|2062|14
+vvs|5005779|Owen|stuttgart_verbund|3239|2130|17
+vvs|5005780|Brucken|stuttgart_verbund|3304|2194|22
+vvs|5005781|Unterlenningen|stuttgart_verbund|3368|2261|18
+vvs|5004418|Oberlenningen|stuttgart_verbund|3430|2321|16
+vvs|5004418|Oberlenningen|stuttgart_verbund|3399|2368|25
+vvs|5004224|Reichenbach|stuttgart_verbund|2875|1673|18
+vvs|5500151|Ebersbach|stuttgart_verbund|2960|1674|16
+vvs|5500152|Uhingen|stuttgart_verbund|3044|1674|16
+vvs|5500153|Faurndau|stuttgart_verbund|3132|1680|16
+vvs|5500154|Göppingen|stuttgart_verbund|3167|1715|17
+vvs|5500155|Eislingen|stuttgart_verbund|3205|1753|15
+vvs|5500156|Salach|stuttgart_verbund|3240|1788|17
+vvs|5500157|Süßen|stuttgart_verbund|3278|1823|20
+vvs|5500158|Gingen|stuttgart_verbund|3313|1861|18
+vvs|5500159|Kuchen|stuttgart_verbund|3349|1897|20
+vvs|5500160|Geislingen West|stuttgart_verbund|3387|1934|19
+vvs|5500161|Geislingen|stuttgart_verbund|3422|1971|16
+vvs|5034006|Ulm|stuttgart_verbund|3446|1962|15
+vvs|5005789|Urbach|stuttgart_verbund|3194|1399|16
+vvs|5005761|Plüderhausen|stuttgart_verbund|3262|1465|17
+vvs|5033001|Waldhausen|stuttgart_verbund|3327|1534|17
+vvs|5033002|Lorch|stuttgart_verbund|3395|1599|18
+vvs|5033006|Aalen|stuttgart_verbund|3435|1675|21
+vvs|5005804|Schornberg Hammerschlag|stuttgart_verbund|3165|1292|17
+vvs|5005051|Haubersbronn|stuttgart_verbund|3205|1254|13
+vvs|5005803|Haubersbronn Mitte|stuttgart_verbund|3241|1217|18
+vvs|5005790|Miedelsbach-Steinenberg|stuttgart_verbund|3276|1179|17
+vvs|5005791|Michelau|stuttgart_verbund|3318|1144|16
+vvs|5005792|Schlechtbach|stuttgart_verbund|3354|1105|18
+vvs|5005036|Rudersberg|stuttgart_verbund|3392|1069|15
+vvs|5005801|Rudersberg Nord|stuttgart_verbund|3429|1030|16
+vvs|5007567|Rudersberg Oberndorf|stuttgart_verbund|3466|990|16
+vvs|5005786|Oppenweiler|stuttgart_verbund|3185|585|20
+vvs|5004952|Sulzbach|stuttgart_verbund|3244|530|15
+vvs|5004916|Murrhardt|stuttgart_verbund|3300|473|19
+vvs|5005787|Fornsbach|stuttgart_verbund|3356|417|18
+vvs|5033014|Crailsheim|stuttgart_verbund|3417|324|23
+vvs|5001200|Zazenhausen|stuttgart_verbund|1921|468|16
+vvs|5001504|Münster|stuttgart_verbund|2125|672|18
