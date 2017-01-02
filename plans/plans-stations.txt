@@ -1153,10 +1153,10 @@ db|936253|Kurhausstraße|rostock_region|935|145
 db|935042|Seestraße|rostock_region|983|145
 db|935074|Wachtlerstraße|rostock_region|959|175
 db|935072|Warnemünde Kirchenplatz|rostock_region|1011|199
-db|936339|Poststraße|rostock_region|1011|265
-db|936212|Fritz-Reuter-Straße|rostock_region|1005|233
+db|936339|Poststraße|rostock_region|1011|233
+db|936212|Fritz-Reuter-Straße|rostock_region|1005|265
 db|939235|Rostocker Straße|rostock_region|1036|306
-db|935008|Richard-Wagner-Straße TZW|rostock_region|939|235
+db|935008|Richard-Wagner-Straße TZW|rostock_region|937|237
 db|8013236|Warnemünde|rostock_region|1110|199
 db|936350|Warnemünde Fähre|rostock_region|1205|199
 db|8013237|Warnemünde Werft (DB)|rostock_region|1128|302
@@ -1184,9 +1184,9 @@ db|936219|Gerüstbauerring|rostock_region|1128|523
 db|936180|Blockmacherring|rostock_region|1088|560
 db|936187|Dänenberg|rostock_region|1044|560
 db|935026|Schmarl Dorf|rostock_region|1166|594
-db|935027|Schmarl Zentrum|rostock_region|1058|641
-db|8012271|Rostock-Lütten Klein (DB)|rostock_region|1001|619
-db|936258|HP Lütten Klein (RSAG REBUS)|rostock_region|1001|652
+db|935027|Schmarl Zentrum|rostock_region|1058|644
+db|8012271|Rostock-Lütten Klein (DB)|rostock_region|1001|622
+db|936258|HP Lütten Klein (RSAG REBUS)|rostock_region|1001|655
 db|936648|Lütten Klein Zentrum|rostock_region|830|644
 db|936326|Osloer Straße|rostock_region|762|647
 db|936215|Gedser Straße|rostock_region|722|647
@@ -1228,7 +1228,7 @@ db|936285|Kuphalstraße|rostock_region|886|1237
 db|935065|Tschaikowskistraße|rostock_region|886|1277
 db|936214|Gartenstadt|rostock_region|886|1313
 db|935037|Schwimmhalle|rostock_region|919|1340
-db|936330|Stadion|rostock_region|979|1344
+db|936330|Ostseestadion|rostock_region|987|1344
 db|939222|Klinikum Schillingallee|rostock_region|1001|1391
 db|935023|Schillingallee|rostock_region|1066|1325
 db|842095|Fischereihafen|rostock_region|1106|1022
@@ -1308,12 +1308,12 @@ db|939295|Hauptbahnhof (RSAG)|rostock_region|1594|1525
 db|939421|Hauptbahnhof Süd|rostock_region|1623|1585
 db|935048|Hauptbahnhof Süd/ZOB|rostock_region|1623|1663
 db|936314|Neubrandenburger Straße|rostock_region|1794|1380
-db|936271|Kessiner Berg|rostock_region|1832|1502
+db|936271|Kessiner Berg|rostock_region|1846|1494
 db|8012806|Rostock-Kassebohm|rostock_region|1858|1356
 db|936168|Am Petridamm|rostock_region|1862|1228
 db|939374|Am Bagehl|rostock_region|1711|1321
 db|936207|Flussbad|rostock_region|1774|1321
-db|935083|Weißes Kreuz|rostock_region|1818|1325
+db|935083|Weißes Kreuz|rostock_region|1818|1321
 db|935062|Tessiner Straße|rostock_region|1898|1325
 db|936260|Hüerbaasweg|rostock_region|1989|1318
 db|936184|Brinckmansdorf|rostock_region|2055|1325
@@ -1384,7 +1384,7 @@ db|936167|Am Liepengraben|rostock_region|1812|679
 db|939340|Hinrichsdorf|rostock_region|1851|648
 db|936231|Güterverkehrszentrum|rostock_region|1851|601
 db|936320|Nienhagen|rostock_region|1851|537
-db|936335|Peez Dorf|rostock_region|1788|504
+db|936335|Peez Dorf|rostock_region|1788|505
 db|935057|Stuthof|rostock_region|1788|421
 db|936322|Nienhager Koppel|rostock_region|1876|453
 db|936268|Jürgeshof|rostock_region|1892|402
@@ -1460,7 +1460,7 @@ db|936259|Bad Doberan, Maxim-Gorki-Platz|rostock_region|99|988
 db|935166|Bad Doberan, Friedhof|rostock_region|54|992
 db|935630|Bad Doberan, Goethestraße (REBUS)|rostock_region|158|940
 db|8011069|Bad Doberan, Goethestraße (MBB)|rostock_region|152|946
-db|935530|Bad Doberan, Ärztehaus/Dammchaussee|rostock_region|183|890
+db|935530|Bad Doberan, Ärztehaus / Dammchaussee|rostock_region|183|890
 db|935745|Kammerhof, Thünenstraße|rostock_region|207|821
 db|935744|Kammerhof, Seniorenheim|rostock_region|139|821
 db|935316|Bad Doberan, Ärztehaus/Goethestraße|rostock_region|119|840
@@ -1503,7 +1503,7 @@ db|936049|Parkentin, Doberaner Straße|rostock_region|426|1441
 db|936014|Neuhof bei Parkentin|rostock_region|396|1439
 db|935821|Konow|rostock_region|366|1441
 db|935684|Hastorf, Abzweig|rostock_region|340|1439
-db|935686|Hastorf, Dorf|rostock_region|310|1394
+db|935686|Hastorf, Dorf|rostock_region|311|1395
 db|935685|Hastorf, Ausbau|rostock_region|294|1441
 db|935146|Hanstorf, Oberdorf|rostock_region|265|1436
 db|8010016|Bad Doberan (DB MBB)|rostock_region|205|1139
@@ -1567,13 +1567,14 @@ db|936083|Pölchow (REBUS)|rostock_region|1111|1921
 db|8012654|Pölchow (DB)|rostock_region|1111|1929
 db|936085|Pölchow, Ausbau|rostock_region|1070|1862
 db|936025|Niendorf, Gaststätte|rostock_region|1078|1848
-db|935584|Groß Stove|rostock_region|1079|1813
+db|935584|Groß Stove|rostock_region|1055|1792
+db|842096|Groß Stove, Mitte|rostock_region|1077|1811
 db|935585|Groß Stove, Abzweig|rostock_region|1099|1833
 db|935836|Sandkrug, Abzweig|rostock_region|1113|1817
 db|935417|Papendorf, Schule|rostock_region|1424|1808
 db|8012603|Papendorf|rostock_region|1572|1808
 db|935190|Sildemow, Abzweig|rostock_region|1120|1770
-db|935189|Sildemow|rostock_region|1287|1771
+db|935189|Sildemow|rostock_region|1287|1769
 db|936660|Sildemow, In der Seekoppel|rostock_region|1424|1771
 db|935550|Gragetopshof|rostock_region|1707|1752
 db|325025|Graal-Müritz, Wald|rostock_region|2664|199

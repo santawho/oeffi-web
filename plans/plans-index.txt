@@ -49,9 +49,9 @@ hamburg_metrobus_gross|53.552946,10.006782|2015-12-13|Hamburg MetroBus Großbere
 hamburg_nachtbus|53.552946,10.006782|2015-12|Hamburg Nachtbus|HVV
 kiel_liniennetz|54.313282,10.132341|2016-09|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2016-09|Kiel Nachtliniennetz|KVG
-rostock_vvw_liniennetz|54.078139,12.131724|2016-01-04|Rostock Liniennetz|Verkehrsverbund Warnow
-rostock_vvw_region|54.078139,12.131724|2016-01-04|Rostock Region|Verkehrsverbund Warnow
-rostock_region|54.078139,12.131724|2016-09-05|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
+rostock_vvw_liniennetz|54.078139,12.131724|2017-01-03|Rostock Liniennetz|Verkehrsverbund Warnow
+rostock_vvw_region|54.078139,12.131724|2017-01-03|Rostock Region|Verkehrsverbund Warnow
+rostock_region|54.078139,12.131724|2017-01-03|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
 wismar|53.903943,11.391928||Wismar Stadtverkehr|NAHBUS Nordwestmecklenburg GmbH
 nordwestmecklenburg|53.903943,11.391928|2016-03-14|Nordwestmecklenburg Busnetz|NAHBUS Nordwestmecklenburg GmbH
 osnabrueck|52.272832,8.061726|2016-10-17|Osnabrück Liniennetz|Stadtwerke Osnabrück
