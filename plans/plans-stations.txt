@@ -324,6 +324,306 @@ bvg|9016202|U Südstern|berlin_bsu_abc|1927|1482|18
 bvg|9003254|U Bundestag|berlin_bsu_abc|1508|1119|18
 !transform:
 
+bvg|9023302|U Adenauerplatz|berlin_bsu_ab|931|1298|18
+bvg|9193002|S Adlershof|berlin_bsu_ab|3050|1861|18
+bvg|9011102|U Afrikanische Str.|berlin_bsu_ab|1210|343|18
+bvg|9170004|S Ahrensfelde Bhf|berlin_bsu_ab|3357|495|18
+bvg|9100003|S+U Alexanderplatz Bhf|berlin_bsu_ab|2123|965|43
+bvg|9070301|U Alt-Mariendorf|berlin_bsu_ab|1855|1887|18
+bvg|9085105|S Alt-Reinickendorf|berlin_bsu_ab|1462|134|18
+bvg|9089301|U Alt-Tegel|berlin_bsu_ab|985|114|13
+bvg|9068202|U Alt-Tempelhof|berlin_bsu_ab|1855|1696|15
+bvg|9195510|S Altglienicke|berlin_bsu_ab|3036|2076|18
+bvg|9029301|U Altstadt Spandau|berlin_bsu_ab|166|643|18
+bvg|9009101|U Amrumer Str.|berlin_bsu_ab|1359|544|15
+bvg|9012101|S Anhalter Bahnhof|berlin_bsu_ab|1641|1203|23
+bvg|9068301|S Attilastr.|berlin_bsu_ab|1687|1937|18
+bvg|9023202|U Augsburger Str.|berlin_bsu_ab|1193|1353|18
+bvg|9230000|S Babelsberg|berlin_bsu_ab|21|2270|18
+bvg|9191001|S Baumschulenweg|berlin_bsu_ab|2864|1674|18
+bvg|9055102|U Bayerischer Platz|berlin_bsu_ab|1330|1522|18
+bvg|9003102|S Bellevue|berlin_bsu_ab|1372|938|18
+bvg|9003201|S+U Berlin Hauptbahnhof|berlin_bsu_ab|1531|895|23
+bvg|9044201|U Berliner Str.|berlin_bsu_ab|1136|1520|18
+bvg|9007110|U Bernauer Str.|berlin_bsu_ab|1884|690|18
+bvg|9160002|S Betriebsbahnhof Rummelsburg|berlin_bsu_ab|2848|1315|18
+bvg|9193001|S Betriebsbahnhof Schöneweide|berlin_bsu_ab|2997|1808|18
+bvg|9020202|S Beusselstr.|berlin_bsu_ab|1132|611|18
+bvg|9171001|S Biesdorf|berlin_bsu_ab|3137|1042|18
+bvg|9171005|U Biesdorf-Süd|berlin_bsu_ab|3118|1165|18
+bvg|9320026|S Birkenstein|berlin_bsu_ab|3616|1044|18
+bvg|9002201|U Birkenstr.|berlin_bsu_ab|1314|708|18
+bvg|9024201|U Bismarckstr.|berlin_bsu_ab|934|1058|18
+bvg|9142001|S Blankenburg|berlin_bsu_ab|2216|136|18
+bvg|9245027|S Blankenfelde (TF) Bhf|berlin_bsu_ab|1790|2456|18
+bvg|9080201|U Blaschkoallee|berlin_bsu_ab|2364|1774|18
+bvg|9041102|U Blissestr.|berlin_bsu_ab|1083|1525|18
+bvg|9079202|U Boddinstr.|berlin_bsu_ab|2170|1495|18
+bvg|9110011|S Bornholmer Str.|berlin_bsu_ab|1863|488|23
+bvg|9088202|U Borsigwerke|berlin_bsu_ab|1013|149|15
+bvg|9066102|S Botanischer Garten|berlin_bsu_ab|1060|2031|18
+bvg|9051202|U Breitenbachplatz|berlin_bsu_ab|818|1726|18
+bvg|9080402|U Britz-Süd|berlin_bsu_ab|2359|1908|18
+bvg|9072101|S Buckower Chaussee|berlin_bsu_ab|1786|2121|18
+bvg|9056104|U Bülowstr.|berlin_bsu_ab|1489|1304|18
+bvg|9044202|S+U Bundesplatz|berlin_bsu_ab|1137|1643|18
+bvg|9024101|S Charlottenburg|berlin_bsu_ab|916|1180|18
+bvg|9175006|U Cottbusser Platz|berlin_bsu_ab|3408|876|18
+bvg|9051303|U Dahlem-Dorf|berlin_bsu_ab|725|1811|18
+bvg|9022201|U Deutsche Oper|berlin_bsu_ab|991|1053|18
+bvg|9110006|U Eberswalder Str.|berlin_bsu_ab|2057|664|18
+bvg|9096405|S Eichborndamm|berlin_bsu_ab|1126|141|18
+bvg|9260004|S Eichwalde|berlin_bsu_ab|3253|2076|18
+bvg|9054103|U Eisenacher Str.|berlin_bsu_ab|1411|1528|18
+bvg|9171006|U Elsterwerdaer Platz|berlin_bsu_ab|3173|1114|18
+bvg|9310004|S Erkner Bhf|berlin_bsu_ab|3543|1784|18
+bvg|9023101|U Ernst-Reuter-Platz|berlin_bsu_ab|1081|1069|18
+bvg|9041101|U Fehrbelliner Platz|berlin_bsu_ab|1029|1504|18
+bvg|9063101|S Feuerbachstr.|berlin_bsu_ab|1246|1853|18
+bvg|9260005|S Flughafen Berlin-Schönefeld Bhf|berlin_bsu_ab|2720|2383|25
+bvg|9087171|Flughafen Berlin-Tegel|berlin_bsu_ab|747|339|28
+bvg|9120001|S+U Frankfurter Allee|berlin_bsu_ab|2624|1115|18
+bvg|9120008|U Frankfurter Tor|berlin_bsu_ab|2442|1040|15
+bvg|9085202|U Franz-Neumann-Platz|berlin_bsu_ab|1498|313|18
+bvg|9100027|U Französische Str.|berlin_bsu_ab|1855|1060|18
+bvg|9320006|S Fredersdorf|berlin_bsu_ab|3757|968|18
+bvg|9060101|S Friedenau|berlin_bsu_ab|1330|1769|18
+bvg|9061102|U Friedrich-Wilhelm-Platz|berlin_bsu_ab|1132|1727|18
+bvg|9161512|U Friedrichsfelde|berlin_bsu_ab|2901|1117|18
+bvg|9171002|S Friedrichsfelde Ost|berlin_bsu_ab|2966|1047|18
+bvg|9182002|S Friedrichshagen|berlin_bsu_ab|3374|1603|18
+bvg|9100001|S+U Friedrichstr. Bhf|berlin_bsu_ab|1761|895|25
+bvg|9152002|S Gehrenseestr.|berlin_bsu_ab|2889|640|18
+bvg|9007102|S+U Gesundbrunnen Bhf|berlin_bsu_ab|1787|600|23
+bvg|9017103|U Gleisdreieck|berlin_bsu_ab|1540|1282|18
+bvg|9016101|U Gneisenaustr.|berlin_bsu_ab|1942|1418|18
+bvg|9110003|S Greifswalder Str.|berlin_bsu_ab|2500|659|18
+bvg|9080202|U Grenzallee|berlin_bsu_ab|2359|1703|18
+bvg|9230003|S Griebnitzsee Bhf|berlin_bsu_ab|101|2272|18
+bvg|9048101|S Grunewald|berlin_bsu_ab|418|1373|18
+bvg|9186001|S Grünau|berlin_bsu_ab|3161|1981|18
+bvg|9196001|S Grünbergallee|berlin_bsu_ab|2968|2142|18
+bvg|9014101|U Görlitzer Bahnhof|berlin_bsu_ab|2235|1288|18
+bvg|9043201|U Güntzelstr.|berlin_bsu_ab|1141|1460|18
+bvg|9100002|S Hackescher Markt|berlin_bsu_ab|1910|898|38
+bvg|9018102|U Halemweg|berlin_bsu_ab|803|603|18
+bvg|9040101|S Halensee|berlin_bsu_ab|748|1294|18
+bvg|9012103|U Hallesches Tor|berlin_bsu_ab|1855|1282|18
+bvg|9003101|U Hansaplatz|berlin_bsu_ab|1300|1067|13
+bvg|9034102|U Haselhorst|berlin_bsu_ab|340|603|18
+bvg|9100012|U Hausvogteiplatz|berlin_bsu_ab|1919|1127|18
+bvg|9026105|S Heerstr.|berlin_bsu_ab|404|1080|18
+bvg|9320003|S Hegermühle|berlin_bsu_ab|3790|696|18
+bvg|9045102|S+U Heidelberger Platz|berlin_bsu_ab|905|1642|18
+bvg|9100008|U Heinrich-Heine-Str.|berlin_bsu_ab|2169|1148|18
+bvg|9175007|U Hellersdorf|berlin_bsu_ab|3463|819|18
+bvg|9078101|U Hermannplatz|berlin_bsu_ab|2170|1419|25
+bvg|9079221|S+U Hermannstr.|berlin_bsu_ab|2176|1644|18
+bvg|9093201|S Hermsdorf|berlin_bsu_ab|1418|7|13
+bvg|9182001|S Hirschgarten|berlin_bsu_ab|3307|1532|18
+bvg|9152001|S Hohenschoenhausen Bhf|berlin_bsu_ab|2784|543|18
+bvg|9044101|S Hohenzollerndamm|berlin_bsu_ab|778|1513|18
+bvg|9043101|U Hohenzollernplatz|berlin_bsu_ab|1078|1455|18
+bvg|9088201|U Holzhauser Str.|berlin_bsu_ab|1042|177|18
+bvg|9320008|S Hoppegarten|berlin_bsu_ab|3679|1042|18
+bvg|9008101|S Humboldthain|berlin_bsu_ab|1785|659|13
+bvg|9175010|U Hönow|berlin_bsu_ab|3561|720|18
+bvg|9054105|S+U Innsbrucker Platz|berlin_bsu_ab|1326|1644|18
+bvg|9018101|U Jakob-Kaiser-Platz|berlin_bsu_ab|839|620|18
+bvg|9100004|S+U Jannowitzbrücke|berlin_bsu_ab|2221|1065|18
+bvg|9082202|U Johannisthaler Chaussee|berlin_bsu_ab|2354|1971|18
+bvg|9057104|S Julius-Leber-Brücke|berlin_bsu_ab|1514|1586|18
+bvg|9020201|S+U Jungfernheide Bhf|berlin_bsu_ab|884|660|18
+bvg|9026202|U Kaiserdamm|berlin_bsu_ab|725|1055|18
+bvg|9068302|U Kaiserin-Augusta-Str.|berlin_bsu_ab|1855|1749|15
+bvg|9096458|S+U Karl-Bonhoeffer-Nervenklinik|berlin_bsu_ab|1319|135|18
+bvg|9078103|U Karl-Marx-Str.|berlin_bsu_ab|2354|1537|18
+bvg|9162001|S Karlshorst Bhf|berlin_bsu_ab|3025|1378|18
+bvg|9143001|S Karow Bhf|berlin_bsu_ab|2324|21|18
+bvg|9175002|S Kaulsdorf|berlin_bsu_ab|3389|1047|18
+bvg|9175004|U Kaulsdorf-Nord|berlin_bsu_ab|3299|988|18
+bvg|9054102|U Kleistpark|berlin_bsu_ab|1494|1527|18
+bvg|9100015|U Klosterstr.|berlin_bsu_ab|2138|1065|18
+bvg|9012102|U Kochstr./Checkpoint Charlie|berlin_bsu_ab|1855|1217|18
+bvg|9041201|U Konstanzer Str.|berlin_bsu_ab|946|1420|18
+bvg|9013102|U Kottbusser Tor|berlin_bsu_ab|2176|1280|18
+bvg|9050201|U Krumme Lanke|berlin_bsu_ab|569|1984|18
+bvg|9023203|U Kurfürstendamm|berlin_bsu_ab|1132|1283|18
+bvg|9005201|U Kurfürstenstr.|berlin_bsu_ab|1466|1279|18
+bvg|9086102|U Kurt-Schumacher-Platz|berlin_bsu_ab|1160|288|18
+bvg|9077155|S Köllnische Heide|berlin_bsu_ab|2630|1647|18
+bvg|9260001|S Königs Wusterhausen Bhf|berlin_bsu_ab|3379|2216|18
+bvg|9180001|S Köpenick|berlin_bsu_ab|3240|1465|18
+bvg|9110004|S Landsberger Allee|berlin_bsu_ab|2623|876|18
+bvg|9067221|S Lankwitz|berlin_bsu_ab|1507|2024|18
+bvg|9200006|S Lehnitz|berlin_bsu_ab|1248|-174|13
+bvg|9079201|U Leinestr.|berlin_bsu_ab|2176|1548|18
+bvg|9009102|U Leopoldplatz|berlin_bsu_ab|1386|518|18
+bvg|9160004|S+U Lichtenberg Bhf|berlin_bsu_ab|2819|1117|20
+bvg|9074201|S Lichtenrade|berlin_bsu_ab|1785|2330|18
+bvg|9064301|S Lichterfelde Ost Bhf|berlin_bsu_ab|1428|2119|18
+bvg|9066101|S Lichterfelde West|berlin_bsu_ab|988|2101|18
+bvg|9064201|S Lichterfelde Süd|berlin_bsu_ab|1223|2315|18
+bvg|9086160|U Lindauer Allee|berlin_bsu_ab|1393|206|18
+bvg|9082201|U Lipschitzallee|berlin_bsu_ab|2391|2047|18
+bvg|9175015|U Louis-Lewin-Str.|berlin_bsu_ab|3516|765|18
+bvg|9160005|U Magdalenenstr.|berlin_bsu_ab|2721|1110|18
+bvg|9245028|S Mahlow|berlin_bsu_ab|1785|2402|18
+bvg|9176001|S Mahlsdorf|berlin_bsu_ab|3495|1042|18
+bvg|9073101|S Marienfelde|berlin_bsu_ab|1763|2013|18
+bvg|9170001|S Marzahn|berlin_bsu_ab|3167|700|18
+bvg|9017101|U Mehringdamm|berlin_bsu_ab|1847|1398|18
+bvg|9170003|S Mehrower Allee|berlin_bsu_ab|3314|553|18
+bvg|9005252|U Mendelssohn-Bartholdy-Park|berlin_bsu_ab|1577|1174|18
+bvg|9024106|S Messe Nord/ICC|berlin_bsu_ab|742|1069|18
+bvg|9025423|S Messe Süd|berlin_bsu_ab|551|1187|18
+bvg|9050301|S Mexikoplatz|berlin_bsu_ab|538|2048|18
+bvg|9019204|U Mierendorffplatz|berlin_bsu_ab|936|816|18
+bvg|9100010|U Mohrenstr.|berlin_bsu_ab|1734|1117|18
+bvg|9013101|U Moritzplatz|berlin_bsu_ab|2170|1215|18
+bvg|9100014|U Märkisches Museum|berlin_bsu_ab|2087|1115|18
+bvg|9017104|U Möckernbrücke|berlin_bsu_ab|1739|1289|18
+bvg|9200013|S Mühlenbeck-Mönchmühle|berlin_bsu_ab|1971|-69|18
+bvg|9009201|U Nauener Platz|berlin_bsu_ab|1459|449|18
+bvg|9026101|U Neu-Westend|berlin_bsu_ab|506|992|13
+bvg|9175005|U Neue Grottkauer Str.|berlin_bsu_ab|3352|932|18
+bvg|9320007|S Neuenhagen|berlin_bsu_ab|3720|1004|18
+bvg|9078201|S+U Neukölln|berlin_bsu_ab|2353|1646|18
+bvg|9052201|S Nikolassee|berlin_bsu_ab|300|2104|18
+bvg|9056102|U Nollendorfplatz|berlin_bsu_ab|1427|1279|25
+bvg|9007104|S Nordbahnhof|berlin_bsu_ab|1786|720|18
+bvg|9160003|S Nöldnerplatz|berlin_bsu_ab|2751|1193|18
+bvg|9192002|S Oberspree|berlin_bsu_ab|3034|1759|18
+bvg|9025203|U Olympia-Stadion|berlin_bsu_ab|432|918|13
+bvg|9025321|S Olympiastadion|berlin_bsu_ab|328|1003|18
+bvg|9050282|U Onkel Toms Hütte|berlin_bsu_ab|606|1941|18
+bvg|9100019|U Oranienburger Tor|berlin_bsu_ab|1699|838|18
+bvg|9100007|S Oranienburger Str.|berlin_bsu_ab|1785|780|18
+bvg|9064256|S Osdorfer Str.|berlin_bsu_ab|1315|2221|18
+bvg|9051301|U Oskar-Helene-Heim|berlin_bsu_ab|639|1906|18
+bvg|9009202|U Osloer Str.|berlin_bsu_ab|1543|361|18
+bvg|9120005|S Ostbahnhof|berlin_bsu_ab|2276|1132|23
+bvg|9120003|S Ostkreuz|berlin_bsu_ab|2628|1225|38
+bvg|9086101|U Otisstr.|berlin_bsu_ab|1077|211|18
+bvg|9130002|S+U Pankow|berlin_bsu_ab|2047|309|25
+bvg|9130001|S Pankow-Heinersdorf|berlin_bsu_ab|2153|206|18
+bvg|9009203|U Pankstr.|berlin_bsu_ab|1661|476|18
+bvg|9085104|U Paracelsus-Bad|berlin_bsu_ab|1431|244|18
+bvg|9068101|U Paradestr.|berlin_bsu_ab|1855|1566|18
+bvg|9080401|U Parchimer Allee|berlin_bsu_ab|2359|1833|18
+bvg|9034101|U Paulsternstr.|berlin_bsu_ab|471|603|18
+bvg|9320005|S Petershagen Nord|berlin_bsu_ab|3791|909|18
+bvg|9025424|S Pichelsberg|berlin_bsu_ab|239|910|18
+bvg|9017102|U Platz der Luftbrücke|berlin_bsu_ab|1855|1500|18
+bvg|9191002|S Plänterwald|berlin_bsu_ab|2727|1535|18
+bvg|9051302|U Podbielskiallee|berlin_bsu_ab|768|1768|18
+bvg|9170005|S Poelchaustr.|berlin_bsu_ab|3094|776|18
+bvg|9100020|S+U Potsdamer Platz Bhf|berlin_bsu_ab|1641|1124|25
+bvg|9110002|S Prenzlauer Allee|berlin_bsu_ab|2347|608|18
+bvg|9058102|S Priesterweg|berlin_bsu_ab|1646|1846|18
+bvg|9013103|U Prinzenstr.|berlin_bsu_ab|1999|1280|18
+bvg|9183001|S Rahnsdorf|berlin_bsu_ab|3444|1669|18
+bvg|9170002|S Raoul-Wallenberg-Str.|berlin_bsu_ab|3235|633|18
+bvg|9078102|U Rathaus Neukölln|berlin_bsu_ab|2307|1477|18
+bvg|9096410|U Rathaus Reinickendorf|berlin_bsu_ab|1355|74|18
+bvg|9054101|U Rathaus Schöneberg|berlin_bsu_ab|1326|1578|18
+bvg|9029302|S+U Rathaus Spandau|berlin_bsu_ab|64|746|18
+bvg|9062202|S+U Rathaus Steglitz|berlin_bsu_ab|1135|1959|25
+bvg|9011101|U Rehberge|berlin_bsu_ab|1252|388|18
+bvg|9008102|U Reinickendorfer Str.|berlin_bsu_ab|1514|648|18
+bvg|9085203|U Residenzstr.|berlin_bsu_ab|1463|279|18
+bvg|9022202|U Richard-Wagner-Platz|berlin_bsu_ab|936|947|18
+bvg|9036101|U Rohrdamm|berlin_bsu_ab|601|603|18
+bvg|9100016|U Rosa-Luxemburg-Platz|berlin_bsu_ab|2056|799|18
+bvg|9100023|U Rosenthaler Platz|berlin_bsu_ab|1943|770|18
+bvg|9083201|U Rudow|berlin_bsu_ab|2548|2202|18
+bvg|9025202|U Ruhleben|berlin_bsu_ab|361|848|15
+bvg|9160001|S Rummelsburg|berlin_bsu_ab|2785|1253|18
+bvg|9045101|U Rüdesheimer Platz|berlin_bsu_ab|845|1689|18
+bvg|9089303|S Tegel|berlin_bsu_ab|997|104|13
+bvg|9220114|S Teltow Stadt|berlin_bsu_ab|985|2381|18
+bvg|9068201|S+U Tempelhof|berlin_bsu_ab|1855|1653|18
+bvg|9026201|U Theodor-Heuss-Platz|berlin_bsu_ab|586|1058|18
+bvg|9051201|U Thielplatz|berlin_bsu_ab|690|1854|18
+bvg|9003103|S Tiergarten|berlin_bsu_ab|1278|1030|18
+bvg|9161002|U Tierpark|berlin_bsu_ab|3024|1200|18
+bvg|9190001|S Treptower Park|berlin_bsu_ab|2629|1397|23
+bvg|9003104|U Turmstr.|berlin_bsu_ab|1313|820|18
+bvg|9055101|U Viktoria-Luise-Platz|berlin_bsu_ab|1326|1415|18
+bvg|9130011|U Vinetastr.|berlin_bsu_ab|2057|423|18
+bvg|9007103|U Voltastr.|berlin_bsu_ab|1836|645|18
+bvg|9094101|S Waidmannslust|berlin_bsu_ab|1452|24|13
+bvg|9061101|U Walther-Schreiber-Platz|berlin_bsu_ab|1135|1783|18
+bvg|9053301|S Wannsee Bhf|berlin_bsu_ab|256|2157|18
+bvg|9120004|S+U Warschauer Str.|berlin_bsu_ab|2347|1198|33
+bvg|9151001|S Wartenberg|berlin_bsu_ab|2667|423|18
+bvg|9120025|U Weberwiese|berlin_bsu_ab|2408|1007|15
+bvg|9009104|S+U Wedding|berlin_bsu_ab|1480|611|23
+bvg|9100051|U Weinmeisterstr.|berlin_bsu_ab|2009|820|18
+bvg|9026207|S Westend|berlin_bsu_ab|736|889|18
+bvg|9001201|S+U Westhafen|berlin_bsu_ab|1314|611|18
+bvg|9024102|S Westkreuz|berlin_bsu_ab|738|1184|25
+bvg|9070101|U Westphalweg|berlin_bsu_ab|1855|1843|15
+bvg|9260002|S Wildau|berlin_bsu_ab|3328|2154|18
+bvg|9183002|S Wilhelmshagen|berlin_bsu_ab|3502|1729|18
+bvg|9084101|S Wilhelmsruh|berlin_bsu_ab|1530|105|18
+bvg|9024202|U Wilmersdorfer Str.|berlin_bsu_ab|932|1153|18
+bvg|9096101|S+U Wittenau|berlin_bsu_ab|1483|45|23
+bvg|9056101|U Wittenbergplatz|berlin_bsu_ab|1321|1289|23
+bvg|9130003|S Wollankstr.|berlin_bsu_ab|1781|353|18
+bvg|9175001|S+U Wuhletal|berlin_bsu_ab|3239|1040|18
+bvg|9180002|S Wuhlheide|berlin_bsu_ab|3172|1400|18
+bvg|9083102|U Wutzkyallee|berlin_bsu_ab|2447|2107|18
+bvg|9057103|S+U Yorckstr.|berlin_bsu_ab|1632|1483|18
+bvg|9057102|S Yorckstr. S1|berlin_bsu_ab|1610|1483|18
+bvg|9058103|S Yorckstr. S2 S25|berlin_bsu_ab|1646|1498|18
+bvg|9049201|S Zehlendorf|berlin_bsu_ab|642|2141|18
+bvg|9260003|S Zeuthen|berlin_bsu_ab|3299|2119|18
+bvg|9100009|U Naturkundemuseum|berlin_bsu_ab|1630|766|18
+bvg|9033101|U Zitadelle|berlin_bsu_ab|236|601|18
+bvg|9023201|S+U Zoologischer Garten Bhf|berlin_bsu_ab|1175|1168|30
+bvg|9083101|U Zwickauer Damm|berlin_bsu_ab|2496|2154|18
+bvg|9120009|U Samariterstr.|berlin_bsu_ab|2473|1077|15
+bvg|9024203|S Savignyplatz|berlin_bsu_ab|1034|1174|18
+bvg|9087101|U Scharnweberstr.|berlin_bsu_ab|1111|249|18
+bvg|9074202|S Schichauweg|berlin_bsu_ab|1785|2216|18
+bvg|9100017|U Schillingstr.|berlin_bsu_ab|2328|958|18
+bvg|9050355|S Schlachtensee|berlin_bsu_ab|443|2026|18
+bvg|9014102|U Schlesisches Tor|berlin_bsu_ab|2294|1253|13
+bvg|9062203|U Schloßstr.|berlin_bsu_ab|1137|1839|13
+bvg|9091205|S Schulzendorf|berlin_bsu_ab|936|39|18
+bvg|9100501|U Schwartzkopffstr.|berlin_bsu_ab|1570|701|18
+bvg|9054104|S Schöneberg|berlin_bsu_ab|1441|1651|23
+bvg|9192001|S Schöneweide Bhf|berlin_bsu_ab|2915|1731|18
+bvg|9110001|S+U Schönhauser Allee|berlin_bsu_ab|2052|609|20
+bvg|9085201|S Schönholz|berlin_bsu_ab|1610|179|18
+bvg|9016201|U Schönleinstr.|berlin_bsu_ab|2164|1352|18
+bvg|9009103|U Seestr.|berlin_bsu_ab|1306|444|18
+bvg|9110005|U Senefelderplatz|berlin_bsu_ab|2056|736|18
+bvg|9023301|U Uhlandstr.|berlin_bsu_ab|1074|1283|18
+bvg|9035101|U Siemensdamm|berlin_bsu_ab|700|603|18
+bvg|9069271|U Ullsteinstr.|berlin_bsu_ab|1855|1798|15
+bvg|9100025|S+U Brandenburger Tor|berlin_bsu_ab|1641|1033|18
+bvg|9077106|S Sonnenallee|berlin_bsu_ab|2497|1573|18
+bvg|9022101|U Sophie-Charlotte-Platz|berlin_bsu_ab|840|1050|18
+bvg|9029101|S Spandau Bhf|berlin_bsu_ab|43|770|18
+bvg|9042101|U Spichernstr.|berlin_bsu_ab|1132|1400|18
+bvg|9180003|S Spindlersfeld|berlin_bsu_ab|3162|1759|18
+bvg|9100013|U Spittelmarkt|berlin_bsu_ab|2029|1127|18
+bvg|9171003|S Springpfuhl|berlin_bsu_ab|3060|879|18
+bvg|9100011|U Stadtmitte|berlin_bsu_ab|1859|1133|23
+bvg|9110012|S Storkower Str.|berlin_bsu_ab|2625|1002|18
+bvg|9320004|S Strausberg Bhf|berlin_bsu_ab|3796|856|18
+bvg|9320001|S Strausberg Nord|berlin_bsu_ab|3791|609|18
+bvg|9320002|S Strausberg Stadt|berlin_bsu_ab|3791|650|18
+bvg|9120006|U Strausberger Platz|berlin_bsu_ab|2357|980|15
+bvg|9030202|S Stresow|berlin_bsu_ab|149|824|18
+bvg|9049202|S Sundgauer Str.|berlin_bsu_ab|797|2141|18
+bvg|9063452|S Südende|berlin_bsu_ab|1582|1952|18
+bvg|9058101|S Südkreuz Bhf|berlin_bsu_ab|1651|1651|23
+bvg|9016202|U Südstern|berlin_bsu_ab|2079|1418|18
+bvg|9003254|U Bundestag|berlin_bsu_ab|1559|964|18
+
 # Andreas Schildbach
 !transform:0.75,0.75,0,-56
 # M1
