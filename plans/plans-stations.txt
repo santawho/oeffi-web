@@ -5771,3 +5771,680 @@ vvs|5005787|Fornsbach|stuttgart_verbund|3356|417|18
 vvs|5033014|Crailsheim|stuttgart_verbund|3417|324|23
 vvs|5001200|Zazenhausen|stuttgart_verbund|1921|468|16
 vvs|5001504|Münster|stuttgart_verbund|2125|672|18
+
+nasa|11284|Lausen|leipzig_tag|482|1657|19
+nasa|11200|Zschampertaue|leipzig_tag|543|1657|14
+nasa|11199|Krakauer Str.|leipzig_tag|609|1658|12
+nasa|11201|Ratzelbogen|leipzig_tag|678|1657|17
+nasa|13132|Stuttgarter Allee|leipzig_tag|768|1668|12
+nasa|11121|Schönauer-/Ratzelstr.|leipzig_tag|858|1657|19
+nasa|10797|H.-Meyer-Str.|leipzig_tag|944|1669|12
+nasa|10796|Kurt-Kresse-Str.|leipzig_tag|1020|1667|11
+nasa|10788|Diezmannstr.|leipzig_tag|1051|1587|12
+nasa|13537|Antonien-/Gießerstr.|leipzig_tag|1152|1562|16
+nasa|10789|Adler|leipzig_tag|1231|1561|14
+nasa|10813|Rödelstr.|leipzig_tag|1353|1552|24
+nasa|10791|Stieglitzstr.|leipzig_tag|1347|1475|15
+nasa|10790|Holbeinstr.|leipzig_tag|1352|1384|12
+nasa|10795|Klingerweg|leipzig_tag|1380|1308|12
+nasa|10793|Marschnerstr.|leipzig_tag|1441|1239|17
+nasa|11005|Westplatz|leipzig_tag|1504|1189|19
+nasa|11004|Gottschedstr.|leipzig_tag|1527|1147|12
+nasa|12996|Goerdelerring|leipzig_tag|1619|1094|29
+nasa|13000|Hauptbahnhof|leipzig_tag|1713|1047|47
+nasa|12705|Hofmeisterstr.|leipzig_tag|1907|1046|17
+nasa|12706|Fr.-List-Platz|leipzig_tag|1977|1058|19
+nasa|12713|Einertstr.|leipzig_tag|2048|1049|17
+nasa|12714|H.-Liebmann-/Eisenbahnstr.|leipzig_tag|2120|1044|19
+nasa|12849|Stannebeinplatz|leipzig_tag|2121|946|16
+nasa|12845|Stöckelstr.|leipzig_tag|2166|923|16
+nasa|12846|Löbauer Str.|leipzig_tag|2196|889|16
+nasa|12843|Ossietzky-/Gorkistr.|leipzig_tag|2144|834|12
+nasa|12841|Rathaus Schönefeld|leipzig_tag|2100|790|11
+nasa|12842|Volbedingstr.|leipzig_tag|2055|744|10
+nasa|11407|Mockauer/Volbedingstr.|leipzig_tag|1999|686|13
+nasa|11413|Friedrichshafner Str.|leipzig_tag|2031|649|11
+nasa|11414|Döringstr.|leipzig_tag|2068|612|12
+nasa|12711|Mockau Post|leipzig_tag|2104|555|20
+nasa|11120|Grünau Süd|leipzig_tag|644|1619|12
+nasa|12994|Neues Rathaus|leipzig_tag|1600|1280|20
+nasa|12992|Wilhelm-Leuschner-Platz|leipzig_tag|1713|1332|24
+nasa|13001|Roßplatz|leipzig_tag|1777|1361|16
+nasa|11584|Härtelstr.|leipzig_tag|1776|1400|15
+nasa|10983|Bayerischer Bahnhof|leipzig_tag|1778|1459|25
+nasa|11557|Johannisallee|leipzig_tag|1896|1466|19
+nasa|11558|Dt. Nationalbiblothek|leipzig_tag|1967|1537|18
+nasa|12079|Altes Messegelände|leipzig_tag|2143|1531|19
+nasa|12080|Naunhofer Straße|leipzig_tag|2201|1589|19
+nasa|12076|Völkerschlachtdenkmal|leipzig_tag|2241|1638|14
+nasa|12078|Südfriedhof|leipzig_tag|2289|1677|18
+nasa|12072|Prager/Russenstr.|leipzig_tag|2330|1722|14
+nasa|12073|Probstheida|leipzig_tag|2370|1781|23
+nasa|12086|Franzosenallee|leipzig_tag|2410|1803|13
+nasa|12088|Roseggerstr.|leipzig_tag|2444|1841|12
+nasa|11559|Meusdorf|leipzig_tag|2478|1884|13
+nasa|12217|Knautkleeberg|leipzig_tag|1111|2070|14
+nasa|22880|Fortunabadstr.|leipzig_tag|1115|2025|9
+nasa|22879|Albersdorfer Str.|leipzig_tag|1116|1983|9
+nasa|12201|Seumestr.|leipzig_tag|1140|1949|11
+nasa|12199|Wasserwerk Windorf|leipzig_tag|1169|1906|10
+nasa|12205|Großzschocher G.-Ellrodt-Str.|leipzig_tag|1170|1859|10
+nasa|12203|Huttenstr.|leipzig_tag|1206|1816|14
+nasa|12209|Kunzestr.|leipzig_tag|1231|1775|10
+nasa|12207|Arthur-Nagel-Str.|leipzig_tag|1231|1724|11
+nasa|12213|Kleinzschocher Kötzschauer Str.|leipzig_tag|1231|1675|10
+nasa|12211|Schwartzestr.|leipzig_tag|1231|1627|9
+nasa|11079|Markranstädter Str.|leipzig_tag|1232|1478|8
+nasa|11078|Elster Passage|leipzig_tag|1236|1347|12
+nasa|11076|Felsenkeller|leipzig_tag|1236|1266|12
+nasa|11072|Angerbrücke|leipzig_tag|1232|1125|18
+nasa|11071|Sportforum Süd|leipzig_tag|1340|1121|14
+nasa|11074|Waldplatz|leipzig_tag|1415|1107|24
+nasa|11073|Leibnizstr.|leipzig_tag|1508|1114|17
+nasa|12851|Torgauer Platz|leipzig_tag|2197|1058|16
+nasa|11280|Volksgarten|leipzig_tag|2278|986|11
+nasa|12829|Permoser-/Torgauer Str.|leipzig_tag|2345|916|12
+nasa|696|Schwantesstr.|leipzig_tag|2410|851|11
+nasa|11278|Bautzner Str.|leipzig_tag|2458|805|11
+nasa|13282|Hohentichelnstr.|leipzig_tag|2507|755|10
+nasa|145|Arcus Park|leipzig_tag|2558|706|12
+nasa|11276|Heiterblick Teslastr.|leipzig_tag|2599|664|10
+nasa|11277|Portitzer Allee, S-Bf. Heiterblick|leipzig_tag|2655|614|16
+nasa|11275|Taucha O.-Schmidt-Str.|leipzig_tag|2763|495|9
+nasa|11282|Th.-Körner-Str.|leipzig_tag|2809|450|12
+nasa|11283|Freiligrathstr.|leipzig_tag|2853|407|10
+nasa|12811|Taucha An der Bürgerruhe|leipzig_tag|2920|361|15
+nasa|11274|Heisenbergstr.|leipzig_tag|2710|672|11
+nasa|11536|Paunsdorf Nord|leipzig_tag|2758|739|13
+nasa|11543|Hermelinstr.|leipzig_tag|2807|778|11
+nasa|11333|Paunsdorfer Allee/Permoserstr.|leipzig_tag|2842|836|14
+nasa|11334|Paunsdorf Center|leipzig_tag|2838|900|15
+nasa|11331|Sommerfeld|leipzig_tag|2839|962|19
+nasa|12281|Gohlis Landsberger Str.|leipzig_tag|1429|434|14
+nasa|12284|Beyerleinstr.|leipzig_tag|1428|494|12
+nasa|12283|Landsberger/M.-Liebermann-Str.|leipzig_tag|1428|554|13
+nasa|12286|Viertelsweg|leipzig_tag|1429|622|12
+nasa|12285|S-Bf. Coppiplatz|leipzig_tag|1438|705|19
+nasa|12288|G.-Schumann-/Lindenthaler Str.|leipzig_tag|1423|810|18
+nasa|12287|Menckestr.|leipzig_tag|1429|878|10
+nasa|12175|Stallbaumstr.|leipzig_tag|1430|924|8
+nasa|12174|Am Mückenschlösschen|leipzig_tag|1428|975|9
+nasa|12167|Feuerbachstr.|leipzig_tag|1428|1038|8
+||Sportforum Ost|leipzig_tag|1383|1038|10
+nasa|13002|Augustusplatz|leipzig_tag|1864|1185|27
+nasa|11063|Johannisplatz|leipzig_tag|1936|1202|28
+nasa|11064|Gerichtsweg|leipzig_tag|2014|1176|12
+nasa|11061|Reudnitz Koelerstr.|leipzig_tag|2089|1172|13
+nasa|11329|Breite Str.|leipzig_tag|2101|1250|17
+nasa|11330|Riebeck-/Oststr.|leipzig_tag|2093|1330|14
+nasa|11327|Riebeck-/Stötteritzer Str.|leipzig_tag|2095|1403|13
+nasa|11336|S-Bf. Stötteritz|leipzig_tag|2207|1426|15
+nasa|11964|Breslauer Str.|leipzig_tag|2283|1426|11
+nasa|11968|Weißestr.|leipzig_tag|2332|1469|9
+nasa|11960|Rathaus Stötteritz|leipzig_tag|2361|1524|9
+nasa|11962|Kolmstr.|leipzig_tag|2424|1524|12
+nasa|11956|Stötteritz Holzhäuser Str.|leipzig_tag|2481|1522|13
+nasa|12166|Böhlitz-Ehrenberg Burghausener Str.|leipzig_tag|541|803|15
+nasa|12169|Forstweg|leipzig_tag|612|802|12
+nasa|12168|L.-Jahn-Str.|leipzig_tag|682|803|13
+nasa|12171|Südstr.|leipzig_tag|754|802|13
+nasa|12170|Barnecker Str.|leipzig_tag|805|835|11
+nasa|12707|S-Bf. Leutzsch|leipzig_tag|846|880|18
+nasa|12173|Ph.-Reis-Str.|leipzig_tag|896|925|10
+nasa|12172|Pfingstweide|leipzig_tag|930|960|10
+nasa|12553|Rathaus Leutzsch|leipzig_tag|965|995|12
+nasa|12552|Diakonissenhaus|leipzig_tag|1000|1029|7
+nasa|12554|Wielandstr.|leipzig_tag|1034|1065|10
+nasa|12555|G. Schwarz-/Merseburger Str.|leipzig_tag|1068|1102|13
+nasa|12320|Lindauer Markt|leipzig_tag|1159|1127|20
+nasa|11062|Wiebelstr.|leipzig_tag|2134|1128|11
+nasa|11059|Edlichtstr.|leipzig_tag|2236|1112|10
+nasa|0|Geißlerstr. Bülowviertel|leipzig_tag|2249|1063|15
+nasa|11069|Annenstr.|leipzig_tag|2315|1062|12
+nasa|11070|Sellerhausen Emmausstr.|leipzig_tag|2377|1063|11
+nasa|11541|Ostheimstr.|leipzig_tag|2476|977|14
+nasa|11542|Th.-Heuss-Str.|leipzig_tag|2550|971|13
+nasa|11539|Barbarastr.|leipzig_tag|2609|971|15
+nasa|11540|Paunsdorf|leipzig_tag|2663|953|19
+nasa|11538|Am Vorwerk|leipzig_tag|2657|881|13
+nasa|11535|Ahornstr.|leipzig_tag|2672|810|12
+nasa|12424|Grünau Nord|leipzig_tag|775|1390|11
+nasa|12423|Schönauer Ring|leipzig_tag|796|1452|18
+nasa|12328|Parkallee|leipzig_tag|865|1427|13
+nasa|12327|Grünauer Allee|leipzig_tag|907|1386|13
+nasa|13280|Saarländer Straße|leipzig_tag|946|1343|12
+nasa|13283|Credestr.|leipzig_tag|984|1302|14
+nasa|12318|Lindenau Bushof|leipzig_tag|1041|1266|20
+nasa|12316|Henriettenstr.|leipzig_tag|1079|1212|12
+nasa|13196|Lützner/Merseburger Str.|leipzig_tag|1116|1174|13
+nasa|11412|Wintergartenstr., Hbf.|leipzig_tag|1868|1070|9
+nasa|13003|S-Bf. Connewitz|leipzig_tag|1823|1906|19
+nasa|13006|Hildebrandstr.|leipzig_tag|1770|1859|12
+nasa|13005|Pfeffingstr.|leipzig_tag|1730|1816|11
+nasa|13007|Connewitz Kreuz|leipzig_tag|1678|1737|24
+nasa|13247|R.-Lehmann-Str. HTWK|leipzig_tag|1693|1652|16
+nasa|11564|K.-Liebknecht-/K.-Eisner-Str.|leipzig_tag|1688|1573|11
+nasa|11563|A.-Hoffmann-/R.-Lehmann-Str.|leipzig_tag|1755|1654|12
+nasa|22934|Steinplatz|leipzig_tag|1766|1619|8
+nasa|11343|K.-Eisner-/A.-Hoffmann-Str.|leipzig_tag|1762|1575|12
+nasa|11342|Körnerstr.|leipzig_tag|1762|1516|15
+nasa|12993|Thomaskirche|leipzig_tag|1584|1213|11
+nasa|12995|Hbf. Westseite|leipzig_tag|1659|1012|10
+nasa|11410|W.-Liebknecht-Platz|leipzig_tag|1690|927|17
+nasa|11411|Wittenberger Str.|leipzig_tag|1802|874|11
+nasa|11408|Apelstr.|leipzig_tag|1844|831|8
+nasa|11409|Hamburger Str.|leipzig_tag|1909|766|9
+nasa|12712|S.-Lampel-Str.|leipzig_tag|2151|547|11
+nasa|12709|Mockau Kirche|leipzig_tag|2176|510|13
+nasa|12710|Thekla Tauchaer Str.|leipzig_tag|2240|478|16
+nasa|11393|Wahren|leipzig_tag|1073|564|15
+nasa|11392|Annaberger Str.|leipzig_tag|1129|622|16
+nasa|11395|Möckern Historischer Strbf.|leipzig_tag|1186|675|17
+nasa|11394|Dantestr.|leipzig_tag|1233|731|12
+nasa|12974|S-Bf. Möckern|leipzig_tag|1286|791|27
+nasa|12973|Wiederitzscher Str.|leipzig_tag|1356|815|19
+nasa|12972|G.-Schumann-/Lützowstr.|leipzig_tag|1562|819|13
+nasa|12968|Chauseehaus|leipzig_tag|1682|848|18
+nasa|12998|Münzgasse LVZ|leipzig_tag|1688|1402|13
+nasa|11345|Hohe Str.|leipzig_tag|1687|1458|13
+nasa|13008|Südplatz|leipzig_tag|1686|1514|13
+nasa|11341|Wiedebachplatz|leipzig_tag|1756|1762|11
+nasa|13550|A.-Nitzsche-/A.-Hoffmann-Str.|leipzig_tag|1800|1736|8
+nasa|11339|Meusdorfer Str.|leipzig_tag|1912|1737|11
+nasa|11340|Triftweg|leipzig_tag|2016|1759|15
+nasa|11337|An der Märchenwiese|leipzig_tag|2015|1812|13
+nasa|11338|Moritz Hof|leipzig_tag|2019|1866|16
+nasa|11344|Lößling|leipzig_tag|2015|1921|13
+nasa|12691|Schkeuditz Rathausplatz|leipzig_tag|261|546|9
+nasa|12694|Altscherbitz|leipzig_tag|334|545|9
+nasa|12693|Paetzstr.|leipzig_tag|410|546|9
+nasa|12696|Schkeuditz Gartenstadt|leipzig_tag|485|546|8
+nasa|12695|Modelwitz|leipzig_tag|561|547|8
+nasa|11397|Hänichen Bismarckturm|leipzig_tag|635|546|9
+nasa|11396|Freirodaer Weg|leipzig_tag|710|547|9
+nasa|11389|Lützschena|leipzig_tag|785|546|9
+nasa|11390|Stahmeler Allee|leipzig_tag|859|546|10
+nasa|11388|Stahmeln|leipzig_tag|935|545|10
+nasa|11391|Pittlerstr.|leipzig_tag|1009|546|9
+nasa|13004|Raschwitzer Str.|leipzig_tag|1859|1941|15
+nasa|13009|Friederikenstr.|leipzig_tag|1886|1978|9
+nasa|13010|Leinestr.|leipzig_tag|1923|2008|13
+nasa|11426|Dölitz|leipzig_tag|1954|2047|10
+nasa|11428|Am Eichwinkel|leipzig_tag|1983|2076|8
+nasa|11425|Markkl. Virchowstr.|leipzig_tag|2009|2108|9
+nasa|11911|Markkleeberg-Ost Schillerplatz|leipzig_tag|2011|2153|11
+nasa|11320|Gohlis-Nord Virchowstr.|leipzig_tag|1561|552|15
+nasa|12970|Gottschallstr.|leipzig_tag|1561|648|12
+nasa|12026|Virchow-/Coppistr.|leipzig_tag|1558|704|13
+nasa|8012188|S-Bf. Gohlis|leipzig_tag|1562|766|14
+nasa|12971|Fritz-Seger-Str.|leipzig_tag|1562|871|9
+nasa|3866|Springerstr.|leipzig_tag|1562|916|9
+nasa|12290|Nordplatz|leipzig_tag|1562|960|10
+nasa|12289|Zoo|leipzig_tag|1562|1005|10
+nasa|12282|Lortzingstr.|leipzig_tag|1561|1062|10
+nasa|8010209|S-Bf. Plagwitz|leipzig_tag|1088|1324|13
+nasa|10787|K.-Heine-/Gießerstr.|leipzig_tag|1147|1307|10
+nasa|11077|K.-Heine-/Merseburger Str.|leipzig_tag|1183|1272|8
+nasa|11122|Nonnenstr.|leipzig_tag|1333|1266|12
+nasa|12556|Miltitz|leipzig_tag|556|1298|10
+nasa|12426|Saturnstr.|leipzig_tag|590|1337|8
+nasa|12425|Jupiterstr.|leipzig_tag|595|1386|11
+nasa|12418|Plovdiver Str.|leipzig_tag|592|1449|20
+nasa|12417|Kiewer Str.|leipzig_tag|659|1454|13
+nasa|12420|Am Kirschberg|leipzig_tag|728|1453|15
+nasa|10818|Messegelände|leipzig_tag|1945|309|15
+nasa|8012478|S-Bf. Messe|leipzig_tag|1869|315|14
+nasa|10823|G.-Herwegh-Str.|leipzig_tag|1794|319|9
+nasa|12824|Wiederitzsch-Mitte|leipzig_tag|1731|319|11
+nasa|12823|Dachauer Str.|leipzig_tag|1686|376|15
+nasa|12816|Klinikum St. Georg|leipzig_tag|1691|438|9
+nasa|12819|Hornbach Baumarkt|leipzig_tag|1692|496|9
+nasa|12818|Delitzscher/Essener Str.|leipzig_tag|1691|551|13
+nasa|12821|Mosenthinstr.|leipzig_tag|1691|606|10
+nasa|12820|Eutritzscher Markt|leipzig_tag|1691|658|9
+nasa|10980|Eutritzscher Zentrum|leipzig_tag|1692|709|10
+nasa|12822|Wilhelminenstr.|leipzig_tag|1692|777|9
+nasa|13124|An den Tierkliniken|leipzig_tag|2009|1585|11
+nasa|11553|R.-Lehmann-/Zwickauer Str.|leipzig_tag|2020|1650|10
+nasa|8012865|Schkeuditz S-Bf.|leipzig_tag|278|482|14
+nasa|8012285|S-Bf. Lützschena|leipzig_tag|785|482|13
+nasa|8012197|S-Bf. Wahren|leipzig_tag|1104|482|13
+nasa|8012204|S-Bf. Slevogtstr.|leipzig_tag|1257|589|14
+nasa|8012181|S-Bf. Olbrichtstr.|leipzig_tag|1330|662|14
+nasa|8012196|S-Bf. Leipzig Nord|leipzig_tag|1955|693|14
+nasa|8012183|Leipzig/Halle Flughafen|leipzig_tag|394|145|14
+nasa|8012195|S-Bf. Thekla|leipzig_tag|2281|591|13
+nasa|8012190|S-Bf. Heiterblick|leipzig_tag|2621|570|15
+nasa|8013093|Taucha  S-Bf.|leipzig_tag|2852|364|24
+nasa|8080930|Bf. Sellerhausen|leipzig_tag|2315|1014|13
+nasa|8010208|Bf. Paunsdorf|leipzig_tag|2551|1014|11
+nasa|8011491|S-Bf. Engelsdorf|leipzig_tag|2821|1016|13
+nasa|8010059|Borsdorf S-Bf.|leipzig_tag|3150|1015|13
+nasa|8011495|Bf. Engelsdorf-Werkstätten|leipzig_tag|2689|1043|9
+nasa|8012375|Bf. Mölkau|leipzig_tag|2701|1327|13
+nasa|8011913|Bf. Holzhausen|leipzig_tag|2701|1613|12
+nasa|8012228|Bf. Liebertwolkwitz|leipzig_tag|2701|1987|10
+nasa|8011755|Großpösna Bf.|leipzig_tag|2726|2211|8
+nasa|8012526|Großpösna Bf. Oberholz|leipzig_tag|2793|2276|10
+nasa|8012186|Markt|leipzig_tag|1700|1209|18
+nasa|8012187|S-Bf. MDR|leipzig_tag|1890|1580|13
+nasa|8012343|S-Bf. Völkerschlachtdenkmal|leipzig_tag|2155|1586|12
+nasa|8010008|S-Bf. Anger-Crottendorf|leipzig_tag|2256|1246|14
+nasa|8012304|Markkleeberg Nord S-Bf.|leipzig_tag|1725|2042|13
+nasa|8012308|Markkleeberg S-Bf.|leipzig_tag|1705|2146|21
+nasa|11198|GVZ Nord, Sattlerweg|leipzig_tag|919|193|12
+nasa|11182|GVZ Nord Großmarkt Leipzig|leipzig_tag|851|193|12
+nasa|11228|GVZ Nord, T+S|leipzig_tag|784|233|12
+nasa|15763|GVZ Nord, Porschestr.|leipzig_tag|784|267|13
+nasa|3744|Porsche Tor 1|leipzig_tag|849|294|11
+nasa|11176|GVZ Nord, Deutsche Post AG|leipzig_tag|783|321|12
+nasa|851|Porsche Tor 3|leipzig_tag|783|356|13
+nasa|823|Porsche Tor 2|leipzig_tag|784|389|13
+nasa|15861|GVZ Süd, Am Exer|leipzig_tag|784|427|15
+nasa|12532|Wilhelmstr.|leipzig_tag|1103|437|13
+nasa|12533|W.-Pfennig-Str.|leipzig_tag|1103|390|15
+nasa|2779|R.-Breitscheid-Str.|leipzig_tag|1102|342|13
+nasa|12148|Sophienstr.|leipzig_tag|1103|294|13
+nasa|12531|Lindenthal. Gemeindeamt|leipzig_tag|1136|274|13
+nasa|12149|An der Schule|leipzig_tag|1187|270|15
+nasa|12146|Zur Lindenhöhe|leipzig_tag|1238|270|11
+nasa|12153|Lindenthal, An der Windmühle|leipzig_tag|1290|269|12
+nasa|11324|Sternsiedlung Nord|leipzig_tag|1294|555|15
+nasa|12534|Buchfinkenweg|leipzig_tag|1132|445|12
+nasa|12406|Zeisigweg|leipzig_tag|1160|417|13
+nasa|12537|Äußerer Zeisigweg|leipzig_tag|1164|380|12
+nasa|12539|Lange Trift|leipzig_tag|1165|341|13
+nasa|12151|Lindenthaler Hauptstr.|leipzig_tag|1164|304|13
+nasa|12540|An der Hufschmiede|leipzig_tag|1320|242|10
+nasa|3318|Lindenallee|leipzig_tag|1362|213|9
+nasa|3318|Lindenallee|leipzig_tag|1386|214|11
+nasa|12541|Breitenfeld, Kutscherweg|leipzig_tag|1374|191|13
+nasa|12274|Breitenfeld, Parkring|leipzig_tag|1413|177|10
+nasa|15934|Breitenfeld, Tierheim|leipzig_tag|1440|200|12
+nasa|12276|Breitenfeld, Gewerbegebiet|leipzig_tag|1565|213|14
+nasa|11422|Wiederitzsch-Nord, Autohaus|leipzig_tag|1648|213|12
+nasa|11421|Salzhandelstr.|leipzig_tag|1684|238|10
+nasa|11348|Wiederitzscher Landstraße|leipzig_tag|1684|277|10
+nasa|11355|Wiederitzsch Bürgeramt|leipzig_tag|1683|317|10
+nasa|12823|Dachauer Str.|leipzig_tag|1684|377|16
+nasa|11349|Martinshöhe|leipzig_tag|1624|374|12
+nasa|11347|Rietzschkegrund|leipzig_tag|1561|374|13
+nasa|11346|Siedlerweg|leipzig_tag|1498|373|12
+nasa|96323|Melissenweg|leipzig_tag|1435|374|15
+nasa|12152|Landsberger/Bahnhofstr.|leipzig_tag|1371|374|13
+nasa|11321|Olbrichtstr.|leipzig_tag|1358|553|13
+nasa|163|Bremer Str.|leipzig_tag|1474|553|13
+nasa|15846|Fr.-Mehring-Str.|leipzig_tag|1516|553|13
+nasa|11318|Zschortauer Str.|leipzig_tag|1811|550|13
+nasa|11325|Rosenowstr.|leipzig_tag|1958|541|17
+nasa|12825|Mockau West|leipzig_tag|1983|462|10
+nasa|22868|Schildberger Weg|leipzig_tag|2031|473|13
+nasa|12832|Otto-Michael-Str.|leipzig_tag|2031|523|12
+nasa|11326|Komarowstr.|leipzig_tag|2097|490|14
+nasa|12980|S.-Bolivar-Str.|leipzig_tag|2166|472|13
+nasa|10752|Möckern Slevogtstr.|leipzig_tag|1229|662|10
+nasa|10764|E.-von-Brockdorff-Str.|leipzig_tag|1256|689|15
+nasa|95480|Faradaystr.|leipzig_tag|1283|718|11
+nasa|11902|Seelenbinderstr.|leipzig_tag|1313|747|13
+nasa|10767|M.-Kazmierczak-Str.|leipzig_tag|1497|707|13
+nasa|12702|Kleiststr.|leipzig_tag|1628|709|12
+nasa|12690|Theresienstr.|leipzig_tag|1749|708|12
+nasa|12703|Hartzstr.|leipzig_tag|1811|709|12
+nasa|15873|Schönefelder Str.|leipzig_tag|1869|708|12
+nasa|12700|Rackwitzer Str.|leipzig_tag|1955|782|12
+nasa|13514|Fliederhof|leipzig_tag|1970|840|15
+nasa|12698|Mariannenpark|leipzig_tag|2041|911|13
+nasa|12828|Volksgartenstr.|leipzig_tag|2284|917|14
+nasa|13548|L.-Frank-Str.|leipzig_tag|2405|920|14
+nasa|12826|E.-Schumacher-Str|leipzig_tag|2468|919|12
+nasa|12827|Weinbrennerstr.|leipzig_tag|2520|920|11
+nasa|16881|Güterbahnhofstr.|leipzig_tag|2718|968|11
+nasa|13288|Schongauerstr.|leipzig_tag|2776|967|15
+nasa|12833|Neutzscher Str.|leipzig_tag|2322|475|18
+nasa|12432|Sosaer Str.|leipzig_tag|2355|526|10
+nasa|12433|Freiberger Str.|leipzig_tag|2337|564|13
+nasa|12431|Heiterblickstr.|leipzig_tag|2279|644|13
+nasa|12429|Abtnaundorf|leipzig_tag|2294|681|13
+nasa|11900|Pleißenburgwerkstätten|leipzig_tag|2318|620|11
+nasa|11907|Braun-/Heiterblickstr.|leipzig_tag|2340|646|11
+nasa|12430|Stöhrer-/Braunstr.|leipzig_tag|2339|683|12
+nasa|12435|Schönefeld-Ost, Verbundnetz Gas AG|leipzig_tag|2339|734|13
+nasa|12427|Braun-/Bautzner Str.|leipzig_tag|2308|777|13
+nasa|12704|B.-Brecht-Str.|leipzig_tag|2269|814|14
+nasa|12434|J.-Marchlewski-Str.|leipzig_tag|2232|849|13
+nasa|11908|Lidicestr.|leipzig_tag|2276|530|11
+nasa|12428|Brahestr.|leipzig_tag|2423|686|12
+nasa|13549|Leupoldstr.|leipzig_tag|2464|710|13
+nasa|13552|Paunsdorf Friedhof|leipzig_tag|2549|814|10
+nasa|13554|Permoser-/Hohentichelnstr.|leipzig_tag|2551|877|11
+nasa|11789|Gypsbergstr.|leipzig_tag|1893|523|11
+nasa|11653|Am alten Flughafen|leipzig_tag|1894|402|9
+nasa|11652|Messeverwaltung|leipzig_tag|1889|357|12
+nasa|13285|Alte Dübener Landstr.|leipzig_tag|1886|252|12
+nasa|11790|Gewerbegebiet Podelwitz|leipzig_tag|1886|157|12
+nasa|11905|Congress Center|leipzig_tag|2052|283|14
+nasa|11788|Seehausener Allee|leipzig_tag|1979|230|13
+nasa|11660|Einfahrt Sachsenpark|leipzig_tag|2098|226|17
+nasa|11661|Sachsenpark|leipzig_tag|2023|177|11
+nasa|11786|Pelzgasse|leipzig_tag|1963|191|14
+nasa|11127|Seehausen Schule|leipzig_tag|2146|234|12
+nasa|11128|Gut Seehausen|leipzig_tag|2197|216|12
+nasa|11130|Seehausen Alte Mühle|leipzig_tag|2231|180|11
+nasa|11126|Göbschelwitz|leipzig_tag|2282|160|11
+nasa|12271|Hohenheida Lindengasse|leipzig_tag|2356|160|14
+nasa|19921|BMW Zentralgebäude|leipzig_tag|2404|212|15
+nasa|20282|BMW Presswerk|leipzig_tag|2442|212|12
+nasa|22936|Future Electronics|leipzig_tag|2479|211|11
+nasa|22937|Ferag|leipzig_tag|2514|226|13
+nasa|20274|BMW Tor 1|leipzig_tag|2475|244|12
+nasa|12412|Plaußig Gewerbegebiet|leipzig_tag|2514|268|12
+nasa|12809|Am Kellerberg|leipzig_tag|2514|300|14
+nasa|12414|Plaußiger Dorfstr.|leipzig_tag|2501|340|10
+nasa|12815|Alte Theklaer Sr.|leipzig_tag|2447|341|8
+nasa|0|Poritzmühlenweg|leipzig_tag|2395|342|11
+nasa|12446|Plaußig Fuchsberg|leipzig_tag|2398|292|12
+nasa|12807|Teschstr.|leipzig_tag|2357|371|11
+nasa|12806|W.-Götze-Str.|leipzig_tag|2355|423|12
+nasa|12413|Grundstr.|leipzig_tag|2543|359|10
+nasa|12411|Cradefelder Str.|leipzig_tag|2575|391|10
+nasa|12977|Krätzbergstr.|leipzig_tag|2598|422|13
+nasa|12975|Portitz Teichsiedlung|leipzig_tag|2636|454|16
+nasa|12027|An den Pferdnerkabeln|leipzig_tag|2395|474|12
+nasa|12978|Cleudner Str.|leipzig_tag|2459|475|11
+nasa|12979|Wodanstr.|leipzig_tag|2519|473|16
+nasa|12976|Am langen Teiche|leipzig_tag|2565|448|10
+nasa|12982|Taucha Zur Waldenau|leipzig_tag|2647|364|12
+nasa|12808|Taucha Am Obstgut|leipzig_tag|2720|300|13
+nasa|11123|Hohenheida Gasthof|leipzig_tag|2459|163|16
+nasa|11124|Hohenheida Am Anger|leipzig_tag|2522|162|15
+nasa|11131|Gottscheina Am Ring|leipzig_tag|2580|163|16
+nasa|15735|Gottscheina Siedlung|leipzig_tag|2639|163|13
+nasa|12158|Merkwitz|leipzig_tag|2705|172|14
+nasa|12159|Seegeritz Ortsausgang|leipzig_tag|2723|189|12
+nasa|12156|Seegeritz-Mitte|leipzig_tag|2740|206|12
+nasa|12157|Taucha Am Veitsberg|leipzig_tag|2757|223|11
+nasa|12164|Sportplatz Graßdorf|leipzig_tag|2774|240|12
+nasa|12278|Davidstr.|leipzig_tag|2775|265|12
+nasa|12983|M.-Erzberger-Str.|leipzig_tag|2815|298|15
+nasa|11066|Taucha Lindnerstr.|leipzig_tag|2890|332|15
+nasa|17107|Manteuffelstr.|leipzig_tag|2871|446|13
+nasa|12813|Taucha Klebendorfer Str.|leipzig_tag|2916|450|13
+nasa|15922|Bogumils Garten|leipzig_tag|2925|417|13
+nasa|15925|Leipziger Str.|leipzig_tag|2987|318|13
+nasa|15926|Rathaus|leipzig_tag|3021|318|11
+nasa|12277|Markt|leipzig_tag|3053|317|13
+nasa|12682|Geschw.-Scholl-Str.|leipzig_tag|3084|319|12
+nasa|12810|Taucha An der Schäferei|leipzig_tag|3142|363|12
+nasa|12681|Dewitz Am Winneberg|leipzig_tag|3142|408|13
+nasa|12684|Dewitz Wachbergsiedlung|leipzig_tag|3142|456|12
+nasa|12686|Sehlis Kirchenheim|leipzig_tag|3142|502|13
+nasa|12686|Sehlis Kirchenheim|leipzig_tag|3142|549|14
+nasa|12685|Abzweig Cunnersdorf|leipzig_tag|3144|594|13
+nasa|11638|Cunnersdorf|leipzig_tag|3174|595|15
+nasa|12051|Panitzsch Sehliser Str.|leipzig_tag|3144|641|13
+nasa|13511|Panitzsch Gerichshainer Str.|leipzig_tag|3144|688|13
+nasa|12680|Panitzsch Schule|leipzig_tag|3146|746|14
+nasa|12043|Panitzsch Kindergarten|leipzig_tag|3148|825|14
+nasa|22932|Panitzsch Sommerfelder Str.|leipzig_tag|3011|733|13
+nasa|22933|Plöslitz Kriekauer Str.|leipzig_tag|3008|547|13
+nasa|12688|Plöslitz Hedwigstr.|leipzig_tag|3008|501|13
+nasa|12687|Plöslitz Bergstr.|leipzig_tag|3009|455|14
+nasa|12042|Borsdorf Panitzscher Str.|leipzig_tag|3146|892|14
+nasa|12045|Borsdorf Leipziger Str.|leipzig_tag|3129|972|12
+nasa|12044|Borsdorf Str. nach Althen|leipzig_tag|3066|973|12
+nasa|12047|Abzw. Dreiecksiedlung|leipzig_tag|3014|978|14
+nasa|12046|Sabinenstr.|leipzig_tag|2958|978|14
+nasa|12049|Sternenstr.|leipzig_tag|2902|977|14
+nasa|12032|H.-Weigel-Str.|leipzig_tag|2842|1046|12
+nasa|12033|H.-Aurig-Str.|leipzig_tag|2902|1072|12
+nasa|12040|Klempererstr.|leipzig_tag|2953|1077|12
+nasa|12041|Engelsdorf Kirchweg|leipzig_tag|2960|1114|13
+nasa|15826|Engelsdorf Kirche|leipzig_tag|2934|1136|12
+nasa|11658|Engelsdorf Gymnasium|leipzig_tag|2885|1139|15
+nasa|24972|Opalstr.|leipzig_tag|2836|1093|12
+nasa|11657|A.-Winkler-Str.|leipzig_tag|2834|1137|12
+nasa|11659|E.-Guhr-Str.|leipzig_tag|2788|1137|14
+nasa|11656|Werkstättenstr.|leipzig_tag|2741|1136|13
+nasa|12265|Engelsdorf Ärztehaus|leipzig_tag|2718|1175|11
+nasa|12264|Hasenheide|leipzig_tag|2719|1218|13
+nasa|12266|Am Bahndamm|leipzig_tag|2665|1243|11
+nasa|20052|Mölkauer Dorfplatz|leipzig_tag|2606|1244|13
+nasa|10689|Borsdorf H.-Heine-Str.|leipzig_tag|3150|1043|14
+nasa|22453|Zweenfurth Großer Weg|leipzig_tag|3150|1168|11
+nasa|12021|Zweenfurth Hirschfelder Str.|leipzig_tag|3125|1214|15
+nasa|12020|Althen Freundschaftsring|leipzig_tag|3050|1177|16
+nasa|12018|Althener Anger|leipzig_tag|3050|1115|13
+nasa|12017|Althen Oertgering|leipzig_tag|3051|997|11
+nasa|12015|Hirschfeld|leipzig_tag|3046|1239|12
+nasa|12016|Kleinpösna|leipzig_tag|3048|1312|14
+nasa|12013|Zaucheweg|leipzig_tag|3000|1330|13
+nasa|11351|Baalsdorf Kirchweg|leipzig_tag|2934|1328|13
+nasa|11350|Baalsdorfer Str.|leipzig_tag|2877|1326|14
+nasa|11353|Brandiser Str.|leipzig_tag|2818|1326|14
+nasa|11352|Lintacherstr.|leipzig_tag|2759|1326|13
+nasa|12269|Gottschalkstr.|leipzig_tag|2655|1325|13
+nasa|12535|Schulstr.|leipzig_tag|2606|1330|12
+nasa|12263|An den Platanen|leipzig_tag|2561|1330|14
+nasa|12268|Mölkau Gemeindeamt|leipzig_tag|2547|1254|15
+nasa|11129|Anenomenweg|leipzig_tag|2505|1246|13
+nasa|7300|Dr.-W.-Külz-Str.|leipzig_tag|2441|1246|11
+nasa|12155|Pommernstr.|leipzig_tag|2379|1246|12
+nasa|11952|Ostfriedhof|leipzig_tag|2317|1246|13
+nasa|11958|Martinstr.|leipzig_tag|2182|1245|14
+nasa|697|Stünz|leipzig_tag|2420|1162|12
+nasa|152|Bergstr.|leipzig_tag|2094|1127|12
+nasa|15825|Dornbergstr.|leipzig_tag|2118|1097|11
+nasa|11332|Elsastr.|leipzig_tag|2020|1122|13
+nasa|16305|Geithainer Str.|leipzig_tag|2549|1082|12
+nasa|13557|Uhlandweg|leipzig_tag|2550|1138|12
+nasa|13553|Paunsdorfer Str.|leipzig_tag|2550|1200|13
+nasa|11929|Handwerkerhof|leipzig_tag|2520|1347|11
+nasa|13551|Oberdorfstr.|leipzig_tag|2432|1436|12
+nasa|12396|Mölkau Süd|leipzig_tag|2642|1379|12
+nasa|12636|K.-Friedrich-Str.|leipzig_tag|2640|1429|8
+nasa|12395|Holzhausen Sophienhöhe|leipzig_tag|2662|1512|15
+nasa|12398|Kärrnerstr.|leipzig_tag|2737|1511|14
+nasa|12400|Holzhausen Hauptstr.|leipzig_tag|2758|1546|12
+nasa|12399|Holzhausen Sächsisches Haus|leipzig_tag|2759|1595|13
+nasa|20213|Schönbachstr.|leipzig_tag|2295|1529|12
+nasa|11792|Siedlung Waldfrieden|leipzig_tag|2550|1529|11
+nasa|12402|Mölkauer Str.|leipzig_tag|2586|1552|13
+nasa|11787|Zuckelhausen|leipzig_tag|2615|1582|11
+nasa|12403|A.-Polenz-Str.|leipzig_tag|2655|1612|15
+nasa|13555|Schwimmhalle Südost|leipzig_tag|2398|1576|11
+nasa|13546|Kommandant-Prendel-Allee|leipzig_tag|2343|1631|11
+nasa|10750|Lipsiusstr.|leipzig_tag|2187|1331|14
+nasa|10756|Holsteinstr.|leipzig_tag|2147|1331|17
+nasa|10759|Schulze-Boysen-Str.|leipzig_tag|2034|1337|14
+nasa|10758|Liebigstr.|leipzig_tag|1949|1425|13
+nasa|11556|An der Tabaksmühle|leipzig_tag|2143|1651|14
+nasa|11554|Altenburger Str.|leipzig_tag|1861|1650|12
+nasa|12022|W.-Heise-Str.|leipzig_tag|2764|1672|12
+nasa|13543|Colmbergsiedlung|leipzig_tag|2764|1756|13
+nasa|12645|Roßstr.|leipzig_tag|2691|1910|16
+nasa|12409|Liebertwolkwitzer Markt|leipzig_tag|2631|1967|10
+nasa|12038|Herzzentrum|leipzig_tag|2498|1641|11
+nasa|12036|Strümpellstr.|leipzig_tag|2497|1681|11
+nasa|15787|Russenstr.|leipzig_tag|2499|1717|12
+nasa|12023|Feldstr.|leipzig_tag|2477|1745|14
+nasa|12025|Schweizerbogen|leipzig_tag|2453|1773|14
+nasa|12544|Monarchenhügel|leipzig_tag|2516|1921|19
+nasa|12545|An der Brauerei|leipzig_tag|2555|1955|12
+nasa|12542|Schwarzes Ross|leipzig_tag|2585|1990|14
+nasa|12542|Schwarzes Ross|leipzig_tag|2607|2012|12
+nasa|12547|Zur alten Sandgrube|leipzig_tag|2635|2030|8
+nasa|12407|An den Badeanlagen|leipzig_tag|2655|2058|12
+nasa|12543|Liebertwolkwitz Störmthaler Str.|leipzig_tag|2680|2087|16
+nasa|12550|Eulengraben|leipzig_tag|2716|2123|11
+nasa|12551|Großpösna Neue Gaststätte|leipzig_tag|2749|2147|11
+nasa|11093|Damaschkestr.|leipzig_tag|2779|2182|12
+nasa|11094|Pflaumenallee|leipzig_tag|2834|2236|14
+nasa|12548|Pösna Park|leipzig_tag|2830|2195|13
+nasa|11090|Großpösna Brauteich|leipzig_tag|2855|2155|14
+nasa|11084|Alter Gasthof|leipzig_tag|2855|2108|12
+nasa|11086|Fuchshainer Str.|leipzig_tag|2855|2061|12
+nasa|11080|Feldstr.|leipzig_tag|2855|2014|14
+nasa|11082|Großpösna Auensiedlung|leipzig_tag|2855|1967|16
+nasa|11096|Seifertshain|leipzig_tag|2855|1915|15
+nasa|12202|G.-Keller-Str.|leipzig_tag|2439|1889|16
+nasa|12135|Höltystr.|leipzig_tag|2392|1888|15
+nasa|11831|Pahlenweg|leipzig_tag|2366|1931|17
+nasa|11916|Schwarzenbergweg|leipzig_tag|2365|1980|16
+nasa|11917|Wachau Gewerbepark|leipzig_tag|2309|2020|16
+nasa|11214|Wachau Atlanta Hotel|leipzig_tag|2330|2076|19
+nasa|11914|Wachau An der Hohle|leipzig_tag|2358|2142|19
+nasa|12351|Auenhain Fasanenweg|leipzig_tag|2369|2196|13
+nasa|12348|Auenhain Seepark|leipzig_tag|2371|2219|13
+nasa|5887|Auenhain Kanupark|leipzig_tag|2347|2261|13
+nasa|12349|Güldengossa|leipzig_tag|2449|2237|15
+nasa|3863|Johannishöhe|leipzig_tag|2151|2003|11
+nasa|3867|Zum Dölitzer Schacht|leipzig_tag|2080|2003|10
+nasa|3862|Bei der Krähenhütte|leipzig_tag|2009|2003|11
+nasa|11915|Wachau Am Bach|leipzig_tag|2300|2183|18
+nasa|11912|Wachau Crostewitzer Str.|leipzig_tag|2222|2180|11
+nasa|11913|Markkl., Goldene Höhe|leipzig_tag|2143|2180|11
+nasa|11910|H.-Heine-Str.|leipzig_tag|2063|2181|13
+nasa|22383|Seepromenade|leipzig_tag|2010|2205|12
+nasa|3551|Auenplatz|leipzig_tag|1938|2154|8
+nasa|19940|Seenallee|leipzig_tag|1746|2208|15
+nasa|11918|Schulstr.|leipzig_tag|1747|2176|13
+nasa|3865|Matzelstr.|leipzig_tag|1879|2003|13
+nasa|20180|Connewitzer Str.|leipzig_tag|2265|1821|13
+nasa|15811|Probstheidaer/ W.-Bredel-Str.|leipzig_tag|2115|1839|11
+nasa|164|Dankwartstr.|leipzig_tag|1949|1890|12
+nasa|30004|Dürrstr.|leipzig_tag|1892|1895|15
+nasa|15738|Hbf., Goethestr.|leipzig_tag|1736|1142|13
+nasa|15786|Reichsstr.|leipzig_tag|1689|1164|11
+nasa|12253|Wächterstr.|leipzig_tag|1574|1329|13
+nasa|12250|Mozartstr.|leipzig_tag|1575|1376|10
+nasa|11906|R.-Schumann-Str.|leipzig_tag|1574|1420|11
+nasa|11901|Telemannstr.|leipzig_tag|1575|1467|11
+nasa|11423|Schenkendorfstr.|leipzig_tag|1575|1512|12
+nasa|11102|A.-Bebel-/K.-Eisner-Str.|leipzig_tag|1576|1556|12
+nasa|15829|Steinstr.|leipzig_tag|1575|1619|13
+nasa|15823|A.-Bebel-/R.-Lehmann-Str.|leipzig_tag|1575|1663|13
+nasa|12599|Brand-/Selneckerstr.|leipzig_tag|1578|1752|14
+nasa|11002|Mathildenstr.|leipzig_tag|1669|1793|15
+nasa|11115|Leopoldstr.|leipzig_tag|1672|1844|12
+nasa|11003|Koburger Brücke|leipzig_tag|1665|1900|16
+nasa|10997|Wildpark|leipzig_tag|1664|1942|16
+nasa|11000|Markkleeberg Forsthaus Raschwitz|leipzig_tag|1667|2010|19
+nasa|12030|Energiestr.|leipzig_tag|1668|2049|8
+nasa|11001|Parkstr.|leipzig_tag|1695|2092|16
+nasa|10999|Ring|leipzig_tag|1644|2158|13
+nasa|10996|Markkleeberg West|leipzig_tag|1582|2157|17
+nasa|12037|Sonnensiedlung|leipzig_tag|1611|2056|14
+nasa|12988|Gautzscher Platz|leipzig_tag|1567|2105|16
+nasa|13289|Markkl.,Mehringstr.|leipzig_tag|1533|2073|13
+nasa|13290|Cospudener See Erlebnisachse|leipzig_tag|1503|2044|13
+nasa|13287|Cospudener See Nordstrand|leipzig_tag|1473|2013|13
+nasa|13296|Cospudener See EXPO-Pavillon|leipzig_tag|1465|1951|14
+nasa|13286|Lauerscher Weg|leipzig_tag|1299|1808|13
+nasa|13545|Großzschocher A.-Zickmantel-Str.|leipzig_tag|1149|1811|13
+nasa|11692|Bismarckstr.|leipzig_tag|1117|1861|13
+nasa|11404|Wasserturmweg|leipzig_tag|1063|1854|15
+nasa|11399|Weidenweg|leipzig_tag|1025|1805|12
+nasa|11398|Dreiecksweg|leipzig_tag|982|1764|12
+nasa|13539|Lausner Weg|leipzig_tag|942|1723|15
+nasa|15858|Ringstr.|leipzig_tag|823|1605|12
+nasa|11400|Schönauer/Lützner Str.|leipzig_tag|819|1489|14
+nasa|11401|Schönau Weißdornstr.|leipzig_tag|869|1484|12
+nasa|15824|Alte Salzstr.|leipzig_tag|674|1604|13
+nasa|17161|Kiewer Str., Kaufland|leipzig_tag|675|1381|11
+nasa|12422|Uranusstr.|leipzig_tag|672|1300|13
+nasa|12421|Siriusweg|leipzig_tag|616|1265|10
+nasa|11525|Auensee|leipzig_tag|968|668|11
+nasa|11524|Am Sportpark|leipzig_tag|907|801|11
+nasa|486|L.-Meitner-Str.|leipzig_tag|871|837|13
+nasa|11526|Wittestr.|leipzig_tag|833|977|14
+nasa|11772|Merseburger/Schomburgkstr.|leipzig_tag|833|1057|16
+nasa|11527|E.-Keil-Str.|leipzig_tag|834|1123|14
+nasa|11529|Plaut-/Schomburgkstr.|leipzig_tag|833|1189|11
+nasa|12568|Lindenau, Dr.-H.-Duncker-Str.|leipzig_tag|888|1251|16
+nasa|12567|Demmeringstr.|leipzig_tag|928|1292|12
+nasa|688|Morgensternstr.|leipzig_tag|928|1210|14
+nasa|223|Gröpplerstr.|leipzig_tag|986|1219|12
+nasa|11815|Markranstädt Schkeuditzer Str./Markt|leipzig_tag|157|1593|14
+nasa|11814|R.-Koch-Str.|leipzig_tag|183|1567|17
+nasa|11820|An der Schachtbahn|leipzig_tag|246|1515|10
+nasa|11420|Am Anger|leipzig_tag|277|1483|10
+nasa|11818|Markranstädt Ostsiedlung|leipzig_tag|315|1448|12
+nasa|11823|Miltitz Friedhof|leipzig_tag|361|1401|10
+nasa|11821|Geschw.-Scholl-Str.|leipzig_tag|411|1386|11
+nasa|11827|Großmilitzer Str.|leipzig_tag|466|1403|9
+nasa|11826|Straße am See|leipzig_tag|477|1463|17
+nasa|11702|Am kleinen Feld|leipzig_tag|537|1462|13
+nasa|23163|Selliner Str., Gesundheitszentrum|leipzig_tag|520|1551|12
+nasa|12419|Binzer Str.|leipzig_tag|485|1570|11
+nasa|10924|Markranstädt, Lausener Str.|leipzig_tag|143|1673|10
+nasa|10922|Kulkwitz Kraftwerk|leipzig_tag|144|1752|11
+nasa|10919|Kulkwitz Göhrenzer Str.|leipzig_tag|261|1934|11
+||Göhrenz Schachthäuser|leipzig_tag|315|1934|11
+||Gaststätte am See|leipzig_tag|371|1934|11
+||Waldsiedlung|leipzig_tag|427|1933|11
+||Göhrenz Albersdorfer Str.|leipzig_tag|487|1929|12
+||Lausener Bogen|leipzig_tag|490|1824|9
+nasa|11658|Am Silo|leipzig_tag|483|1720|14
+nasa|11287|Am Sonneneck|leipzig_tag|515|1791|12
+||Lausen Ärztehaus|leipzig_tag|570|1743|11
+nasa|12034|Regenbogen|leipzig_tag|577|1791|12
+||Lausen Wolkenbogen|leipzig_tag|637|1792|13
+nasa|11695|Raiffeisenstr.|leipzig_tag|773|1854|11
+nasa|11697|Siedlung Florian Geyer|leipzig_tag|733|1893|10
+nasa|11405|Gärtnerei|leipzig_tag|932|1866|11
+nasa|192|Goetheplatz|leipzig_tag|694|894|11
+nasa|154|Böhlitz-Ehrenberg, Breitscheidhof|leipzig_tag|716|928|11
+nasa|702|W.-Winkler-Str.|leipzig_tag|739|893|9
+nasa|12558|Leutzsch, Strbf.|leipzig_tag|930|830|12
+nasa|11403|Rathenaustr.|leipzig_tag|963|866|10
+nasa|13118|Kietzstr.|leipzig_tag|1018|867|9
+nasa|12028|Mathiesenstr.|leipzig_tag|1048|885|10
+nasa|12561|O.-Schmiedt-Str.|leipzig_tag|1047|918|11
+nasa|12564|P.-Michael-Str.|leipzig_tag|970|939|11
+nasa|10815|Zollschuppenstr.|leipzig_tag|1136|1384|13
+nasa|10817|Naumburger Str.|leipzig_tag|1136|1445|12
+nasa|10810|Siemensstr.|leipzig_tag|1135|1512|11
+nasa|12844|Gundorf Friedhof|leipzig_tag|502|827|13
+nasa|12835|Burghausen|leipzig_tag|502|878|12
+nasa|12837|Miltitzer Str.|leipzig_tag|501|993|10
+nasa|11774|Frankenheim Gewerbegebiet|leipzig_tag|224|1087|10
+nasa|11773|Friedenseiche|leipzig_tag|282|1088|9
+nasa|11766|Frankenheim Hopfenweg|leipzig_tag|334|1089|11
+nasa|11765|Lindennaundorf Schmiede|leipzig_tag|377|1141|10
+nasa|11768|Rückmarsdorf Sandberg|leipzig_tag|434|1038|14
+nasa|10688|Rückmarsdorf Einkaufspassage|leipzig_tag|502|1069|12
+nasa|10688|Rückmarsdorf Einkaufspassage|leipzig_tag|501|1097|13
+nasa|12854|Wachbergallee|leipzig_tag|502|1146|12
+nasa|12836|Großer Marktweg|leipzig_tag|548|1083|12
+nasa|11767|Löwencenter|leipzig_tag|576|1043|13
+nasa|11770|Rückmarsdorf Zum Bahnhof|leipzig_tag|620|1037|11
+nasa|11769|Zur Kaninchenfarm|leipzig_tag|750|1037|12
+nasa|11771|Lindenau Friedhof|leipzig_tag|1008|1108|12
+nasa|170|E.-Zeigner-Allee|leipzig_tag|1265|1399|12
+nasa|695|Schleußig Karlbrücke|leipzig_tag|1306|1437|11
+nasa|8010159|Halle (Saale)|leipzig_tag|196|160|24
+nasa|8010159|Halle (Saale)|leipzig_tag|185|495|21
+nasa|8012311|Markränstädt|leipzig_tag|165|1077|20
+nasa|11072|Angerbrücke|leipzig_tag|161|1458|21
+nasa|8010309|Saalfeld|leipzig_tag|119|1529|15
+nasa|8010101|Erfurt|leipzig_tag|103|1545|13
+nasa|10715|Thronitz|leipzig_tag|204|1989|18
+nasa|8010309|Saalfeld|leipzig_tag|1210|2283|20
+nasa|11570|Groitzsch|leipzig_tag|1760|2261|22
+nasa|8010397|Zwickau|leipzig_tag|1681|2293|12
+nasa|8010122|Geithain|leipzig_tag|1685|2274|12
+nasa|8011598|Markkl.-Gaschwitz|leipzig_tag|1683|2250|15
+nasa|8011242|Borna|leipzig_tag|2547|2289|16
+nasa|8010122|Geithain|leipzig_tag|2885|2275|12
+nasa|8010184|Chemnitz|leipzig_tag|2894|2291|12
+nasa|8011705|Grimma|leipzig_tag|2912|2257|15
+nasa|8012416|Naunhof|leipzig_tag|2937|1858|17
+nasa|8010085|Dresden|leipzig_tag|3246|1058|10
+nasa|8010080|Döbeln|leipzig_tag|3242|1042|10
+nasa|8013361|Wurzen|leipzig_tag|3247|1027|9
+nasa|8010095|Eilenburg|leipzig_tag|3079|255|16
+nasa|8010177|Hoyerswerda|leipzig_tag|3010|133|14
+nasa|8010073|Cottbus|leipzig_tag|2993|149|11
+nasa|10900|Bad Düben|leipzig_tag|1955|93|17
+nasa|8010224|Magdeburg|leipzig_tag|1829|94|13
+nasa|8010077|Dessau|leipzig_tag|1813|79|10
