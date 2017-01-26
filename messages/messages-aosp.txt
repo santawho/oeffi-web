@@ -3,6 +3,9 @@ alert-version-aosp			| min-sdk:10 max-sdk:14 version:529		| 1d | warning
 alert-version-aosp			| min-sdk:15 version:554				| 1d | warning
 alert-disruption-vao		| network:VAO							| 1d | warning
 
+# disruptions
+alert-disruption-met		| network:MET							| 1d | warning
+
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
 hint-network-picker			| prefs-show-info:true limit-info:2d	| once | info
