@@ -91,6 +91,7 @@ darmstadt|49.872582,8.630916|2016-12-11|Darmstadt Stadt|Darmstadt-Dieburger Nahv
 darmstadt_nacht|49.872582,8.630916|2016-12-11|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
 duesseldorf|51.230794,6.769025|2016-02-21|Düsseldorf Liniennetz|Rheinbahn
 duesseldorf_nacht|51.230794,6.769025|2016-02-21|Düsseldorf Nachtlinien|Rheinbahn
+duisburg|51.428813,6.772554|2013-05-01|Duisburg Liniennetz|DVG/VRR
 schwerin|53.634476,11.407313|2015-03|Schwerin Liniennetz|Nahverkehr Schwerin GmbH
 magdeburg_tag|52.130783,11.627347|2016-09-12|Magdeburg Liniennetz|Magdeburger Regionalverkehrsverbund
 magdeburg_nacht|52.130783,11.627347|2016-01-07|Magdeburg Nacht-Liniennetz|Magdeburger Regionalverkehrsverbund
