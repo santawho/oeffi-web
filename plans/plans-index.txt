@@ -171,10 +171,10 @@ copenhagen_night|55.672717,12.562532|2015-02|Copenhagen Night Bus|DOT
 
 # se
 
-gothenburg_tram|57.708792,11.973538|2012-12-09|Göteborg Tram and Trunk Bus|västtrafik
-gothenburg_commuter|57.708792,11.973538|2012-12-09|Göteborg Express Buses and Commuter Trains|västtrafik
-gothenburg_ferry|57.708792,11.973538|2012-12-09|Göteborg Tram and Ferry|västtrafik
-gothenburg_region|57.708792,11.973538|2012-12-09|Göteborg Region|västtågen
+gothenburg_tram|57.708792,11.973538|2015-12-13|Göteborg Tram and Trunk Bus|västtrafik
+gothenburg_commuter|57.708792,11.973538|2016-08-21|Göteborg Express Buses and Commuter Trains|västtrafik
+gothenburg_ferry|57.708792,11.973538|2015-12-13|Göteborg Tram and Ferry|västtrafik
+gothenburg_region|57.708792,11.973538|2016-01-03|Göteborg Region|västtågen
 jonkoping_bus|57.784691,14.163508||Jonkoping Bus||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Lines.jpg
 jonkoping_map|57.784691,14.163508||Jonkoping Map||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Map.jpg
 linkoping_bus|58.416129,15.626714|2009-06-14|Linkoping Bus||http://transportmaps.free.fr/maps/Sweden/Linkoping/map_Bus.jpg
