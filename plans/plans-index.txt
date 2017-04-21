@@ -257,11 +257,10 @@ athen_metro|37.992426,23.720444|2014-04|Athens Metro|Attiko Metro
 
 # us
 
-sanfrancisco_metro|37.774534,-122.419124|2007-07|San Francisco Metro|SFMTA|http://transit.511.org/static/providers/maps/SF_712200722845.gif
-sanfrancisco_system|37.774534,-122.419124|2010-10|San Francisco System|SFMTA|http://transit.511.org/static/providers/maps/SF_1222201020400.gif
-sanfrancisco_downtown|37.774534,-122.419124|2010-10|San Francisco Downtown|SFMTA|http://transit.511.org/static/providers/maps/SF_1222201020237.gif
-sanfrancisco_marketstreet|37.774534,-122.419124|2010-10|San Francisco Market Street|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010101811.gif
-sanfrancisco_owl|37.774534,-122.419124|2010-10|San Francisco Owl Service|SFMTA|http://transit.511.org/static/providers/maps/SF_10262010102001.gif
+sanfrancisco_metro|37.774534,-122.419124||San Francisco Metro|SFMTA
+sanfrancisco_system|37.774534,-122.419124|2016-05|San Francisco System|SFMTA
+sanfrancisco_marketstreet|37.774534,-122.419124||San Francisco Market Street|SFMTA
+sanfrancisco_owl|37.774534,-122.419124|2016|San Francisco Owl Service|SFMTA
 sanfrancisco_bart|37.616291,-122.386079|2014|San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif
 losangeles_system|34.05427,-118.246715|2016-06|Los Angeles System|metro.net
 losangeles_downtown|34.05427,-118.246715|2016-06|Los Angeles Downtown|metro.net
