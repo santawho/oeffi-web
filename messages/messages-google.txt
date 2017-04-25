@@ -8,6 +8,7 @@ alert-bugfix-tlem-google	| min-sdk:15 version:585 network:TLEM	| 1d | warning
 alert-bugfix-sncb-google	| min-sdk:15 version:586 network:SNCB	| 1d | warning
 alert-bugfix-sydney-google	| min-sdk:15 version:587 network:SYDNEY	| 1d | warning
 alert-bugfix-mvv-google		| min-sdk:15 version:587 network:MVV	| 1d | warning
+alert-bugfix-vvo-google		| min-sdk:15 version:588 network:VVO	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
