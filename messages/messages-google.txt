@@ -12,6 +12,7 @@ alert-bugfix-vvo-google		| min-sdk:15 version:588 network:VVO	| 1d | warning
 alert-bugfix-nvbw-google	| min-sdk:15 version:589 network:NVBW	| 1d | warning
 alert-bugfix-vbb-google		| min-sdk:15 version:595 network:VBB	| 1d | warning
 alert-bugfix-bvg-google		| min-sdk:15 version:595 network:BVG	| 1d | warning
+alert-bugfix-vmv-google		| min-sdk:15 version:596 network:VMV	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
