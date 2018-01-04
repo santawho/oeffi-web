@@ -1465,7 +1465,7 @@ db|935086|Werftblick|rostock_region|1186|375
 db|936225|Grabower Straße|rostock_region|1186|398
 db|8012221|Rostock-Lichtenhagen (DB)|rostock_region|1209|466
 db|939485|HP Lichtenhagen (RSAG)|rostock_region|1186|466
-db|939485|HP Lichtenhagen (Klenow Tor)|rostock_region|1229|466
+db|939451|HP Lichtenhagen (Klenow Tor)|rostock_region|1229|466
 db|936230|Güstrower Straße|rostock_region|1140|466
 db|936304|Mecklenburger Allee|rostock_region|1065|466
 db|935308|Elmenhorster Weg|rostock_region|1065|510
@@ -1551,7 +1551,7 @@ db|935093|Zoo|rostock_region|937|1388
 db|936200|Dr.-Lorenz-Weg|rostock_region|977|1347
 db|939302|Thierfelder Straße (RSAG)|rostock_region|1032|1347
 db|8079629|Rostock Thierfelder Straße (DB)|rostock_region|1032|1425
-db|936337|Platz der Jugend|rostock_region|1095|1350
+db|936337|Platz der Jugend|rostock_region|1100|1350
 db|936318|Neuer Friedhof|rostock_region|937|1482
 db|939232|Graureiherweg|rostock_region|852|1508
 db|939231|Tannenweg|rostock_region|810|1482
@@ -1651,7 +1651,7 @@ db|936216|Gehlsheim Klinik|rostock_region|1620|1010
 db|936217|Gehlsheimer Straße|rostock_region|1577|1010
 db|936206|Fährstraße Michaelshof|rostock_region|1535|1010
 db|936351|Gehlsdorf Fähre|rostock_region|1535|1088
-db|936272|Kirchenplatz|rostock_region|1490|1068
+db|936272|Kirchenplatz|rostock_region|1490|968
 db|935030|Schöffenweg|rostock_region|1490|945
 db|936340|Pressentinstraße|rostock_region|1490|923
 db|936618|Langenort Hufe|rostock_region|1490|900
@@ -1664,7 +1664,7 @@ db|936241|Heidenholzmoor|rostock_region|1552|738
 db|935038|Seehafen|rostock_region|1590|610
 db|935039|Seehafen Fähre|rostock_region|1502|558
 db|935714|Seehafen Ost|rostock_region|1622|558
-db|939223|Liebherrstraße|rostock_region|1650|489
+db|939223|Liebherrstraße|rostock_region|1665|489
 db|939361|Getreidehafen|rostock_region|1710|550
 db|936276|Kraftwerk|rostock_region|1767|550
 db|936282|Krummendorf Nord|rostock_region|1620|716
@@ -1677,15 +1677,14 @@ db|936247|Hinrichsdorfer Straße|rostock_region|1857|943
 db|936191|Dierkow Dorf|rostock_region|1897|883
 db|935989|Neu Hinrichsdorf, EKZ|rostock_region|2062|743
 db|936185|Brückenweg|rostock_region|2025|794
-db|936311|Neu Hinrichsdorf|rostock_region|1981|713
-db|936167|Am Liepengraben|rostock_region|1937|669
-db|939340|Hinrichsdorf|rostock_region|1981|628
-db|936231|Güterverkehrszentrum|rostock_region|1981|588
-db|936320|Nienhagen|rostock_region|1981|548
-db|936335|Peez Dorf|rostock_region|1902|515
-db|935057|Stuthof|rostock_region|1903|414
-db|936322|Nienhager Koppel|rostock_region|2012|455
-db|936268|Jürgeshof|rostock_region|2032|405
+db|936311|Neu Hinrichsdorf|rostock_region|1981|703
+db|936167|Am Liepengraben|rostock_region|1937|659
+db|939340|Hinrichsdorf|rostock_region|1981|618
+db|936231|Güterverkehrszentrum|rostock_region|1981|578
+db|936320|Nienhagen|rostock_region|1981|538
+db|935057|Stuthof|rostock_region|1903|424
+db|936322|Nienhager Koppel|rostock_region|2012|465
+db|936268|Jürgeshof|rostock_region|2032|415
 db|936018|Niederhagen|rostock_region|2036|355
 db|936248|Hinrichshagen|rostock_region|2036|233
 db|935029|Schnatermannweg|rostock_region|1965|236
@@ -1742,7 +1741,7 @@ db|936108|Rabenhorst|rostock_region|627|920
 db|935932|Bartenshagen, Abzweig|rostock_region|595|973
 db|935564|Bad Doberan, Buchenberg|rostock_region|435|978
 db|935597|Bad Doberan, EKZ|rostock_region|435|923
-db|935687|Bad Doberan, Nienhäger Chaussee|rostock_region|305|753
+db|935687|Bad Doberan, Nienhäger Chaussee|rostock_region|305|778
 db|935731|Bad Doberan, ZOB|rostock_region|285|880
 db|935698|Bad Doberan, Stadtmitte (REBUS)|rostock_region|282|940
 db|8081085|Bad Doberan, Stadtmitte (MBB)|rostock_region|245|940
@@ -1880,7 +1879,7 @@ db|935546|Graal-Müritz, Ost|rostock_region|2615|230
 db|935549|Graal-Müritz, Birkenallee|rostock_region|2562|230
 db|935547|Graal-Müritz, Ostseering|rostock_region|2495|228
 db|935336|Graal-Müritz, Förderschule|rostock_region|2435|173
-db|935548|Graal-Müritz, Süd|rostock_region|2372|178
+db|935548|Graal-Müritz, Süd|rostock_region|2372|228
 db|8012583|Graal-Müritz|rostock_region|2495|253
 db|8012584|Graal-Müritz, Koppelweg|rostock_region|2372|253
 db|8010300|Rövershagen|rostock_region|2420|405
@@ -2045,7 +2044,7 @@ db|935432|Damm|rostock_region|1945|1728
 db|936030|Niex|rostock_region|1945|1690
 db|936129|Reez|rostock_region|1945|1768
 db|935589|Groß Viegeln|rostock_region|1947|1818
-db|935808|Klingendorf|rostock_region|1997|1753
+db|935808|Klingendorf|rostock_region|1997|1750
 db|936096|Prisannewitz, Ausbau|rostock_region|2125|1765
 db|936094|Prisannewitz|rostock_region|2147|1788
 db|935144|Scharstorf|rostock_region|2170|1810
