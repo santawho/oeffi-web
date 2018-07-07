@@ -1,0 +1,6 @@
+title:	Öffi aus dem Play Store geschmissen!
+body:	Leider hat Google sich entschlossen, Öffi aus dem Play Store herauszuwerfen. Es gibt seitens Google keine schlüssige Begründung.
+
+Dadurch kannst du die App nicht einfach wieder installieren, wenn du sie deinstallierst. Solange du das nicht tust, kannst du Öffi ganz normal weiter verwenden. Neue User können Öffi direkt von meiner Homepage installieren. Bitte sag's an Freunde weiter!
+button-positive:	Direkt herunterladen | https://oeffi.schildbach.de/download_de.html
+button-negative:	dismiss
