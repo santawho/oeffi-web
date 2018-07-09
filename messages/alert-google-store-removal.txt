@@ -1,0 +1,5 @@
+title:	Öffi has been removed from the Google Play Store!
+body:	Unfortunately Google decided to remove Öffi from Google Play. Three days later, Google justifies this by the possibility to donate for Öffi. This is possible on my homepage, and from within APKs that were directly installed from my home page. Ironically, the version from the Play Store (the one that was removed by Google) doesn't have this!
+
+This means you cannot easily reinstall if you uninstall the app. If you don't uninstall you can continue to use Öffi as normal. Please spread the word to friends!
+button-neutral:	dismiss

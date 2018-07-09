@@ -1,6 +1,0 @@
-title:	Öffi has been removed from Google Play!
-body:	Unfortunately Google decided to remove Öffi from Google Play. There is no coherent justification from Google.
-
-This means you cannot easily reinstall if you uninstall the app. If you don't uninstall you can continue to use Öffi as normal. New users can install directly from my home page. Please spread the word to friends!
-button-positive:	Direct download | https://oeffi.schildbach.de/download.html
-button-negative:	dismiss
