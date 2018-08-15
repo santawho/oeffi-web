@@ -209,7 +209,8 @@ london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL
 london_bus|51.513507,-0.110264|2016|London Bus|TfL
 london_night|51.513507,-0.110264|2016|London Night Bus|TfL
 london_tram|51.37937,-0.101759|2016-01|London Trams|TfL
-manchester_metro|53.479754,-2.24272|2014|Manchester Metrolink|Transport for Greater Manchester
+manchester_tram|53.479754,-2.24272||Manchester Tram network|Transport for Greater Manchester|https://images.ctfassets.net/nv7y93idf4jq/jeB6vdug4EAoc62SQGSEO/587d920eb27003af17f99e37b789493e/Metrolink-network-map-coloured-lines-and-number-identifiers-and-key-Jan-2018.png
+menchester_train|53.479754,-2.24272||Manchester Train network|Transport for Greater Manchester|https://images.ctfassets.net/nv7y93idf4jq/3gNuXkQl5Cu8wEG8oiCMUc/97f502cffc740b01c06ee173455611d7/Combined_Rail_Metrolink_network_map_v15__2CC_-1.jpg
 bath_bus|51.377628,-2.357004||Bath Bus Network|FWT|http://transportmaps.free.fr/maps/United_Kingdom/Bath/map_Bus_Network.jpg
 bath_bus_city_center|51.377628,-2.357004||Bath Bus City Zone 1|FWT|http://transportmaps.free.fr/maps/United_Kingdom/Bath/map_City_Center_Bus.jpg
 leeds_bus|53.795649,-1.548003||Leeds Bus Network|FWT|http://transportmaps.free.fr/maps/United_Kingdom/Leeds/map_Bus.jpg
