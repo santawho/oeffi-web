@@ -1,5 +1,3 @@
-alert-google-store-removal	|					| once | warning
-
 # version alert
 alert-version-google		| min-sdk:10 max-sdk:14 version:529		| 1d | warning
 alert-version-google		| min-sdk:15 max-sdk:15 version:554		| 1d | warning

@@ -1,5 +1,0 @@
-title:	Öffi vom Google Play Store geschmissen!
-body:	Leider hat Google sich entschlossen, Öffi aus dem Play Store herauszuwerfen. Zur Begründung gibt Google (drei Tage später) an, dass man für Öffi spenden kann. Und zwar direkt auf meiner Homepage, sowie in von meiner Homepage direkt installierten APKs. Ironischerweise ist das in der (von Google entfernten) Version auf Google Play jedoch nicht enthalten!
-
-Dadurch kannst du die App nicht einfach wieder installieren, wenn du sie deinstallierst. Solange du das nicht tust, kannst du Öffi ganz normal weiter verwenden. Bitte sag's an Freunde weiter!
-button-neutral:	dismiss
