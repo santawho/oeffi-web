@@ -1,0 +1,8 @@
+title:	Es gibt ein Update auf F-Droid!
+body:	Um Öffi auf Version 10 und darüber hinaus zu aktualisieren, installiere den F-Droid client auf deinem Gerät.
+Dann suche einfach in F-Droid nach aktualisierten Apps.
+
+Die neue Version kann derzeit nicht von Google Play geladen werden, weil Google sich zur Entfernung entschieden hat.
+button-positive: F-Droid | https://f-droid.org/de/packages/de.schildbach.oeffi/
+button-negative: dismiss
+button-neutral: Direct download | https://oeffi.schildbach.de/download_de.html
