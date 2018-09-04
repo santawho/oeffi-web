@@ -1,7 +1,7 @@
 # version alert
 alert-version-google		| min-sdk:10 max-sdk:14 version:529		| 1d | warning
 alert-version-google		| min-sdk:15 max-sdk:15 version:554		| 1d | warning
-alert-version-on-fdroid		| min-sdk:16 version:610				| once | warning
+alert-version-google		| min-sdk:16 version:610				| 1d | warning
 
 # disruptions
 alert-disruption-met		| network:MET							| 1d | warning
