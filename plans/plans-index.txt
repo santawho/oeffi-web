@@ -316,3 +316,7 @@ delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload
 
 tokyo_subway|35.681143,139.76615|2015-08|Tokyo Subway|Bureau of Transportation
 osaka_subway|34.693921,135.502181|2014-09-30|Osaka Subway|Osaka Municipal Transportation Bureau
+
+# ni
+
+managua_city|12.1405,-86.2705|2017-08|Managua Bus Network|MapaNica.net|https://rutas.mapanica.net/archivos/mapanica-rutas-managua.jpg
