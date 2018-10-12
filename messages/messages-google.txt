@@ -15,6 +15,7 @@ alert-bugfix-vmv-google		| min-sdk:15 version:596 network:VMV	| 1d | warning
 alert-bugfix-vgn-google		| min-sdk:15 version:598 network:VGN	| 1d | warning
 alert-bugfix-mvv-google		| min-sdk:15 max-sdk:20 version:598 network:MVV	| 1d | warning
 alert-bugfix-nvbw-google	| min-sdk:15 version:615 network:NVBW	| 1d | warning
+alert-bugfix-vms-google		| min-sdk:15 version:618 network:VMS	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
