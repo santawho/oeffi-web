@@ -114,10 +114,10 @@ karlsruhe_liniennetz|48.993988,8.400328|2018-07-26|Karlsruhe Liniennetz|Karlsruh
 karlsruhe_regio|48.993988,8.400328|2017-12-10|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
 karlsruhe_bus|49.009498,8.404073|2016-12-11|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_nightliner|49.009498,8.404073|2018-03-24|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
-freiburg_liniennetz|47.996556,7.840286|2016-09-12|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
-freiburg_nacht|47.996556,7.840286|2016-04-01|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
-freiburg_regio|47.996556,7.840286|2016-07|Freiburg Regio|RVF
-freiburg_tarifzonen|47.996556,7.840286|2014-06|Freiburg Tarifzonen|RVF
+freiburg_liniennetz|47.996556,7.840286|2017-12-10|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
+freiburg_nacht|47.996556,7.840286|2017-11-27|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
+freiburg_regio|47.996556,7.840286|2018-01|Freiburg Regio|RVF
+freiburg_tarifzonen|47.996556,7.840286|2016-05|Freiburg Tarifzonen|RVF
 freudenstadt_werktag|48.460501,8.428012|2014-03|Freudenstadt Liniennetz Werktags|vgf
 freudenstadt_freizeit|48.460501,8.428012|2014-03|Freudenstadt Liniennetz Freizeit|vgf
 mannheim_ludwigshafen|49.481844,8.459115|2016-12|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
