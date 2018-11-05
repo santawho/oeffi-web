@@ -45,7 +45,8 @@ bayreuth_tag|49.949701,11.579951|2016-10-12|Bayreuth Tag|Verkehrsverbund Großra
 bayreuth_nacht|49.949701,11.579951|2016-10-12|Bayreuth Spät|Verkehrsverbund Großraum Nürnberg||VGN
 bamberg|49.900716,10.899453|2017-05-06|Bamberg Liniennetz|Stadtwerke Bamberg
 coburg_liniennetz|50.262975,10.957691|2018-01-01|Coburg Liniennetz|SÜC
-regensburg|49.011489,12.09971|2016-12-11|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
+regensburg|49.011489,12.09971|2017-12-10|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
+regensburg_nacht|49.011489,12.09971|2018-04-14|Regensburg Nachtbus|Regensburger Verkehrsverbund GmbH & Co. KG
 hamburg_usar|53.552946,10.006782|2017-12-10|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2017-12-10|Hamburg MetroBus Großbereich|HVV
 hamburg_region|53.552946,10.006782|2017-12|Hamburg Regionalverkehr|HVV
