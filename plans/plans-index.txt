@@ -120,11 +120,11 @@ freiburg_regio|47.996556,7.840286|2018-01|Freiburg Regio|RVF
 freiburg_tarifzonen|47.996556,7.840286|2016-05|Freiburg Tarifzonen|RVF
 freudenstadt_werktag|48.460501,8.428012|2017-12-10|Freudenstadt Liniennetz Werktags|vgf
 freudenstadt_freizeit|48.460501,8.428012|2017-12-10|Freudenstadt Liniennetz Freizeit|vgf
-mannheim_ludwigshafen|49.481844,8.459115|2016-12|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
-ludwigshafen_nacht|49.4769784,8.4300132|2016-09|Ludwigshafen Nachtbus|RNV GmbH
-heidelberg|49.403434,8.676352|2016-12|Heidelberg Liniennetz|RNV GmbH
+mannheim_ludwigshafen|49.481844,8.459115|2018-11-05|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
+ludwigshafen_nacht|49.4769784,8.4300132|2017-03-01|Ludwigshafen Nachtbus|RNV GmbH
+heidelberg|49.403434,8.676352|2018-11-05|Heidelberg Liniennetz|RNV GmbH
 heidelberg_nacht|49.403434,8.676352||Heidelberg Nachtlinien|RNV GmbH
-rhein_neckar_regio|49.481844,8.459115|2016-12|Rhein-Neckar Regionalverkehr|RNV GmbH
+rhein_neckar_regio|49.481844,8.459115|2018-06|Rhein-Neckar Regionalverkehr|RNV GmbH
 
 # at
 
