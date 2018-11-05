@@ -105,10 +105,10 @@ hagen|51.362675,7.461087|2018-06-10|Hagen Liniennetz|Hagener Straßenbahn AG
 braunschweig_gesamt|52.252187,10.539705|2017-12|Braunschweig Gesamtnetz|Braunschweiger Verkehrs-AG
 braunschweig_innenstadt|52.263931,10.526361|2017-12|Braunschweig Innenstadt|Braunschweiger Verkehrs-AG
 braunschweig_nacht|52.252187,10.539705|2017-12|Braunschweig Nachtnetz|Braunschweiger Verkehrs-AG
-salzgitter|52.15116,10.332488|2015-12|Salzgitter Liniennetz|KVG Braunschweig
-wolfenbuettel|52.15898,10.532012|2015-12|Wolfenbüttel Liniennetz|KVG Braunschweig
+salzgitter|52.15116,10.332488|2017-12|Salzgitter Liniennetz|KVG Braunschweig
+wolfenbuettel|52.15898,10.532012|2018-10|Wolfenbüttel Liniennetz|KVG Braunschweig
 helmstedt|52.222331,11.010690|2015-12|Helmstedt Liniennetz|KVG Braunschweig
-harz|51.888518,10.554843|2015-12|Harz Liniennetz|KVG Braunschweig
+harz|51.888518,10.554843|2018-06|Harz Liniennetz|KVG Braunschweig
 wolfsburg|52.429484,10.788249|2016-12-11|Wolfsburg Liniennetz|WVG
 karlsruhe_liniennetz|48.993988,8.400328|2016-12-11|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_regio|48.993988,8.400328|2016-12-11|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
