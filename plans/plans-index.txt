@@ -47,10 +47,10 @@ bamberg|49.900716,10.899453|2018-11-19|Bamberg Liniennetz|Stadtwerke Bamberg
 coburg_liniennetz|50.262975,10.957691|2018-01-01|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2017-12-10|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 regensburg_nacht|49.011489,12.09971|2018-04-14|Regensburg Nachtbus|Regensburger Verkehrsverbund GmbH & Co. KG
-hamburg_usar|53.552946,10.006782|2017-12-10|Hamburg Schnellbahn/Regional|HVV
-hamburg_metrobus_gross|53.552946,10.006782|2017-12-10|Hamburg MetroBus Großbereich|HVV
-hamburg_region|53.552946,10.006782|2017-12|Hamburg Regionalverkehr|HVV
-hamburg_nachtbus|53.552946,10.006782|2017-12|Hamburg Nachtbus|OpenStreetMap und HVV
+hamburg_usar|53.552946,10.006782|2018-12-09|Hamburg Schnellbahn/Regional|HVV
+hamburg_metrobus_gross|53.552946,10.006782|2018-12-09|Hamburg MetroBus Großbereich|HVV
+hamburg_region|53.552946,10.006782|2018-12-09|Hamburg Regionalverkehr|HVV
+hamburg_nachtbus|53.552946,10.006782|2018-12|Hamburg Nachtbus|OpenStreetMap und HVV
 kiel_liniennetz|54.313282,10.132341|2018-05|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2017-09|Kiel Nachtliniennetz|KVG
 luebeck_region|53.858795,10.664646|2016-12-11|Lübeck Liniennetz Region|LVG, nah.sh, Stadtverkehr Lübeck||SH
