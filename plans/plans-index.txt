@@ -137,11 +137,11 @@ graz|47.073371,15.416154|2016-09-10|Graz Liniennetz|Verbund Linie
 graz_nightline|47.073371,15.416154|2016-09-10|Graz Nightline|Verbund Linie
 graz_regio|47.073371,15.416154|2016-12-11|Graz Regio|ÖBB/STB||OEBB
 wien_city|48.209477,16.371074|2017-09-01|Wien City|Wiener Linien
-wien_gesamt|48.209477,16.371074|2017-09-01|Wien Gesamtnetz|Wiener Linien
+wien_gesamt|48.209477,16.371074|2018-10-03|Wien Gesamtnetz|Wiener Linien
+wien_nacht|48.209477,16.371074|2017-09-01|Wien Nachtnetz|Wiener Linien
 wien_grossraum|48.209477,16.371074|2017-08-01|Wien Großraum Nahverkehr|ÖBB||OEBB
 wien_susb|48.209477,16.371074|2015-12-13|Wien Netzplan|Ben Lode
 wien_tram|48.209477,16.371074|2015-12-13|Wien Straßenbahn|Ben Lode
-wien_nacht|48.209477,16.371074|2015-12-13|Wien Nachtnetz|Ben Lode
 salzburg|47.813229,13.045907|2016-10-01|Salzburg Liniennetz|Salzburg AG
 
 # ch
