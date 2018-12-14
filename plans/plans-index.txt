@@ -146,7 +146,7 @@ salzburg|47.813229,13.045907|2016-10-01|Salzburg Liniennetz|Salzburg AG
 
 # ch
 
-basel|47.553021,7.591031|2016-12|Basel Liniennetz|tnw Tarifverbund Nordwestschweiz
+basel|47.553021,7.591031|2018-12-09|Basel Liniennetz|tnw Tarifverbund Nordwestschweiz
 zvv|47.378136,8.540232|2018-12-09|ZVV Netzplan|Zürcher Verkehrsverbund/PostAuto Region Zürich
 zvv_nacht|47.378136,8.540232|2018-12-09|ZVV Nachtnetz|Zürcher Verkehrsverbund/PostAuto Region Zürich
 zuerich_stadt|47.378136,8.540232|2018-12-09|Zürich Stadt|ZVV/VBZ
