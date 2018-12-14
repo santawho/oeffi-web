@@ -129,7 +129,7 @@ rhein_neckar_regio|49.481844,8.459115|2018-06|Rhein-Neckar Regionalverkehr|RNV G
 
 # at
 
-linz|48.290893,14.291965|2016-09|Linz Verkehrslinienplan|Linz AG
+linz|48.290893,14.291965|2018-10|Linz Verkehrslinienplan|Linz AG
 linz_nacht|48.290893,14.291965|2016-12|Linz Nachtverkehr|Linz AG
 innsbruck_liniennetz|47.26332,11.400951|2018|Innsbruck Liniennetz|Innsbrucker Verkehrsbetriebe GmbH
 innsbruck_tram|47.26332,11.400951|2012-12-15|Innsbruck Straßenbahn|Steve Stipsits|http://www.public-transport.at/netzplan_innsbruck_gross_aktuell.gif
