@@ -1,0 +1,10 @@
+title:	Did you know?
+body: 	Öffi is free software
+
+	Öffi is open source and free software! It is licensed under the GPLv3 (GNU General Public License).
+
+	This means you may not only use the app for free, but also adapt it to your own needs.
+
+	The source code is available on GitLab.
+button-positive: GitLab | https://gitlab.com/oeffi/oeffi
+button-negative: dismiss

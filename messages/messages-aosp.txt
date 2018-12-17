@@ -15,3 +15,4 @@ hint-qr-and-nfc				| prefs-show-info:true limit-info:2d	| once | info
 hint-launcher-shortcuts		| prefs-show-info:true limit-info:2d	| once | info
 hint-location-problems		| prefs-show-info:true limit-info:2d	| once | info
 hint-drag-stations			| prefs-show-info:true limit-info:2d min-version:546 task:stations | once | info
+hint-free-software			| prefs-show-info:true limit-info:2d	| once | info

@@ -9,3 +9,4 @@ hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
 hint-network-picker			| prefs-show-info:true limit-info:2d	| once | info
 hint-landscape-orientation	| prefs-show-info:true limit-info:2d	| once | info
 hint-qr-and-nfc				| prefs-show-info:true limit-info:2d	| once | info
+hint-free-software			| prefs-show-info:true limit-info:2d	| once | info
