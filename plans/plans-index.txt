@@ -25,9 +25,9 @@ leipzig_tag|51.345476,12.379382|2018-11-26|Leipzig Linien Tag|Leipziger Verkehrs
 leipzig_nacht|51.345476,12.379382|2018-11-26|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
 halle_tag|51.477347,11.985263|2018-10-15|Halle Linien Tag|SWH/HAVAG
 halle_nacht|51.477347,11.985263|2018-10-15|Halle Linien Nacht|SWH/HAVAG
-muenchen_schnellbahn|48.140377,11.560643|2017-12|München Schnellbahn|MVV
-muenchen_tram_metrobus|48.140377,11.560643|2017-12|München Tram/MetroBus|MVV/MVG
-muenchen_nacht|48.140377,11.560643|2017-12|München Nachtnetz|MVG
+muenchen_schnellbahn|48.140377,11.560643|2018-12|München Schnellbahn|MVV
+muenchen_tram_metrobus|48.140377,11.560643|2018-12-09|München Tram/MetroBus|MVV/MVG
+muenchen_nacht|48.140377,11.560643|2018-12-09|München Nachtnetz|MVG
 ingolstadt_tag|48.74462,11.437987|2017-09-01|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
 ingolstadt_nacht|48.74462,11.437987|2017-09-01|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2018-12|Augsburg Innenraum|AVV GmbH
