@@ -284,9 +284,8 @@ chicago_trains|41.878674,-87.640333|2015-03|Chicago Train Connections|RTA Chicag
 
 # ar
 
-buenosaires_metro|-34.60837,-58.372171||Buenos Aires Metro|Metrovías|http://www.metrovias.com.ar/v2/html/..%5CImages%5CMapas%5Csubte-mapa-esquematico-2010.jpg
-buenosaires_urquiza|-34.60837,-58.372171||Buenos Aires Urquiza|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-urquiza.gif
-buenosaires_premetro|-34.60837,-58.372171||Buenos Aires Premetro|Metrovías|http://www.metrovias.com.ar/v2/Images/Mapas/mapa-premetro.gif
+buenosaires_metro|-34.60837,-58.372171||Buenos Aires Metro|Metrovías|https://www.metrovias.com.ar/Subterraneos/File/ShowContent/6759
+buenosaires_premetro|-34.60837,-58.372171|2008|Buenos Aires Premetro|Wikimedia Commons|https://upload.wikimedia.org/wikipedia/commons/6/6d/Premetro_Map3.jpg
 
 # au
 
