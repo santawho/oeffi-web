@@ -8,7 +8,7 @@ berlin_bsu_abc|52.520134,13.388018|2018-12-09|Berlin S+U-Bahn-Netz (ABC)|Berline
 berlin_tram|52.521152,13.412832|2018-12-09|Berlin Tram-Netz|Berliner Verkehrsbetriebe||BVG
 berlin_bus|52.5071378,13.3318680|2018-12-09|Berlin Bus-Netz|Berliner Verkehrsbetriebe||BVG
 berlin_nacht|52.520134,13.388018|2018-12-09|Berlin Nachtverkehr|Berliner Verkehrsbetriebe||BVG
-# berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|http://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
+# berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
 brandenburg_regionalverkehr|52.525578,13.369523|2016-12-11|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
 potsdam_tag|52.390931,13.067171|2016-12-11|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
 potsdam_nacht|52.390931,13.067171|2016-12-11|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
@@ -19,7 +19,7 @@ brandenburg_havel|52.405872,12.538199|2016-03-01|Brandenburg an der Havel|Verkeh
 greifswald|54.092863,13.370336|2017-03|Greifswald Liniennetz|Stadtwerke Greifswald
 dresden|51.050961,13.733239|2016-03-20|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2015-01-05|Dresden Nachtverkehr|dvb.de
-# dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
+# dresden_sbahn|51.050961,13.733239|2008-01|Dresden S-Bahn|Maximilian Dörrbecker, Wikimedia Commons|https://upload.wikimedia.org/wikipedia/commons/9/99/Dresden_-_S-Bahn_-_Liniennetz.png
 leipzig_halle_schnellbahn|51.423347,12.220980|2018-12-09|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
 leipzig_tag|51.345476,12.379382|2018-11-26|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
 leipzig_nacht|51.345476,12.379382|2018-11-26|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
@@ -245,7 +245,7 @@ gdansk_tram|54.355338,18.644478|2008|Gdansk Tram|ZKM|http://transportmaps.free.f
 krakow_tram|50.065365,19.947124|2010-03-01|Krakow Tram|KST|http://transportmaps.free.fr/maps/Poland/Krakow/map_Tram.jpg
 poznan_tram|52.40144,16.91215||Poznan Tram|MPK|http://transportmaps.free.fr/maps/Poland/Poznan/map_Trams.jpg
 poznan_night|52.40144,16.91215||Poznan Night Buses|MPK|http://transportmaps.free.fr/maps/Poland/Poznan/map_Night_Buses.jpg
-warsaw_rail|52.230515,21.010702|2011-12-01|Warsaw Rail Transport|ztm|http://www.ztm.waw.pl/mapa/duze/tramwaje.gif
+warsaw_rail|52.230515,21.010702|2011-12-01|Warsaw Rail Transport|ztm|https://www.ztm.waw.pl/mapa/duze/tramwaje.gif
 warsaw_metro_tram|52.230515,21.010702||Warsaw Metro and Tram|zajcev|http://transportmaps.free.fr/maps/Poland/Warsaw/map_Subway_and_Tramway.jpg
 
 # cz
@@ -272,7 +272,7 @@ sanfrancisco_metro|37.774534,-122.419124||San Francisco Metro|SFMTA
 sanfrancisco_system|37.774534,-122.419124|2016-05|San Francisco System|SFMTA
 sanfrancisco_marketstreet|37.774534,-122.419124||San Francisco Market Street|SFMTA
 sanfrancisco_owl|37.774534,-122.419124|2016|San Francisco Owl Service|SFMTA
-sanfrancisco_bart|37.616291,-122.386079|2014|San Francisco Bay Area Rapid Transit|BART|http://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif
+sanfrancisco_bart|37.616291,-122.386079|2014|San Francisco Bay Area Rapid Transit|BART|https://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif
 losangeles_system|34.05427,-118.246715|2016-06|Los Angeles System|metro.net
 losangeles_downtown|34.05427,-118.246715|2016-06|Los Angeles Downtown|metro.net
 losangeles_metro|34.05427,-118.246715|2016-05|Los Angeles Metro|metro.net|https://media.metro.net/riding_metro/maps/images/rail_map.gif
@@ -309,15 +309,15 @@ singapore|1.299078,103.84577|2015|Singapore|Land Transport Authority
 
 # cn
 
-beijing_subway|39.924854,116.396577|2009|Beijing Subway|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beijing-Subway-Plan.svg/2000px-Beijing-Subway-Plan.svg.png
+beijing_subway|39.924854,116.396577|2009|Beijing Subway|Wikimedia Commons|https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beijing-Subway-Plan.svg/2000px-Beijing-Subway-Plan.svg.png
 
 # tw
 
-taipei_metro|25.06331,121.55169||Taipei Metro|Taipei Rapid Transit Corporation|http://web.metro.taipei/img/E/metrotaipeimap.jpg
+taipei_metro|25.06331,121.55169||Taipei Metro|Taipei Rapid Transit Corporation|https://web.metro.taipei/img/E/metrotaipeimap.jpg
 
 # in
 
-delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
+delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
 
 # th
 
