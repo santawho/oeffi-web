@@ -319,6 +319,10 @@ taipei_metro|25.06331,121.55169||Taipei Metro|Taipei Rapid Transit Corporation|h
 
 delhi_metro|28.635481,77.225032|2010|Delhi Metro|Wikimedia Commons|http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Delhi_metro_rail_network.svg/2000px-Delhi_metro_rail_network.svg.png
 
+# th
+
+bangkok|13.73938,100.51670|2010|Bangkok|Wikimedia Commons|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bangkok-transit-map.svg/2000px-Bangkok-transit-map.svg.png
+
 # jp
 
 tokyo_subway|35.681143,139.76615|2015-08|Tokyo Subway|Bureau of Transportation
