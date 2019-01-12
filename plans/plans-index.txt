@@ -7,7 +7,7 @@ berlin_bsu_ab|52.520134,13.388018|2018-12-09|Berlin S+U-Bahn-Netz (AB)|Berliner 
 berlin_bsu_abc|52.520134,13.388018|2018-12-09|Berlin S+U-Bahn-Netz (ABC)|Berliner Verkehrsbetriebe||BVG
 berlin_tram|52.521152,13.412832|2018-12-09|Berlin Tram-Netz|Berliner Verkehrsbetriebe||BVG
 berlin_bus|52.5071378,13.3318680|2018-12-09|Berlin Bus-Netz|Berliner Verkehrsbetriebe||BVG
-berlin_nacht|52.520134,13.388018|2018-12-09|Berlin Nachtverkehr|Berliner Verkehrsbetriebe||BVG
+berlin_nacht|52.520134,13.388018|2018-12-09|Berlin Nachtverkehr (geografisch)|Berliner Verkehrsbetriebe||BVG
 # berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
 brandenburg_regionalverkehr|52.525578,13.369523|2018-12-09|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
 potsdam_tag|52.390931,13.067171|2018-12-09|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
@@ -52,7 +52,7 @@ bremen_stadt|53.08319,8.81360|2018-08|Bremen Stadtnetz (geografisch)|BSAG
 hamburg_usar|53.552946,10.006782|2018-12-09|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2018-12-09|Hamburg MetroBus Großbereich|HVV
 hamburg_region|53.552946,10.006782|2018-12-09|Hamburg Regionalverkehr|HVV
-hamburg_nachtbus|53.552946,10.006782|2018-12|Hamburg Nachtbus|OpenStreetMap und HVV
+hamburg_nachtbus|53.552946,10.006782|2018-12|Hamburg Nachtbus (geografisch)|OpenStreetMap und HVV
 kiel_liniennetz|54.313282,10.132341|2018-12|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2017-09|Kiel Nachtliniennetz|KVG
 luebeck_region|53.858795,10.664646|2016-12-11|Lübeck Liniennetz Region|LVG, nah.sh, Stadtverkehr Lübeck||SH
@@ -141,7 +141,7 @@ innsbruck_tram|47.26332,11.400951|2012-12-15|Innsbruck Straßenbahn|Steve Stipsi
 graz|47.073371,15.416154|2018-09-08|Graz Liniennetz|Verbund Linie
 graz_nightline|47.073371,15.416154|2018-09-08|Graz Nightline|Verbund Linie
 graz_regio|47.073371,15.416154|2018-09|Graz Regio|ÖBB/STB||OEBB
-wien_city|48.209477,16.371074|2017-09-01|Wien City|Wiener Linien
+wien_city|48.209477,16.371074|2017-09-01|Wien City (geografisch)|Wiener Linien
 wien_gesamt|48.209477,16.371074|2018-10-03|Wien Gesamtnetz|Wiener Linien
 wien_nacht|48.209477,16.371074|2017-09-01|Wien Nachtnetz|Wiener Linien
 wien_grossraum|48.209477,16.371074|2017-08-01|Wien Großraum Nahverkehr|ÖBB||OEBB
@@ -168,11 +168,11 @@ brussels|50.847293,4.361933|2016-09|Brussels|STIB-MIVB
 brussels_metro|50.847293,4.361933|2016-04|Brussels Metro|STIB-MIVB
 brussels_night|50.847293,4.361933|2016-07|Brussels Night Lines|STIB-MIVB
 antwerp_tram|51.217197,4.421543|2015-09-07|Antwerp Tram|De Lijn
-antwerp_city|51.217197,4.421543||Antwerp City Center|De Lijn
+antwerp_city|51.217197,4.421543||Antwerp City Center (geographical)|De Lijn
 
 # nl
 
-amsterdam_centre|52.378861,4.900392||Amsterdam City Centre|GVB
+amsterdam_centre|52.378861,4.900392||Amsterdam City Centre (geographical)|GVB
 
 # dk
 
@@ -187,7 +187,7 @@ gothenburg_commuter|57.708792,11.973538|2016-08-21|Göteborg Express Buses and C
 gothenburg_ferry|57.708792,11.973538|2015-12-13|Göteborg Tram and Ferry|västtrafik
 gothenburg_region|57.708792,11.973538|2016-01-03|Göteborg Region|västtågen
 jonkoping_bus|57.784691,14.163508||Jonkoping Bus||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Lines.jpg
-jonkoping_map|57.784691,14.163508||Jonkoping Map||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Map.jpg
+jonkoping_map|57.784691,14.163508||Jonkoping Map (geographical)||http://transportmaps.free.fr/maps/Sweden/Jonkoping/map_Bus_Map.jpg
 linkoping_bus|58.416129,15.626714|2009-06-14|Linkoping Bus||http://transportmaps.free.fr/maps/Sweden/Linkoping/map_Bus.jpg
 stockholm_train|59.329875,18.057218||Stockholm Train|Storstockholms Lokaltrafik|http://transportmaps.free.fr/maps/Sweden/Stockholm/map_All_Trains.jpg
 
@@ -215,7 +215,7 @@ istanbul_rail|41.011939,28.984308|2015-09|Istanbul Rail Transit|Maximilian Dörr
 london_tube|51.513507,-0.110264|2016-06|London Tube|TfL
 london_overground|51.513507,-0.110264|2016-05|London Overground|TfL
 london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL
-london_bus|51.513507,-0.110264|2016|London Bus|TfL
+london_bus|51.513507,-0.110264|2016|London Bus (geographical)|TfL
 london_night|51.513507,-0.110264|2016|London Night Bus|TfL
 london_tram|51.37937,-0.101759|2016-01|London Trams|TfL
 manchester_tram|53.479754,-2.24272||Manchester Tram network|Transport for Greater Manchester|https://images.ctfassets.net/nv7y93idf4jq/jeB6vdug4EAoc62SQGSEO/587d920eb27003af17f99e37b789493e/Metrolink-network-map-coloured-lines-and-number-identifiers-and-key-Jan-2018.png
@@ -233,7 +233,7 @@ westmidlands_rail|52.477785,-1.898184||West Midlands Rail Network|
 
 milano_metro|45.484599,9.185281|2015-05|Milano Metro|Regione Lombardia
 rome_metro|41.901276,12.499574||Rome Metro and Tram|atac
-napoli_city|40.852780,14.271692||Napoli City|Unico Campania
+napoli_city|40.852780,14.271692||Napoli City (geographical)|Unico Campania
 napoli_region|40.852780,14.271692||Napoli Region|Unico Campania
 
 # fr
@@ -266,12 +266,12 @@ bratislava_night|48.158729,17.106804|2013-09-02|Bratislava Night Routes|Dopravn�
 
 # gr
 
-athen_metro|37.992426,23.720444|2014-04|Athens Metro|Attiko Metro
+athen_metro|37.992426,23.720444|2014-04|Athens Metro (geographical)|Attiko Metro
 
 # us
 
 sanfrancisco_metro|37.774534,-122.419124||San Francisco Metro|SFMTA
-sanfrancisco_system|37.774534,-122.419124|2016-05|San Francisco System|SFMTA
+sanfrancisco_system|37.774534,-122.419124|2016-05|San Francisco System (geographical)|SFMTA
 sanfrancisco_marketstreet|37.774534,-122.419124||San Francisco Market Street|SFMTA
 sanfrancisco_owl|37.774534,-122.419124|2016|San Francisco Owl Service|SFMTA
 sanfrancisco_bart|37.616291,-122.386079|2014|San Francisco Bay Area Rapid Transit|BART|https://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif
@@ -279,7 +279,7 @@ losangeles_system|34.05427,-118.246715|2016-06|Los Angeles System|metro.net
 losangeles_downtown|34.05427,-118.246715|2016-06|Los Angeles Downtown|metro.net
 losangeles_metro|34.05427,-118.246715|2016-05|Los Angeles Metro|metro.net|https://media.metro.net/riding_metro/maps/images/rail_map.gif
 losangeles_metro_metrolink|34.05427,-118.246715|2016-11|Los Angeles Metro & Rail|metro.net|https://media.metro.net/riding_metro/maps/images/metro_regionalrail_map.gif
-newyork_subway|40.738452,-73.991919|2010-12|New York Subway|MTA
+newyork_subway|40.738452,-73.991919|2010-12|New York Subway (geographical)|MTA
 philadelphia_regional|39.957386,-75.180488|2012-06|Philadelphia Regional Train & Rail Transit|SEPTA
 chicago_downtown|41.878674,-87.640333|2016-02|Chicago Downtown|RTA Chicago
 chicago_trains|41.878674,-87.640333|2015-03|Chicago Train Connections|RTA Chicago
