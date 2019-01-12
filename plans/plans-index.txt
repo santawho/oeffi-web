@@ -53,7 +53,7 @@ hamburg_usar|53.552946,10.006782|2018-12-09|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2018-12-09|Hamburg MetroBus Großbereich|HVV
 hamburg_region|53.552946,10.006782|2018-12-09|Hamburg Regionalverkehr|HVV
 hamburg_nachtbus|53.552946,10.006782|2018-12|Hamburg Nachtbus|OpenStreetMap und HVV
-kiel_liniennetz|54.313282,10.132341|2018-05|Kiel Liniennetz|KVG
+kiel_liniennetz|54.313282,10.132341|2018-12|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2017-09|Kiel Nachtliniennetz|KVG
 luebeck_region|53.858795,10.664646|2016-12-11|Lübeck Liniennetz Region|LVG, nah.sh, Stadtverkehr Lübeck||SH
 rostock_vvw_liniennetz|54.078139,12.131724|2019-01-07|Rostock Liniennetz|Verkehrsverbund Warnow
