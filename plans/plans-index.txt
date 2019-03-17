@@ -199,7 +199,7 @@ oslo_subway|59.910337,10.751746|2016-04-03|Oslo Subway|Truls Lange Civitas
 oslo_tram|59.910337,10.751746|2016-04-17|Oslo Tram|Truls Lange Civitas
 oslo_bus|59.910337,10.751746|2016-10-09|Oslo Bus|Truls Lange Civitas
 oslo_bus_night|59.910337,10.751746|2016-10-09|Oslo Night Bus|Truls Lange Civitas
-trondheim_bus|63.436476,10.398717||Trondheim Bus||http://transportmaps.free.fr/maps/Norway/Trondbeim/map_Bus.jpg
+trondheim_bus|63.436476,10.398717|2019-02-04|Trondheim Bus|AtB
 bergen_sentrum|60.390547,5.332593||Bergen Sentrum|skyss
 
 # fi
