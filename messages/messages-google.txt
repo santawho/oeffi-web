@@ -17,6 +17,7 @@ alert-bugfix-mvv-google		| min-sdk:15 max-sdk:20 version:598 network:MVV	| 1d | 
 alert-bugfix-nvbw-google	| min-sdk:15 version:615 network:NVBW	| 1d | warning
 alert-bugfix-vms-google		| min-sdk:15 version:618 network:VMS	| 1d | warning
 alert-bugfix-bayern-google	| min-sdk:15 version:649 network:BAYERN	| 1d | warning
+alert-bugfix-se-google		| min-sdk:15 version:651 network:SE		| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
