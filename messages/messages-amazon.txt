@@ -1,5 +1,6 @@
 # version alert
-alert-version-amazon		| min-sdk:10 version:653				| 1d | warning
+alert-version-android       | max-sdk:15                            | 1d | warning
+alert-version-amazon        | min-sdk:16 version:653                | 1d | warning
 
 # disruptions
 alert-disruption-met		| network:MET							| 1d | warning

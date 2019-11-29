@@ -1,0 +1,3 @@
+title:	Deine Version von Android ist veraltet!
+body:	Ab Januar 2020 setzt Öffi Androd 4.4 (KitKat) voraus. Wenn du diese Meldung siehst, dann ist dein Gerät betroffen und Öffi wird den Dienst einstellen! Bitte kümmere dich rechtzeitig um Ersatz.
+button-negative:	dismiss
