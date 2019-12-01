@@ -1,7 +1,7 @@
 # version alert
 alert-version-android       | max-sdk:15                            | 1d | warning
-alert-version-google        | min-sdk:16 max-sdk:18 version:653     | 1d | warning
-alert-version-google        | min-sdk:19 version:664                | 1d | warning
+alert-version-google        | min-sdk:16 max-sdk:18 version:654     | 1d | warning
+alert-version-google        | min-sdk:19 version:668                | 1d | warning
 
 # disruptions
 alert-disruption-met		| network:MET							| 1d | warning
