@@ -17,7 +17,7 @@ cottbus_tag_abc|51.760897,14.330106|2018-12-09|Cottbus Tageslinien ABC|Verkehrsv
 cottbus_abend|51.760897,14.330106|2018-12-09|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg||VBB
 frankfurt_oder_abc|52.336876,14.545712|2018-12-09|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg||VBB
 brandenburg_havel|52.405872,12.538199|2018-12-09|Brandenburg an der Havel|Verkehrsverbund Berlin-Brandenburg||VBB
-greifswald|54.092863,13.370336|2018-07|Greifswald Liniennetz|Stadtwerke Greifswald
+greifswald|54.092863,13.370336|2019-11|Greifswald Liniennetz|Stadtwerke Greifswald
 dresden|51.050961,13.733239|2018-12-09|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2018-12-09|Dresden Nachtverkehr|dvb.de
 leipzig_halle_schnellbahn|51.423347,12.220980|2018-12-09|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
