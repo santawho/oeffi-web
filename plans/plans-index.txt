@@ -10,13 +10,14 @@ berlin_bus|52.5071378,13.3318680|2019-08-04|Berlin Bus-Netz|Berliner Verkehrsbet
 berlin_nacht|52.520134,13.388018|2019-08-04|Berlin Nachtverkehr (geografisch)|Berliner Verkehrsbetriebe||BVG
 berlin_transitmap|52.520134,13.388018|2018-12-09|New Berlin rapid transit route map|berlintransitmap.de
 # berlin_anbindung_ber|52.363127,13.50498|2011-10|Berlin Brandenburg Flughafen Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/d/d3/Anbindung_BER.png
-brandenburg_regionalverkehr|52.525578,13.369523|2018-12-09|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
-potsdam_tag|52.390931,13.067171|2018-12-09|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
-potsdam_nacht|52.390931,13.067171|2018-12-09|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
-cottbus_tag_abc|51.760897,14.330106|2018-12-09|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg||VBB
-cottbus_abend|51.760897,14.330106|2018-12-09|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg||VBB
-frankfurt_oder_abc|52.336876,14.545712|2018-12-09|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg||VBB
-brandenburg_havel|52.405872,12.538199|2018-12-09|Brandenburg an der Havel|Verkehrsverbund Berlin-Brandenburg||VBB
+brandenburg_regionalverkehr|52.525578,13.369523|2019-12-15|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_tag|52.390931,13.067171|2019-12-15|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_nacht|52.390931,13.067171|2019-12-15|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+cottbus_tag_abc|51.760897,14.330106|2019-12-15|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg||VBB
+cottbus_abend|51.760897,14.330106|2019-12-15|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg||VBB
+frankfurt_oder_abc|52.336876,14.545712|2019-12-15|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg||VBB
+brandenburg_havel|52.405872,12.538199|2019-12-15|Brandenburg an der Havel|Verkehrsverbund Berlin-Brandenburg||VBB
+oranienburg|52.7539716,13.2489095|2019-12-15|Oranienburg|Verkehrsverbund Berlin-Brandenburg||VBB
 greifswald|54.092863,13.370336|2019-11|Greifswald Liniennetz|Stadtwerke Greifswald
 dresden|51.050961,13.733239|2019-09-29|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_rolli|51.050961,13.733239|2019-09-29|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
