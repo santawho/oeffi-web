@@ -26,8 +26,8 @@ dresden_nacht|51.050961,13.733239|2019-09-29|Dresden Nachtverkehr|VVO
 leipzig_halle_schnellbahn|51.423347,12.220980|2018-12-09|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
 leipzig_tag|51.345476,12.379382|2018-11-26|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
 leipzig_nacht|51.345476,12.379382|2018-11-26|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
-halle_tag|51.477347,11.985263|2018-10-15|Halle Linien Tag|SWH/HAVAG
-halle_nacht|51.477347,11.985263|2018-10-15|Halle Linien Nacht|SWH/HAVAG
+halle_tag|51.477347,11.985263|2019-10-14|Halle Linien Tag|SWH/HAVAG
+halle_nacht|51.477347,11.985263|2019-10-14|Halle Linien Nacht|SWH/HAVAG
 muenchen_schnellbahn|48.140377,11.560643|2018-12|München Schnellbahn|MVV
 muenchen_tram_metrobus|48.140377,11.560643|2018-12-09|München Tram/MetroBus|MVV/MVG
 muenchen_nacht|48.140377,11.560643|2018-12-09|München Nachtnetz|MVG
