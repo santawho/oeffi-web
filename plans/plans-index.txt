@@ -32,8 +32,8 @@ muenchen_schnellbahn|48.140377,11.560643|2019-12|München Schnellbahn|MVV
 muenchen_tram_metrobus|48.140377,11.560643|2019-12-15|München Tram/MetroBus|MVV/MVG
 muenchen_nacht|48.140377,11.560643|2019-12-15|München Nachtnetz|MVG
 muenchen_regio|48.140377,11.560643|2019-12|München Region|MVV
-ingolstadt_tag|48.74462,11.437987|2017-09-01|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
-ingolstadt_nacht|48.74462,11.437987|2017-09-01|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
+ingolstadt_tag|48.74462,11.437987|2019-12-03|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
+ingolstadt_nacht|48.74462,11.437987|2019-05-06|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2018-12|Augsburg Innenraum|AVV GmbH
 augsburg_nachtbus|48.364936,10.893713|2018-12|Augsburg Nachtbus|AVV GmbH
 ulm_stadt|48.398610,9.983322|2018-12|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
