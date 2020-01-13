@@ -1443,11 +1443,11 @@ vrr|22006913|Erftstadt|bonn_schnellverkehr|510|475
 # Lucas Weiss <lucasweiss@web.de>
 vbn|708313|Diedrichshagen|rostock_region|559|295
 vbn|708542|Streuwiesenweg|rostock_region|559|260
-vbn|708541|Stolteraer Weg|rostock_region|591|937
+vbn|708541|Stolteraer Weg|rostock_region|591|220
 vbn|708493|Rohrmannsche Koppel|rostock_region|653|216
-vbn|704976|Warnemünde Friedhof|rostock_region|716|216
+vbn|704976|Warnemünde Friedhof|rostock_region|716|220
 vbn|704977|Warnemünde Strand|rostock_region|779|224
-vbn|708691|Haus Stolteraa|rostock_region|811|224
+vbn|708691|Haus Stolteraa|rostock_region|842|224
 vbn|708579|Wiesenweg|rostock_region|905|224
 vbn|705022|Kurhausstraße|rostock_region|988|75
 vbn|704946|Seestraße|rostock_region|1067|75
@@ -1465,7 +1465,7 @@ vbn|708575|Werftblick|rostock_region|1110|272
 vbn|704919|Grabower Straße|rostock_region|1110|303
 vbn|8012221|Rostock-Lichtenhagen (DB)|rostock_region|1134|342
 vbn|708389|S Lichtenhagen (RSAG)|rostock_region|1110|342
-vbn|708390|S Lichtenhagen (Klenow Tor)|rostock_region|1161|342
+vbn|708390|S Lichtenhagen (Klenow Tor)|rostock_region|1157|342
 vbn|708364|Güstrower Straße|rostock_region|1051|378
 vbn|708451|Mecklenburger Allee|rostock_region|976|354
 vbn|708331|Elmenhorster Weg|rostock_region|972|386
@@ -1475,7 +1475,7 @@ vbn|708559|Turkuer Straße|rostock_region|819|496
 vbn|708569|Warnowallee|rostock_region|819|527
 vbn|708457|Möllner Straße|rostock_region|980|453
 vbn|708294|Rigaer Straße|rostock_region|980|484
-vbn|704992|Zum Laakkanal|rostock_region|1240|319
+vbn|704992|Zum Laakkanal|rostock_region|1232|319
 vbn|704993|Zum Pagenwerder|rostock_region|1311|279
 vbn|704945|Seelotsenring|rostock_region|1307|350
 vbn|704942|Taklerring|rostock_region|1307|382
@@ -1486,17 +1486,17 @@ vbn|704887|Dänenberg|rostock_region|1205|476
 vbn|705107|Schmarl Dorf|rostock_region|1315|543
 vbn|708504|Schmarl Zentrum|rostock_region|1220|602
 vbn|8012271|Rostock-Lütten Klein (DB)|rostock_region|1134|535
-vbn|705025|S Lütten Klein (RSAG REBUS)|rostock_region|1150|-201
+vbn|705025|S Lütten Klein (RSAG REBUS)|rostock_region|1150|586
 vbn|708435|Lütten Klein Zentrum|rostock_region|858|583
 vbn|708466|Osloer Straße|rostock_region|720|559
 vbn|708348|Gedser Straße|rostock_region|583|583
 vbn|708409|Kopenhagener Straße|rostock_region|563|661
 vbn|708300|Binzer Straße|rostock_region|563|508
-vbn|708500|Saßnitzer Straße|rostock_region|563|457
+vbn|708500|Sassnitzer Straße|rostock_region|563|457
 vbn|708521|Sankt Petersburger Straße|rostock_region|949|634
 vbn|708377|Helsinkier Straße|rostock_region|949|677
 vbn|708345|Fischerdorf|rostock_region|945|709
-vbn|708554|Thomas-Morus-Straße|rostock_region|909|748
+vbn|708554|Thomas-Morus-Straße|rostock_region|941|748
 vbn|708328|Ehm-Welk-Straße|rostock_region|949|791
 vbn|708297|Bertolt-Brecht-Straße|rostock_region|949|823
 vbn|708343|Evershagen Süd|rostock_region|972|905
@@ -1520,8 +1520,8 @@ vbn|708480|Rahnstädter Weg|rostock_region|1055|1016
 vbn|708481|Reutershagen|rostock_region|984|1043
 vbn|708444|Markt Reutershagen|rostock_region|776|1090
 vbn|708688|Etkar-André-Straße|rostock_region|732|1047
-vbn|708302|Bonhoefferstraße|rostock_region|681|1071
-vbn|708577|Walter-Husemann-Straße|rostock_region|681|1110
+vbn|708302|Bonhoefferstraße|rostock_region|685|1071
+vbn|708577|Walter-Husemann-Straße|rostock_region|685|1106
 vbn|708561|Ulrich-von-Hutten-Straße|rostock_region|779|1173
 vbn|708418|Kuphalstraße|rostock_region|779|1204
 vbn|708558|Tschaikowskistraße|rostock_region|779|1236
@@ -1568,7 +1568,7 @@ vbn|705056|Lomonossowstraße|rostock_region|1106|1834
 vbn|704886|Charles-Darwin-Ring|rostock_region|1106|1866
 vbn|704961|Südblick|rostock_region|1110|1933
 vbn|704989|Weidengrund|rostock_region|1024|1889
-vbn|704865|Am Dorfteich|rostock_region|1024|1889
+vbn|704865|Am Dorfteich|rostock_region|894|1889
 vbn|704876|Biestow|rostock_region|764|1889
 vbn|704909|Galileistraße|rostock_region|1181|1830
 vbn|704970|Tychsenstraße|rostock_region|1216|1866
@@ -1579,7 +1579,7 @@ vbn|704894|Dieselmotorenwerk|rostock_region|1673|1858
 vbn|704952|Stadthalle|rostock_region|1541|1700
 vbn|708452|Mendelejewstraße|rostock_region|1541|1815
 vbn|704899|Erich-Schlesinger-Straße|rostock_region|1248|1677
-vbn|709003|Joachim-Jungius-Str.|rostock_region|1150|1610
+vbn|709003|Joachim-Jungius-Straße|rostock_region|1150|1610
 vbn|709001|Beim Pulverturm|rostock_region|1024|1610
 vbn|708448|Maßmannstraße|rostock_region|1189|1169
 vbn|708398|Kabutzenhof|rostock_region|1255|1205
@@ -1593,7 +1593,7 @@ vbn|708296|Bei der Tweel|rostock_region|1214|1545
 vbn|708356|Goetheplatz|rostock_region|1417|1586
 vbn|708410|Kröpeliner Tor|rostock_region|1500|1295
 vbn|708423|Lange Straße|rostock_region|1590|1295
-vbn||Schnickmannstraße|rostock_region|1590|1244
+vbn|705120|Schnickmannstraße|rostock_region|1590|1244
 vbn|705076|Neuer Markt|rostock_region|1661|1346
 vbn|704948|Speicher|rostock_region|1783|1311
 vbn|705846|Am Rosengarten|rostock_region|1541|1476
@@ -1611,9 +1611,9 @@ vbn|705837|Neubrandenburger Straße|rostock_region|1964|1582
 vbn|705844|Kessiner Berg|rostock_region|1964|1822
 vbn|8012806|Rostock-Kassebohm|rostock_region|2067|1559
 vbn|704868|Am Petridamm|rostock_region|2055|1242
-vbn|704864|Am Bagehl|rostock_region|1858|1456
-vbn|704905|Flussbad|rostock_region|1949|1456
-vbn|704984|Weißes Kreuz|rostock_region|2012|1456
+vbn|704864|Am Bagehl|rostock_region|1858|1460
+vbn|704905|Flussbad|rostock_region|1949|1460
+vbn|704984|Weißes Kreuz|rostock_region|2012|1460
 vbn|704965|Tessiner Straße|rostock_region|2094|1456
 vbn|705026|Hüerbaasweg|rostock_region|2173|1456
 vbn|704883|Brinckmansdorf|rostock_region|2216|1452
@@ -1627,7 +1627,7 @@ vbn|704973|Vicke-Schorler-Ring|rostock_region|2098|1641
 vbn|704991|Zu den Söllen|rostock_region|2047|1689
 vbn|705036|Kessiner Weg|rostock_region|2086|1736
 vbn|705034|Kassebohm Süd|rostock_region|2161|1736
-vbn|704914|Gerberbruch|rostock_region|1856|1354
+vbn|704914|Gerberbruch|rostock_region|1860|1356
 vbn|704951|Stadthafen|rostock_region|1886|1279
 vbn|705084|Petridamm|rostock_region|1886|1204
 vbn|704891|Dierkower Damm|rostock_region|1886|1173
@@ -1637,7 +1637,7 @@ vbn|705021|Hölderlinweg|rostock_region|1831|1039
 vbn|704906|Friedensforum|rostock_region|1799|1008
 vbn|704920|Graf-Stauffenberg-Straße|rostock_region|1701|984
 vbn|704873|Hafenallee|rostock_region|1634|1067
-vbn|705030|Joliot-Curie-Allee|rostock_region|1598|917
+vbn|705030|Joliot-Curie-Allee|rostock_region|1630|917
 vbn|704983|Weidendamm|rostock_region|1626|886
 vbn|704994|Zum Schäferteich|rostock_region|1626|850
 vbn|704971|Urho-Kekkonen-Straße|rostock_region|1685|815
@@ -1647,7 +1647,7 @@ vbn|705069|Martin-Luther-King-Allee|rostock_region|1953|901
 vbn|705048|Kurt-Schumacher-Ring|rostock_region|1949|972
 vbn|705057|Lorenzstraße|rostock_region|1988|1063
 vbn|705105|Schenkendorfweg|rostock_region|1783|1149
-vbn|704872|Baumschulenweg|rostock_region|1657|-425
+vbn|704872|Baumschulenweg|rostock_region|1657|1149
 vbn|704912|Gehlsheim Klinik|rostock_region|1583|1153
 vbn|704913|Gehlsheimer Straße|rostock_region|1520|1153
 vbn|704903|Fährstraße Michaelshof|rostock_region|1492|1122
@@ -1668,14 +1668,14 @@ vbn|704944|Seehafen Ost|rostock_region|1752|468
 vbn|705054|Liebherrstraße|rostock_region|1685|417
 vbn|708354|Getreidehafen|rostock_region|1807|476
 vbn|705041|Kraftwerk|rostock_region|1862|476
-vbn|705044|Krummendorf Nord|rostock_region|839|622
+vbn|705044|Krummendorf Nord|rostock_region|1626|622
 vbn|704871|Bahnbetriebswerk|rostock_region|1626|665
 vbn|705004|Hafenbahnweg|rostock_region|1626|709
 vbn|705005|Dierkower Allee|rostock_region|2224|972
 vbn|705035|Katerweg|rostock_region|2189|1051
 vbn|704893|Dierkow-Zentrum|rostock_region|2114|1051
-vbn|705015|Hinrichsdorfer Straße|rostock_region|1890|1004
-vbn|705845|Dierkow Dorf|rostock_region|1905|953
+vbn|705015|Hinrichsdorfer Straße|rostock_region|1897|1019
+vbn|705845|Dierkow Dorf|rostock_region|1905|960
 vbn|705184|Neu Hinrichsdorf, EKZ|rostock_region|2181|709
 vbn|704885|Brückenweg|rostock_region|2020|787
 vbn|705072|Neu Hinrichsdorf|rostock_region|1972|657
@@ -1701,8 +1701,8 @@ vbn|705019|Hohe Düne Fähre|rostock_region|1450|106
 vbn|705100|Rostocker Heide|rostock_region|2055|110
 vbn|705486|Wallensteins Lager|rostock_region|2118|118
 vbn|706205|Müggenburg|rostock_region|2165|118
-vbn|8012582|Rostock-Torfbrücke (DB)|rostock_region|2236|142
-vbn|705515|Torfbrücke (REBUS)|rostock_region|661|118
+vbn|8012582|Rostock-Torfbrücke (DB)|rostock_region|2236|173
+vbn|705515|Torfbrücke (REBUS)|rostock_region|2236|118
 vbn|705127|Lichtenhagen, Dorf|rostock_region|453|504
 vbn|705125|Lichtenhagen, Schule|rostock_region|398|449
 vbn|705124|Lichtenhagen, Wiesengrund|rostock_region|378|350
@@ -1739,21 +1739,20 @@ vbn|705187|Allershagen, Hof 4|rostock_region|378|1401
 vbn|705186|Allershagen, Hof 13|rostock_region|327|1492
 vbn|705189|Allershagen, Wilsen-Ausbau|rostock_region|134|1610
 vbn|705653|Stäbelow, Dorfplatz|rostock_region|197|1779
-vbn|705652|Stäbelow, Mühle|rostock_region|299|1779
-vbn|706241|Kritzmow, Weitenmoor|rostock_region|362|1779
-vbn|706242|Kritzmow|rostock_region|457|1779
+vbn|705652|Stäbelow, Mühle|rostock_region|291|1779
+vbn|706241|Kritzmow, Weitenmoor|rostock_region|366|1779
+vbn|706242|Kritzmow|rostock_region|461|1779
 vbn|706243|Kritzmow, Schule|rostock_region|492|1740
 vbn|705442|Wilsen|rostock_region|299|1696
 vbn|706445|Klein Schwaß|rostock_region|425|1630
 vbn|8011735|Groß Schwaß, Bahnhof (DB)|rostock_region|405|1559
 vbn|716675|Groß Schwaß, Bahnhof (REBUS)|rostock_region|425|1543
 vbn|706450|Groß Schwaß|rostock_region|425|1472
-vbn|706292|Klein Stove|rostock_region|299|1878
-vbn|706293|Klein Stove, Reiterhof|rostock_region|299|1948
+vbn|706292|Klein Stove|rostock_region|307|1878
+vbn|706293|Klein Stove, Reiterhof|rostock_region|307|1948
 vbn|706290|Buchholz Heide|rostock_region|374|2051
 vbn|706022|Niendorf, Gaststätte|rostock_region|539|2051
-vbn|706307|Groß Stove|rostock_region|689|1972
-vbn|705480|Groß Stove, Mitte|rostock_region|689|2003
+vbn|705480|Groß Stove, Mitte|rostock_region|689|1984
 vbn|706306|Groß Stove, Abzweig|rostock_region|689|2051
 vbn|705781|Sandkrug, Abzweig|rostock_region|1027|2051
 vbn|706000|Papendorf, Schule|rostock_region|1213|2063
@@ -1762,26 +1761,25 @@ vbn|705701|Sildemow, Abzweig|rostock_region|1165|1976
 vbn|705702|Sildemow|rostock_region|1327|1976
 vbn|705700|Sildemow, In der Seekoppel|rostock_region|1390|2011
 vbn|706151|Gragetopshof|rostock_region|1819|1976
-vbn||Graal-Müritz, Wald|rostock_region|2712|118
-vbn|706410|Graal-Müritz, Ost|rostock_region|2638|118
-vbn|706408|Graal-Müritz, Birkenallee|rostock_region|2567|118
-vbn|3494065|Graal-Müritz, Ostseering|rostock_region|2476|118
-vbn|706411|Graal-Müritz, Förderschule|rostock_region|2386|51
+vbn|706410|Graal-Müritz, Ost|rostock_region|2685|118
+vbn|706408|Graal-Müritz, Birkenallee|rostock_region|2590|118
+vbn|3494065|Graal-Müritz, Ostseering|rostock_region|2500|118
+vbn|706411|Graal-Müritz, Förderschule|rostock_region|2386|59
 vbn|706412|Graal-Müritz, Süd|rostock_region|2319|118
-vbn|8012583|Graal-Müritz|rostock_region|2464|142
-vbn|8012584|Graal-Müritz, Koppelweg|rostock_region|2334|142
-vbn|8010300|Rövershagen|rostock_region|2653|374
-vbn|705817|Rövershagen, Forsthaus|rostock_region|2334|317
-vbn|705811|Rövershagen, Schule|rostock_region|2535|339
-vbn|705812|Rövershagen, Grundschule|rostock_region|2594|366
-vbn|705911|Rövershagen, Karls Erlebnis-Dorf|rostock_region|2535|449
-vbn|8012377|Mönchhagen (DB)|rostock_region|2653|559
-vbn|706176|Mönchhagen (REBUS)|rostock_region|2535|496
-vbn|706177|Mönchhagen, Kindergarten|rostock_region|2441|527
-vbn|706174|Häschendorf|rostock_region|2366|575
-vbn|706175|Häschendorf, Abzweig|rostock_region|2535|630
+vbn|8012583|Graal-Müritz|rostock_region|2464|173
+vbn|8012584|Graal-Müritz, Koppelweg|rostock_region|2334|173
+vbn|8010300|Rövershagen|rostock_region|2653|421
+vbn|705817|Rövershagen, Forsthaus|rostock_region|2342|346
+vbn|705811|Rövershagen, Schule|rostock_region|2535|370
+vbn|705812|Rövershagen, Grundschule|rostock_region|2594|413
+vbn|705911|Rövershagen, Karls Erlebnis-Dorf|rostock_region|2535|472
+vbn|8012377|Mönchhagen (DB)|rostock_region|2653|583
+vbn|706176|Mönchhagen (REBUS)|rostock_region|2535|520
+vbn|706177|Mönchhagen, Kindergarten|rostock_region|2441|551
+vbn|706174|Häschendorf|rostock_region|2366|594
+vbn|706175|Häschendorf, Abzweig|rostock_region|2535|646
 vbn|705177|Bentwisch, Bahnhof|rostock_region|2634|716
-vbn|8011140|Bentwisch (DB)|rostock_region|2653|1071
+vbn|8011140|Bentwisch (DB)|rostock_region|2653|716
 vbn|705182|Bentwisch, Feuerwehrhaus|rostock_region|2535|787
 vbn|705178|Bentwisch (REBUS)|rostock_region|2535|823
 vbn|705180|Bentwisch, Hanse-Center|rostock_region|2496|752
@@ -1792,7 +1790,7 @@ vbn|705185|Goorstorf|rostock_region|2331|744
 vbn|706181|Neu Roggentin, B110|rostock_region|2458|1445
 vbn|705966|Pastow, Abzweig|rostock_region|2642|1445
 vbn|706192|Neu Pastow|rostock_region|2736|1445
-vbn|706163|Broderstorf, Bahnhof|rostock_region|2795|1441
+vbn|706163|Broderstorf, Bahnhof|rostock_region|2795|1445
 vbn|8011270|Broderstorf|rostock_region|2815|1480
 vbn|706164|Hohenfelde bei Rostock|rostock_region|2862|1445
 vbn|704854|Pastow|rostock_region|2523|1370
@@ -1815,11 +1813,11 @@ vbn|706170|Fienstorf|rostock_region|2850|972
 vbn|705073|Neu Roggentin|rostock_region|2334|1488
 vbn|704856|Roggentin, Globus|rostock_region|2405|1559
 vbn|705097|Roggentin, Gewerbepark|rostock_region|2516|1559
-vbn|716674|Roggentin, Am Campus|rostock_region|2460|1641
+vbn|716674|Roggentin, Am Campus|rostock_region|2460|1645
 vbn|704857|Roggentin, DB Haltepunkt|rostock_region|2614|1696
-vbn|8012785|Roggentin|rostock_region|2614|1720
+vbn|8012785|Roggentin|rostock_region|2638|1696
 vbn|704860|Roggentin, Kösterbecker Straße|rostock_region|2582|1504
-vbn|705851|Roggentin, Dorfplatz|rostock_region|2334|1693
+vbn|705851|Roggentin, Dorfplatz|rostock_region|2334|1712
 vbn|706158|Kösterbeck, Im Grund|rostock_region|2390|1799
 vbn|706156|Kösterbeck|rostock_region|2500|1799
 vbn|706157|Kösterbeck, Am Wald|rostock_region|2582|1799
@@ -1830,7 +1828,7 @@ vbn|705556|Teschendorf, Ausbau|rostock_region|2795|1846
 vbn|706160|Ikendorf, Ausbau|rostock_region|2740|1799
 vbn|706161|Broderstorf, Abzweig Ikendorf|rostock_region|2795|1582
 vbn|706154|Kessin, ORC|rostock_region|2023|2035
-vbn|706155|Kessin, Wendeschleife|rostock_region|2071|1980
+vbn|706155|Kessin, Wendeschleife|rostock_region|2071|1984
 vbn|706153|Kessin|rostock_region|2142|2035
 vbn|706148|Hohen Schwarfs|rostock_region|2370|2074
 vbn|706149|Hohen Schwarfs, Abzweig|rostock_region|2370|2035
