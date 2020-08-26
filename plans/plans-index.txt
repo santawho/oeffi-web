@@ -23,6 +23,7 @@ stettin|53.4182413,14.5494069|2019-12-09|Stettin|Zarząd Dróg i Transportu Miej
 dresden|51.050961,13.733239|2019-09-29|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
 dresden_rolli|51.050961,13.733239|2019-09-29|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
 dresden_nacht|51.050961,13.733239|2019-09-29|Dresden Nachtverkehr|VVO
+sachsen_spnv|50.925093,12.775949|2019-12-15|Sachsen SPNV-Netz
 leipzig_halle_schnellbahn|51.423347,12.220980|2018-12-09|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
 leipzig_tag|51.345476,12.379382|2019-10-15|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
 leipzig_nacht|51.345476,12.379382|2019-10-15|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
