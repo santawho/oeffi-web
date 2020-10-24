@@ -19,7 +19,7 @@ alert-bugfix-se-google		| min-sdk:15 version:651 network:SE		| 1d | warning
 alert-bugfix-avv-google		| min-sdk:15 version:651 network:AVV_AACHEN	| 1d | warning
 alert-bugfix-vvo-google		| min-sdk:15 version:677 network:VVO	| 1d | warning
 alert-bugfix-vmv-google		| min-sdk:15 version:678 network:VMV	| 1d | warning
-alert-bugfix-vrr-google		| min-sdk:15 version:683 network:VRR	| 1d | warning
+alert-bugfix-vrr-google		| min-sdk:15 version:684 network:VRR	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
