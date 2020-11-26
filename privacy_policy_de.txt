@@ -5,7 +5,9 @@ DATENSCHUTZ-BESTIMMUNGEN
 • Zugriff auf alle Netzwerke, weil Öffi die Auskunftssysteme nach
   Haltestellen, Abfahrten und Verspätungen (Livedaten) fragen muß.
 • Standort, damit Öffi nahegelegene Haltestellen anzeigen kann und dich
-  von deinem aktuellen Standort aus wegnavigieren kann.
+  von deinem aktuellen Standort aus wegnavigieren kann. Das App-Widget
+  benötigt die Standortberechtigung die ganze Zeit, während die App selbst
+  sie nur während der Nutzung von Öffi benötigt.
 • Kontakte/Kalender, damit Öffi dich direkt zu deinen Kontakten oder einem
   im Kalender hinterlegten Veranstaltungsort bringen kann, eine Verbindung
   in deinem Kalender anlegen kann oder sie an deine Freunde mailen kann.
