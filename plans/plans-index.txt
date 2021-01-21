@@ -26,9 +26,9 @@ dresden_nacht|51.050961,13.733239|2019-09-29|Dresden Nachtverkehr|VVO
 chemnitz_tag|50.836227,12.919122|2018-02-26|Chemnitz Netzplan|Chemnitzer Verkehrs-AG
 chemnitz_nacht|50.836227,12.919122|2017-12-10|Chemnitz Nachtnetz|Chemnitzer Verkehrs-AG
 sachsen_spnv|50.925093,12.775949|2019-12-15|Sachsen SPNV-Netz
-leipzig_halle_schnellbahn|51.423347,12.220980|2019-12-15|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
-leipzig_tag|51.345476,12.379382|2020-08-31|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
-leipzig_nacht|51.345476,12.379382|2020-08-31|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
+leipzig_halle_schnellbahn|51.423347,12.220980|2020-12-13|Leipzig/Halle Schnellbahn|Mitteldeutscher Verkehrsverbund GmbH
+leipzig_tag|51.345476,12.379382|2020-11-18|Leipzig Linien Tag|Leipziger Verkehrsbetriebe GmbH
+leipzig_nacht|51.345476,12.379382|2020-11-18|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
 halle_tag|51.477347,11.985263|2020-08-27|Halle Linien Tag|SWH/HAVAG
 halle_nacht|51.477347,11.985263|2020-08-27|Halle Linien Nacht|SWH/HAVAG
 muenchen_schnellbahn|48.140377,11.560643|2019-12|München Schnellbahn|MVV
