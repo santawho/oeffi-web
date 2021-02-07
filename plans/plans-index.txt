@@ -89,14 +89,11 @@ essen_tag|51.451355,7.014793|2015-06-14|Essen TagNetz|EVAG
 essen_nacht|51.451355,7.014793|2013-06-09|Essen NachtNetz|EVAG
 krefeld_stadt|51.323714,6.565800|2013-06|Krefeld Liniennetz Stadt|SWK/VRR
 krefeld_stadt_nacht|51.323714,6.565800|2013-06|Krefeld Nachtnetz|SWK/VRR
-frankfurt_liniennetz|50.106318,8.662139|2018-12-09|Frankfurt am Main Liniennetz|traffiQ
-frankfurt_nacht_wochentag|50.106318,8.662139|2018-12-09|Frankfurt am Main Nachtnetz am Wochentag|traffiQ
-frankfurt_nacht_wochenende|50.106318,8.662139|2018-12-09|Frankfurt am Main Nachtnetz am Wochenende|traffiQ
-frankfurt_flughafen_bus|50.037936,8.559958|2018-12-09|Frankfurt Flughafen Buslinien|traffiQ
-rmv_schnellbahn|50.106318,8.662139|2018-12-09|Rhein-Main Schnellbahn|RMV
-rmv_regional|50.106318,8.662139|2018-12-09|Rhein-Main Regional|RMV
-rmv_nacht_wochentag|50.106318,8.662139|2018-12-09|Rhein-Main Nachtnetz am Wochentag|RMV
-rmv_nacht_wochenende|50.106318,8.662139|2018-12-09|Rhein-Main Nachtnetz am Wochenende|RMV
+frankfurt_liniennetz|50.106318,8.662139|2020-12-13|Frankfurt am Main Liniennetz|traffiQ
+frankfurt_flughafen_bus|50.037936,8.559958|2020-12-13|Frankfurt Flughafen Buslinien|traffiQ
+rmv_schnellbahn|50.106318,8.662139|2020-12-13|Rhein-Main Schnellbahn|RMV
+rmv_regional|50.106318,8.662139|2020-12-13|Rhein-Main Regional|RMV
+rmv_nacht|50.106318,8.662139|2020-12-13|Rhein-Main Nachtnetz|RMV
 mainz|50.001395,8.258818|2019-12-15|Mainz Tag|Mainzer Verkehrsgesellschaft mbH
 mainz_nacht|50.001395,8.258818|2019-12-15|Mainz Nacht|Mainzer Verkehrsgesellschaft mbH
 koeln_schnellverkehr|50.943579,6.95796|2019-12-15|Köln Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
