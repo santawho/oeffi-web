@@ -7,9 +7,7 @@ Offi requests the following permissions:
 • Location, so Offi can show nearby stations and navigate you from your
   current location. The app-widget needs the location permission all the
   time, whereas the app itself only needs it while using Offi.
-• Contacts/Calendar, so Offi can route you to your contacts or location
-  from a calendar event, store a connection in your calendar or e-mail it
-  to your friends.
+• Contacts, so Offi can route you to or from your contacts.
 
 Other than that, Offi will not collect or use your private data.
 

@@ -8,9 +8,8 @@ DATENSCHUTZ-BESTIMMUNGEN
   von deinem aktuellen Standort aus wegnavigieren kann. Das App-Widget
   benötigt die Standortberechtigung die ganze Zeit, während die App selbst
   sie nur während der Nutzung von Öffi benötigt.
-• Kontakte/Kalender, damit Öffi dich direkt zu deinen Kontakten oder einem
-  im Kalender hinterlegten Veranstaltungsort bringen kann, eine Verbindung
-  in deinem Kalender anlegen kann oder sie an deine Freunde mailen kann.
+• Kontakte, damit Öffi dich direkt zu oder von deinen Kontakten bringen
+  kann.
 
 Öffi nutzt oder sammelt Deine privaten Daten nicht für andere Zwecke als hier angegeben.
 
