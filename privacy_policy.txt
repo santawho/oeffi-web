@@ -2,12 +2,12 @@ PRIVACY POLICY
 
 Offi requests the following permissions:
 
-• Full network access, because Offi needs to query information services
+• Full network access, because Offi needs to query information services
   for departures and disruptions (live data).
-• Location, so Offi can show nearby stations and navigate you from your
+• Location, so Offi can show nearby stations and navigate you from your
   current location. The app-widget needs the location permission all the
   time, whereas the app itself only needs it while using Offi.
-• Contacts, so Offi can route you to or from your contacts.
+• Contacts, so Offi can route you to or from your contacts.
 
 Other than that, Offi will not collect or use your private data.
 
