@@ -122,11 +122,11 @@ wolfenbuettel|52.15898,10.532012|2018-10|Wolfenbüttel Liniennetz|KVG Braunschwe
 helmstedt|52.222331,11.010690|2015-12|Helmstedt Liniennetz|KVG Braunschweig
 harz|51.888518,10.554843|2018-06|Harz Liniennetz|KVG Braunschweig
 wolfsburg|52.429484,10.788249|2018-08-09|Wolfsburg Liniennetz|WVG
-karlsruhe_liniennetz|48.993988,8.400328|2019-12-15|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund||KVV
-karlsruhe_rolli|48.993988,8.400328|2018-12-09|Karlsruhe für mobilitätseingeschränkte Personen|Karlsruher Verkehrsverbund||KVV
-karlsruhe_regio|48.993988,8.400328|2019-12-15|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
-karlsruhe_bus|49.009498,8.404073|2019-12-15|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
-karlsruhe_nightliner|49.009498,8.404073|2019-12-15|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
+karlsruhe_liniennetz|48.993988,8.400328|2020-12-13|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund||KVV
+karlsruhe_rolli|48.993988,8.400328|2020-12-18|Karlsruhe für mobilitätseingeschränkte Personen|Karlsruher Verkehrsverbund||KVV
+karlsruhe_regio|48.993988,8.400328|2020-12-13|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
+karlsruhe_bus|49.009498,8.404073|2020-12-13|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
+karlsruhe_nightliner|49.009498,8.404073|2020-11-28|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
 freiburg_liniennetz|47.996556,7.840286|2019-11|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
 freiburg_nacht|47.996556,7.840286|2019-11|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
 freiburg_regio|47.996556,7.840286|2019-03|Freiburg Regio|RVF
