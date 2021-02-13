@@ -128,6 +128,9 @@ karlsruhe_rolli|48.993988,8.400328|2020-12-18|Karlsruhe für mobilitätseingesch
 karlsruhe_regio|48.993988,8.400328|2020-12-13|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
 karlsruhe_bus|49.009498,8.404073|2020-12-13|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_nightliner|49.009498,8.404073|2020-11-28|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
+badenbaden_busnetz|48.79014,8.19126|2021-02-18|Rastatt (Südlicher Landkreis) und Baden-Baden Busnetz|Karlsruher Verkehrsverbund||KVV
+rastatt_busnetz|48.86065,8.21525|2021-02-18|Karlsruhe (Südlicher Landkreis) und Rastatt (Nördlicher Landkreis) Busnetz|Karlsruher Verkehrsverbund||KVV
+bruchsal_busnetz|49.12428,8.59017|2021-02-18|Bruchsal (Nördlicher Landkreis) Busnetz|Karlsruher Verkehrsverbund||KVV
 freiburg_liniennetz|47.996556,7.840286|2019-11|Freiburg Liniennetz|Freiburger Verkehrs AG||VAGFR
 freiburg_nacht|47.996556,7.840286|2019-11|Freiburg Nachtbus|Freiburger Verkehrs AG||VAGFR
 freiburg_regio|47.996556,7.840286|2019-03|Freiburg Regio|RVF
