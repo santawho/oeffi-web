@@ -24,6 +24,7 @@ alert-bugfix-lu-google		| min-sdk:15 version:689 network:LU 	| 1d | warning
 alert-bugfix-vrs-google		| min-sdk:15 version:120013 network:VRS	| 1d | warning
 alert-bugfix-vbn-google		| min-sdk:15 version:120014 network:VBN	| 1d | warning
 alert-bugfix-bvg-google		| min-sdk:15 version:120016 network:BVG	| 1d | warning
+alert-bugfix-ding-google	| min-sdk:15 version:120017 network:DING | 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
