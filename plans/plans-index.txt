@@ -193,7 +193,7 @@ amsterdam_centre|52.378861,4.900392||Amsterdam City Centre (geographical)|GVB
 copenhagen_city|55.672717,12.562532||Copenhagen City|DOT
 copenhagen_region|55.672717,12.562532||Copenhagen Greater Area|DOT
 copenhagen_night|55.672717,12.562532|2015-02|Copenhagen Night Bus|DOT
-aarhus_dag|56.149808,10.204283|2020-12-13|Aarhus Dag|Damian Leonhardt
+aarhus_dag|56.149808,10.204283|2022-06-26|Aarhus Dag|Damian Leonhardt
 
 # se
 
