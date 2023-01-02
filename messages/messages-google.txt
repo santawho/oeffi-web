@@ -21,10 +21,10 @@ alert-bugfix-vmv-google		| min-sdk:15 version:678 network:VMV	| 1d | warning
 alert-bugfix-vrr-google		| min-sdk:15 version:685 network:VRR	| 1d | warning
 alert-bugfix-kvv-google		| min-sdk:15 version:686 network:KVV	| 1d | warning
 alert-bugfix-lu-google		| min-sdk:15 version:689 network:LU 	| 1d | warning
-alert-bugfix-vrs-google		| min-sdk:15 version:120013 network:VRS	| 1d | warning
 alert-bugfix-vbn-google		| min-sdk:15 version:120014 network:VBN	| 1d | warning
 alert-bugfix-bvg-google		| min-sdk:15 version:120016 network:BVG	| 1d | warning
 alert-bugfix-ding-google	| min-sdk:15 version:120017 network:DING | 1d | warning
+alert-bugfix-vrs-google		| min-sdk:15 version:120106 network:VRS	| 1d | warning
 
 # hints
 hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
