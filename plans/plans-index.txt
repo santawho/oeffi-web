@@ -125,10 +125,10 @@ wolfenbuettel|52.15898,10.532012|2021-10|Wolfenbüttel Liniennetz|KVG Braunschwe
 helmstedt|52.222331,11.010690|2015-12|Helmstedt Liniennetz|KVG Braunschweig
 harz|51.888518,10.554843|2018-06|Harz Liniennetz|KVG Braunschweig
 wolfsburg|52.429484,10.788249|2018-08-09|Wolfsburg Liniennetz|WVG
-karlsruhe_liniennetz|48.993988,8.400328|2021-12-12|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund||KVV
+karlsruhe_liniennetz|48.993988,8.400328|2022-12-11|Karlsruhe Liniennetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_rolli|48.993988,8.400328|2021-12-12|Karlsruhe für mobilitätseingeschränkte Personen|Karlsruher Verkehrsverbund||KVV
 karlsruhe_regio|48.993988,8.400328|2020-12-13|Karlsruhe Regionalverkehr|Karlsruher Verkehrsverbund||KVV
-karlsruhe_bus|49.009498,8.404073|2021-12-12|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
+karlsruhe_bus|49.009498,8.404073|2022-12-11|Karlsruhe Busnetz|Karlsruher Verkehrsverbund||KVV
 karlsruhe_nightliner|49.009498,8.404073|2020-11-28|Karlsruhe Nightliner|Karlsruher Verkehrsverbund||KVV
 badenbaden_busnetz|48.79014,8.19126|2021-02-18|Rastatt (Südlicher Landkreis) und Baden-Baden Busnetz|Karlsruher Verkehrsverbund||KVV
 rastatt_busnetz|48.86065,8.21525|2021-02-18|Karlsruhe (Südlicher Landkreis) und Rastatt (Nördlicher Landkreis) Busnetz|Karlsruher Verkehrsverbund||KVV
