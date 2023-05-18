@@ -280,7 +280,7 @@ losangeles_system|34.05427,-118.246715|2016-06|Los Angeles System|metro.net
 losangeles_downtown|34.05427,-118.246715|2016-06|Los Angeles Downtown|metro.net
 losangeles_metro|34.05427,-118.246715|2016-05|Los Angeles Metro|metro.net|https://media.metro.net/riding_metro/maps/images/rail_map.gif
 losangeles_metro_metrolink|34.05427,-118.246715|2016-11|Los Angeles Metro & Rail|metro.net|https://media.metro.net/riding_metro/maps/images/metro_regionalrail_map.gif
-newyork_subway|40.738452,-73.991919|2010-12|New York Subway (geographical)|MTA
+newyork_subway|40.738452,-73.991919|2023-02|New York Subway (geographical)|MTA
 philadelphia_regional|39.957386,-75.180488|2012-06|Philadelphia Regional Train & Rail Transit|SEPTA
 chicago_downtown|41.878674,-87.640333|2016-02|Chicago Downtown|RTA Chicago
 chicago_trains|41.878674,-87.640333|2015-03|Chicago Train Connections|RTA Chicago
