@@ -244,7 +244,7 @@ napoli_region|40.852780,14.271692||Napoli Region|Unico Campania
 
 # fr
 
-paris_metro_ratp|48.855414,2.34488|2014-01|Paris Metro|RATP
+paris_metro_ratp|48.855414,2.34488|2022-12|Paris Metro|RATP
 paris_metro|48.855414,2.34488|2012-12|Paris Metro|Nathan Kaufmann, Creative Commons
 
 # po
