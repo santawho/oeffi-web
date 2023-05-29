@@ -224,7 +224,7 @@ istanbul_rail|41.011939,28.984308|2015-09|Istanbul Rail Transit|Maximilian Dörr
 
 # uk
 
-london_tube|51.513507,-0.110264|2016-06|London Tube|TfL
+london_tube|51.513507,-0.110264|2023-05|London Tube|TfL
 london_overground|51.513507,-0.110264|2016-05|London Overground|TfL
 london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL
 london_bus|51.513507,-0.110264|2016|London Bus (geographical)|TfL
