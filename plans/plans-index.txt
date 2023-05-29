@@ -20,9 +20,9 @@ brandenburg_havel|52.405872,12.538199|2019-12-15|Brandenburg an der Havel|Verkeh
 oranienburg|52.7539716,13.2489095|2019-12-15|Oranienburg|Verkehrsverbund Berlin-Brandenburg||VBB
 greifswald|54.092863,13.370336|2020-12-13|Greifswald Liniennetz|Stadtwerke Greifswald
 stettin|53.4182413,14.5494069|2019-12-09|Stettin|Zarząd Dróg i Transportu Miejskiego
-dresden|51.050961,13.733239|2021-01-25|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
-dresden_rolli|51.050961,13.733239|2020|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
-dresden_nacht|51.050961,13.733239|2021-01-25|Dresden Nachtverkehr|Verkehrsverbund Oberelbe||VVO
+dresden|51.050961,13.733239|2023-05-30|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
+dresden_rolli|51.050961,13.733239|2023|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
+dresden_nacht|51.050961,13.733239|2023-05-08|Dresden Nachtverkehr|Verkehrsverbund Oberelbe||VVO
 dresden_tarif|51.050961,13.733239|2020-12-13|Dresden Tarifzonen|Verkehrsverbund Oberelbe||VVO
 chemnitz_tag|50.836227,12.919122|2018-02-26|Chemnitz Netzplan|Chemnitzer Verkehrs-AG
 chemnitz_nacht|50.836227,12.919122|2017-12-10|Chemnitz Nachtnetz|Chemnitzer Verkehrs-AG
