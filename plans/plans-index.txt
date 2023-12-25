@@ -20,9 +20,9 @@ brandenburg_havel|52.405872,12.538199|2019-12-15|Brandenburg an der Havel|Verkeh
 oranienburg|52.7539716,13.2489095|2019-12-15|Oranienburg|Verkehrsverbund Berlin-Brandenburg||VBB
 greifswald|54.092863,13.370336|2020-12-13|Greifswald Liniennetz|Stadtwerke Greifswald
 stettin|53.4182413,14.5494069|2019-12-09|Stettin|Zarząd Dróg i Transportu Miejskiego
-dresden|51.050961,13.733239|2021-01-25|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
-dresden_rolli|51.050961,13.733239|2020|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
-dresden_nacht|51.050961,13.733239|2021-01-25|Dresden Nachtverkehr|Verkehrsverbund Oberelbe||VVO
+dresden|51.050961,13.733239|2023-05-30|Dresden Liniennetz|Dresdner Verkehrsbetriebe AG
+dresden_rolli|51.050961,13.733239|2023|Dresden für mobilitätseingeschränkte Personen|Dresdner Verkehrsbetriebe AG
+dresden_nacht|51.050961,13.733239|2023-05-08|Dresden Nachtverkehr|Verkehrsverbund Oberelbe||VVO
 dresden_tarif|51.050961,13.733239|2020-12-13|Dresden Tarifzonen|Verkehrsverbund Oberelbe||VVO
 chemnitz_tag|50.836227,12.919122|2018-02-26|Chemnitz Netzplan|Chemnitzer Verkehrs-AG
 chemnitz_nacht|50.836227,12.919122|2017-12-10|Chemnitz Nachtnetz|Chemnitzer Verkehrs-AG
@@ -56,9 +56,9 @@ bamberg|49.900716,10.899453|2018-11-19|Bamberg Liniennetz|Stadtwerke Bamberg
 coburg_liniennetz|50.262975,10.957691|2018-01-01|Coburg Liniennetz|SÜC
 regensburg|49.011489,12.09971|2017-12-10|Regensburg Liniennetzplan|Regensburger Verkehrsverbund GmbH & Co. KG
 regensburg_nacht|49.011489,12.09971|2018-04-14|Regensburg Nachtbus|Regensburger Verkehrsverbund GmbH & Co. KG
-bremen|53.08319,8.81360|2020-03|Bremen Liniennetz|BSAG
-bremen_nacht|53.08319,8.81360||Bremen Nachtnetz|BSAG
-bremen_stadt|53.08319,8.81360|2020-02|Bremen Stadtnetz (geografisch)|BSAG
+bremen|53.08319,8.81360|2023-04|Bremen Liniennetz|BSAG
+bremen_nacht|53.08319,8.81360|2021-02|Bremen Nachtnetz|BSAG
+bremen_stadt|53.08319,8.81360|2023-04|Bremen Stadtnetz (geografisch)|BSAG
 hamburg_usar|53.552946,10.006782|2022-12-11|Hamburg Schnellbahn/Regional|HVV
 hamburg_metrobus_gross|53.552946,10.006782|2022-12-11|Hamburg MetroBus Liniennetz|HVV
 hamburg_region|53.552946,10.006782|2022-01-01|Hamburg Regionalverkehr|HVV
@@ -224,7 +224,7 @@ istanbul_rail|41.011939,28.984308|2015-09|Istanbul Rail Transit|Maximilian Dörr
 
 # uk
 
-london_tube|51.513507,-0.110264|2016-06|London Tube|TfL
+london_tube|51.513507,-0.110264|2023-05|London Tube|TfL
 london_overground|51.513507,-0.110264|2016-05|London Overground|TfL
 london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL
 london_bus|51.513507,-0.110264|2016|London Bus (geographical)|TfL
