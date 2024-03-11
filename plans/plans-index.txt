@@ -89,6 +89,9 @@ bielefeld_netz|52.029241,8.532835|2018-06|Bielefeld Netzplan (geografisch)|moBie
 essen_schiene|51.451355,7.014793|2015-06-14|Essen SchienenNetz|EVAG
 essen_tag|51.451355,7.014793|2015-06-14|Essen TagNetz|EVAG
 essen_nacht|51.451355,7.014793|2013-06-09|Essen NachtNetz|EVAG
+dortmund_schiene|51.517843,7.459272|2023-01|Dortmund Schienennetz|DSW21
+dortmund_tag|51.517843,7.459272|2023-12|Dortmund Netzplan Tag|DSW21
+dortmund_nacht|51.517843,7.459272|2021-01|Dortmund Netzplan Nacht|DSW21
 krefeld_stadt|51.323714,6.565800|2021-05|Krefeld Liniennetz Stadt|SWK/VRR
 krefeld_stadt_nacht|51.323714,6.565800|2021-05|Krefeld Nachtnetz|SWK/VRR
 frankfurt_liniennetz|50.106318,8.662139|2020-12-13|Frankfurt am Main Liniennetz|traffiQ
