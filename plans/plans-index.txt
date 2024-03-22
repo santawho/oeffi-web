@@ -99,6 +99,7 @@ frankfurt_flughafen_bus|50.037936,8.559958|2020-12-13|Frankfurt Flughafen Buslin
 gelsenkirchen_linienplan_tag|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Tag|Vestische
 gelsenkirchen_linienplan_nacht|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Nacht|Vestische
 recklinghausen_linienplan|51.616096,7.203273|2023-06|Recklinghausen Linienplan|Vestische
+waltrop_linienplan|51.622799,7.390409|2022-08|Waltrop Linienplan|Vestische
 rmv_schnellbahn|50.106318,8.662139|2020-12-13|Rhein-Main Schnellbahn|RMV
 rmv_regional|50.106318,8.662139|2020-12-13|Rhein-Main Regional|RMV
 rmv_nacht|50.106318,8.662139|2020-12-13|Rhein-Main Nachtnetz|RMV
