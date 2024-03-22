@@ -96,6 +96,8 @@ krefeld_stadt|51.323714,6.565800|2021-05|Krefeld Liniennetz Stadt|SWK/VRR
 krefeld_stadt_nacht|51.323714,6.565800|2021-05|Krefeld Nachtnetz|SWK/VRR
 frankfurt_liniennetz|50.106318,8.662139|2020-12-13|Frankfurt am Main Liniennetz|traffiQ
 frankfurt_flughafen_bus|50.037936,8.559958|2020-12-13|Frankfurt Flughafen Buslinien|traffiQ
+gelsenkirchen_linienplan_tag|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Tag|Vestische
+gelsenkirchen_linienplan_nacht|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Nacht|Vestische
 recklinghausen_linienplan|51.616096,7.203273|2023-06|Recklinghausen Linienplan|Vestische
 rmv_schnellbahn|50.106318,8.662139|2020-12-13|Rhein-Main Schnellbahn|RMV
 rmv_regional|50.106318,8.662139|2020-12-13|Rhein-Main Regional|RMV
