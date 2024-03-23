@@ -125,8 +125,8 @@ magdeburg_nacht|52.130783,11.627347|2021-12-24|Magdeburg Nacht-Liniennetz|Magdeb
 magdeburg_verbund|52.130783,11.627347|2020-12|Magdeburg Verbund-Liniennetz|Nahverkehrsservice Sachsen-Anhalt GmbH
 hagen|51.362675,7.461087|2024-01-08|Hagen Liniennetz|Hagener Straßenbahn AG
 hagen_nacht|51.362675,7.461087|2024-01-08|Hagen Nachtnetz|Hagener Straßenbahn AG
-braunschweig_gesamt|52.252187,10.539705|2021-04-11|Braunschweig Liniennetz|Braunschweiger Verkehrs-GmbH
-braunschweig_nacht|52.252187,10.539705|2021-04-11|Braunschweig Nachtnetz|Braunschweiger Verkehrs-GmbH
+braunschweig_gesamt|52.252187,10.539705|2024-03-18|Braunschweig Liniennetz|Braunschweiger Verkehrs-GmbH
+braunschweig_nacht|52.252187,10.539705|2024-03-18|Braunschweig Nachtnetz|Braunschweiger Verkehrs-GmbH
 salzgitter|52.15116,10.332488|2017-12|Salzgitter Liniennetz|KVG Braunschweig
 wolfenbuettel|52.15898,10.532012|2021-10|Wolfenbüttel Liniennetz|KVG Braunschweig
 helmstedt|52.222331,11.010690|2015-12|Helmstedt Liniennetz|KVG Braunschweig
