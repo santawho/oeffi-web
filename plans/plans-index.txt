@@ -32,6 +32,7 @@ leipzig_tag|51.345476,12.379382|2020-11-18|Leipzig Linien Tag|Leipziger Verkehrs
 leipzig_nacht|51.345476,12.379382|2020-11-18|Leipzig Linien Nacht|Leipziger Verkehrsbetriebe GmbH
 halle_tag|51.477347,11.985263|2020-08-27|Halle Linien Tag|SWH/HAVAG
 halle_nacht|51.477347,11.985263|2020-08-27|Halle Linien Nacht|SWH/HAVAG
+jena|50.9248984,11.587666|2024|Jena|Jenaer Nahverkehr GmbH
 muenchen_schnellbahn|48.140377,11.560643|2019-12|München Schnellbahn|MVV
 muenchen_tram_metrobus|48.140377,11.560643|2019-12-15|München Tram/MetroBus|MVV/MVG
 muenchen_nacht|48.140377,11.560643|2019-12-15|München Nachtnetz|MVG
