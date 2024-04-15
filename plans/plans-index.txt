@@ -42,10 +42,10 @@ augsburg|48.364936,10.893713|2018-12|Augsburg Innenraum|AVV GmbH
 augsburg_nachtbus|48.364936,10.893713|2018-12|Augsburg Nachtbus|AVV GmbH
 ulm_stadt|48.398610,9.983322|2018-12|Ulm / Neu-Ulm Stadtnetz|Donau-Iller-Nahverkehrsverbund GmbH
 ulm_regional|48.398610,9.983322|2018-11-02|Ulm Regionalnetz|Donau-Iller-Nahverkehrsverbund GmbH
-nuernberg_gesamtraum|49.445719,11.082618|2018-01-01|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg||VGN
-nuernberg_verkehrsnetz|49.445719,11.082618|2019-12-01|Nürnberg, Fürth, Stein Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
-nuernberg_schiene|49.445719,11.082618|2019-12-01|Nürnberg, Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg||VGN
-nuernberg_nightliner|49.445719,11.082618|2019-12-01|Nürnberg, Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_gesamtraum|49.445719,11.082618|2024-01-01|Nürnberg Schienennetz Gesamtraum|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_verkehrsnetz|49.445719,11.082618|2023-12-10|Nürnberg-Fürth Liniennetz|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_schiene|49.445719,11.082618|2023-12-10|Nürnberg-Fürth Schienennetz|Verkehrsverbund Großraum Nürnberg||VGN
+nuernberg_nightliner|49.445719,11.082618|2023-12|Nürnberg-Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
 fuerth_verkehrsnetz|49.469832,10.990178|2019-12-01|Fürth Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
 fuerth_nightliner|49.469832,10.990178|2016-12-11|Fürth Nightliner|Verkehrsverbund Großraum Nürnberg||VGN
 erlangen_verkehrsnetz|49.595851,11.001701|2019-12-01|Erlangen Verkehrsnetz|Verkehrsverbund Großraum Nürnberg||VGN
