@@ -106,6 +106,7 @@ rmv_nacht|50.106318,8.662139|2020-12-13|Rhein-Main Nachtnetz|RMV
 mainz|50.001395,8.258818|2019-12-15|Mainz Tag|Mainzer Verkehrsgesellschaft mbH
 mainz_nacht|50.001395,8.258818|2019-12-15|Mainz Nacht|Mainzer Verkehrsgesellschaft mbH
 koeln_schnellverkehr|50.943579,6.95796|2019-12-15|Köln Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
+koeln_stadtbahn|50.943579,6.95796|2024-04-02|Köln Stadtbahn|Kölner Verkehrs-Betriebe AG
 koeln_bus|50.943579,6.95796|2019-12-15|Köln Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 bonn_schnellverkehr|50.732784,7.096447|2019-12-15|Bonn Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
 bonn_bus|50.732784,7.096447|2019-12-15|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
