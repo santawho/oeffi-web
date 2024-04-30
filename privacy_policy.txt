@@ -16,3 +16,6 @@ Offi requests the following permissions:
 Other than that, Offi will not collect or use your private data.
 
 There are no ads or tracking.
+
+If you have any questions about this document, please mail to
+oeffi.app+privacy@gmail.com
