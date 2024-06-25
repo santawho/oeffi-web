@@ -1,5 +1,0 @@
-title:	Störungsmeldung
-body:	Der Server der INSA/NASA ist derzeit gestört. Daher kommt es zu Problemen mit Auskünften im Raum Leipzig, Halle und Sachsen-Anhalt.
-
-Um das Problem zu umgehen, kannst du Öffi auf das Verkehrsnetz Deutschland umschalten.
-button-neutral:		dismiss

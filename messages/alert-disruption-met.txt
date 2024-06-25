@@ -1,5 +1,0 @@
-title:	Disruption notice
-body:	Unfortunately PTV has shut down their EFA interface, so Öffi can't get Melbourne data any more.
-
-I'm afraid there is currently no work around. If you would like to have Öffi back, I suggest you to respectfully mail PTV and possibly members of your parliament about this issue. Öffi is a voluntary project and needs you!
-button-neutral:		dismiss

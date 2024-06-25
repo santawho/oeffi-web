@@ -1,37 +1,12 @@
 # version alert
-alert-version-android       | max-sdk:15                            | 1d | warning
-alert-version-google        | min-sdk:16 max-sdk:18 version:654     | 1d | warning
-alert-version-google        | min-sdk:19 version:668                | 1d | warning
-
-# disruptions
-alert-disruption-met		| network:MET							| 1d | warning
-alert-bugfix-tlem-google	| min-sdk:15 version:585 network:TLEM	| 1d | warning
-alert-bugfix-sncb-google	| min-sdk:15 version:586 network:SNCB	| 1d | warning
-alert-bugfix-sydney-google	| min-sdk:15 version:587 network:SYDNEY	| 1d | warning
-alert-bugfix-vbb-google		| min-sdk:15 version:595 network:VBB	| 1d | warning
-alert-bugfix-vgn-google		| min-sdk:15 version:598 network:VGN	| 1d | warning
-alert-bugfix-mvv-google		| min-sdk:15 max-sdk:20 version:598 network:MVV	| 1d | warning
-alert-bugfix-nvbw-google	| min-sdk:15 version:615 network:NVBW	| 1d | warning
-alert-bugfix-vms-google		| min-sdk:15 version:618 network:VMS	| 1d | warning
-alert-bugfix-bayern-google	| min-sdk:15 version:649 network:BAYERN	| 1d | warning
-alert-bugfix-se-google		| min-sdk:15 version:651 network:SE		| 1d | warning
-alert-bugfix-avv-google		| min-sdk:15 version:651 network:AVV_AACHEN	| 1d | warning
-alert-bugfix-vvo-google		| min-sdk:15 version:677 network:VVO	| 1d | warning
-alert-bugfix-vmv-google		| min-sdk:15 version:678 network:VMV	| 1d | warning
-alert-bugfix-vrr-google		| min-sdk:15 version:685 network:VRR	| 1d | warning
-alert-bugfix-kvv-google		| min-sdk:15 version:686 network:KVV	| 1d | warning
-alert-bugfix-lu-google		| min-sdk:15 version:689 network:LU 	| 1d | warning
-alert-bugfix-vbn-google		| min-sdk:15 version:120014 network:VBN	| 1d | warning
-alert-bugfix-bvg-google		| min-sdk:15 version:120016 network:BVG	| 1d | warning
-alert-bugfix-ding-google	| min-sdk:15 version:120017 network:DING | 1d | warning
-alert-bugfix-vrs-google		| min-sdk:15 version:120106 network:VRS	| 1d | warning
+alert-version-google            | min-sdk:24 version:130000                        | 1d | warning
 
 # hints
-hint-navigation-drawer		| prefs-show-info:true limit-info:2d	| once | info
-hint-network-picker			| prefs-show-info:true limit-info:2d	| once | info
-hint-landscape-orientation	| prefs-show-info:true limit-info:2d	| once | info
-hint-qr-and-nfc				| prefs-show-info:true limit-info:2d	| once | info
-hint-launcher-shortcuts		| prefs-show-info:true limit-info:2d	| once | info
-hint-location-problems		| prefs-show-info:true limit-info:2d	| once | info
-hint-drag-stations			| prefs-show-info:true limit-info:2d min-version:546 task:stations | once | info
-hint-free-software			| prefs-show-info:true limit-info:2d	| once | info
+hint-navigation-drawer          | prefs-show-info:true limit-info:2d               | once | info
+hint-network-picker             | prefs-show-info:true limit-info:2d               | once | info
+hint-landscape-orientation      | prefs-show-info:true limit-info:2d               | once | info
+hint-qr-and-nfc                 | prefs-show-info:true limit-info:2d               | once | info
+hint-launcher-shortcuts         | prefs-show-info:true limit-info:2d               | once | info
+hint-location-problems          | prefs-show-info:true limit-info:2d               | once | info
+hint-drag-stations              | prefs-show-info:true limit-info:2d task:stations | once | info
+hint-free-software              | prefs-show-info:true limit-info:2d               | once | info

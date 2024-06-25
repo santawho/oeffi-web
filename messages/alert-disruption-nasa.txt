@@ -1,5 +1,0 @@
-title:	Disruption notice
-body:	The server of INSA/NASA is currently out of order. Thus, there are problems with queries in the Leipzig, Halle and Saxony-Anhalt area.
-
-To work around the problem, you can switch Öffi to the Germany network.
-button-neutral:		dismiss

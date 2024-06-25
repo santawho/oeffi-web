@@ -1,4 +1,0 @@
-title:	Your version of Android is outdated!
-body:	As of January 2020, Öffi requires Android 4.4 (KitKat). If you see this message, then your device is affected and Öffi will stop working! Please plan a replacement for your device.
-button-positive:	Direct download | https://oeffi.schildbach.de/download.html
-button-negative:	dismiss
