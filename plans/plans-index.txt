@@ -233,12 +233,12 @@ istanbul_rail|41.011939,28.984308|2015-09|Istanbul Rail Transit|Maximilian Dörr
 
 # uk
 
-london_tube|51.513507,-0.110264|2023-05|London Tube|TfL
-london_overground|51.513507,-0.110264|2016-05|London Overground|TfL
-london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL
-london_bus|51.513507,-0.110264|2016|London Bus (geographical)|TfL
-london_night|51.513507,-0.110264|2016|London Night Bus|TfL
-london_tram|51.37937,-0.101759|2016-01|London Trams|TfL
+london_tube|51.513507,-0.110264|2024-07|London Tube|TfL|https://tfl.gov.uk/cdn/static/cms/documents/standard-tube-map.pdf
+london_overground|51.513507,-0.110264|2022-07|London Overground|TfL|https://tfl.gov.uk/cdn/static/cms/documents/london-overground-network-map.pdf
+london_rail|51.513507,-0.110264|2016-05|London Rail & Tube Services|TfL|https://tfl.gov.uk/cdn/static/cms/documents/london-rail-and-tube-services-map.pdf
+london_bus|51.513507,-0.110264|2023-09|London Bus (geographical)|TfL|https://tfl.gov.uk/cdn/static/cms/documents/bus-route-maps/key-bus-routes-in-central-london.pdf
+london_night|51.513507,-0.110264|2024-07|London Night Bus|TfL|https://content.tfl.gov.uk/bus-route-maps/city-of-london-night-a4.pdf
+london_tram|51.37937,-0.101759|2018-02|London Trams|TfL|https://tfl.gov.uk/cdn/static/cms/documents/tram-service-map.pdf
 manchester_tram|53.479754,-2.24272|2019|Manchester Tram network|Transport for Greater Manchester|https://images.ctfassets.net/nv7y93idf4jq/ZQ9ZsaDtyEoUMiwISqm4c/97b5a9cf4c29b171aaa1b50424a2efba/Metrolink-Map-2019.jpg
 menchester_train|53.479754,-2.24272|2018-11|Manchester Train network|Transport for Greater Manchester|https://images.ctfassets.net/nv7y93idf4jq/6cNIqEFra0ke8YMqAkq6Cq/22e8549c97ff4fb852713be3699145e1/Combined_Rail_Metrolink_network_map_v17__free_bus_.jpg
 newcastle_metro|54.972793,-1.604741||Newcastle Metro|Nexus
