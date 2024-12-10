@@ -94,15 +94,15 @@ dortmund_tag|51.517843,7.459272|2023-12|Dortmund Netzplan Tag|DSW21
 dortmund_nacht|51.517843,7.459272|2021-01|Dortmund Netzplan Nacht|DSW21
 krefeld_stadt|51.323714,6.565800|2021-05|Krefeld Liniennetz Stadt|SWK/VRR
 krefeld_stadt_nacht|51.323714,6.565800|2021-05|Krefeld Nachtnetz|SWK/VRR
-frankfurt_liniennetz|50.106318,8.662139|2020-12-13|Frankfurt am Main Liniennetz|traffiQ
-frankfurt_flughafen_bus|50.037936,8.559958|2020-12-13|Frankfurt Flughafen Buslinien|traffiQ
+frankfurt_liniennetz|50.106318,8.662139|2024-12-15|Frankfurt am Main Liniennetz|traffiQ
+frankfurt_flughafen_bus|50.037936,8.559958|2024-12-15|Frankfurt Flughafen Buslinien|traffiQ
 gelsenkirchen_linienplan_tag|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Tag|Vestische
 gelsenkirchen_linienplan_nacht|51.504768,7.102298|2023-01|Gelsenkirchen Linienplan Nacht|Vestische
 recklinghausen_linienplan|51.616096,7.203273|2023-06|Recklinghausen Linienplan|Vestische
 waltrop_linienplan|51.622799,7.390409|2022-08|Waltrop Linienplan|Vestische
-rmv_schnellbahn|50.106318,8.662139|2020-12-13|Rhein-Main Schnellbahn|RMV
-rmv_regional|50.106318,8.662139|2020-12-13|Rhein-Main Regional|RMV
-rmv_nacht|50.106318,8.662139|2020-12-13|Rhein-Main Nachtnetz|RMV
+rmv_schnellbahn|50.106318,8.662139|2024-12-15|Rhein-Main Schnellbahn|RMV
+rmv_regional|50.106318,8.662139|2024-12-15|Rhein-Main Regional|RMV
+rmv_nacht|50.106318,8.662139|2024-12-15|Rhein-Main Nachtnetz|RMV
 mainz|50.001395,8.258818|2024-12-15|Mainz Tag|Mainzer Verkehrsgesellschaft mbH
 mainz_nacht|50.001395,8.258818|2024-12-15|Mainz Nacht|Mainzer Verkehrsgesellschaft mbH
 wiesbaden|50.071104,8.242857|2024-04|Wiesbaden Tag|ESWE Verkehrsgesellschaft mbH
