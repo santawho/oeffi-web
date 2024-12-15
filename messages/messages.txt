@@ -1,3 +1,5 @@
+alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
+
 # hints
 hint-navigation-drawer          | prefs-show-info:true limit-info:2d               | once | info
 hint-network-picker             | prefs-show-info:true limit-info:2d               | once | info
