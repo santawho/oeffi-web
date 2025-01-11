@@ -1,5 +1,6 @@
 alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
 alert-bugfix-vmv                | min-sdk:24 version:130008 network:VMV | 1d | warning
+alert-bugfix-db                 | min-sdk:24 version:130009 network:DB  | 1d | warning
 
 # hints
 hint-navigation-drawer          | prefs-show-info:true limit-info:2d               | once | info

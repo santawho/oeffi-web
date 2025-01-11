@@ -1,0 +1,5 @@
+title:	Eine neue Version ist verfügbar!
+body:	Der Deutsche Bahn hat ihre Schnitstelle geändert. Dadurch wird es für dich nötig, die neue Version von Öffi zu installieren.
+button-positive:	Google Play | market://details?id=de.schildbach.oeffi
+button-neutral:		Direkt herunterladen | https://oeffi.schildbach.de/download_de.html
+button-negative:	dismiss
