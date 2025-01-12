@@ -3,13 +3,12 @@
 
 # de
 
-berlin_bsu_ab|52.520134,13.388018|2022-12-11|Berlin S+U-Bahn-Netz (AB)|Berliner Verkehrsbetriebe||BVG
-berlin_bsu_abc|52.520134,13.388018|2022-12-11|Berlin S+U-Bahn-Netz (ABC)|Berliner Verkehrsbetriebe||BVG
-berlin_tram|52.521152,13.412832|2022-12-16|Berlin Tram-Netz|Berliner Verkehrsbetriebe||BVG
-berlin_bus|52.5071378,13.3318680|2022-12-09|Berlin Bus-Netz|Berliner Verkehrsbetriebe||BVG
-berlin_nacht|52.520134,13.388018|2022-12-09|Berlin Nachtverkehr (geografisch)|Berliner Verkehrsbetriebe||BVG
-berlin_transitmap|52.520134,13.388018|2018-12-09|New Berlin rapid transit route map|berlintransitmap.de
-berlin_anbindung_ber|52.363127,13.50498|2020-11|BER (Flughafen Berlin Brandenburg) Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/e/e0/BER_Anbindung_2020.jpg
+berlin_bsu_ab|52.520134,13.388018|2024-12-15|Berlin S+U-Bahn-Netz (AB)|Berliner Verkehrsbetriebe||BVG
+berlin_bsu_abc|52.520134,13.388018|2024-12-15|Berlin S+U-Bahn-Netz (ABC)|Berliner Verkehrsbetriebe||BVG
+berlin_tram|52.521152,13.412832|2024-08-17|Berlin Tram-Netz|Berliner Verkehrsbetriebe||BVG
+berlin_nacht|52.520134,13.388018|2024-12-15|Berlin Nachtverkehr (geografisch)|Berliner Verkehrsbetriebe||BVG
+berlin_transitmap|52.520134,13.388018|2024-04-02|Berlin rapid transit route map|berlintransitmap.de, CC BY-NC-SA 4.0|https://berlintransitmap.de/berlin-rapid-transit-route-map-web.png
+berlin_anbindung_ber|52.363127,13.50498|2024-06|BER (Flughafen Berlin Brandenburg) Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/e/e0/BER_Anbindung_2020.jpg
 brandenburg_regionalverkehr|52.525578,13.369523|2019-12-15|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
 potsdam_tag|52.390931,13.067171|2019-12-15|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
 potsdam_nacht|52.390931,13.067171|2019-12-15|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
