@@ -32,10 +32,10 @@ leipzig_nacht|51.345476,12.379382|2020-11-18|Leipzig Linien Nacht|Leipziger Verk
 halle_tag|51.477347,11.985263|2020-08-27|Halle Linien Tag|SWH/HAVAG
 halle_nacht|51.477347,11.985263|2020-08-27|Halle Linien Nacht|SWH/HAVAG
 jena|50.9248984,11.587666|2024|Jena|Jenaer Nahverkehr GmbH
-muenchen_schnellbahn|48.140377,11.560643|2019-12|München Schnellbahn|MVV
-muenchen_tram_metrobus|48.140377,11.560643|2019-12-15|München Tram/MetroBus|MVV/MVG
-muenchen_nacht|48.140377,11.560643|2019-12-15|München Nachtnetz|MVG
-muenchen_regio|48.140377,11.560643|2019-12|München Region|MVV
+muenchen_schnellbahn|48.140377,11.560643|2025-01|München Schnellbahn|MVV
+muenchen_tram_metrobus|48.140377,11.560643|2025-01|München Tram|MVV/MVG
+muenchen_nacht|48.140377,11.560643|2025-01|München Nachtnetz|MVG
+muenchen_regio|48.140377,11.560643|2025-01|München Region|MVV
 ingolstadt_tag|48.74462,11.437987|2019-12-03|Ingolstadt Liniennetz|Ingolstädter Verkehrsgesellschaft mbH
 ingolstadt_nacht|48.74462,11.437987|2019-05-06|Ingolstadt Nachtliniennetz|Ingolstädter Verkehrsgesellschaft mbH
 augsburg|48.364936,10.893713|2018-12|Augsburg Innenraum|AVV GmbH
