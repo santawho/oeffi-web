@@ -152,8 +152,8 @@ freudenstadt_freizeit|48.460501,8.428012|2017-12-10|Freudenstadt Liniennetz Frei
 mannheim_ludwigshafen|49.481844,8.459115|2019-11-11|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
 mannheim_ludwigshafen_heidelberg_rolli|49.481844,8.459115|2019-11|Mannheim/Ludwigshafen/Heidelberg für mobilitätseingeschränkte Personen|RNV GmbH
 ludwigshafen_nacht|49.4769784,8.4300132|2018-12|Ludwigshafen Nachtbus|RNV GmbH
-heidelberg|49.403434,8.676352|2019-09-11|Heidelberg Liniennetz|RNV GmbH
-heidelberg_nacht|49.403434,8.676352|2018-12|Heidelberg Nachtlinien|RNV GmbH
+heidelberg|49.403434,8.676352|2025-02-03|Heidelberg Liniennetz|RNV GmbH
+heidelberg_nacht|49.403434,8.676352|2024-04|Heidelberg Nachtlinien|RNV GmbH
 rhein_neckar_regio|49.481844,8.459115|2019-11|Rhein-Neckar Regionalverkehr|RNV GmbH
 
 # at
