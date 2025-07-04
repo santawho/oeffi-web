@@ -86,9 +86,11 @@ goettingen_nacht|51.536290,9.926981|2015-04-13|Göttingen Nachtliesel|Göttinger
 bielefeld|52.029241,8.532835|2018-06|Bielefeld Gesamtnetz|moBiel
 bielefeld_nacht|52.029241,8.532835|2018-10|Bielefeld Nachtbus|moBiel
 bielefeld_netz|52.029241,8.532835|2018-06|Bielefeld Netzplan (geografisch)|moBiel
-essen_schiene|51.451355,7.014793|2015-06-14|Essen SchienenNetz|EVAG
-essen_tag|51.451355,7.014793|2015-06-14|Essen TagNetz|EVAG
-essen_nacht|51.451355,7.014793|2013-06-09|Essen NachtNetz|EVAG
+essen_tag|51.451355,7.014793|2023|Essen TagNetz|Ruhrbahn GmbH|https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/Liniennetzplan_TagNetz_Essen_2023.jpg
+essen_nacht|51.451355,7.014793|2023|Essen NachtNetz|Ruhrbahn GmbH|https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/Liniennetzplan_NachtNetz_Essen_2023.jpg
+muelheim_tag|51.431223,6.886943|2024-06-09|Mülheim TagNetz|Ruhrbahn GmbH|https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/TagNetz_Muelheim_Gueltig_ab_09062024.jpg
+muelheim_nacht|51.431223,6.886943|2024-06-09|Mülheim NachtNetz|Ruhrbahn GmbH|https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/NachtNetz_Muelheim_Gueltig_ab_09062024.jpg
+ruhrbahn_schiene|51.434696,6.946213|2024-06|SchienenNetzplan der Ruhrbahn|Ruhrbahn GmbH
 dortmund_schiene|51.517843,7.459272|2023-01|Dortmund Schienennetz|DSW21
 dortmund_tag|51.517843,7.459272|2023-12|Dortmund Netzplan Tag|DSW21
 dortmund_nacht|51.517843,7.459272|2021-01|Dortmund Netzplan Nacht|DSW21
@@ -113,7 +115,7 @@ koeln_bus|50.943579,6.95796|2019-12-15|Köln Busnetz|Verkehrsverbund Rhein-Sieg 
 bonn_schnellverkehr|50.732784,7.096447|2024-12-15|Bonn Schnellverkehr|Verkehrsverbund Rhein-Sieg GmbH
 bonn_bus|50.732784,7.096447|2024-12-15|Bonn Busnetz|Verkehrsverbund Rhein-Sieg GmbH
 leverkusen_bus|51.036197,6.994385|2019-12-15|Leverkusen Busnetz|Verkehrsverbund Rhein-Sieg GmbH
-nrw_regio|51.429807,6.775253|2016-12|NRW Busse & Bahnen|VRS
+nrw_regio|51.429807,6.775253|2024|NRW-Regionalverkehrsplan|Verkehrsverbund Rhein-Sieg GmbH
 aachen_schnellverkehr|50.768399,6.090705|2018-12|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH||AVV_AACHEN
 aachen_region|50.768399,6.090705|2018-12|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH||AVV_AACHEN
 darmstadt|49.872582,8.630916|2024-12-15|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
