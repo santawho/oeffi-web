@@ -1,5 +1,5 @@
 # version alert
-alert-version-google            | min-sdk:24 version:130000                        | 1d | warning
+alert-version-on-fdroid         | min-sdk:24 version:130011             | 1d | warning
 
 # hints
 hint-navigation-drawer          | prefs-show-info:true limit-info:2d               | once | info
