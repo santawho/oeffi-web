@@ -1,6 +1,7 @@
 alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
 alert-bugfix-vmv                | min-sdk:24 version:130008 network:VMV | 1d | warning
 alert-bugfix-db                 | min-sdk:24 version:130009 network:DB  | 1d | warning
+alert-bugfix-sh                 | min-sdk:24 version:130013 network:SH  | 1d | warning
 
 alert-version-on-fdroid         | min-sdk:24 version:130011             | once | warning
 
