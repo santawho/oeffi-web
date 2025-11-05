@@ -4,6 +4,7 @@ alert-bugfix-sh                 | min-sdk:24 version:130013 network:SH  | 1d | w
 alert-bugfix-db                 | min-sdk:24 version:130014 network:DB  | 1d | warning
 alert-bugfix-tlem               | min-sdk:24 version:130014 network:TLEM | 1d | warning
 alert-bugfix-vvs                | min-sdk:24 version:130015 network:VVS | 1d | warning
+alert-bugfix-vrs                | min-sdk:24 version:130016 network:VRS | 1d | warning
 
 alert-version-on-fdroid         | min-sdk:24 version:130011             | once | warning
 
