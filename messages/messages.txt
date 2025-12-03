@@ -6,6 +6,7 @@ alert-bugfix-tlem               | min-sdk:24 version:130014 network:TLEM | 1d | 
 alert-bugfix-vvs                | min-sdk:24 version:130015 network:VVS | 1d | warning
 alert-bugfix-vrs                | min-sdk:24 version:130016 network:VRS | 1d | warning
 alert-bugfix-bayern             | min-sdk:24 version:130017 network:BAYERN | 1d | warning
+alert-bugfix-oebb               | min-sdk:24 version:130018 network:OEBB | 1d | warning
 
 alert-version-on-fdroid         | min-sdk:24 version:130011             | once | warning
 
