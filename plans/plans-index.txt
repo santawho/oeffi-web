@@ -66,9 +66,9 @@ hamburg_weiss_bus|53.552946,10.006782|2025-01-01|Hamburg Busliniennetz|Lucas Wei
 kiel_liniennetz|54.313282,10.132341|2023-12|Kiel Liniennetz|KVG
 kiel_nacht|54.313282,10.132341|2022-12|Kiel Nachtliniennetz|KVG
 luebeck_region|53.858795,10.664646|2018-12-09|Lübeck Liniennetz Region|LVG, nah.sh, Stadtverkehr Lübeck||SH
-rostock_vvw_liniennetz|54.078139,12.131724|2025-04|Rostock Liniennetz|Verkehrsverbund Warnow
-rostock_vvw_region|54.078139,12.131724|2024-08-01|Rostock Region|Verkehrsverbund Warnow
-rostock_region|54.078139,12.131724|2025-04-29|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
+rostock_vvw_liniennetz|54.078139,12.131724|2025-12|Rostock Liniennetz|Verkehrsverbund Warnow
+rostock_vvw_region|54.078139,12.131724|2025-09|Rostock Region|Verkehrsverbund Warnow
+rostock_region|54.078139,12.131724|2025-12-14|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
 wismar|53.903943,11.391928||Wismar Stadtverkehr|NAHBUS Nordwestmecklenburg GmbH
 nordwestmecklenburg|53.903943,11.391928|2016-03-14|Nordwestmecklenburg Busnetz|NAHBUS Nordwestmecklenburg GmbH
 osnabrueck|52.272832,8.061726|2018-08-09|Osnabrück Liniennetz|Stadtwerke Osnabrück
