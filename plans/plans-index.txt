@@ -116,9 +116,9 @@ leverkusen_bus|51.036197,6.994385|2019-12-15|Leverkusen Busnetz|Verkehrsverbund 
 nrw_regio|51.429807,6.775253|2016-12|NRW Busse & Bahnen|VRS
 aachen_schnellverkehr|50.768399,6.090705|2024-12|Aachen Schnellverkehr|Aachener Verkehrsverbund GmbH||AVV_AACHEN
 aachen_region|50.768399,6.090705|2024-10|Aachen Region, Bus und Bahn|Aachener Verkehrsverbund GmbH||AVV_AACHEN
-darmstadt|49.872582,8.630916|2024-12-15|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
-darmstadt_nacht|49.872582,8.630916|2024-12-15|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
-darmstadt_region|49.872582,8.630916|2024-12-15|Darmstadt-Dieburg Region|Darmstadt-Dieburger Nahverkehrsorganisation
+darmstadt|49.872582,8.630916|2025-12-14|Darmstadt Stadt|Darmstadt-Dieburger Nahverkehrsorganisation
+darmstadt_nacht|49.872582,8.630916|2025-12-14|Darmstadt NightLiner|Darmstadt-Dieburger Nahverkehrsorganisation
+darmstadt_region|49.872582,8.630916|2025-12-14|Darmstadt-Dieburg Region|Darmstadt-Dieburger Nahverkehrsorganisation
 duesseldorf|51.230794,6.769025|2024-01-07|Düsseldorf Liniennetz|Rheinbahn
 duesseldorf_nacht|51.230794,6.769025|2024-01-07|Düsseldorf Nachtlinien|Rheinbahn
 duisburg|51.428813,6.772554|2024-01-08|Duisburg Liniennetz (geografisch)|DVG, OpenStreetMap
