@@ -155,6 +155,7 @@ ludwigshafen_nacht|49.4769784,8.4300132|2018-12|Ludwigshafen Nachtbus|RNV GmbH
 heidelberg|49.403434,8.676352|2025-02-03|Heidelberg Liniennetz|RNV GmbH
 heidelberg_nacht|49.403434,8.676352|2024-04-07|Heidelberg Nachtlinien|RNV GmbH
 rhein_neckar_regio|49.481844,8.459115|2019-11|Rhein-Neckar Regionalverkehr|RNV GmbH
+tuebingen|48.51541,9.05342|2025-12-14|Tübingen Stadtnetz|Verkehrsverbund Neckar-Alb-Donau GmbH
 
 # at
 
