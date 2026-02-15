@@ -150,12 +150,14 @@ freiburg_regio|47.996556,7.840286|2019-03|Freiburg Regio|RVF
 freiburg_tarifzonen|47.996556,7.840286|2017-05|Freiburg Tarifzonen|RVF
 freudenstadt_werktag|48.460501,8.428012|2017-12-10|Freudenstadt Liniennetz Werktags|vgf
 freudenstadt_freizeit|48.460501,8.428012|2017-12-10|Freudenstadt Liniennetz Freizeit|vgf
-mannheim_ludwigshafen|49.481844,8.459115|2019-11-11|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
-mannheim_ludwigshafen_heidelberg_rolli|49.481844,8.459115|2019-11|Mannheim/Ludwigshafen/Heidelberg für mobilitätseingeschränkte Personen|RNV GmbH
-ludwigshafen_nacht|49.4769784,8.4300132|2018-12|Ludwigshafen Nachtbus|RNV GmbH
-heidelberg|49.403434,8.676352|2025-02-03|Heidelberg Liniennetz|RNV GmbH
-heidelberg_nacht|49.403434,8.676352|2024-04-07|Heidelberg Nachtlinien|RNV GmbH
-rhein_neckar_regio|49.481844,8.459115|2019-11|Rhein-Neckar Regionalverkehr|RNV GmbH
+mannheim_ludwigshafen|49.481844,8.459115|2025-12-14|Mannheim/Ludwigshafen Liniennetz|RNV GmbH
+mannheim_ludwigshafen_heidelberg_rolli|49.481844,8.459115|2026-01|Mannheim/Ludwigshafen/Heidelberg für mobilitätseingeschränkte Personen|RNV GmbH
+ludwigshafen_nacht|49.4769784,8.4300132|2025-12-14|Ludwigshafen Nachtnetz|RNV GmbH
+mannheim_nacht|49.4792363,8.4694107|2025-12-14|Mannheim Nachtnetz|RNV GmbH
+heidelberg|49.403434,8.676352|2025-12-14|Heidelberg Liniennetz|RNV GmbH
+heidelberg_nacht|49.403434,8.676352|2025-12-14|Heidelberg Nachtlinien|RNV GmbH
+rhein_neckar_regio|49.481844,8.459115|2025-12|Rhein-Neckar Regionalverkehr|RNV GmbH
+rhein_neckar_sbahn|49.4792363,8.4694107|2025-10|S-Bahn Rhein-Neckar|DB Regio AG
 tuebingen|48.51541,9.05342|2025-12-14|Tübingen Stadtnetz|Verkehrsverbund Neckar-Alb-Donau GmbH
 
 # at
