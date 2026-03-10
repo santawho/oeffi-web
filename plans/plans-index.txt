@@ -10,8 +10,8 @@ berlin_nacht|52.520134,13.388018|2024-12-15|Berlin Nachtverkehr (geografisch)|Be
 berlin_transitmap|52.520134,13.388018|2024-04-02|Berlin rapid transit route map|berlintransitmap.de, CC BY-NC-SA 4.0|https://berlintransitmap.de/berlin-rapid-transit-route-map-web.png
 berlin_anbindung_ber|52.363127,13.50498|2024-06|BER (Flughafen Berlin Brandenburg) Anbindung|Robert Aehnelt, Creative Commons|https://upload.wikimedia.org/wikipedia/commons/e/e0/BER_Anbindung_2020.jpg
 brandenburg_regionalverkehr|52.525578,13.369523|2019-12-15|Brandenburg Regionalverkehr|Verkehrsverbund Berlin-Brandenburg||VBB
-potsdam_tag|52.390931,13.067171|2019-12-15|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
-potsdam_nacht|52.390931,13.067171|2019-12-15|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_tag|52.390931,13.067171|2025-12-14|Potsdam Tagesliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
+potsdam_nacht|52.390931,13.067171|2025-12-14|Potsdam Nachtliniennetz|Verkehrsverbund Berlin-Brandenburg||VBB
 cottbus_tag_abc|51.760897,14.330106|2019-12-15|Cottbus Tageslinien ABC|Verkehrsverbund Berlin-Brandenburg||VBB
 cottbus_abend|51.760897,14.330106|2019-12-15|Cottbus Abendlinien|Verkehrsverbund Berlin-Brandenburg||VBB
 frankfurt_oder_abc|52.336876,14.545712|2019-12-15|Frankfurt (Oder) ABC|Verkehrsverbund Berlin-Brandenburg||VBB
