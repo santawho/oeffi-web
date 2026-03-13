@@ -71,8 +71,8 @@ rostock_vvw_region|54.078139,12.131724|2025-09|Rostock Region|Verkehrsverbund Wa
 rostock_region|54.078139,12.131724|2025-12-14|Rostock und Umgebung|Lucas Weiss, CC-BY-NC-SA 4.0
 wismar|53.903943,11.391928|2023-11-01|Wismar Stadtverkehr|NAHBUS Nordwestmecklenburg GmbH
 nordwestmecklenburg|53.903943,11.391928|2023-12|Nordwestmecklenburg Busnetz|NAHBUS Nordwestmecklenburg GmbH
-osnabrueck|52.272832,8.061726|2018-08-09|Osnabrück Liniennetz|Stadtwerke Osnabrück
-osnabrueck_nacht|52.272832,8.061726|2018-08-09|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
+osnabrueck|52.272832,8.061726|2025-11-01|Osnabrück Liniennetz|Stadtwerke Osnabrück
+osnabrueck_nacht|52.272832,8.061726|2025-11-01|Osnabrück NachtBus-Netz|Stadtwerke Osnabrück
 stuttgart_verbund|48.784068,9.181713|2023-12|Stuttgart Verbund-Liniennetz|Verkehrs- und Tarifverbund Stuttgart GmbH
 stuttgart_nacht|48.77861,9.179803|2023-12|Stuttgart Nachtverkehr|Verkehrs- und Tarifverbund Stuttgart GmbH
 ringzug|48.113621,8.660603|2013-08|Ringzug|Zweckverband Ringzug
