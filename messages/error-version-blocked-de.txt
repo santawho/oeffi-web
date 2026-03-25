@@ -1,0 +1,3 @@
+title:	Diese Version ist blockiert!
+body:	Diese Version der App ist blockiert, weil es ernste Probleme gab. Bitte installiere das Update.
+button-positive:	update-ng
