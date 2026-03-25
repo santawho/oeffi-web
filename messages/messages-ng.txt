@@ -1,3 +1,5 @@
+error-version-blocked | version:29559688 | always | error
+
 #alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
 #alert-bugfix-vmv                | min-sdk:24 version:130008 network:VMV | 1d | warning
 #alert-bugfix-sh                 | min-sdk:24 version:130013 network:SH  | 1d | warning
