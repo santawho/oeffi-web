@@ -1,7 +1,6 @@
 alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
 alert-bugfix-vmv                | min-sdk:24 version:130008 network:VMV | 1d | warning
 alert-bugfix-sh                 | min-sdk:24 version:130013 network:SH  | 1d | warning
-alert-bugfix-db                 | min-sdk:24 version:130014 network:DB  | 1d | warning
 alert-bugfix-tlem               | min-sdk:24 version:130014 network:TLEM | 1d | warning
 alert-bugfix-vvs                | min-sdk:24 version:130015 network:VVS | 1d | warning
 alert-bugfix-vrs                | min-sdk:24 version:130016 network:VRS | 1d | warning
@@ -9,6 +8,7 @@ alert-bugfix-oebb               | min-sdk:24 version:130018 network:OEBB | 1d | 
 alert-bugfix-vrn                | min-sdk:26 version:140001 network:VRN | 1d | warning
 alert-bugfix-kvv                | min-sdk:26 version:140001 network:KVV | 1d | warning
 alert-bugfix-bayern             | min-sdk:26 version:140002 network:BAYERN | 1d | warning
+alert-bugfix-db                 | min-sdk:26 version:140004 network:DB  | 1d | warning
 
 alert-version-on-fdroid         | min-sdk:24 version:130011             | once | warning
 
