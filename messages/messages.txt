@@ -1,4 +1,3 @@
-alert-bugfix-zvv                | min-sdk:24 version:130007 network:ZVV | 1d | warning
 alert-bugfix-vmv                | min-sdk:24 version:130008 network:VMV | 1d | warning
 alert-bugfix-sh                 | min-sdk:24 version:130013 network:SH  | 1d | warning
 alert-bugfix-tlem               | min-sdk:24 version:130014 network:TLEM | 1d | warning
@@ -10,6 +9,7 @@ alert-bugfix-kvv                | min-sdk:26 version:140001 network:KVV | 1d | w
 alert-bugfix-bayern             | min-sdk:26 version:140002 network:BAYERN | 1d | warning
 alert-bugfix-db                 | min-sdk:26 version:140004 network:DB  | 1d | warning
 alert-bugfix-bvg                | min-sdk:26 version:140005 network:BVG | 1d | warning
+alert-bugfix-zvv                | min-sdk:26 version:140006 network:ZVV | 1d | warning
 
 alert-version-on-fdroid         | min-sdk:24 version:130011             | once | warning
 
