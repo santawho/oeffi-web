@@ -1,5 +1,5 @@
 # plans-index.txt,1
-# id|location|valid_from|name|disclaimer|external_uri
+# id|location|valid_from|name|disclaimer|external_uri|network_logo
 
 # de
 
@@ -347,3 +347,8 @@ osaka_subway|34.693921,135.502181|2014-09-30|Osaka Subway|Osaka Municipal Transp
 # ni
 
 managua_city|12.1405,-86.2705|2017-08|Managua Bus Network|MapaNica.net|https://rutas.mapanica.net/archivos/mapanica-rutas-managua.jpg
+
+# special
+
+hanau_buergerfest_2026|50.127699,8.893351|2026-09-01|Hanauer Busse zum Bürgerfest 2026|Hanauer Straßenbahn GmbH|https://www.hsb.de/mam/static/dateien/b%C3%BCrgerfestflyer_hsb_2026.pdf
+
